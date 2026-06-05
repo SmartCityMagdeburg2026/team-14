@@ -1,0 +1,68 @@
+name: Build and deploy
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build app
+        id: build
+        run: |
+          build_name=$(curl \
+            -X POST \
+            --fail-with-body \
+            --silent \
+            -H "Authorization: Bearer ${{ secrets.API_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            "${{ vars.API_BASE }}/api/build/submit" | jq -r '.name')
+          echo "build_name=$build_name" >> $GITHUB_OUTPUT
+      - name: Poll for build completion
+        timeout-minutes: 5
+        run: |
+          while true; do
+            status=$(curl \
+              -X GET \
+              --silent \
+              -H "Authorization: Bearer ${{ secrets.API_TOKEN }}" \
+              -H "Content-Type: application/json" \
+              "${{ vars.API_BASE }}/api/build/poll/${{ steps.build.outputs.build_name }}" | jq -r '.status')
+            echo "Got status: $status"
+            if [[ "$status" = "succeeded" ]]; then
+              break
+            elif [[ "$status" = "failed" ]]; then
+              echo "Build completion polling failed"
+              exit 1
+            fi
+
+            sleep 10
+          done
+      - name: Create new revision
+        run: |
+          curl \
+            -X POST \
+            --fail-with-body \
+            --silent \
+            -H "Authorization: Bearer ${{ secrets.API_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            "${{ vars.API_BASE }}/api/revision/create"
+      - name: Poll for deployment completion
+        timeout-minutes: 5
+        run: |
+          while true; do
+            status=$(curl \
+              -X GET \
+              --silent \
+              -H "Authorization: Bearer ${{ secrets.API_TOKEN }}" \
+              -H "Content-Type: application/json" \
+              "${{ vars.API_BASE }}/api/app/status" | jq -r '.status')
+            echo "Got status: $status"
+            if [[ "$status" = "ready" ]]; then
+              break
+            elif [[ "$status" = "failed" ]]; then
+              echo "Build completion polling failed"
+              exit 1
+            fi
+
+            sleep 10
+          done
