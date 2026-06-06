@@ -1,0 +1,124 @@
+{
+  "id": "wirtschaft/unternehmen-der-ihk-im-baugewerbe-nach-branchen",
+  "title": "Unternehmen der IHK im Baugewerbe nach Branchen",
+  "category": "Wirtschaft",
+  "subcategory": "Unternehmen der IHK Magdeburg",
+  "tableId": "K7_T5c",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/unternehmen-der-ihk-im-baugewerbe-nach-branchen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Unternehmen der IHK im Baugewerbe nach Branchen.xlsx"
+  },
+  "description": "Unternehmen der IHK im Baugewerbe nach Branchen. var3..var5 entsprechen Bau-Branchen (Hochbau/Tiefbau/Ausbau), Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2018,
+        2019,
+        2020
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "IHK-Unternehmen Baugewerbe gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        624,
+        557,
+        551
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        113,
+        112,
+        110
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        13,
+        15,
+        18
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        498,
+        430,
+        423
+      ]
+    }
+  ],
+  "rowCount": 6,
+  "rows": [
+    {
+      "var1": 2018,
+      "var2": 624,
+      "var3": 113,
+      "var4": 13,
+      "var5": 498
+    },
+    {
+      "var1": 2019,
+      "var2": 557,
+      "var3": 112,
+      "var4": 15,
+      "var5": 430
+    },
+    {
+      "var1": 2020,
+      "var2": 551,
+      "var3": 110,
+      "var4": 18,
+      "var5": 423
+    },
+    {
+      "var1": 2021,
+      "var2": 533,
+      "var3": 120,
+      "var4": 15,
+      "var5": 398
+    },
+    {
+      "var1": 2022,
+      "var2": 506,
+      "var3": 111,
+      "var4": 15,
+      "var5": 380
+    },
+    {
+      "var1": 2023,
+      "var2": 504,
+      "var3": 114,
+      "var4": 18,
+      "var5": 372
+    }
+  ]
+}

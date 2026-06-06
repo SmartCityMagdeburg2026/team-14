@@ -1,0 +1,268 @@
+{
+  "id": "bevoelkerung/zuzuege-nach-magdeburg-nach-altersgruppen",
+  "title": "Zuzüge nach Magdeburg nach Altersgruppen",
+  "category": "Bevölkerung",
+  "subcategory": "Bevölkerungsbewegung",
+  "tableId": "K3_T29",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bevoelkerung/zuzuege-nach-magdeburg-nach-altersgruppen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Zuzüge nach Magdeburg nach Altersgruppen.xlsx"
+  },
+  "description": "Zuzüge nach Magdeburg nach Altersgruppen. var2..var7 sind Altersgruppen-Anteile (Summe = var8, verifiziert), die einzelne Gruppen-Zuordnung war nicht herstellbar.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1092,
+        1028,
+        1094
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        4250,
+        4596,
+        4203
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2079,
+        2239,
+        2282
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2554,
+        2451,
+        2535
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        604,
+        606,
+        681
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        470,
+        460,
+        435
+      ]
+    },
+    {
+      "key": "var8",
+      "label": "Zuzüge gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        11049,
+        11380,
+        11230
+      ]
+    }
+  ],
+  "rowCount": 15,
+  "rows": [
+    {
+      "var1": 2010,
+      "var2": 1092,
+      "var3": 4250,
+      "var4": 2079,
+      "var5": 2554,
+      "var6": 604,
+      "var7": 470,
+      "var8": 11049
+    },
+    {
+      "var1": 2011,
+      "var2": 1028,
+      "var3": 4596,
+      "var4": 2239,
+      "var5": 2451,
+      "var6": 606,
+      "var7": 460,
+      "var8": 11380
+    },
+    {
+      "var1": 2012,
+      "var2": 1094,
+      "var3": 4203,
+      "var4": 2282,
+      "var5": 2535,
+      "var6": 681,
+      "var7": 435,
+      "var8": 11230
+    },
+    {
+      "var1": 2013,
+      "var2": 1150,
+      "var3": 4324,
+      "var4": 2429,
+      "var5": 2698,
+      "var6": 685,
+      "var7": 430,
+      "var8": 11716
+    },
+    {
+      "var1": 2014,
+      "var2": 1251,
+      "var3": 4543,
+      "var4": 2742,
+      "var5": 2871,
+      "var6": 811,
+      "var7": 461,
+      "var8": 12679
+    },
+    {
+      "var1": 2015,
+      "var2": 1872,
+      "var3": 4991,
+      "var4": 3017,
+      "var5": 3337,
+      "var6": 798,
+      "var7": 516,
+      "var8": 14531
+    },
+    {
+      "var1": 2016,
+      "var2": 2608,
+      "var3": 5198,
+      "var4": 3122,
+      "var5": 3839,
+      "var6": 847,
+      "var7": 541,
+      "var8": 16155
+    },
+    {
+      "var1": 2017,
+      "var2": 2066,
+      "var3": 4897,
+      "var4": 2705,
+      "var5": 3754,
+      "var6": 865,
+      "var7": 548,
+      "var8": 14835
+    },
+    {
+      "var1": 2018,
+      "var2": 1560,
+      "var3": 4868,
+      "var4": 2604,
+      "var5": 3534,
+      "var6": 875,
+      "var7": 549,
+      "var8": 13990
+    },
+    {
+      "var1": 2019,
+      "var2": 1382,
+      "var3": 4565,
+      "var4": 2489,
+      "var5": 3356,
+      "var6": 820,
+      "var7": 580,
+      "var8": 13192
+    },
+    {
+      "var1": 2020,
+      "var2": 1528,
+      "var3": 4122,
+      "var4": 2272,
+      "var5": 3462,
+      "var6": 826,
+      "var7": 484,
+      "var8": 12694
+    },
+    {
+      "var1": 2021,
+      "var2": 2366,
+      "var3": 4973,
+      "var4": 2693,
+      "var5": 4009,
+      "var6": 873,
+      "var7": 560,
+      "var8": 15474
+    },
+    {
+      "var1": 2022,
+      "var2": 4201,
+      "var3": 6695,
+      "var4": 3890,
+      "var5": 6619,
+      "var6": 1549,
+      "var7": 960,
+      "var8": 23914
+    },
+    {
+      "var1": 2023,
+      "var2": 2122,
+      "var3": 5685,
+      "var4": 3425,
+      "var5": 5015,
+      "var6": 1002,
+      "var7": 686,
+      "var8": 17935
+    },
+    {
+      "var1": 2024,
+      "var2": 1577,
+      "var3": 5496,
+      "var4": 3351,
+      "var5": 4382,
+      "var6": 955,
+      "var7": 666,
+      "var8": 16427
+    }
+  ]
+}

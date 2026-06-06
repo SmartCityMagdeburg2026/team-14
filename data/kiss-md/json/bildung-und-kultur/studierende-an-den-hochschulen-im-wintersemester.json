@@ -1,0 +1,342 @@
+{
+  "id": "bildung-und-kultur/studierende-an-den-hochschulen-im-wintersemester",
+  "title": "Studierende an den Hochschulen im Wintersemester",
+  "category": "Bildung und Kultur",
+  "subcategory": "Hochschulen",
+  "tableId": "K5_T8",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bildung-und-kultur/studierende-an-den-hochschulen-im-wintersemester.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Studierende an den Hochschulen im Wintersemester.xlsx"
+  },
+  "description": "Studierende an den Hochschulen im Wintersemester. var2..var6 enthalten Aufteilungen nach Hochschule/Studienform/Geschlecht, deren Zuordnung mit den Stichproben nicht konsistent war (var3 > var2).",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        7254,
+        7410,
+        7523
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        7432,
+        7662,
+        7858
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5798,
+        5512,
+        5238
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1634,
+        2150,
+        2620
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1456,
+        1898,
+        2285
+      ]
+    }
+  ],
+  "rowCount": 31,
+  "rows": [
+    {
+      "var1": 1994,
+      "var2": 7254,
+      "var3": 7432,
+      "var4": 5798,
+      "var5": 1634,
+      "var6": 1456
+    },
+    {
+      "var1": 1995,
+      "var2": 7410,
+      "var3": 7662,
+      "var4": 5512,
+      "var5": 2150,
+      "var6": 1898
+    },
+    {
+      "var1": 1996,
+      "var2": 7523,
+      "var3": 7858,
+      "var4": 5238,
+      "var5": 2620,
+      "var6": 2285
+    },
+    {
+      "var1": 1997,
+      "var2": 8534,
+      "var3": 8834,
+      "var4": 5553,
+      "var5": 3281,
+      "var6": 2981
+    },
+    {
+      "var1": 1998,
+      "var2": 9504,
+      "var3": 9780,
+      "var4": 6199,
+      "var5": 3581,
+      "var6": 3305
+    },
+    {
+      "var1": 1999,
+      "var2": 10869,
+      "var3": 11145,
+      "var4": 7206,
+      "var5": 3939,
+      "var6": 3663
+    },
+    {
+      "var1": 2000,
+      "var2": 12435,
+      "var3": 12802,
+      "var4": 8408,
+      "var5": 4394,
+      "var6": 4027
+    },
+    {
+      "var1": 2001,
+      "var2": 13368,
+      "var3": 13842,
+      "var4": 9229,
+      "var5": 4613,
+      "var6": 4139
+    },
+    {
+      "var1": 2002,
+      "var2": 14212,
+      "var3": 14995,
+      "var4": 9879,
+      "var5": 5116,
+      "var6": 4333
+    },
+    {
+      "var1": 2003,
+      "var2": 15935,
+      "var3": 16997,
+      "var4": 11249,
+      "var5": 5748,
+      "var6": 4686
+    },
+    {
+      "var1": 2004,
+      "var2": 17722,
+      "var3": 19066,
+      "var4": 12475,
+      "var5": 6591,
+      "var6": 5247
+    },
+    {
+      "var1": 2005,
+      "var2": 17697,
+      "var3": 19008,
+      "var4": 12585,
+      "var5": 6423,
+      "var6": 5112
+    },
+    {
+      "var1": 2006,
+      "var2": 17918,
+      "var3": 19384,
+      "var4": 12898,
+      "var5": 6486,
+      "var6": 5020
+    },
+    {
+      "var1": 2007,
+      "var2": 17745,
+      "var3": 19368,
+      "var4": 12954,
+      "var5": 6414,
+      "var6": 4791
+    },
+    {
+      "var1": 2008,
+      "var2": 17910,
+      "var3": 19696,
+      "var4": 13285,
+      "var5": 6411,
+      "var6": 4625
+    },
+    {
+      "var1": 2009,
+      "var2": 18226,
+      "var3": 20135,
+      "var4": 13770,
+      "var5": 6365,
+      "var6": 4456
+    },
+    {
+      "var1": 2010,
+      "var2": 17968,
+      "var3": 20051,
+      "var4": 13625,
+      "var5": 6426,
+      "var6": 4343
+    },
+    {
+      "var1": 2011,
+      "var2": 18146,
+      "var3": 20406,
+      "var4": 13891,
+      "var5": 6515,
+      "var6": 4255
+    },
+    {
+      "var1": 2012,
+      "var2": 18249,
+      "var3": 20504,
+      "var4": 13880,
+      "var5": 6624,
+      "var6": 4369
+    },
+    {
+      "var1": 2013,
+      "var2": 18450,
+      "var3": 20723,
+      "var4": 14104,
+      "var5": 6619,
+      "var6": 4346
+    },
+    {
+      "var1": 2014,
+      "var2": 18577,
+      "var3": 20772,
+      "var4": 14248,
+      "var5": 6524,
+      "var6": 4329
+    },
+    {
+      "var1": 2015,
+      "var2": 18597,
+      "var3": 20686,
+      "var4": 14427,
+      "var5": 6259,
+      "var6": 4170
+    },
+    {
+      "var1": 2016,
+      "var2": 18156,
+      "var3": 20207,
+      "var4": 14181,
+      "var5": 6026,
+      "var6": 3975
+    },
+    {
+      "var1": 2017,
+      "var2": 17697,
+      "var3": 19719,
+      "var4": 13833,
+      "var5": 5886,
+      "var6": 3864
+    },
+    {
+      "var1": 2018,
+      "var2": 17703,
+      "var3": 19579,
+      "var4": 13913,
+      "var5": 5666,
+      "var6": 3790
+    },
+    {
+      "var1": 2019,
+      "var2": 17439,
+      "var3": 19235,
+      "var4": 13797,
+      "var5": 5438,
+      "var6": 3642
+    },
+    {
+      "var1": 2020,
+      "var2": 17300,
+      "var3": 19015,
+      "var4": 13563,
+      "var5": 5452,
+      "var6": 3737
+    },
+    {
+      "var1": 2021,
+      "var2": 16955,
+      "var3": 18624,
+      "var4": 13143,
+      "var5": 5481,
+      "var6": 3812
+    },
+    {
+      "var1": 2022,
+      "var2": 16553,
+      "var3": 18091,
+      "var4": 12833,
+      "var5": 5258,
+      "var6": 3720
+    },
+    {
+      "var1": 2023,
+      "var2": 16199,
+      "var3": 17725,
+      "var4": 12490,
+      "var5": 5235,
+      "var6": 3709
+    },
+    {
+      "var1": 2024,
+      "var2": 16290,
+      "var3": 17783,
+      "var4": 12606,
+      "var5": 5177,
+      "var6": 3684
+    }
+  ]
+}

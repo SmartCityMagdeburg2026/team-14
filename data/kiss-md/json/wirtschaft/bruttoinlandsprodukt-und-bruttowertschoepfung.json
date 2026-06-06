@@ -1,0 +1,205 @@
+{
+  "id": "wirtschaft/bruttoinlandsprodukt-und-bruttowertschoepfung",
+  "title": "Bruttoinlandsprodukt und Bruttowertschöpfung",
+  "category": "Wirtschaft",
+  "subcategory": "Bruttoinlandsprodukt und Bruttowertschöpfung",
+  "tableId": "K7_T98",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/bruttoinlandsprodukt-und-bruttowertschoepfung.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Bruttoinlandsprodukt und Bruttowertschöpfung.xlsx"
+  },
+  "description": "Bruttoinlandsprodukt und Bruttowertschöpfung für Magdeburg. var4 (LLM-Label \"Bevölkerungszahl\") war mit der Magdeburg-Bevölkerung nicht konsistent (~32.000 viel zu niedrig); var7 (BWS-Anteil) ist nahezu identisch zu var3.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Bruttoinlandsprodukt",
+      "unit": "1.000 EUR",
+      "type": "number",
+      "role": null,
+      "sample": [
+        7200.178,
+        7296.988,
+        7684.106
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "BIP-Anteil",
+      "unit": "%",
+      "type": "number",
+      "role": null,
+      "sample": [
+        13.3040776507294,
+        13.255387819007,
+        13.6441597187737
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        31385,
+        31661,
+        33169
+      ]
+    },
+    {
+      "key": "var5",
+      "label": "Erwerbstätige",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        52674,
+        53506,
+        56398
+      ]
+    },
+    {
+      "key": "var6",
+      "label": "Bruttowertschöpfung",
+      "unit": "1.000 EUR",
+      "type": "number",
+      "role": null,
+      "sample": [
+        6467.102,
+        6561.236,
+        6917.549
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        13.3040783999628,
+        13.2553869462024,
+        13.6441605260654
+      ]
+    }
+  ],
+  "rowCount": 11,
+  "rows": [
+    {
+      "var1": 2012,
+      "var2": 7200.178,
+      "var3": 13.3040776507294,
+      "var4": 31385,
+      "var5": 52674,
+      "var6": 6467.102,
+      "var7": 13.3040783999628
+    },
+    {
+      "var1": 2013,
+      "var2": 7296.988,
+      "var3": 13.255387819007,
+      "var4": 31661,
+      "var5": 53506,
+      "var6": 6561.236,
+      "var7": 13.2553869462024
+    },
+    {
+      "var1": 2014,
+      "var2": 7684.106,
+      "var3": 13.6441597187737,
+      "var4": 33169,
+      "var5": 56398,
+      "var6": 6917.549,
+      "var7": 13.6441605260654
+    },
+    {
+      "var1": 2015,
+      "var2": 7702.819,
+      "var3": 13.4204952521291,
+      "var4": 32916,
+      "var5": 56790,
+      "var6": 6928.612,
+      "var7": 13.4204950551452
+    },
+    {
+      "var1": 2016,
+      "var2": 7837.338,
+      "var3": 13.28568413576,
+      "var4": 33079,
+      "var5": 57202,
+      "var6": 7056.547,
+      "var7": 13.2856844253655
+    },
+    {
+      "var1": 2017,
+      "var2": 8128.097,
+      "var3": 13.3447610715374,
+      "var4": 34108,
+      "var5": 58893,
+      "var6": 7324.318,
+      "var7": 13.3447610349313
+    },
+    {
+      "var1": 2018,
+      "var2": 8325.137,
+      "var3": 13.4191336740195,
+      "var4": 34893,
+      "var5": 60136,
+      "var6": 7502.1,
+      "var7": 13.4191335548027
+    },
+    {
+      "var1": 2019,
+      "var2": 8649.61,
+      "var3": 13.359144054485,
+      "var4": 36323,
+      "var5": 62461,
+      "var6": 7794.279,
+      "var7": 13.3591435179313
+    },
+    {
+      "var1": 2020,
+      "var2": 8591.129,
+      "var3": 13.3638658316017,
+      "var4": 36300,
+      "var5": 62382,
+      "var6": 7790.119,
+      "var7": 13.3638652676029
+    },
+    {
+      "var1": 2021,
+      "var2": 8893.767,
+      "var3": 13.1118288291557,
+      "var4": 37688,
+      "var5": 64288,
+      "var6": 8055.214,
+      "var7": 13.1118290150931
+    },
+    {
+      "var1": 2022,
+      "var2": 9593.475,
+      "var3": 12.8767349041215,
+      "var4": 40347,
+      "var5": 68576,
+      "var6": 8684.854,
+      "var7": 12.8767349709
+    }
+  ]
+}

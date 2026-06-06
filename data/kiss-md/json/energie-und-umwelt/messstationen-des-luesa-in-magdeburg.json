@@ -1,0 +1,110 @@
+{
+  "id": "energie-und-umwelt/messstationen-des-luesa-in-magdeburg",
+  "title": "Messstationen des LÜSA in Magdeburg",
+  "category": "Energie und Umwelt",
+  "subcategory": "Luftverunreinigungen im Raum Magdeburg",
+  "tableId": "K9_T24",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/messstationen-des-luesa-in-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Messstationen des LÜSA in Magdeburg.xlsx"
+  },
+  "description": "Diese Tabelle listet Messdaten von verschiedenen Luftqualitätsmessstationen (LÜSA) in Magdeburg auf, einschließlich des Messjahres und des Standorts.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1993,
+        2009,
+        2016
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Messbeginn",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Beginn: 10/1993",
+        "Beginn: 07/2009",
+        "Beginn: 01/2016"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Messstandort",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Magdeburg/West",
+        "Magdeburg/Schleinufer",
+        "Magdeburg/Guericke-Str."
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Straße/Adresse",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Hans-Löscher-Straße",
+        "Schleinufer",
+        "Otto-von-Guericke-Straße"
+      ]
+    },
+    {
+      "key": "var5",
+      "label": "Stationstyp",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Hintergrundstation (vorstädtisch/städtisch)",
+        "Verkehrsstation",
+        "Verkehrsstation"
+      ]
+    }
+  ],
+  "rowCount": 4,
+  "rows": [
+    {
+      "var1": 1993,
+      "var2": "Beginn: 10/1993",
+      "var3": "Magdeburg/West",
+      "var4": "Hans-Löscher-Straße",
+      "var5": "Hintergrundstation (vorstädtisch/städtisch)"
+    },
+    {
+      "var1": 2009,
+      "var2": "Beginn: 07/2009",
+      "var3": "Magdeburg/Schleinufer",
+      "var4": "Schleinufer",
+      "var5": "Verkehrsstation"
+    },
+    {
+      "var1": 2016,
+      "var2": "Beginn: 01/2016",
+      "var3": "Magdeburg/Guericke-Str.",
+      "var4": "Otto-von-Guericke-Straße",
+      "var5": "Verkehrsstation"
+    },
+    {
+      "var1": 2023,
+      "var2": "Beginn: 10/2023",
+      "var3": "Magdeburg/City-Tunnel",
+      "var4": "Ernst-Reuter-Allee",
+      "var5": "Sondermessstation"
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "id": "stadtgebiet/anzahl-der-tage-im-jahr-mit-einem-bestimmten-wasserstand-tagesmittel-am-strombrueckenpegel-in-magdeburg",
+  "title": "Anzahl der Tage im Jahr mit einem bestimmten Wasserstand (Tagesmittel) am Strombrückenpegel in Magdeburg",
+  "category": "Stadtgebiet",
+  "subcategory": "Die Elbe im Stadtgebiet Magdeburg",
+  "tableId": "K2_T8a",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/stadtgebiet/anzahl-der-tage-im-jahr-mit-einem-bestimmten-wasserstand-tagesmittel-am-strombrueckenpegel-in-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Anzahl der Tage im Jahr mit einem bestimmten Wasserstand (Tagesmittel) am Strombrückenpegel in Magdeburg.xlsx"
+  },
+  "description": "Anzahl Tage im Jahr mit einem bestimmten Wasserstand am Strombrückenpegel Magdeburg. var2..var6 entsprechen 5 Wasserstands-Kategorien (z. B. Niedrigwasser, Mittelwasser, Hochwasser-Stufen) — Summe je Zeile ergibt 365/366 (verifiziert). Die genauen Schwellenwerte waren nicht aus den Rohdaten ableitbar.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        84,
+        4,
+        0
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        186,
+        241,
+        111
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        27,
+        108,
+        122
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        39,
+        8,
+        60
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        30,
+        4,
+        72
+      ]
+    }
+  ],
+  "rowCount": 34,
+  "rows": [
+    {
+      "var1": 2000,
+      "var2": 84,
+      "var3": 186,
+      "var4": 27,
+      "var5": 39,
+      "var6": 30
+    },
+    {
+      "var1": 2001,
+      "var2": 4,
+      "var3": 241,
+      "var4": 108,
+      "var5": 8,
+      "var6": 4
+    },
+    {
+      "var1": 2002,
+      "var2": 0,
+      "var3": 111,
+      "var4": 122,
+      "var5": 60,
+      "var6": 72
+    },
+    {
+      "var1": 2003,
+      "var2": 162,
+      "var3": 96,
+      "var4": 50,
+      "var5": 36,
+      "var6": 21
+    },
+    {
+      "var1": 2004,
+      "var2": 93,
+      "var3": 162,
+      "var4": 96,
+      "var5": 15,
+      "var6": 0
+    },
+    {
+      "var1": 2005,
+      "var2": 0,
+      "var3": 226,
+      "var4": 101,
+      "var5": 18,
+      "var6": 20
+    },
+    {
+      "var1": 2006,
+      "var2": 32,
+      "var3": 215,
+      "var4": 70,
+      "var5": 21,
+      "var6": 27
+    },
+    {
+      "var1": 2007,
+      "var2": 14,
+      "var3": 199,
+      "var4": 120,
+      "var5": 26,
+      "var6": 6
+    },
+    {
+      "var1": 2008,
+      "var2": 100,
+      "var3": 157,
+      "var4": 67,
+      "var5": 42,
+      "var6": 0
+    },
+    {
+      "var1": 2009,
+      "var2": 40,
+      "var3": 225,
+      "var4": 53,
+      "var5": 33,
+      "var6": 14
+    },
+    {
+      "var1": 2010,
+      "var2": 5,
+      "var3": 87,
+      "var4": 175,
+      "var5": 74,
+      "var6": 24
+    },
+    {
+      "var1": 2011,
+      "var2": 2,
+      "var3": 235,
+      "var4": 77,
+      "var5": 27,
+      "var6": 24
+    },
+    {
+      "var1": 2012,
+      "var2": 31,
+      "var3": 233,
+      "var4": 61,
+      "var5": 34,
+      "var6": 7
+    },
+    {
+      "var1": 2013,
+      "var2": 0,
+      "var3": 161,
+      "var4": 111,
+      "var5": 55,
+      "var6": 38
+    },
+    {
+      "var1": 2014,
+      "var2": 45,
+      "var3": 294,
+      "var4": 26,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2015,
+      "var2": 164,
+      "var3": 148,
+      "var4": 45,
+      "var5": 8,
+      "var6": 0
+    },
+    {
+      "var1": 2016,
+      "var2": 62,
+      "var3": 244,
+      "var4": 58,
+      "var5": 2,
+      "var6": 0
+    },
+    {
+      "var1": 2017,
+      "var2": 98,
+      "var3": 179,
+      "var4": 83,
+      "var5": 5,
+      "var6": 0
+    },
+    {
+      "var1": 2018,
+      "var2": 219,
+      "var3": 94,
+      "var4": 42,
+      "var5": 10,
+      "var6": 0
+    },
+    {
+      "var1": 2019,
+      "var2": 193,
+      "var3": 107,
+      "var4": 60,
+      "var5": 5,
+      "var6": 0
+    },
+    {
+      "var1": 2020,
+      "var2": 156,
+      "var3": 159,
+      "var4": 50,
+      "var5": 1,
+      "var6": 0
+    },
+    {
+      "var1": 2021,
+      "var2": 23,
+      "var3": 255,
+      "var4": 67,
+      "var5": 20,
+      "var6": 0
+    },
+    {
+      "var1": 2022,
+      "var2": 146,
+      "var3": 158,
+      "var4": 52,
+      "var5": 9,
+      "var6": 0
+    },
+    {
+      "var1": 2023,
+      "var2": 131,
+      "var3": 127,
+      "var4": 83,
+      "var5": 18,
+      "var6": 6
+    },
+    {
+      "var1": 2024,
+      "var2": 56,
+      "var3": 171,
+      "var4": 76,
+      "var5": 35,
+      "var6": 28
+    },
+    {
+      "var1": 1991,
+      "var2": 115,
+      "var3": 219,
+      "var4": 31,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 1992,
+      "var2": 107,
+      "var3": 150,
+      "var4": 92,
+      "var5": 14,
+      "var6": 3
+    },
+    {
+      "var1": 1993,
+      "var2": 25,
+      "var3": 271,
+      "var4": 55,
+      "var5": 8,
+      "var6": 6
+    },
+    {
+      "var1": 1994,
+      "var2": 15,
+      "var3": 186,
+      "var4": 78,
+      "var5": 50,
+      "var6": 36
+    },
+    {
+      "var1": 1995,
+      "var2": 0,
+      "var3": 92,
+      "var4": 165,
+      "var5": 82,
+      "var6": 26
+    },
+    {
+      "var1": 1996,
+      "var2": 0,
+      "var3": 168,
+      "var4": 162,
+      "var5": 34,
+      "var6": 2
+    },
+    {
+      "var1": 1997,
+      "var2": 2,
+      "var3": 207,
+      "var4": 74,
+      "var5": 77,
+      "var6": 5
+    },
+    {
+      "var1": 1998,
+      "var2": 35,
+      "var3": 202,
+      "var4": 96,
+      "var5": 18,
+      "var6": 14
+    },
+    {
+      "var1": 1999,
+      "var2": 85,
+      "var3": 150,
+      "var4": 84,
+      "var5": 31,
+      "var6": 15
+    }
+  ]
+}

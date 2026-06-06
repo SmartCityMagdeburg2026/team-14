@@ -1,0 +1,270 @@
+{
+  "id": "oeffentliche-ordnung/ermittelte-tatverdaechtige",
+  "title": "Ermittelte Tatverdächtige",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Kriminalitätsstatistik",
+  "tableId": "K11_T2",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/ermittelte-tatverdaechtige.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Ermittelte Tatverdächtige.xlsx"
+  },
+  "description": "Ermittelte Tatverdächtige. var2..var15 enthalten Aufteilungen nach Geschlecht, Alter, Staatsangehörigkeit, Deliktart — die genaue Zuordnung war nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2021,
+        2022,
+        2023
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        8514,
+        10628,
+        13187
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        6461,
+        7991,
+        9989
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2053,
+        2637,
+        3198
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2279,
+        4268,
+        6147
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        317,
+        864,
+        893
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        680,
+        917,
+        1032
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        799,
+        925,
+        1215
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        62070,
+        63757,
+        71055
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        46378,
+        47544,
+        52857
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        15692,
+        16213,
+        18198
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        11685,
+        14400,
+        20146
+      ]
+    },
+    {
+      "key": "var13",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2407,
+        3529,
+        3903
+      ]
+    },
+    {
+      "key": "var14",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        4869,
+        5369,
+        5922
+      ]
+    },
+    {
+      "key": "var15",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        4836,
+        13586,
+        15109
+      ]
+    }
+  ],
+  "rowCount": 4,
+  "rows": [
+    {
+      "var1": 2021,
+      "var2": 8514,
+      "var3": 6461,
+      "var4": 2053,
+      "var5": 2279,
+      "var6": 317,
+      "var7": 680,
+      "var8": 799,
+      "var9": 62070,
+      "var10": 46378,
+      "var11": 15692,
+      "var12": 11685,
+      "var13": 2407,
+      "var14": 4869,
+      "var15": 4836
+    },
+    {
+      "var1": 2022,
+      "var2": 10628,
+      "var3": 7991,
+      "var4": 2637,
+      "var5": 4268,
+      "var6": 864,
+      "var7": 917,
+      "var8": 925,
+      "var9": 63757,
+      "var10": 47544,
+      "var11": 16213,
+      "var12": 14400,
+      "var13": 3529,
+      "var14": 5369,
+      "var15": 13586
+    },
+    {
+      "var1": 2023,
+      "var2": 13187,
+      "var3": 9989,
+      "var4": 3198,
+      "var5": 6147,
+      "var6": 893,
+      "var7": 1032,
+      "var8": 1215,
+      "var9": 71055,
+      "var10": 52857,
+      "var11": 18198,
+      "var12": 20146,
+      "var13": 3903,
+      "var14": 5922,
+      "var15": 15109
+    },
+    {
+      "var1": 2024,
+      "var2": 9656,
+      "var3": 7388,
+      "var4": 2268,
+      "var5": 3326,
+      "var6": 502,
+      "var7": 907,
+      "var8": 792,
+      "var9": 67886,
+      "var10": 50485,
+      "var11": 17401,
+      "var12": 20115,
+      "var13": 3542,
+      "var14": 5858,
+      "var15": 4739
+    }
+  ]
+}

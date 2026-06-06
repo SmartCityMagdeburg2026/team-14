@@ -1,0 +1,398 @@
+{
+  "id": "wirtschaft/taetige-personen-und-umsatz-der-handwerksunternehmen-in-der-stadt-magdeburg-nach-der-zulassungsart-und-umsatzgroessenklassen",
+  "title": "Tätige Personen und Umsatz der Handwerksunternehmen in der Stadt Magdeburg nach der Zulassungsart und Umsatzgrößenklassen",
+  "category": "Wirtschaft",
+  "subcategory": "Handwerkszählung",
+  "tableId": "K7_T10_2",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/taetige-personen-und-umsatz-der-handwerksunternehmen-in-der-stadt-magdeburg-nach-der-zulassungsart-und-umsatzgroessenklassen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Tätige Personen und Umsatz der Handwerksunternehmen in der Stadt Magdeburg nach der Zulassungsart und Umsatzgrößenklassen.xlsx"
+  },
+  "description": "Tätige Personen und Umsatz der Handwerksunternehmen nach Zulassungsart und Umsatzgrößenklassen. var3..var8 enthalten Unternehmen/Personen/Umsatz × Zulassungsart, Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2017,
+        2017
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Umsatzgrößenklasse",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "unter 50.000 €",
+        "50.000 - 125.000 €",
+        "125.000 - 250.000 €"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        118,
+        181,
+        151
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        163,
+        381,
+        527
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        3690,
+        15385,
+        27035
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        93,
+        96,
+        49
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        135,
+        327,
+        217
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2752,
+        7787,
+        8871
+      ]
+    }
+  ],
+  "rowCount": 28,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": "unter 50.000 €",
+      "var3": 118,
+      "var4": 163,
+      "var5": 3690,
+      "var6": 93,
+      "var7": 135,
+      "var8": 2752
+    },
+    {
+      "var1": 2017,
+      "var2": "50.000 - 125.000 €",
+      "var3": 181,
+      "var4": 381,
+      "var5": 15385,
+      "var6": 96,
+      "var7": 327,
+      "var8": 7787
+    },
+    {
+      "var1": 2017,
+      "var2": "125.000 - 250.000 €",
+      "var3": 151,
+      "var4": 527,
+      "var5": 27035,
+      "var6": 49,
+      "var7": 217,
+      "var8": 8871
+    },
+    {
+      "var1": 2017,
+      "var2": "250.000 - 500.000 €",
+      "var3": 122,
+      "var4": 660,
+      "var5": 42893,
+      "var6": 33,
+      "var7": 383,
+      "var8": 11610
+    },
+    {
+      "var1": 2017,
+      "var2": "500.000 - 5.000.000 €",
+      "var3": 254,
+      "var4": 4162,
+      "var5": 377099,
+      "var6": 40,
+      "var7": 1645,
+      "var8": 56896
+    },
+    {
+      "var1": 2017,
+      "var2": "5.000.000 € und mehr",
+      "var3": 52,
+      "var4": 4401,
+      "var5": 739395,
+      "var6": 7,
+      "var7": 2769,
+      "var8": 172135
+    },
+    {
+      "var1": 2017,
+      "var2": "insgesamt",
+      "var3": 878,
+      "var4": 10294,
+      "var5": 1205497,
+      "var6": 318,
+      "var7": 5476,
+      "var8": 260051
+    },
+    {
+      "var1": 2018,
+      "var2": "unter 50.000 €",
+      "var3": 108,
+      "var4": 146,
+      "var5": 3418,
+      "var6": 79,
+      "var7": 112,
+      "var8": 2300
+    },
+    {
+      "var1": 2018,
+      "var2": "50.000 - 125.000 €",
+      "var3": 160,
+      "var4": 345,
+      "var5": 13662,
+      "var6": 85,
+      "var7": 318,
+      "var8": 6676
+    },
+    {
+      "var1": 2018,
+      "var2": "125.000 - 250.000 €",
+      "var3": 140,
+      "var4": 496,
+      "var5": 24346,
+      "var6": 43,
+      "var7": 176,
+      "var8": 7252
+    },
+    {
+      "var1": 2018,
+      "var2": "250.000 - 500.000 €",
+      "var3": 116,
+      "var4": 596,
+      "var5": 40959,
+      "var6": 34,
+      "var7": 384,
+      "var8": 11691
+    },
+    {
+      "var1": 2018,
+      "var2": "500.000 - 5.000.000 €",
+      "var3": 251,
+      "var4": 4074,
+      "var5": 379154,
+      "var6": 39,
+      "var7": 1668,
+      "var8": 60657
+    },
+    {
+      "var1": 2018,
+      "var2": "5.000.000 € und mehr",
+      "var3": 55,
+      "var4": 4688,
+      "var5": 755112,
+      "var6": 6,
+      "var7": 2726,
+      "var8": 120432
+    },
+    {
+      "var1": 2018,
+      "var2": "insgesamt",
+      "var3": 830,
+      "var4": 10345,
+      "var5": 1216651,
+      "var6": 286,
+      "var7": 5384,
+      "var8": 209008
+    },
+    {
+      "var1": 2019,
+      "var2": "unter 50.000 €",
+      "var3": 119,
+      "var4": 171,
+      "var5": 3843,
+      "var6": 73,
+      "var7": 104,
+      "var8": 2046
+    },
+    {
+      "var1": 2019,
+      "var2": "50.000 - 125.000 €",
+      "var3": 161,
+      "var4": 353,
+      "var5": 13799,
+      "var6": 86,
+      "var7": 184,
+      "var8": 6840
+    },
+    {
+      "var1": 2019,
+      "var2": "125.000 - 250.000 €",
+      "var3": 156,
+      "var4": 540,
+      "var5": 28260,
+      "var6": 50,
+      "var7": 235,
+      "var8": 9208
+    },
+    {
+      "var1": 2019,
+      "var2": "250.000 - 500.000 €",
+      "var3": 128,
+      "var4": 688,
+      "var5": 46640,
+      "var6": 31,
+      "var7": 176,
+      "var8": 11026
+    },
+    {
+      "var1": 2019,
+      "var2": "500.000 - 5.000.000 €",
+      "var3": 264,
+      "var4": 4213,
+      "var5": 409169,
+      "var6": 49,
+      "var7": 1820,
+      "var8": 68688
+    },
+    {
+      "var1": 2019,
+      "var2": "5.000.000 € und mehr",
+      "var3": 59,
+      "var4": 5025,
+      "var5": 859802,
+      "var6": 8,
+      "var7": 2641,
+      "var8": 115103
+    },
+    {
+      "var1": 2019,
+      "var2": "insgesamt",
+      "var3": 887,
+      "var4": 10990,
+      "var5": 1361513,
+      "var6": 297,
+      "var7": 5160,
+      "var8": 212911
+    },
+    {
+      "var1": 2020,
+      "var2": "unter 50.000 €",
+      "var3": 146,
+      "var4": 224,
+      "var5": 4484,
+      "var6": 38,
+      "var7": 53,
+      "var8": 1188
+    },
+    {
+      "var1": 2020,
+      "var2": "50.000 - 125.000 €",
+      "var3": 232,
+      "var4": 473,
+      "var5": 19086,
+      "var6": 43,
+      "var7": 102,
+      "var8": 3482
+    },
+    {
+      "var1": 2020,
+      "var2": "125.000 - 250.000 €",
+      "var3": 176,
+      "var4": 541,
+      "var5": 31651,
+      "var6": 24,
+      "var7": 115,
+      "var8": 4092
+    },
+    {
+      "var1": 2020,
+      "var2": "250.000 - 500.000 €",
+      "var3": 148,
+      "var4": 770,
+      "var5": 53301,
+      "var6": 24,
+      "var7": 210,
+      "var8": 8356
+    },
+    {
+      "var1": 2020,
+      "var2": "500.000 - 5.000.000 €",
+      "var3": 308,
+      "var4": 4763,
+      "var5": 494085,
+      "var6": 26,
+      "var7": 1627,
+      "var8": 49961
+    },
+    {
+      "var1": 2020,
+      "var2": "5.000.000 € und mehr",
+      "var3": 51,
+      "var4": 4619,
+      "var5": 809070,
+      "var6": 6,
+      "var7": 1754,
+      "var8": 42170
+    },
+    {
+      "var1": 2020,
+      "var2": "insgesamt",
+      "var3": 1061,
+      "var4": 11390,
+      "var5": 1411677,
+      "var6": 161,
+      "var7": 3861,
+      "var8": 109249
+    }
+  ]
+}

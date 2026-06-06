@@ -1,0 +1,218 @@
+{
+  "id": "wirtschaft/rechtliche-einheiten-taetige-personen-umsatz-sowie-aktivierte-bruttoanlageinvestitionen-im-bauhauptgewerbe",
+  "title": "Rechtliche Einheiten, tätige Personen, Umsatz sowie aktivierte Bruttoanlageinvestitionen im Bauhauptgewerbe",
+  "category": "Wirtschaft",
+  "subcategory": "Baugewerbe",
+  "tableId": "K7_T27",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/rechtliche-einheiten-taetige-personen-umsatz-sowie-aktivierte-bruttoanlageinvestitionen-im-bauhauptgewerbe.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Rechtliche Einheiten, tätige Personen, Umsatz sowie aktivierte Bruttoanlageinvestitionen im Bauhauptgewerbe.xlsx"
+  },
+  "description": "Rechtliche Einheiten, tätige Personen, Umsatz sowie Bruttoanlageinvestitionen im Bauhauptgewerbe. var5..var8 enthalten Investitions-Kennzahlen, Zuordnung unsicher.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Tätige Personen",
+      "unit": "Personen",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        30,
+        26,
+        25
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Rechtliche Einheiten",
+      "unit": "Einheiten",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        23,
+        25,
+        25
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Umsatz",
+      "unit": "1.000 EUR",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1853,
+        1367,
+        1289
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        218999,
+        178403,
+        183683
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        4030,
+        5447,
+        5265
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        2174.85159201295,
+        3984.63789319678,
+        4084.56167571761
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1.84019105110069,
+        3.05319977803064,
+        2.86635126821753
+      ]
+    }
+  ],
+  "rowCount": 10,
+  "rows": [
+    {
+      "var1": 2012,
+      "var2": 30,
+      "var3": 23,
+      "var4": 1853,
+      "var5": 218999,
+      "var6": 4030,
+      "var7": 2174.85159201295,
+      "var8": 1.84019105110069
+    },
+    {
+      "var1": 2013,
+      "var2": 26,
+      "var3": 25,
+      "var4": 1367,
+      "var5": 178403,
+      "var6": 5447,
+      "var7": 3984.63789319678,
+      "var8": 3.05319977803064
+    },
+    {
+      "var1": 2014,
+      "var2": 25,
+      "var3": 25,
+      "var4": 1289,
+      "var5": 183683,
+      "var6": 5265,
+      "var7": 4084.56167571761,
+      "var8": 2.86635126821753
+    },
+    {
+      "var1": 2015,
+      "var2": 26,
+      "var3": 24,
+      "var4": 1269,
+      "var5": 161544,
+      "var6": 4145,
+      "var7": 3266.35145784082,
+      "var8": 2.56586440845838
+    },
+    {
+      "var1": 2016,
+      "var2": 30,
+      "var3": 28,
+      "var4": 1395,
+      "var5": 176528,
+      "var6": 5947,
+      "var7": 4263.08243727599,
+      "var8": 3.36887066074504
+    },
+    {
+      "var1": 2017,
+      "var2": 28,
+      "var3": 26,
+      "var4": 1396,
+      "var5": 179979,
+      "var6": 5937,
+      "var7": 4252.86532951289,
+      "var8": 3.29871818378811
+    },
+    {
+      "var1": 2018,
+      "var2": 25,
+      "var3": 24,
+      "var4": 1303,
+      "var5": 191684,
+      "var6": 7995,
+      "var7": 6135.84036838066,
+      "var8": 4.17092715093592
+    },
+    {
+      "var1": 2019,
+      "var2": 29,
+      "var3": 26,
+      "var4": 1398,
+      "var5": 209881,
+      "var6": 7302,
+      "var7": 5223.17596566524,
+      "var8": 3.47911435527751
+    },
+    {
+      "var1": 2020,
+      "var2": 32,
+      "var3": 30,
+      "var4": 1436,
+      "var5": 234318,
+      "var6": 8089,
+      "var7": 5633.00835654596,
+      "var8": 3.3
+    },
+    {
+      "var1": 2021,
+      "var2": 31,
+      "var3": 28,
+      "var4": 1446,
+      "var5": 235639,
+      "var6": 8994,
+      "var7": 6219.91701244813,
+      "var8": 4.2
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "id": "bevoelkerung/ehescheidungen-nach-der-anzahl-der-minderjaehrigen-kinder",
+  "title": "Ehescheidungen nach der Anzahl der minderjährigen Kinder",
+  "category": "Bevölkerung",
+  "subcategory": "Bevölkerungsbewegung",
+  "tableId": "K3_T20",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bevoelkerung/ehescheidungen-nach-der-anzahl-der-minderjaehrigen-kinder.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Ehescheidungen nach der Anzahl der minderjährigen Kinder .xlsx"
+  },
+  "description": "Ehescheidungen nach Anzahl der minderjährigen Kinder. var6 enthält vermutlich Ehescheidungen mit ≥4 Kindern oder eine Gesamtsumme — Zuordnung unsicher.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2003,
+        2004,
+        2005
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Ehescheidungen ohne Kinder",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        632,
+        609,
+        579
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Ehescheidungen mit 1 Kind",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        307,
+        305,
+        314
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Ehescheidungen mit 2 Kindern",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        237,
+        208,
+        180
+      ]
+    },
+    {
+      "key": "var5",
+      "label": "Ehescheidungen mit 3 Kindern",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        88,
+        96,
+        85
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        428,
+        421,
+        371
+      ]
+    }
+  ],
+  "rowCount": 22,
+  "rows": [
+    {
+      "var1": 2003,
+      "var2": 632,
+      "var3": 307,
+      "var4": 237,
+      "var5": 88,
+      "var6": 428
+    },
+    {
+      "var1": 2004,
+      "var2": 609,
+      "var3": 305,
+      "var4": 208,
+      "var5": 96,
+      "var6": 421
+    },
+    {
+      "var1": 2005,
+      "var2": 579,
+      "var3": 314,
+      "var4": 180,
+      "var5": 85,
+      "var6": 371
+    },
+    {
+      "var1": 2006,
+      "var2": 483,
+      "var3": 243,
+      "var4": 168,
+      "var5": 72,
+      "var6": 323
+    },
+    {
+      "var1": 2007,
+      "var2": 467,
+      "var3": 241,
+      "var4": 150,
+      "var5": 75,
+      "var6": 324
+    },
+    {
+      "var1": 2008,
+      "var2": 541,
+      "var3": 286,
+      "var4": 173,
+      "var5": 82,
+      "var6": 360
+    },
+    {
+      "var1": 2009,
+      "var2": 438,
+      "var3": 239,
+      "var4": 128,
+      "var5": 71,
+      "var6": 294
+    },
+    {
+      "var1": 2010,
+      "var2": 448,
+      "var3": 253,
+      "var4": 138,
+      "var5": 57,
+      "var6": 270
+    },
+    {
+      "var1": 2011,
+      "var2": 464,
+      "var3": 261,
+      "var4": 132,
+      "var5": 71,
+      "var6": 287
+    },
+    {
+      "var1": 2012,
+      "var2": 432,
+      "var3": 239,
+      "var4": 131,
+      "var5": 62,
+      "var6": 274
+    },
+    {
+      "var1": 2013,
+      "var2": 423,
+      "var3": 217,
+      "var4": 129,
+      "var5": 77,
+      "var6": 306
+    },
+    {
+      "var1": 2014,
+      "var2": 433,
+      "var3": 222,
+      "var4": 137,
+      "var5": 74,
+      "var6": 308
+    },
+    {
+      "var1": 2015,
+      "var2": 411,
+      "var3": 198,
+      "var4": 137,
+      "var5": 76,
+      "var6": 306
+    },
+    {
+      "var1": 2016,
+      "var2": 391,
+      "var3": 191,
+      "var4": 124,
+      "var5": 76,
+      "var6": 300
+    },
+    {
+      "var1": 2017,
+      "var2": 317,
+      "var3": 164,
+      "var4": 101,
+      "var5": 52,
+      "var6": 217
+    },
+    {
+      "var1": 2018,
+      "var2": 378,
+      "var3": 183,
+      "var4": 118,
+      "var5": 77,
+      "var6": 297
+    },
+    {
+      "var1": 2019,
+      "var2": 357,
+      "var3": 178,
+      "var4": 110,
+      "var5": 69,
+      "var6": 268
+    },
+    {
+      "var1": 2020,
+      "var2": 310,
+      "var3": 144,
+      "var4": 106,
+      "var5": 60,
+      "var6": 248
+    },
+    {
+      "var1": 2021,
+      "var2": 338,
+      "var3": 156,
+      "var4": 92,
+      "var5": 90,
+      "var6": 297
+    },
+    {
+      "var1": 2022,
+      "var2": 312,
+      "var3": 131,
+      "var4": 88,
+      "var5": 92,
+      "var6": 299
+    },
+    {
+      "var1": 2023,
+      "var2": 331,
+      "var3": 148,
+      "var4": 111,
+      "var5": 72,
+      "var6": 274
+    },
+    {
+      "var1": 2024,
+      "var2": 324,
+      "var3": 139,
+      "var4": 104,
+      "var5": 81,
+      "var6": 282
+    }
+  ]
+}

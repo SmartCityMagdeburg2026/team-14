@@ -1,0 +1,1598 @@
+{
+  "id": "bildung-und-kultur/schularten-in-der-stadt-magdeburg",
+  "title": "Schularten in der Stadt Magdeburg",
+  "category": "Bildung und Kultur",
+  "subcategory": "Schulwesen",
+  "tableId": "K5_T1",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bildung-und-kultur/schularten-in-der-stadt-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Schularten in der Stadt Magdeburg .xlsx"
+  },
+  "description": "Diese Tabelle listet die Anzahl verschiedener Schularten in Magdeburg über die Jahre.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2008,
+        2008,
+        2008
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Schulart",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Berufsbildene Schule Teilzeit",
+        "Berufsbildene Schule Vollzeit",
+        "Förderschule"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Schulartgruppe",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Berufsbildende Schule",
+        "Berufsbildende Schule",
+        "Allgemeinbildende Schule"
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Anzahl der Schulartgruppe",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        4,
+        4,
+        11
+      ]
+    },
+    {
+      "key": "var5",
+      "label": "Anzahl der Schulen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        354,
+        111,
+        139
+      ]
+    },
+    {
+      "key": "var6",
+      "label": "Schüler",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        7633,
+        2327,
+        1290
+      ]
+    }
+  ],
+  "rowCount": 188,
+  "rows": [
+    {
+      "var1": 2008,
+      "var2": "Berufsbildene Schule Teilzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 354,
+      "var6": 7633
+    },
+    {
+      "var1": 2008,
+      "var2": "Berufsbildene Schule Vollzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 111,
+      "var6": 2327
+    },
+    {
+      "var1": 2008,
+      "var2": "Förderschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 11,
+      "var5": 139,
+      "var6": 1290
+    },
+    {
+      "var1": 2008,
+      "var2": "Grundschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 37,
+      "var5": 315,
+      "var6": 5786
+    },
+    {
+      "var1": 2008,
+      "var2": "Gymnasium",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 7,
+      "var5": 211,
+      "var6": 5031
+    },
+    {
+      "var1": 2008,
+      "var2": "IGS",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 2,
+      "var5": 72,
+      "var6": 1629
+    },
+    {
+      "var1": 2008,
+      "var2": "Sekundarschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 13,
+      "var5": 144,
+      "var6": 2870
+    },
+    {
+      "var1": 2009,
+      "var2": "Berufsbildene Schule Teilzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 373,
+      "var6": 7791
+    },
+    {
+      "var1": 2009,
+      "var2": "Berufsbildene Schule Vollzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 79,
+      "var6": 1622
+    },
+    {
+      "var1": 2009,
+      "var2": "Förderschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 11,
+      "var5": 133,
+      "var6": 1229
+    },
+    {
+      "var1": 2009,
+      "var2": "Grundschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 37,
+      "var5": 318,
+      "var6": 5866
+    },
+    {
+      "var1": 2009,
+      "var2": "Gymnasium",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 7,
+      "var5": 209,
+      "var6": 4918
+    },
+    {
+      "var1": 2009,
+      "var2": "IGS",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 2,
+      "var5": 70,
+      "var6": 1656
+    },
+    {
+      "var1": 2009,
+      "var2": "Sekundarschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 14,
+      "var5": 143,
+      "var6": 2756
+    },
+    {
+      "var1": 2010,
+      "var2": "Berufsbildene Schule Teilzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 327,
+      "var6": 6423
+    },
+    {
+      "var1": 2010,
+      "var2": "Berufsbildene Schule Vollzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 100,
+      "var6": 2014
+    },
+    {
+      "var1": 2010,
+      "var2": "Förderschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 10,
+      "var5": 133,
+      "var6": 1220
+    },
+    {
+      "var1": 2010,
+      "var2": "Grundschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 37,
+      "var5": 318,
+      "var6": 5947
+    },
+    {
+      "var1": 2010,
+      "var2": "Gymnasium",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 7,
+      "var5": 213,
+      "var6": 5072
+    },
+    {
+      "var1": 2010,
+      "var2": "IGS",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 2,
+      "var5": 69,
+      "var6": 1672
+    },
+    {
+      "var1": 2010,
+      "var2": "Sekundarschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 12,
+      "var5": 138,
+      "var6": 2796
+    },
+    {
+      "var1": 2011,
+      "var2": "Abendgymnasium",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 38
+    },
+    {
+      "var1": 2011,
+      "var2": "Abendsekundarschule",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 5,
+      "var6": 104
+    },
+    {
+      "var1": 2011,
+      "var2": "Berufsbildene Schule Teilzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 322,
+      "var6": 5877
+    },
+    {
+      "var1": 2011,
+      "var2": "Berufsbildene Schule Vollzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 101,
+      "var6": 1995
+    },
+    {
+      "var1": 2011,
+      "var2": "Förderschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 10,
+      "var5": 130,
+      "var6": 1171
+    },
+    {
+      "var1": 2011,
+      "var2": "Grundschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 36,
+      "var5": 323,
+      "var6": 6127
+    },
+    {
+      "var1": 2011,
+      "var2": "Gymnasium",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 7,
+      "var5": 216,
+      "var6": 5183
+    },
+    {
+      "var1": 2011,
+      "var2": "IGS",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 2,
+      "var5": 68,
+      "var6": 1652
+    },
+    {
+      "var1": 2011,
+      "var2": "Kolleg",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 9,
+      "var6": 189
+    },
+    {
+      "var1": 2011,
+      "var2": "Sekundarschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 12,
+      "var5": 145,
+      "var6": 2981
+    },
+    {
+      "var1": 2011,
+      "var2": "Waldorfschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 16,
+      "var6": 358
+    },
+    {
+      "var1": 2012,
+      "var2": "Abendgymnasium",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 41
+    },
+    {
+      "var1": 2012,
+      "var2": "Abendsekundarschule",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 68
+    },
+    {
+      "var1": 2012,
+      "var2": "Berufsbildene Schule Teilzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 298,
+      "var6": 5383
+    },
+    {
+      "var1": 2012,
+      "var2": "Berufsbildene Schule Vollzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 104,
+      "var6": 1980
+    },
+    {
+      "var1": 2012,
+      "var2": "Förderschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 10,
+      "var5": 125,
+      "var6": 1124
+    },
+    {
+      "var1": 2012,
+      "var2": "Grundschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 37,
+      "var5": 323,
+      "var6": 6309
+    },
+    {
+      "var1": 2012,
+      "var2": "Gymnasium",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 7,
+      "var5": 226,
+      "var6": 5417
+    },
+    {
+      "var1": 2012,
+      "var2": "IGS",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 2,
+      "var5": 66,
+      "var6": 1598
+    },
+    {
+      "var1": 2012,
+      "var2": "Kolleg",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 9,
+      "var6": 181
+    },
+    {
+      "var1": 2012,
+      "var2": "Neue Schule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 1,
+      "var6": 12
+    },
+    {
+      "var1": 2012,
+      "var2": "Sekundarschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 12,
+      "var5": 147,
+      "var6": 3052
+    },
+    {
+      "var1": 2012,
+      "var2": "Waldorfschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 17,
+      "var6": 387
+    },
+    {
+      "var1": 2013,
+      "var2": "Abendgymnasium",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 35
+    },
+    {
+      "var1": 2013,
+      "var2": "Abendsekundarschule",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 4,
+      "var6": 83
+    },
+    {
+      "var1": 2013,
+      "var2": "Berufsbildene Schule Teilzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 293,
+      "var6": 5272
+    },
+    {
+      "var1": 2013,
+      "var2": "Berufsbildene Schule Vollzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 101,
+      "var6": 1957
+    },
+    {
+      "var1": 2013,
+      "var2": "Förderschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 10,
+      "var5": 124,
+      "var6": 1128
+    },
+    {
+      "var1": 2013,
+      "var2": "Grundschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 37,
+      "var5": 331,
+      "var6": 6448
+    },
+    {
+      "var1": 2013,
+      "var2": "Gymnasium",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 8,
+      "var5": 232,
+      "var6": 5590
+    },
+    {
+      "var1": 2013,
+      "var2": "IGS",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 2,
+      "var5": 70,
+      "var6": 1682
+    },
+    {
+      "var1": 2013,
+      "var2": "Kolleg",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 9,
+      "var6": 177
+    },
+    {
+      "var1": 2013,
+      "var2": "Neue Schule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 3,
+      "var6": 35
+    },
+    {
+      "var1": 2013,
+      "var2": "Sekundarschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 12,
+      "var5": 149,
+      "var6": 3067
+    },
+    {
+      "var1": 2013,
+      "var2": "Waldorfschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 19,
+      "var6": 431
+    },
+    {
+      "var1": 2014,
+      "var2": "Abendgymnasium",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 32
+    },
+    {
+      "var1": 2014,
+      "var2": "Abendsekundarschule",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 75
+    },
+    {
+      "var1": 2014,
+      "var2": "Berufsbildene Schule Teilzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 286,
+      "var6": 5179
+    },
+    {
+      "var1": 2014,
+      "var2": "Berufsbildene Schule Vollzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 101,
+      "var6": 1971
+    },
+    {
+      "var1": 2014,
+      "var2": "Förderschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 9,
+      "var5": 122,
+      "var6": 1072
+    },
+    {
+      "var1": 2014,
+      "var2": "Gemeinschaftsschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 10,
+      "var5": 25,
+      "var6": 476
+    },
+    {
+      "var1": 2014,
+      "var2": "Grundschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 36,
+      "var5": 333,
+      "var6": 6665
+    },
+    {
+      "var1": 2014,
+      "var2": "Gymnasium",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 8,
+      "var5": 235,
+      "var6": 5663
+    },
+    {
+      "var1": 2014,
+      "var2": "IGS",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 2,
+      "var5": 74,
+      "var6": 1825
+    },
+    {
+      "var1": 2014,
+      "var2": "Kolleg",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 9,
+      "var6": 161
+    },
+    {
+      "var1": 2014,
+      "var2": "Neue Schule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 5,
+      "var6": 70
+    },
+    {
+      "var1": 2014,
+      "var2": "Sekundarschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 10,
+      "var5": 105,
+      "var6": 2136
+    },
+    {
+      "var1": 2014,
+      "var2": "Waldorfschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 21,
+      "var6": 491
+    },
+    {
+      "var1": 2015,
+      "var2": "Abendgymnasium",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 33
+    },
+    {
+      "var1": 2015,
+      "var2": "Abendsekundarschule",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 77
+    },
+    {
+      "var1": 2015,
+      "var2": "Berufsbildene Schule Teilzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 283,
+      "var6": 4959
+    },
+    {
+      "var1": 2015,
+      "var2": "Berufsbildene Schule Vollzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 110,
+      "var6": 2135
+    },
+    {
+      "var1": 2015,
+      "var2": "Förderschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 9,
+      "var5": 118,
+      "var6": 1085
+    },
+    {
+      "var1": 2015,
+      "var2": "Gemeinschaftsschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 10,
+      "var5": 43,
+      "var6": 924
+    },
+    {
+      "var1": 2015,
+      "var2": "Grundschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 36,
+      "var5": 341,
+      "var6": 6997
+    },
+    {
+      "var1": 2015,
+      "var2": "Gymnasium",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 8,
+      "var5": 233,
+      "var6": 5677
+    },
+    {
+      "var1": 2015,
+      "var2": "IGS",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 2,
+      "var5": 78,
+      "var6": 1860
+    },
+    {
+      "var1": 2015,
+      "var2": "Kolleg",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 9,
+      "var6": 156
+    },
+    {
+      "var1": 2015,
+      "var2": "Neue Schule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 7,
+      "var6": 113
+    },
+    {
+      "var1": 2015,
+      "var2": "Sekundarschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 11,
+      "var5": 105,
+      "var6": 2196
+    },
+    {
+      "var1": 2015,
+      "var2": "Waldorfschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 23,
+      "var6": 530
+    },
+    {
+      "var1": 2016,
+      "var2": "Abendgymnasium",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 26
+    },
+    {
+      "var1": 2016,
+      "var2": "Abendsekundarschule",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 71
+    },
+    {
+      "var1": 2016,
+      "var2": "Berufsbildene Schule Teilzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 279,
+      "var6": 4925
+    },
+    {
+      "var1": 2016,
+      "var2": "Berufsbildene Schule Vollzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 116,
+      "var6": 2204
+    },
+    {
+      "var1": 2016,
+      "var2": "Förderschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 9,
+      "var5": 116,
+      "var6": 1029
+    },
+    {
+      "var1": 2016,
+      "var2": "Gemeinschaftsschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 10,
+      "var5": 62,
+      "var6": 1360
+    },
+    {
+      "var1": 2016,
+      "var2": "Grundschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 36,
+      "var5": 7279,
+      "var6": 3604
+    },
+    {
+      "var1": 2016,
+      "var2": "Gymnasium",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 8,
+      "var5": 235,
+      "var6": 5724
+    },
+    {
+      "var1": 2016,
+      "var2": "IGS",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 2,
+      "var5": 81,
+      "var6": 1969
+    },
+    {
+      "var1": 2016,
+      "var2": "Kolleg",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 8,
+      "var6": 140
+    },
+    {
+      "var1": 2016,
+      "var2": "Neue Schule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 8,
+      "var6": 133
+    },
+    {
+      "var1": 2016,
+      "var2": "Sekundarschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 11,
+      "var5": 89,
+      "var6": 1924
+    },
+    {
+      "var1": 2016,
+      "var2": "Waldorfschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 25,
+      "var6": 574
+    },
+    {
+      "var1": 2017,
+      "var2": "Abendgymnasium",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 26
+    },
+    {
+      "var1": 2017,
+      "var2": "Abendsekundarschule",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 62
+    },
+    {
+      "var1": 2017,
+      "var2": "Berufsbildene Schule Teilzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 267,
+      "var6": 4957
+    },
+    {
+      "var1": 2017,
+      "var2": "Berufsbildene Schule Vollzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 117,
+      "var6": 2290
+    },
+    {
+      "var1": 2017,
+      "var2": "Förderschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 9,
+      "var5": 118,
+      "var6": 1024
+    },
+    {
+      "var1": 2017,
+      "var2": "Gemeinschaftsschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 9,
+      "var5": 92,
+      "var6": 2175
+    },
+    {
+      "var1": 2017,
+      "var2": "Grundschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 36,
+      "var5": 7766,
+      "var6": 3893
+    },
+    {
+      "var1": 2017,
+      "var2": "Gymnasium",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 8,
+      "var5": 239,
+      "var6": 5783
+    },
+    {
+      "var1": 2017,
+      "var2": "IGS",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 2,
+      "var5": 83,
+      "var6": 1974
+    },
+    {
+      "var1": 2017,
+      "var2": "Kolleg",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 7,
+      "var6": 149
+    },
+    {
+      "var1": 2017,
+      "var2": "Neue Schule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 10,
+      "var6": 180
+    },
+    {
+      "var1": 2017,
+      "var2": "Sekundarschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 12,
+      "var5": 67,
+      "var6": 1531
+    },
+    {
+      "var1": 2017,
+      "var2": "Waldorfschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 25,
+      "var6": 585
+    },
+    {
+      "var1": 2018,
+      "var2": "Abendgymnasium",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 28
+    },
+    {
+      "var1": 2018,
+      "var2": "Abendsekundarschule",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 70
+    },
+    {
+      "var1": 2018,
+      "var2": "Berufsbildene Schule Teilzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 271,
+      "var6": 5106
+    },
+    {
+      "var1": 2018,
+      "var2": "Berufsbildene Schule Vollzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 115,
+      "var6": 2223
+    },
+    {
+      "var1": 2018,
+      "var2": "Förderschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 10,
+      "var5": 121,
+      "var6": 1091
+    },
+    {
+      "var1": 2018,
+      "var2": "Gemeinschaftsschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 9,
+      "var5": 107,
+      "var6": 2642
+    },
+    {
+      "var1": 2018,
+      "var2": "Grundschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 36,
+      "var5": 8021,
+      "var6": 3943
+    },
+    {
+      "var1": 2018,
+      "var2": "Gymnasium",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 9,
+      "var5": 246,
+      "var6": 5896
+    },
+    {
+      "var1": 2018,
+      "var2": "IGS",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 2,
+      "var5": 83,
+      "var6": 1993
+    },
+    {
+      "var1": 2018,
+      "var2": "Kolleg",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 6,
+      "var6": 149
+    },
+    {
+      "var1": 2018,
+      "var2": "Neue Schule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 11,
+      "var6": 205
+    },
+    {
+      "var1": 2018,
+      "var2": "Sekundarschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 12,
+      "var5": 50,
+      "var6": 1112
+    },
+    {
+      "var1": 2018,
+      "var2": "Waldorfschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 25,
+      "var6": 581
+    },
+    {
+      "var1": 2019,
+      "var2": "Abendgymnasium",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 16
+    },
+    {
+      "var1": 2019,
+      "var2": "Abendsekundarschule",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 62
+    },
+    {
+      "var1": 2019,
+      "var2": "Berufsbildene Schule Teilzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 272,
+      "var6": 5147
+    },
+    {
+      "var1": 2019,
+      "var2": "Berufsbildene Schule Vollzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 122,
+      "var6": 2271
+    },
+    {
+      "var1": 2019,
+      "var2": "Förderschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 10,
+      "var5": 127,
+      "var6": 1152
+    },
+    {
+      "var1": 2019,
+      "var2": "Gemeinschaftsschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 9,
+      "var5": 134,
+      "var6": 3196
+    },
+    {
+      "var1": 2019,
+      "var2": "Grundschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 37,
+      "var5": 375,
+      "var6": 7953
+    },
+    {
+      "var1": 2019,
+      "var2": "Gymnasium",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 9,
+      "var5": 255,
+      "var6": 6105
+    },
+    {
+      "var1": 2019,
+      "var2": "IGS",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 2,
+      "var5": 82,
+      "var6": 1953
+    },
+    {
+      "var1": 2019,
+      "var2": "Kolleg",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 8,
+      "var6": 158
+    },
+    {
+      "var1": 2019,
+      "var2": "Neue Schule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 11,
+      "var6": 228
+    },
+    {
+      "var1": 2019,
+      "var2": "Sekundarschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 3,
+      "var5": 26,
+      "var6": 626
+    },
+    {
+      "var1": 2019,
+      "var2": "Waldorfschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 25,
+      "var6": 583
+    },
+    {
+      "var1": 2020,
+      "var2": "Abendgymnasium",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 26
+    },
+    {
+      "var1": 2020,
+      "var2": "Abendsekundarschule",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 62
+    },
+    {
+      "var1": 2020,
+      "var2": "Berufsbildene Schule Teilzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 266,
+      "var6": 5068
+    },
+    {
+      "var1": 2020,
+      "var2": "Berufsbildene Schule Vollzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 116,
+      "var6": 2103
+    },
+    {
+      "var1": 2020,
+      "var2": "Förderschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 10,
+      "var5": 136,
+      "var6": 1221
+    },
+    {
+      "var1": 2020,
+      "var2": "Gemeinschaftsschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 9,
+      "var5": 135,
+      "var6": 3194
+    },
+    {
+      "var1": 2020,
+      "var2": "Grundschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 38,
+      "var5": 379,
+      "var6": 8078
+    },
+    {
+      "var1": 2020,
+      "var2": "Gymnasium",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 9,
+      "var5": 256,
+      "var6": 6274
+    },
+    {
+      "var1": 2020,
+      "var2": "IGS",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 2,
+      "var5": 78,
+      "var6": 1883
+    },
+    {
+      "var1": 2020,
+      "var2": "Kolleg",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 8,
+      "var6": 129
+    },
+    {
+      "var1": 2020,
+      "var2": "Neue Schule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 12,
+      "var6": 249
+    },
+    {
+      "var1": 2020,
+      "var2": "Sekundarschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 3,
+      "var5": 28,
+      "var6": 649
+    },
+    {
+      "var1": 2020,
+      "var2": "Waldorfschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 25,
+      "var6": 583
+    },
+    {
+      "var1": 2021,
+      "var2": "Abendgymnasium",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 27
+    },
+    {
+      "var1": 2021,
+      "var2": "Abendsekundarschule",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 60
+    },
+    {
+      "var1": 2021,
+      "var2": "Berufsbildene Schule Teilzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 274,
+      "var6": 5156
+    },
+    {
+      "var1": 2021,
+      "var2": "Berufsbildene Schule Vollzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 118,
+      "var6": 2059
+    },
+    {
+      "var1": 2021,
+      "var2": "Förderschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 10,
+      "var5": 144,
+      "var6": 1302
+    },
+    {
+      "var1": 2021,
+      "var2": "Gemeinschaftsschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 9,
+      "var5": 134,
+      "var6": 3168
+    },
+    {
+      "var1": 2021,
+      "var2": "Grundschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 39,
+      "var5": 390,
+      "var6": 8351
+    },
+    {
+      "var1": 2021,
+      "var2": "Gymnasium",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 9,
+      "var5": 271,
+      "var6": 6456
+    },
+    {
+      "var1": 2021,
+      "var2": "IGS",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 2,
+      "var5": 82,
+      "var6": 1887
+    },
+    {
+      "var1": 2021,
+      "var2": "Kolleg",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 8,
+      "var6": 124
+    },
+    {
+      "var1": 2021,
+      "var2": "Neue Schule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 12,
+      "var6": 251
+    },
+    {
+      "var1": 2021,
+      "var2": "Sekundarschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 3,
+      "var5": 31,
+      "var6": 687
+    },
+    {
+      "var1": 2021,
+      "var2": "Waldorfschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 25,
+      "var6": 605
+    },
+    {
+      "var1": 2022,
+      "var2": "Abendgymnasium",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 3,
+      "var6": 24
+    },
+    {
+      "var1": 2022,
+      "var2": "Abendsekundarschule",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 2,
+      "var6": 60
+    },
+    {
+      "var1": 2022,
+      "var2": "Berufsbildene Schule Pflegeschulen",
+      "var3": "Berufsbildende Schule",
+      "var4": 1,
+      "var5": 49,
+      "var6": 35
+    },
+    {
+      "var1": 2022,
+      "var2": "Berufsbildene Schule Teilzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 270,
+      "var6": 5119
+    },
+    {
+      "var1": 2022,
+      "var2": "Berufsbildene Schule Vollzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 121,
+      "var6": 2117
+    },
+    {
+      "var1": 2022,
+      "var2": "Förderschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 10,
+      "var5": 147,
+      "var6": 1333
+    },
+    {
+      "var1": 2022,
+      "var2": "Gemeinschaftsschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 9,
+      "var5": 138,
+      "var6": 3217
+    },
+    {
+      "var1": 2022,
+      "var2": "Grundschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 39,
+      "var5": 400,
+      "var6": 8661
+    },
+    {
+      "var1": 2022,
+      "var2": "Gymnasium",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 9,
+      "var5": 283,
+      "var6": 6882
+    },
+    {
+      "var1": 2022,
+      "var2": "IGS",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 2,
+      "var5": 85,
+      "var6": 1982
+    },
+    {
+      "var1": 2022,
+      "var2": "Kolleg",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 6,
+      "var6": 110
+    },
+    {
+      "var1": 2022,
+      "var2": "Neue Schule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 12,
+      "var6": 267
+    },
+    {
+      "var1": 2022,
+      "var2": "Sekundarschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 3,
+      "var5": 32,
+      "var6": 748
+    },
+    {
+      "var1": 2022,
+      "var2": "Waldorfschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 17,
+      "var6": 403
+    },
+    {
+      "var1": 2023,
+      "var2": "Abendgymnasium",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 6,
+      "var6": 52
+    },
+    {
+      "var1": 2023,
+      "var2": "Abendsekundarschule",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 2,
+      "var6": 34
+    },
+    {
+      "var1": 2023,
+      "var2": "Berufsbildene Schule Pflegeschulen",
+      "var3": "Berufsbildende Schule",
+      "var4": 1,
+      "var5": 33,
+      "var6": 26
+    },
+    {
+      "var1": 2023,
+      "var2": "Berufsbildene Schule Teilzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 270,
+      "var6": 5109
+    },
+    {
+      "var1": 2023,
+      "var2": "Berufsbildene Schule Vollzeit",
+      "var3": "Berufsbildende Schule",
+      "var4": 4,
+      "var5": 120,
+      "var6": 1992
+    },
+    {
+      "var1": 2023,
+      "var2": "Förderschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 10,
+      "var5": 148,
+      "var6": 1377
+    },
+    {
+      "var1": 2023,
+      "var2": "Gemeinschaftsschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 9,
+      "var5": 142,
+      "var6": 3542
+    },
+    {
+      "var1": 2023,
+      "var2": "Grundschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 39,
+      "var5": 409,
+      "var6": 8784
+    },
+    {
+      "var1": 2023,
+      "var2": "Gymnasium",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 9,
+      "var5": 290,
+      "var6": 6965
+    },
+    {
+      "var1": 2023,
+      "var2": "IGS",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 2,
+      "var5": 84,
+      "var6": 2033
+    },
+    {
+      "var1": 2023,
+      "var2": "Kolleg",
+      "var3": "Schulen des zweiten Bildungsweges",
+      "var4": 1,
+      "var5": 14,
+      "var6": 192
+    },
+    {
+      "var1": 2023,
+      "var2": "Neue Schule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 13,
+      "var6": 281
+    },
+    {
+      "var1": 2023,
+      "var2": "Sekundarschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 3,
+      "var5": 34,
+      "var6": 787
+    },
+    {
+      "var1": 2023,
+      "var2": "Waldorfschule",
+      "var3": "Allgemeinbildende Schule",
+      "var4": 1,
+      "var5": 17,
+      "var6": 404
+    }
+  ]
+}

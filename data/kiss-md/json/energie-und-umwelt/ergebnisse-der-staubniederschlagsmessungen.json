@@ -1,0 +1,220 @@
+{
+  "id": "energie-und-umwelt/ergebnisse-der-staubniederschlagsmessungen",
+  "title": "Ergebnisse der Staubniederschlagsmessungen",
+  "category": "Energie und Umwelt",
+  "subcategory": "Luftverunreinigungen im Raum Magdeburg",
+  "tableId": "K9_T29",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/ergebnisse-der-staubniederschlagsmessungen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Ergebnisse der Staubniederschlagsmessungen .xlsx"
+  },
+  "description": "Ergebnisse der Staubniederschlagsmessungen. Spalten var2..var4 entsprechen verschiedenen Messstationen in g/m²·Tag, deren Zuordnung nicht herleitbar war.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1999,
+        2000,
+        2001
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        0.09,
+        0.09,
+        0.1
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "0.03",
+        "0.05",
+        "0.06"
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "0.1",
+        "0.09",
+        "0.09"
+      ]
+    }
+  ],
+  "rowCount": 25,
+  "rows": [
+    {
+      "var1": 1999,
+      "var2": 0.09,
+      "var3": null,
+      "var4": "0.1"
+    },
+    {
+      "var1": 2000,
+      "var2": 0.09,
+      "var3": null,
+      "var4": "0.09"
+    },
+    {
+      "var1": 2001,
+      "var2": 0.1,
+      "var3": null,
+      "var4": "0.09"
+    },
+    {
+      "var1": 2002,
+      "var2": 0.12,
+      "var3": null,
+      "var4": "0.1"
+    },
+    {
+      "var1": 2003,
+      "var2": 0.08,
+      "var3": null,
+      "var4": "7.0000000000000007E-2"
+    },
+    {
+      "var1": 2004,
+      "var2": 0.09,
+      "var3": null,
+      "var4": "7.0000000000000007E-2"
+    },
+    {
+      "var1": 2005,
+      "var2": 0.07,
+      "var3": null,
+      "var4": "0.06"
+    },
+    {
+      "var1": 2006,
+      "var2": 0.05,
+      "var3": null,
+      "var4": "0.08"
+    },
+    {
+      "var1": 2007,
+      "var2": 0.05,
+      "var3": null,
+      "var4": "0.06"
+    },
+    {
+      "var1": 2008,
+      "var2": 0.07,
+      "var3": null,
+      "var4": "0.06"
+    },
+    {
+      "var1": 2009,
+      "var2": 0.05,
+      "var3": "0.03",
+      "var4": "0.08"
+    },
+    {
+      "var1": 2010,
+      "var2": 0.06,
+      "var3": "0.05",
+      "var4": null
+    },
+    {
+      "var1": 2011,
+      "var2": 0.06,
+      "var3": "0.06",
+      "var4": null
+    },
+    {
+      "var1": 2012,
+      "var2": 0.05,
+      "var3": "0.03",
+      "var4": null
+    },
+    {
+      "var1": 2013,
+      "var2": 0.05,
+      "var3": "0.1",
+      "var4": null
+    },
+    {
+      "var1": 2014,
+      "var2": 0.17,
+      "var3": "7.0000000000000007E-2",
+      "var4": null
+    },
+    {
+      "var1": 2015,
+      "var2": 0.06,
+      "var3": "0.04",
+      "var4": null
+    },
+    {
+      "var1": 2016,
+      "var2": 0.04,
+      "var3": "0.04",
+      "var4": null
+    },
+    {
+      "var1": 2017,
+      "var2": 0.1,
+      "var3": "0.06",
+      "var4": null
+    },
+    {
+      "var1": 2018,
+      "var2": 0.07,
+      "var3": "0.05",
+      "var4": null
+    },
+    {
+      "var1": 2019,
+      "var2": 0.06,
+      "var3": "0.03",
+      "var4": null
+    },
+    {
+      "var1": 2020,
+      "var2": 0.06,
+      "var3": "0.05",
+      "var4": null
+    },
+    {
+      "var1": 2021,
+      "var2": 0.06,
+      "var3": "0.05",
+      "var4": null
+    },
+    {
+      "var1": 2022,
+      "var2": 0.06,
+      "var3": "0.05",
+      "var4": null
+    },
+    {
+      "var1": 2023,
+      "var2": 0.1,
+      "var3": "0.06",
+      "var4": null
+    }
+  ]
+}

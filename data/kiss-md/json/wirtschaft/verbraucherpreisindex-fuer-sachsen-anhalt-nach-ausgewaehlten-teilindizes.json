@@ -1,0 +1,185 @@
+{
+  "id": "wirtschaft/verbraucherpreisindex-fuer-sachsen-anhalt-nach-ausgewaehlten-teilindizes",
+  "title": "Verbraucherpreisindex für Sachsen-Anhalt nach ausgewählten Teilindizes",
+  "category": "Wirtschaft",
+  "subcategory": "Preise und Preisindizes",
+  "tableId": "K7_T93",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/verbraucherpreisindex-fuer-sachsen-anhalt-nach-ausgewaehlten-teilindizes.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Verbraucherpreisindex für Sachsen-Anhalt nach ausgewählten Teilindizes.xlsx"
+  },
+  "description": "Verbraucherpreisindex für Sachsen-Anhalt nach ausgewählten Teilindizes. var3..var9 enthalten Teilindizes (Wohnen/Energie/Nahrungsmittel/Dienstleistungen) und deren Jahresveränderungen, Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Verbraucherpreisindex (Basisjahr 100)",
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        100.3,
+        109.6,
+        104.6
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        4,
+        9.3,
+        -4.59999999999999
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        102.5,
+        103.7,
+        104.6
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1.1,
+        1.2,
+        0.9
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        102.5,
+        103.8,
+        105.5
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1.2,
+        1.3,
+        1.6
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        102.3,
+        104.2,
+        105.7
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1.3,
+        1.9,
+        1.4
+      ]
+    }
+  ],
+  "rowCount": 5,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": 100.3,
+      "var3": 4,
+      "var4": 102.5,
+      "var5": 1.1,
+      "var6": 102.5,
+      "var7": 1.2,
+      "var8": 102.3,
+      "var9": 1.3
+    },
+    {
+      "var1": 2018,
+      "var2": 109.6,
+      "var3": 9.3,
+      "var4": 103.7,
+      "var5": 1.2,
+      "var6": 103.8,
+      "var7": 1.3,
+      "var8": 104.2,
+      "var9": 1.9
+    },
+    {
+      "var1": 2019,
+      "var2": 104.6,
+      "var3": -4.59999999999999,
+      "var4": 104.6,
+      "var5": 0.9,
+      "var6": 105.5,
+      "var7": 1.6,
+      "var8": 105.7,
+      "var9": 1.4
+    },
+    {
+      "var1": 2020,
+      "var2": 90.1,
+      "var3": -13.9,
+      "var4": 105.7,
+      "var5": 1.1,
+      "var6": 105.8,
+      "var7": 0.3,
+      "var8": 104.9,
+      "var9": -0.8
+    },
+    {
+      "var1": 2021,
+      "var2": 125.3,
+      "var3": 39.1,
+      "var4": 106.8,
+      "var5": 1,
+      "var6": 110.8,
+      "var7": 4.7,
+      "var8": 112.7,
+      "var9": 7.4
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "oeffentliche-ordnung/amtliche-lebensmittelueberwachung",
+  "title": "Amtliche Lebensmittelüberwachung",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Veterinärwesen und Lebensmittelüberwachung",
+  "tableId": "K11_T21",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/amtliche-lebensmittelueberwachung.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Amtliche Lebensmittelüberwachung.xlsx"
+  },
+  "description": "Diese Tabelle dokumentiert die amtliche Überwachung von Lebensmitteln in Magdeburg über die Jahre.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2019,
+        2020,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Lebensmittel-Kontrollen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1171,
+        1071,
+        1120
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Beanstandungen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        155,
+        143,
+        99
+      ]
+    }
+  ],
+  "rowCount": 8,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": 1171,
+      "var3": 155
+    },
+    {
+      "var1": 2020,
+      "var2": 1071,
+      "var3": 143
+    },
+    {
+      "var1": 2021,
+      "var2": 1120,
+      "var3": 99
+    },
+    {
+      "var1": 2022,
+      "var2": 1115,
+      "var3": 230
+    },
+    {
+      "var1": 2023,
+      "var2": 1255,
+      "var3": 226
+    },
+    {
+      "var1": 2017,
+      "var2": 1047,
+      "var3": 90
+    },
+    {
+      "var1": 2018,
+      "var2": 1022,
+      "var3": 110
+    },
+    {
+      "var1": 2024,
+      "var2": 1194,
+      "var3": 136
+    }
+  ]
+}

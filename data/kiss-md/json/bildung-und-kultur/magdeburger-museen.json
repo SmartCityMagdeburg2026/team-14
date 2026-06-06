@@ -1,0 +1,378 @@
+{
+  "id": "bildung-und-kultur/magdeburger-museen",
+  "title": "Magdeburger Museen",
+  "category": "Bildung und Kultur",
+  "subcategory": "Museen",
+  "tableId": "K5_T25",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bildung-und-kultur/magdeburger-museen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Magdeburger Museen.xlsx"
+  },
+  "description": "Magdeburger Museen — Besucher gesamt, monatlich. var4..var8 entsprechen einzelnen Museen (Kulturhistorisches Museum, Technikmuseum, Kunstmuseum etc.) und summieren auf var3 (verifiziert), die Zuordnung zu konkreten Häusern war aber nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2024,
+        2024,
+        2024
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Monat",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Januar",
+        "Februar",
+        "März"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Museumsbesucher gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        6544,
+        8563,
+        7653
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        3444,
+        4658,
+        3234
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1719,
+        1627,
+        2295
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        587,
+        1195,
+        1048
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        794,
+        1083,
+        1076
+      ]
+    }
+  ],
+  "rowCount": 26,
+  "rows": [
+    {
+      "var1": 2024,
+      "var2": "Januar",
+      "var3": 6544,
+      "var4": 3444,
+      "var5": 1719,
+      "var6": 0,
+      "var7": 587,
+      "var8": 794
+    },
+    {
+      "var1": 2024,
+      "var2": "Februar",
+      "var3": 8563,
+      "var4": 4658,
+      "var5": 1627,
+      "var6": 0,
+      "var7": 1195,
+      "var8": 1083
+    },
+    {
+      "var1": 2024,
+      "var2": "März",
+      "var3": 7653,
+      "var4": 3234,
+      "var5": 2295,
+      "var6": 0,
+      "var7": 1048,
+      "var8": 1076
+    },
+    {
+      "var1": 2024,
+      "var2": "April",
+      "var3": 7798,
+      "var4": 2875,
+      "var5": 2718,
+      "var6": 0,
+      "var7": 1240,
+      "var8": 965
+    },
+    {
+      "var1": 2024,
+      "var2": "Mai",
+      "var3": 10432,
+      "var4": 3898,
+      "var5": 3000,
+      "var6": 0,
+      "var7": 1963,
+      "var8": 1571
+    },
+    {
+      "var1": 2024,
+      "var2": "Juni",
+      "var3": 11111,
+      "var4": 2786,
+      "var5": 3000,
+      "var6": 0,
+      "var7": 4139,
+      "var8": 1186
+    },
+    {
+      "var1": 2024,
+      "var2": "Juli",
+      "var3": 8877,
+      "var4": 2687,
+      "var5": 2030,
+      "var6": 0,
+      "var7": 3138,
+      "var8": 1022
+    },
+    {
+      "var1": 2024,
+      "var2": "August",
+      "var3": 7190,
+      "var4": 2251,
+      "var5": 3213,
+      "var6": 0,
+      "var7": 848,
+      "var8": 878
+    },
+    {
+      "var1": 2024,
+      "var2": "September",
+      "var3": 8130,
+      "var4": 2420,
+      "var5": 3403,
+      "var6": 0,
+      "var7": 1090,
+      "var8": 1217
+    },
+    {
+      "var1": 2024,
+      "var2": "Oktober",
+      "var3": 9187,
+      "var4": 3311,
+      "var5": 3182,
+      "var6": 0,
+      "var7": 1394,
+      "var8": 1300
+    },
+    {
+      "var1": 2024,
+      "var2": "November",
+      "var3": 7037,
+      "var4": 2722,
+      "var5": 2722,
+      "var6": 0,
+      "var7": 439,
+      "var8": 1154
+    },
+    {
+      "var1": 2024,
+      "var2": "Dezember",
+      "var3": 5216,
+      "var4": 2163,
+      "var5": 1401,
+      "var6": 0,
+      "var7": 530,
+      "var8": 1122
+    },
+    {
+      "var1": 2024,
+      "var2": "gesamt",
+      "var3": 97738,
+      "var4": 36449,
+      "var5": 30310,
+      "var6": 0,
+      "var7": 17611,
+      "var8": 13368
+    },
+    {
+      "var1": 2025,
+      "var2": "Januar",
+      "var3": 8495,
+      "var4": 4828,
+      "var5": 1552,
+      "var6": 0,
+      "var7": 1248,
+      "var8": 867
+    },
+    {
+      "var1": 2025,
+      "var2": "Februar",
+      "var3": 7647,
+      "var4": 2685,
+      "var5": 3240,
+      "var6": 0,
+      "var7": 933,
+      "var8": 789
+    },
+    {
+      "var1": 2025,
+      "var2": "März",
+      "var3": 6847,
+      "var4": 3176,
+      "var5": 1933,
+      "var6": 0,
+      "var7": 823,
+      "var8": 915
+    },
+    {
+      "var1": 2025,
+      "var2": "April",
+      "var3": 7184,
+      "var4": 3167,
+      "var5": 2203,
+      "var6": 0,
+      "var7": 817,
+      "var8": 997
+    },
+    {
+      "var1": 2025,
+      "var2": "Mai",
+      "var3": 13655,
+      "var4": 4503,
+      "var5": 4444,
+      "var6": null,
+      "var7": 2114,
+      "var8": 2594
+    },
+    {
+      "var1": 2025,
+      "var2": "Juni",
+      "var3": 9947,
+      "var4": 2632,
+      "var5": 2911,
+      "var6": null,
+      "var7": 3224,
+      "var8": 1180
+    },
+    {
+      "var1": 2025,
+      "var2": "Juli",
+      "var3": 9851,
+      "var4": 3204,
+      "var5": 1918,
+      "var6": null,
+      "var7": 3576,
+      "var8": 1153
+    },
+    {
+      "var1": 2025,
+      "var2": "August",
+      "var3": 7645,
+      "var4": 2716,
+      "var5": 2705,
+      "var6": null,
+      "var7": 744,
+      "var8": 1480
+    },
+    {
+      "var1": 2025,
+      "var2": "September",
+      "var3": 7197,
+      "var4": 2136,
+      "var5": 3204,
+      "var6": null,
+      "var7": 733,
+      "var8": 1124
+    },
+    {
+      "var1": 2025,
+      "var2": "Oktober",
+      "var3": 10498,
+      "var4": 4010,
+      "var5": 3449,
+      "var6": null,
+      "var7": 1628,
+      "var8": 1411
+    },
+    {
+      "var1": 2025,
+      "var2": "November",
+      "var3": 7165,
+      "var4": 2860,
+      "var5": 2403,
+      "var6": null,
+      "var7": 850,
+      "var8": 1052
+    },
+    {
+      "var1": 2025,
+      "var2": "Dezember",
+      "var3": 4845,
+      "var4": 1933,
+      "var5": 1394,
+      "var6": null,
+      "var7": 691,
+      "var8": 827
+    },
+    {
+      "var1": 2025,
+      "var2": "gesamt",
+      "var3": 100981,
+      "var4": 37850,
+      "var5": 31356,
+      "var6": 0,
+      "var7": 17381,
+      "var8": 14394
+    }
+  ]
+}

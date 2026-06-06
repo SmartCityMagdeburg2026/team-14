@@ -1,0 +1,2038 @@
+{
+  "id": "energie-und-umwelt/erdgasversorgung-der-stadt-magdeburg",
+  "title": "Erdgasversorgung der Stadt Magdeburg",
+  "category": "Energie und Umwelt",
+  "subcategory": "Versorgung mit Strom, Wärme, Erdgas und Wasser",
+  "tableId": "QB_10",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/erdgasversorgung-der-stadt-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Erdgasversorgung der Stadt Magdeburg.xlsx"
+  },
+  "description": "Erdgasversorgung der Stadt Magdeburg, monatlich. var3 ist die Gesamtgasmenge; Einheit unsicher (LLM setzte \"kWh\", die Größenordnung deutet aber eher auf MWh oder eine andere Skalierung hin).",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1993,
+        1993,
+        1993
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Monat",
+      "unit": null,
+      "type": "string",
+      "role": "month_de",
+      "sample": [
+        "Januar",
+        "Februar",
+        "März"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Erdgasverbrauch",
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        324733,
+        200316,
+        89160
+      ]
+    }
+  ],
+  "rowCount": 396,
+  "rows": [
+    {
+      "var1": 1993,
+      "var2": "Januar",
+      "var3": null
+    },
+    {
+      "var1": 1993,
+      "var2": "Februar",
+      "var3": null
+    },
+    {
+      "var1": 1993,
+      "var2": "März",
+      "var3": 324733
+    },
+    {
+      "var1": 1993,
+      "var2": "April",
+      "var3": 200316
+    },
+    {
+      "var1": 1993,
+      "var2": "Mai",
+      "var3": 89160
+    },
+    {
+      "var1": 1993,
+      "var2": "Juni",
+      "var3": 76787
+    },
+    {
+      "var1": 1993,
+      "var2": "Juli",
+      "var3": 64657
+    },
+    {
+      "var1": 1993,
+      "var2": "August",
+      "var3": 66421
+    },
+    {
+      "var1": 1993,
+      "var2": "September",
+      "var3": 127951
+    },
+    {
+      "var1": 1993,
+      "var2": "Oktober",
+      "var3": 207145
+    },
+    {
+      "var1": 1993,
+      "var2": "November",
+      "var3": 356053
+    },
+    {
+      "var1": 1993,
+      "var2": "Dezember",
+      "var3": 364795
+    },
+    {
+      "var1": 1994,
+      "var2": "Januar",
+      "var3": 106839
+    },
+    {
+      "var1": 1994,
+      "var2": "Februar",
+      "var3": 113497
+    },
+    {
+      "var1": 1994,
+      "var2": "März",
+      "var3": 89449
+    },
+    {
+      "var1": 1994,
+      "var2": "April",
+      "var3": 66594
+    },
+    {
+      "var1": 1994,
+      "var2": "Mai",
+      "var3": 41210
+    },
+    {
+      "var1": 1994,
+      "var2": "Juni",
+      "var3": 29338
+    },
+    {
+      "var1": 1994,
+      "var2": "Juli",
+      "var3": 15664
+    },
+    {
+      "var1": 1994,
+      "var2": "August",
+      "var3": 19734
+    },
+    {
+      "var1": 1994,
+      "var2": "September",
+      "var3": 38961
+    },
+    {
+      "var1": 1994,
+      "var2": "Oktober",
+      "var3": 73842
+    },
+    {
+      "var1": 1994,
+      "var2": "November",
+      "var3": 77402
+    },
+    {
+      "var1": 1994,
+      "var2": "Dezember",
+      "var3": 96803
+    },
+    {
+      "var1": 1995,
+      "var2": "Januar",
+      "var3": 111758
+    },
+    {
+      "var1": 1995,
+      "var2": "Februar",
+      "var3": 85021
+    },
+    {
+      "var1": 1995,
+      "var2": "März",
+      "var3": 94280
+    },
+    {
+      "var1": 1995,
+      "var2": "April",
+      "var3": 66363
+    },
+    {
+      "var1": 1995,
+      "var2": "Mai",
+      "var3": 43026
+    },
+    {
+      "var1": 1995,
+      "var2": "Juni",
+      "var3": 30354
+    },
+    {
+      "var1": 1995,
+      "var2": "Juli",
+      "var3": 15172
+    },
+    {
+      "var1": 1995,
+      "var2": "August",
+      "var3": 16786
+    },
+    {
+      "var1": 1995,
+      "var2": "September",
+      "var3": 37291
+    },
+    {
+      "var1": 1995,
+      "var2": "Oktober",
+      "var3": 47384
+    },
+    {
+      "var1": 1995,
+      "var2": "November",
+      "var3": 89647
+    },
+    {
+      "var1": 1995,
+      "var2": "Dezember",
+      "var3": 118780
+    },
+    {
+      "var1": 1996,
+      "var2": "Januar",
+      "var3": 128355
+    },
+    {
+      "var1": 1996,
+      "var2": "Februar",
+      "var3": 112232
+    },
+    {
+      "var1": 1996,
+      "var2": "März",
+      "var3": 99212
+    },
+    {
+      "var1": 1996,
+      "var2": "April",
+      "var3": 56864
+    },
+    {
+      "var1": 1996,
+      "var2": "Mai",
+      "var3": 45698
+    },
+    {
+      "var1": 1996,
+      "var2": "Juni",
+      "var3": 22912
+    },
+    {
+      "var1": 1996,
+      "var2": "Juli",
+      "var3": 22164
+    },
+    {
+      "var1": 1996,
+      "var2": "August",
+      "var3": 16821
+    },
+    {
+      "var1": 1996,
+      "var2": "September",
+      "var3": 38523
+    },
+    {
+      "var1": 1996,
+      "var2": "Oktober",
+      "var3": 51714
+    },
+    {
+      "var1": 1996,
+      "var2": "November",
+      "var3": 72782
+    },
+    {
+      "var1": 1996,
+      "var2": "Dezember",
+      "var3": 106619
+    },
+    {
+      "var1": 1997,
+      "var2": "Januar",
+      "var3": 110485
+    },
+    {
+      "var1": 1997,
+      "var2": "Februar",
+      "var3": 69821
+    },
+    {
+      "var1": 1997,
+      "var2": "März",
+      "var3": 67521
+    },
+    {
+      "var1": 1997,
+      "var2": "April",
+      "var3": 58286
+    },
+    {
+      "var1": 1997,
+      "var2": "Mai",
+      "var3": 30568
+    },
+    {
+      "var1": 1997,
+      "var2": "Juni",
+      "var3": 18809
+    },
+    {
+      "var1": 1997,
+      "var2": "Juli",
+      "var3": 15492
+    },
+    {
+      "var1": 1997,
+      "var2": "August",
+      "var3": 12555
+    },
+    {
+      "var1": 1997,
+      "var2": "September",
+      "var3": 22720
+    },
+    {
+      "var1": 1997,
+      "var2": "Oktober",
+      "var3": 50021
+    },
+    {
+      "var1": 1997,
+      "var2": "November",
+      "var3": 71123
+    },
+    {
+      "var1": 1997,
+      "var2": "Dezember",
+      "var3": 83442
+    },
+    {
+      "var1": 1998,
+      "var2": "Januar",
+      "var3": 76698
+    },
+    {
+      "var1": 1998,
+      "var2": "Februar",
+      "var3": 60286
+    },
+    {
+      "var1": 1998,
+      "var2": "März",
+      "var3": 64344
+    },
+    {
+      "var1": 1998,
+      "var2": "April",
+      "var3": 40879
+    },
+    {
+      "var1": 1998,
+      "var2": "Mai",
+      "var3": 23974
+    },
+    {
+      "var1": 1998,
+      "var2": "Juni",
+      "var3": 15827
+    },
+    {
+      "var1": 1998,
+      "var2": "Juli",
+      "var3": 18170
+    },
+    {
+      "var1": 1998,
+      "var2": "August",
+      "var3": 15283
+    },
+    {
+      "var1": 1998,
+      "var2": "September",
+      "var3": 25183
+    },
+    {
+      "var1": 1998,
+      "var2": "Oktober",
+      "var3": 48679
+    },
+    {
+      "var1": 1998,
+      "var2": "November",
+      "var3": 73537
+    },
+    {
+      "var1": 1998,
+      "var2": "Dezember",
+      "var3": 81499
+    },
+    {
+      "var1": 1999,
+      "var2": "Januar",
+      "var3": 71237
+    },
+    {
+      "var1": 1999,
+      "var2": "Februar",
+      "var3": 73273
+    },
+    {
+      "var1": 1999,
+      "var2": "März",
+      "var3": 59697
+    },
+    {
+      "var1": 1999,
+      "var2": "April",
+      "var3": 38534
+    },
+    {
+      "var1": 1999,
+      "var2": "Mai",
+      "var3": 23514
+    },
+    {
+      "var1": 1999,
+      "var2": "Juni",
+      "var3": 15765
+    },
+    {
+      "var1": 1999,
+      "var2": "Juli",
+      "var3": 11660
+    },
+    {
+      "var1": 1999,
+      "var2": "August",
+      "var3": 12333
+    },
+    {
+      "var1": 1999,
+      "var2": "September",
+      "var3": 13684
+    },
+    {
+      "var1": 1999,
+      "var2": "Oktober",
+      "var3": 40606
+    },
+    {
+      "var1": 1999,
+      "var2": "November",
+      "var3": 61989
+    },
+    {
+      "var1": 1999,
+      "var2": "Dezember",
+      "var3": 71924
+    },
+    {
+      "var1": 2000,
+      "var2": "Januar",
+      "var3": 76178
+    },
+    {
+      "var1": 2000,
+      "var2": "Februar",
+      "var3": 60108
+    },
+    {
+      "var1": 2000,
+      "var2": "März",
+      "var3": 57857
+    },
+    {
+      "var1": 2000,
+      "var2": "April",
+      "var3": 36080
+    },
+    {
+      "var1": 2000,
+      "var2": "Mai",
+      "var3": 17858
+    },
+    {
+      "var1": 2000,
+      "var2": "Juni",
+      "var3": 14477
+    },
+    {
+      "var1": 2000,
+      "var2": "Juli",
+      "var3": 15986
+    },
+    {
+      "var1": 2000,
+      "var2": "August",
+      "var3": 12818
+    },
+    {
+      "var1": 2000,
+      "var2": "September",
+      "var3": 20464
+    },
+    {
+      "var1": 2000,
+      "var2": "Oktober",
+      "var3": 33652
+    },
+    {
+      "var1": 2000,
+      "var2": "November",
+      "var3": 51101
+    },
+    {
+      "var1": 2000,
+      "var2": "Dezember",
+      "var3": 65169
+    },
+    {
+      "var1": 2001,
+      "var2": "Januar",
+      "var3": 75821
+    },
+    {
+      "var1": 2001,
+      "var2": "Februar",
+      "var3": 62927
+    },
+    {
+      "var1": 2001,
+      "var2": "März",
+      "var3": 63521
+    },
+    {
+      "var1": 2001,
+      "var2": "April",
+      "var3": 42572
+    },
+    {
+      "var1": 2001,
+      "var2": "Mai",
+      "var3": 19731
+    },
+    {
+      "var1": 2001,
+      "var2": "Juni",
+      "var3": 19092
+    },
+    {
+      "var1": 2001,
+      "var2": "Juli",
+      "var3": 12151
+    },
+    {
+      "var1": 2001,
+      "var2": "August",
+      "var3": 11948
+    },
+    {
+      "var1": 2001,
+      "var2": "September",
+      "var3": 25931
+    },
+    {
+      "var1": 2001,
+      "var2": "Oktober",
+      "var3": 28769
+    },
+    {
+      "var1": 2001,
+      "var2": "November",
+      "var3": 54975
+    },
+    {
+      "var1": 2001,
+      "var2": "Dezember",
+      "var3": 76790
+    },
+    {
+      "var1": 2002,
+      "var2": "Januar",
+      "var3": 71077
+    },
+    {
+      "var1": 2002,
+      "var2": "Februar",
+      "var3": 50296
+    },
+    {
+      "var1": 2002,
+      "var2": "März",
+      "var3": 54317
+    },
+    {
+      "var1": 2002,
+      "var2": "April",
+      "var3": 39908
+    },
+    {
+      "var1": 2002,
+      "var2": "Mai",
+      "var3": 20183
+    },
+    {
+      "var1": 2002,
+      "var2": "Juni",
+      "var3": 14164
+    },
+    {
+      "var1": 2002,
+      "var2": "Juli",
+      "var3": 13267
+    },
+    {
+      "var1": 2002,
+      "var2": "August",
+      "var3": 10890
+    },
+    {
+      "var1": 2002,
+      "var2": "September",
+      "var3": 19197
+    },
+    {
+      "var1": 2002,
+      "var2": "Oktober",
+      "var3": 41745
+    },
+    {
+      "var1": 2002,
+      "var2": "November",
+      "var3": 53699
+    },
+    {
+      "var1": 2002,
+      "var2": "Dezember",
+      "var3": 78268
+    },
+    {
+      "var1": 2003,
+      "var2": "Januar",
+      "var3": 72772
+    },
+    {
+      "var1": 2003,
+      "var2": "Februar",
+      "var3": 69324
+    },
+    {
+      "var1": 2003,
+      "var2": "März",
+      "var3": 51979
+    },
+    {
+      "var1": 2003,
+      "var2": "April",
+      "var3": 35452
+    },
+    {
+      "var1": 2003,
+      "var2": "Mai",
+      "var3": 18438
+    },
+    {
+      "var1": 2003,
+      "var2": "Juni",
+      "var3": 10749
+    },
+    {
+      "var1": 2003,
+      "var2": "Juli",
+      "var3": 10599
+    },
+    {
+      "var1": 2003,
+      "var2": "August",
+      "var3": 10333
+    },
+    {
+      "var1": 2003,
+      "var2": "September",
+      "var3": 17258
+    },
+    {
+      "var1": 2003,
+      "var2": "Oktober",
+      "var3": 43847
+    },
+    {
+      "var1": 2003,
+      "var2": "November",
+      "var3": 46012
+    },
+    {
+      "var1": 2003,
+      "var2": "Dezember",
+      "var3": 60093
+    },
+    {
+      "var1": 2004,
+      "var2": "Januar",
+      "var3": 69336
+    },
+    {
+      "var1": 2004,
+      "var2": "Februar",
+      "var3": 54615
+    },
+    {
+      "var1": 2004,
+      "var2": "März",
+      "var3": 50529
+    },
+    {
+      "var1": 2004,
+      "var2": "April",
+      "var3": 30690
+    },
+    {
+      "var1": 2004,
+      "var2": "Mai",
+      "var3": 23075
+    },
+    {
+      "var1": 2004,
+      "var2": "Juni",
+      "var3": 14305
+    },
+    {
+      "var1": 2004,
+      "var2": "Juli",
+      "var3": 12783
+    },
+    {
+      "var1": 2004,
+      "var2": "August",
+      "var3": 10536
+    },
+    {
+      "var1": 2004,
+      "var2": "September",
+      "var3": 16573
+    },
+    {
+      "var1": 2004,
+      "var2": "Oktober",
+      "var3": 31185
+    },
+    {
+      "var1": 2004,
+      "var2": "November",
+      "var3": 48334
+    },
+    {
+      "var1": 2004,
+      "var2": "Dezember",
+      "var3": 60455
+    },
+    {
+      "var1": 2005,
+      "var2": "Januar",
+      "var3": 58878
+    },
+    {
+      "var1": 2005,
+      "var2": "Februar",
+      "var3": 61511
+    },
+    {
+      "var1": 2005,
+      "var2": "März",
+      "var3": 51918
+    },
+    {
+      "var1": 2005,
+      "var2": "April",
+      "var3": 28587
+    },
+    {
+      "var1": 2005,
+      "var2": "Mai",
+      "var3": 19023
+    },
+    {
+      "var1": 2005,
+      "var2": "Juni",
+      "var3": 13775
+    },
+    {
+      "var1": 2005,
+      "var2": "Juli",
+      "var3": 10678
+    },
+    {
+      "var1": 2005,
+      "var2": "August",
+      "var3": 11951
+    },
+    {
+      "var1": 2005,
+      "var2": "September",
+      "var3": 13806
+    },
+    {
+      "var1": 2005,
+      "var2": "Oktober",
+      "var3": 25992
+    },
+    {
+      "var1": 2005,
+      "var2": "November",
+      "var3": 44695
+    },
+    {
+      "var1": 2005,
+      "var2": "Dezember",
+      "var3": 60939
+    },
+    {
+      "var1": 2006,
+      "var2": "Januar",
+      "var3": 72747
+    },
+    {
+      "var1": 2006,
+      "var2": "Februar",
+      "var3": 58017
+    },
+    {
+      "var1": 2006,
+      "var2": "März",
+      "var3": 62565
+    },
+    {
+      "var1": 2006,
+      "var2": "April",
+      "var3": 31025
+    },
+    {
+      "var1": 2006,
+      "var2": "Mai",
+      "var3": 17415
+    },
+    {
+      "var1": 2006,
+      "var2": "Juni",
+      "var3": 13158
+    },
+    {
+      "var1": 2006,
+      "var2": "Juli",
+      "var3": 8313
+    },
+    {
+      "var1": 2006,
+      "var2": "August",
+      "var3": 10797
+    },
+    {
+      "var1": 2006,
+      "var2": "September",
+      "var3": 10607
+    },
+    {
+      "var1": 2006,
+      "var2": "Oktober",
+      "var3": 20592
+    },
+    {
+      "var1": 2006,
+      "var2": "November",
+      "var3": 35506
+    },
+    {
+      "var1": 2006,
+      "var2": "Dezember",
+      "var3": 47281
+    },
+    {
+      "var1": 2007,
+      "var2": "Januar",
+      "var3": 45843
+    },
+    {
+      "var1": 2007,
+      "var2": "Februar",
+      "var3": 48726
+    },
+    {
+      "var1": 2007,
+      "var2": "März",
+      "var3": 37282
+    },
+    {
+      "var1": 2007,
+      "var2": "April",
+      "var3": 23575
+    },
+    {
+      "var1": 2007,
+      "var2": "Mai",
+      "var3": 14541
+    },
+    {
+      "var1": 2007,
+      "var2": "Juni",
+      "var3": 10521
+    },
+    {
+      "var1": 2007,
+      "var2": "Juli",
+      "var3": 10446
+    },
+    {
+      "var1": 2007,
+      "var2": "August",
+      "var3": 10690
+    },
+    {
+      "var1": 2007,
+      "var2": "September",
+      "var3": 16324
+    },
+    {
+      "var1": 2007,
+      "var2": "Oktober",
+      "var3": 32002
+    },
+    {
+      "var1": 2007,
+      "var2": "November",
+      "var3": 46381
+    },
+    {
+      "var1": 2007,
+      "var2": "Dezember",
+      "var3": 58723
+    },
+    {
+      "var1": 2008,
+      "var2": "Januar",
+      "var3": 49005
+    },
+    {
+      "var1": 2008,
+      "var2": "Februar",
+      "var3": 43962
+    },
+    {
+      "var1": 2008,
+      "var2": "März",
+      "var3": 44602
+    },
+    {
+      "var1": 2008,
+      "var2": "April",
+      "var3": 32207
+    },
+    {
+      "var1": 2008,
+      "var2": "Mai",
+      "var3": 14007
+    },
+    {
+      "var1": 2008,
+      "var2": "Juni",
+      "var3": 10235
+    },
+    {
+      "var1": 2008,
+      "var2": "Juli",
+      "var3": 10263
+    },
+    {
+      "var1": 2008,
+      "var2": "August",
+      "var3": 9194
+    },
+    {
+      "var1": 2008,
+      "var2": "September",
+      "var3": 17688
+    },
+    {
+      "var1": 2008,
+      "var2": "Oktober",
+      "var3": 27590
+    },
+    {
+      "var1": 2008,
+      "var2": "November",
+      "var3": 42158
+    },
+    {
+      "var1": 2008,
+      "var2": "Dezember",
+      "var3": 55968
+    },
+    {
+      "var1": 2009,
+      "var2": "Januar",
+      "var3": 67569
+    },
+    {
+      "var1": 2009,
+      "var2": "Februar",
+      "var3": 53931
+    },
+    {
+      "var1": 2009,
+      "var2": "März",
+      "var3": 45273
+    },
+    {
+      "var1": 2009,
+      "var2": "April",
+      "var3": 19092
+    },
+    {
+      "var1": 2009,
+      "var2": "Mai",
+      "var3": 15616
+    },
+    {
+      "var1": 2009,
+      "var2": "Juni",
+      "var3": 12852
+    },
+    {
+      "var1": 2009,
+      "var2": "Juli",
+      "var3": 9453
+    },
+    {
+      "var1": 2009,
+      "var2": "August",
+      "var3": 9598
+    },
+    {
+      "var1": 2009,
+      "var2": "September",
+      "var3": 12405
+    },
+    {
+      "var1": 2009,
+      "var2": "Oktober",
+      "var3": 33482
+    },
+    {
+      "var1": 2009,
+      "var2": "November",
+      "var3": 36468
+    },
+    {
+      "var1": 2009,
+      "var2": "Dezember",
+      "var3": 59478
+    },
+    {
+      "var1": 2010,
+      "var2": "Januar",
+      "var3": 76176
+    },
+    {
+      "var1": 2010,
+      "var2": "Februar",
+      "var3": 59517
+    },
+    {
+      "var1": 2010,
+      "var2": "März",
+      "var3": 45806
+    },
+    {
+      "var1": 2010,
+      "var2": "April",
+      "var3": 27985
+    },
+    {
+      "var1": 2010,
+      "var2": "Mai",
+      "var3": 24307
+    },
+    {
+      "var1": 2010,
+      "var2": "Juni",
+      "var3": 12246
+    },
+    {
+      "var1": 2010,
+      "var2": "Juli",
+      "var3": 7878
+    },
+    {
+      "var1": 2010,
+      "var2": "August",
+      "var3": 10448
+    },
+    {
+      "var1": 2010,
+      "var2": "September",
+      "var3": 18157
+    },
+    {
+      "var1": 2010,
+      "var2": "Oktober",
+      "var3": 31297
+    },
+    {
+      "var1": 2010,
+      "var2": "November",
+      "var3": 44800
+    },
+    {
+      "var1": 2010,
+      "var2": "Dezember",
+      "var3": 75532
+    },
+    {
+      "var1": 2011,
+      "var2": "Januar",
+      "var3": 57766
+    },
+    {
+      "var1": 2011,
+      "var2": "Februar",
+      "var3": 53450
+    },
+    {
+      "var1": 2011,
+      "var2": "März",
+      "var3": 41281
+    },
+    {
+      "var1": 2011,
+      "var2": "April",
+      "var3": 21780
+    },
+    {
+      "var1": 2011,
+      "var2": "Mai",
+      "var3": 15122
+    },
+    {
+      "var1": 2011,
+      "var2": "Juni",
+      "var3": 9803
+    },
+    {
+      "var1": 2011,
+      "var2": "Juli",
+      "var3": 11401
+    },
+    {
+      "var1": 2011,
+      "var2": "August",
+      "var3": 10448
+    },
+    {
+      "var1": 2011,
+      "var2": "September",
+      "var3": 12261
+    },
+    {
+      "var1": 2011,
+      "var2": "Oktober",
+      "var3": 26135
+    },
+    {
+      "var1": 2011,
+      "var2": "November",
+      "var3": 43582
+    },
+    {
+      "var1": 2011,
+      "var2": "Dezember",
+      "var3": 46826
+    },
+    {
+      "var1": 2012,
+      "var2": "Januar",
+      "var3": 55439
+    },
+    {
+      "var1": 2012,
+      "var2": "Februar",
+      "var3": 60327
+    },
+    {
+      "var1": 2012,
+      "var2": "März",
+      "var3": 35761
+    },
+    {
+      "var1": 2012,
+      "var2": "April",
+      "var3": 28810
+    },
+    {
+      "var1": 2012,
+      "var2": "Mai",
+      "var3": 11298
+    },
+    {
+      "var1": 2012,
+      "var2": "Juni",
+      "var3": 16186
+    },
+    {
+      "var1": 2012,
+      "var2": "Juli",
+      "var3": 10877
+    },
+    {
+      "var1": 2012,
+      "var2": "August",
+      "var3": 9405
+    },
+    {
+      "var1": 2012,
+      "var2": "September",
+      "var3": 14293
+    },
+    {
+      "var1": 2012,
+      "var2": "Oktober",
+      "var3": 27151
+    },
+    {
+      "var1": 2012,
+      "var2": "November",
+      "var3": 39916
+    },
+    {
+      "var1": 2012,
+      "var2": "Dezember",
+      "var3": 56640
+    },
+    {
+      "var1": 2013,
+      "var2": "Januar",
+      "var3": 60695
+    },
+    {
+      "var1": 2013,
+      "var2": "Februar",
+      "var3": 53820
+    },
+    {
+      "var1": 2013,
+      "var2": "März",
+      "var3": 59520
+    },
+    {
+      "var1": 2013,
+      "var2": "April",
+      "var3": 31703
+    },
+    {
+      "var1": 2013,
+      "var2": "Mai",
+      "var3": 17801
+    },
+    {
+      "var1": 2013,
+      "var2": "Juni",
+      "var3": 11310
+    },
+    {
+      "var1": 2013,
+      "var2": "Juli",
+      "var3": 12827
+    },
+    {
+      "var1": 2013,
+      "var2": "August",
+      "var3": 11915
+    },
+    {
+      "var1": 2013,
+      "var2": "September",
+      "var3": 19195
+    },
+    {
+      "var1": 2013,
+      "var2": "Oktober",
+      "var3": 28049
+    },
+    {
+      "var1": 2013,
+      "var2": "November",
+      "var3": 44060
+    },
+    {
+      "var1": 2013,
+      "var2": "Dezember",
+      "var3": 50720
+    },
+    {
+      "var1": 2014,
+      "var2": "Januar",
+      "var3": 59946
+    },
+    {
+      "var1": 2014,
+      "var2": "Februar",
+      "var3": 44488
+    },
+    {
+      "var1": 2014,
+      "var2": "März",
+      "var3": 38357
+    },
+    {
+      "var1": 2014,
+      "var2": "April",
+      "var3": 23187
+    },
+    {
+      "var1": 2014,
+      "var2": "Mai",
+      "var3": 20916
+    },
+    {
+      "var1": 2014,
+      "var2": "Juni",
+      "var3": 15783
+    },
+    {
+      "var1": 2014,
+      "var2": "Juli",
+      "var3": 10751
+    },
+    {
+      "var1": 2014,
+      "var2": "August",
+      "var3": 13145
+    },
+    {
+      "var1": 2014,
+      "var2": "September",
+      "var3": 16452
+    },
+    {
+      "var1": 2014,
+      "var2": "Oktober",
+      "var3": 23240
+    },
+    {
+      "var1": 2014,
+      "var2": "November",
+      "var3": 39393
+    },
+    {
+      "var1": 2014,
+      "var2": "Dezember",
+      "var3": 54845
+    },
+    {
+      "var1": 2015,
+      "var2": "Januar",
+      "var3": 54478
+    },
+    {
+      "var1": 2015,
+      "var2": "Februar",
+      "var3": 54204
+    },
+    {
+      "var1": 2015,
+      "var2": "März",
+      "var3": 45472
+    },
+    {
+      "var1": 2015,
+      "var2": "April",
+      "var3": 31279
+    },
+    {
+      "var1": 2015,
+      "var2": "Mai",
+      "var3": 21029
+    },
+    {
+      "var1": 2015,
+      "var2": "Juni",
+      "var3": 15213
+    },
+    {
+      "var1": 2015,
+      "var2": "Juli",
+      "var3": 11017
+    },
+    {
+      "var1": 2015,
+      "var2": "August",
+      "var3": 11870
+    },
+    {
+      "var1": 2015,
+      "var2": "September",
+      "var3": 19825
+    },
+    {
+      "var1": 2015,
+      "var2": "Oktober",
+      "var3": 36474
+    },
+    {
+      "var1": 2015,
+      "var2": "November",
+      "var3": 39005
+    },
+    {
+      "var1": 2015,
+      "var2": "Dezember",
+      "var3": 40623
+    },
+    {
+      "var1": 2016,
+      "var2": "Januar",
+      "var3": 62757
+    },
+    {
+      "var1": 2016,
+      "var2": "Februar",
+      "var3": 50325
+    },
+    {
+      "var1": 2016,
+      "var2": "März",
+      "var3": 47711
+    },
+    {
+      "var1": 2016,
+      "var2": "April",
+      "var3": 30824
+    },
+    {
+      "var1": 2016,
+      "var2": "Mai",
+      "var3": 19277
+    },
+    {
+      "var1": 2016,
+      "var2": "Juni",
+      "var3": 13404
+    },
+    {
+      "var1": 2016,
+      "var2": "Juli",
+      "var3": 12054
+    },
+    {
+      "var1": 2016,
+      "var2": "August",
+      "var3": 13330
+    },
+    {
+      "var1": 2016,
+      "var2": "September",
+      "var3": 12949
+    },
+    {
+      "var1": 2016,
+      "var2": "Oktober",
+      "var3": 33483
+    },
+    {
+      "var1": 2016,
+      "var2": "November",
+      "var3": 49106
+    },
+    {
+      "var1": 2016,
+      "var2": "Dezember",
+      "var3": 53269
+    },
+    {
+      "var1": 2017,
+      "var2": "Januar",
+      "var3": 67445
+    },
+    {
+      "var1": 2017,
+      "var2": "Februar",
+      "var3": 52230
+    },
+    {
+      "var1": 2017,
+      "var2": "März",
+      "var3": 41578
+    },
+    {
+      "var1": 2017,
+      "var2": "April",
+      "var3": 33907
+    },
+    {
+      "var1": 2017,
+      "var2": "Mai",
+      "var3": 25740
+    },
+    {
+      "var1": 2017,
+      "var2": "Juni",
+      "var3": 15936
+    },
+    {
+      "var1": 2017,
+      "var2": "Juli",
+      "var3": 12587
+    },
+    {
+      "var1": 2017,
+      "var2": "August",
+      "var3": 14241
+    },
+    {
+      "var1": 2017,
+      "var2": "September",
+      "var3": 18858
+    },
+    {
+      "var1": 2017,
+      "var2": "Oktober",
+      "var3": 28285
+    },
+    {
+      "var1": 2017,
+      "var2": "November",
+      "var3": 45675
+    },
+    {
+      "var1": 2017,
+      "var2": "Dezember",
+      "var3": 57280
+    },
+    {
+      "var1": 2018,
+      "var2": "Januar",
+      "var3": 58595
+    },
+    {
+      "var1": 2018,
+      "var2": "Februar",
+      "var3": 58236
+    },
+    {
+      "var1": 2018,
+      "var2": "März",
+      "var3": 58712
+    },
+    {
+      "var1": 2018,
+      "var2": "April",
+      "var3": 25596
+    },
+    {
+      "var1": 2018,
+      "var2": "Mai",
+      "var3": 16860
+    },
+    {
+      "var1": 2018,
+      "var2": "Juni",
+      "var3": 12718
+    },
+    {
+      "var1": 2018,
+      "var2": "Juli",
+      "var3": 12039
+    },
+    {
+      "var1": 2018,
+      "var2": "August",
+      "var3": 11456
+    },
+    {
+      "var1": 2018,
+      "var2": "September",
+      "var3": 15300
+    },
+    {
+      "var1": 2018,
+      "var2": "Oktober",
+      "var3": 27993
+    },
+    {
+      "var1": 2018,
+      "var2": "November",
+      "var3": 46304
+    },
+    {
+      "var1": 2018,
+      "var2": "Dezember",
+      "var3": 50888
+    },
+    {
+      "var1": 2019,
+      "var2": "Januar",
+      "var3": 61031
+    },
+    {
+      "var1": 2019,
+      "var2": "Februar",
+      "var3": 46373
+    },
+    {
+      "var1": 2019,
+      "var2": "März",
+      "var3": 41405
+    },
+    {
+      "var1": 2019,
+      "var2": "April",
+      "var3": 28614
+    },
+    {
+      "var1": 2019,
+      "var2": "Mai",
+      "var3": 23953
+    },
+    {
+      "var1": 2019,
+      "var2": "Juni",
+      "var3": 11313
+    },
+    {
+      "var1": 2019,
+      "var2": "Juli",
+      "var3": 11794
+    },
+    {
+      "var1": 2019,
+      "var2": "August",
+      "var3": 11977
+    },
+    {
+      "var1": 2019,
+      "var2": "September",
+      "var3": 16960
+    },
+    {
+      "var1": 2019,
+      "var2": "Oktober",
+      "var3": 27235
+    },
+    {
+      "var1": 2019,
+      "var2": "November",
+      "var3": 45737
+    },
+    {
+      "var1": 2019,
+      "var2": "Dezember",
+      "var3": 51432
+    },
+    {
+      "var1": 2020,
+      "var2": "Januar",
+      "var3": 53642
+    },
+    {
+      "var1": 2020,
+      "var2": "Februar",
+      "var3": 44486
+    },
+    {
+      "var1": 2020,
+      "var2": "März",
+      "var3": 44751
+    },
+    {
+      "var1": 2020,
+      "var2": "April",
+      "var3": 26517
+    },
+    {
+      "var1": 2020,
+      "var2": "Mai",
+      "var3": 21935
+    },
+    {
+      "var1": 2020,
+      "var2": "Juni",
+      "var3": 13809
+    },
+    {
+      "var1": 2020,
+      "var2": "Juli",
+      "var3": 14239
+    },
+    {
+      "var1": 2020,
+      "var2": "August",
+      "var3": 12751
+    },
+    {
+      "var1": 2020,
+      "var2": "September",
+      "var3": 15802
+    },
+    {
+      "var1": 2020,
+      "var2": "Oktober",
+      "var3": 30550
+    },
+    {
+      "var1": 2020,
+      "var2": "November",
+      "var3": 41330
+    },
+    {
+      "var1": 2020,
+      "var2": "Dezember",
+      "var3": 55937
+    },
+    {
+      "var1": 2021,
+      "var2": "Januar",
+      "var3": 62289
+    },
+    {
+      "var1": 2021,
+      "var2": "Februar",
+      "var3": 56781
+    },
+    {
+      "var1": 2021,
+      "var2": "März",
+      "var3": 46587
+    },
+    {
+      "var1": 2021,
+      "var2": "April",
+      "var3": 39656
+    },
+    {
+      "var1": 2021,
+      "var2": "Mai",
+      "var3": 25143
+    },
+    {
+      "var1": 2021,
+      "var2": "Juni",
+      "var3": 15589
+    },
+    {
+      "var1": 2021,
+      "var2": "Juli",
+      "var3": 13947
+    },
+    {
+      "var1": 2021,
+      "var2": "August",
+      "var3": 13422
+    },
+    {
+      "var1": 2021,
+      "var2": "September",
+      "var3": 16465
+    },
+    {
+      "var1": 2021,
+      "var2": "Oktober",
+      "var3": 30758
+    },
+    {
+      "var1": 2021,
+      "var2": "November",
+      "var3": 45880
+    },
+    {
+      "var1": 2021,
+      "var2": "Dezember",
+      "var3": 61492
+    },
+    {
+      "var1": 2022,
+      "var2": "Januar",
+      "var3": 57450
+    },
+    {
+      "var1": 2022,
+      "var2": "Februar",
+      "var3": 51242
+    },
+    {
+      "var1": 2022,
+      "var2": "März",
+      "var3": 48716
+    },
+    {
+      "var1": 2022,
+      "var2": "April",
+      "var3": 37849
+    },
+    {
+      "var1": 2022,
+      "var2": "Mai",
+      "var3": 18187
+    },
+    {
+      "var1": 2022,
+      "var2": "Juni",
+      "var3": 15932
+    },
+    {
+      "var1": 2022,
+      "var2": "Juli",
+      "var3": 10557.14
+    },
+    {
+      "var1": 2022,
+      "var2": "August",
+      "var3": 10362.6
+    },
+    {
+      "var1": 2022,
+      "var2": "September",
+      "var3": 17345.1
+    },
+    {
+      "var1": 2022,
+      "var2": "Oktober",
+      "var3": 23768.8
+    },
+    {
+      "var1": 2022,
+      "var2": "November",
+      "var3": 43250.4
+    },
+    {
+      "var1": 2022,
+      "var2": "Dezember",
+      "var3": 60565
+    },
+    {
+      "var1": 2023,
+      "var2": "Januar",
+      "var3": 53430
+    },
+    {
+      "var1": 2023,
+      "var2": "Februar",
+      "var3": 50683
+    },
+    {
+      "var1": 2023,
+      "var2": "März",
+      "var3": 47780
+    },
+    {
+      "var1": 2023,
+      "var2": "April",
+      "var3": 36019
+    },
+    {
+      "var1": 2023,
+      "var2": "Mai",
+      "var3": 20866
+    },
+    {
+      "var1": 2023,
+      "var2": "Juni",
+      "var3": 12632
+    },
+    {
+      "var1": 2023,
+      "var2": "Juli",
+      "var3": 10760
+    },
+    {
+      "var1": 2023,
+      "var2": "August",
+      "var3": 12509
+    },
+    {
+      "var1": 2023,
+      "var2": "September",
+      "var3": 13085
+    },
+    {
+      "var1": 2023,
+      "var2": "Oktober",
+      "var3": 26340
+    },
+    {
+      "var1": 2023,
+      "var2": "November",
+      "var3": 46858.52
+    },
+    {
+      "var1": 2023,
+      "var2": "Dezember",
+      "var3": 59478
+    },
+    {
+      "var1": 2024,
+      "var2": "Januar",
+      "var3": 66987
+    },
+    {
+      "var1": 2024,
+      "var2": "Februar",
+      "var3": 44515
+    },
+    {
+      "var1": 2024,
+      "var2": "März",
+      "var3": 42511
+    },
+    {
+      "var1": 2024,
+      "var2": "April",
+      "var3": 28615
+    },
+    {
+      "var1": 2024,
+      "var2": "Mai",
+      "var3": 16844
+    },
+    {
+      "var1": 2024,
+      "var2": "Juni",
+      "var3": 13620.1
+    },
+    {
+      "var1": 2024,
+      "var2": "Juli",
+      "var3": 13128.4
+    },
+    {
+      "var1": 2024,
+      "var2": "August",
+      "var3": 11359
+    },
+    {
+      "var1": 2024,
+      "var2": "September",
+      "var3": 14657.88
+    },
+    {
+      "var1": 2024,
+      "var2": "Oktober",
+      "var3": 29750.1
+    },
+    {
+      "var1": 2024,
+      "var2": "November",
+      "var3": 50188.2
+    },
+    {
+      "var1": 2024,
+      "var2": "Dezember",
+      "var3": 56132.71
+    },
+    {
+      "var1": 2025,
+      "var2": "Januar",
+      "var3": 68713.332
+    },
+    {
+      "var1": 2025,
+      "var2": "Februar",
+      "var3": 59285.49765
+    },
+    {
+      "var1": 2025,
+      "var2": "März",
+      "var3": 45719.46
+    },
+    {
+      "var1": 2025,
+      "var2": "April",
+      "var3": 99977.198
+    },
+    {
+      "var1": 2025,
+      "var2": "Mai",
+      "var3": 66182.35363
+    },
+    {
+      "var1": 2025,
+      "var2": "Juni",
+      "var3": 38045.089715
+    },
+    {
+      "var1": 2025,
+      "var2": "Juli",
+      "var3": 36002.85
+    },
+    {
+      "var1": 2025,
+      "var2": "August",
+      "var3": 54077.95
+    },
+    {
+      "var1": 2025,
+      "var2": "September",
+      "var3": 66640.204663
+    },
+    {
+      "var1": 2025,
+      "var2": "Oktober",
+      "var3": 125635.160708
+    },
+    {
+      "var1": 2025,
+      "var2": "November",
+      "var3": 175051.271907
+    },
+    {
+      "var1": 2025,
+      "var2": "Dezember",
+      "var3": 210902.653
+    }
+  ]
+}

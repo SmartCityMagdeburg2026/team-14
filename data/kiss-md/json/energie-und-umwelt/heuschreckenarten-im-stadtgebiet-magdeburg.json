@@ -1,0 +1,112 @@
+{
+  "id": "energie-und-umwelt/heuschreckenarten-im-stadtgebiet-magdeburg",
+  "title": "Heuschreckenarten im Stadtgebiet Magdeburg",
+  "category": "Energie und Umwelt",
+  "subcategory": "Schutzobjekte im Stadtkreis Magdeburg",
+  "tableId": "K9_T45",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/heuschreckenarten-im-stadtgebiet-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Heuschreckenarten im Stadtgebiet Magdeburg.xlsx"
+  },
+  "description": "Diese Tabelle listet verschiedene Arten von Heuschrecken im Stadtgebiet Magdeburg auf, die hinsichtlich ihres Schutzstatus bewertet wurden.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2019,
+        2019,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Schutzstatus",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Arten der Vorwarnliste",
+        "Arten der Vorwarnliste",
+        "gefährdet"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Wissenschaftlicher Name",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Oedipoda caerulescens",
+        "Omocesthus haemorrhoidalis",
+        "Leptophyes albovittata"
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Deutsche Bezeichnung",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Blauflügelige Ödlandschrecke",
+        "Rotleibiger Grashüpfer",
+        "Gestreifte Zartschrecke"
+      ]
+    }
+  ],
+  "rowCount": 7,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Oedipoda caerulescens",
+      "var4": "Blauflügelige Ödlandschrecke"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Omocesthus haemorrhoidalis",
+      "var4": "Rotleibiger Grashüpfer"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Leptophyes albovittata",
+      "var4": "Gestreifte Zartschrecke"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Conocephalus dorsalis",
+      "var4": "Kurzflügelige Schwertschrecke"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Chorthippus montanus",
+      "var4": "Sumpfgrashüpfer"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Stethophyma grossum",
+      "var4": "Sumpfschrecke"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Tetrix ceperoi",
+      "var4": "Westliche Dornschrecke"
+    }
+  ]
+}

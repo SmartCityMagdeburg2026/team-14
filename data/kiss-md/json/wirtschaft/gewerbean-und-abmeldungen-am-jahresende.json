@@ -1,0 +1,184 @@
+{
+  "id": "wirtschaft/gewerbean-und-abmeldungen-am-jahresende",
+  "title": "Gewerbean- und abmeldungen am Jahresende",
+  "category": "Wirtschaft",
+  "subcategory": "Gewerbean- und abmeldungen",
+  "tableId": "K7_T1a",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/gewerbean-und-abmeldungen-am-jahresende.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Gewerbean- und abmeldungen am Jahresende.xlsx"
+  },
+  "description": "Gewerbean- und abmeldungen am Jahresende. var4 = Saldo, war aber nicht eindeutig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Gewerbeanmeldungen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2490,
+        2571,
+        2181
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Gewerbeabmeldungen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2171,
+        2057,
+        1934
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        319,
+        514,
+        247
+      ]
+    }
+  ],
+  "rowCount": 19,
+  "rows": [
+    {
+      "var1": 2005,
+      "var2": 2490,
+      "var3": 2171,
+      "var4": 319
+    },
+    {
+      "var1": 2006,
+      "var2": 2571,
+      "var3": 2057,
+      "var4": 514
+    },
+    {
+      "var1": 2007,
+      "var2": 2181,
+      "var3": 1934,
+      "var4": 247
+    },
+    {
+      "var1": 2008,
+      "var2": 2328,
+      "var3": 2026,
+      "var4": 302
+    },
+    {
+      "var1": 2009,
+      "var2": 2328,
+      "var3": 2070,
+      "var4": 258
+    },
+    {
+      "var1": 2010,
+      "var2": 2255,
+      "var3": 1954,
+      "var4": 301
+    },
+    {
+      "var1": 2011,
+      "var2": 2111,
+      "var3": 1957,
+      "var4": 154
+    },
+    {
+      "var1": 2012,
+      "var2": 1912,
+      "var3": 1989,
+      "var4": -77
+    },
+    {
+      "var1": 2013,
+      "var2": 1918,
+      "var3": 1929,
+      "var4": -11
+    },
+    {
+      "var1": 2014,
+      "var2": 1901,
+      "var3": 1653,
+      "var4": 248
+    },
+    {
+      "var1": 2015,
+      "var2": 1885,
+      "var3": 1766,
+      "var4": 119
+    },
+    {
+      "var1": 2016,
+      "var2": 1705,
+      "var3": 1888,
+      "var4": -183
+    },
+    {
+      "var1": 2017,
+      "var2": 1625,
+      "var3": 1736,
+      "var4": -111
+    },
+    {
+      "var1": 2018,
+      "var2": 1434,
+      "var3": 1787,
+      "var4": -353
+    },
+    {
+      "var1": 2019,
+      "var2": 1456,
+      "var3": 1620,
+      "var4": -164
+    },
+    {
+      "var1": 2020,
+      "var2": 1411,
+      "var3": 1530,
+      "var4": -119
+    },
+    {
+      "var1": 2021,
+      "var2": 1483,
+      "var3": 1431,
+      "var4": 52
+    },
+    {
+      "var1": 2022,
+      "var2": 1550,
+      "var3": 1530,
+      "var4": 20
+    },
+    {
+      "var1": 2023,
+      "var2": 1469,
+      "var3": 1398,
+      "var4": 71
+    }
+  ]
+}

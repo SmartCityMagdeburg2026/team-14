@@ -1,0 +1,222 @@
+{
+  "id": "oeffentliche-ordnung/geschaeftsanfall-der-gerichte",
+  "title": "Geschäftsanfall der Gerichte",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Gerichtsbarkeit",
+  "tableId": "K11_T8",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/geschaeftsanfall-der-gerichte.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Geschäftsanfall der Gerichte .xlsx"
+  },
+  "description": "Geschäftsanfall der Gerichte (anhängig zum Jahresbeginn / Neueingänge / Erledigungen). var3..var5 entsprechen Gerichtstypen (Amtsgericht/Landgericht/Verwaltungsgericht etc.), Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2020,
+        2020,
+        2020
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Status der Verfahren",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "anhängig am  01.01. des Jahres",
+        "Neueingänge im Jahr",
+        "Erledigungen im Jahr"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2846,
+        3105,
+        3254
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1852,
+        3621,
+        3747
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        16303,
+        7086,
+        6445
+      ]
+    }
+  ],
+  "rowCount": 20,
+  "rows": [
+    {
+      "var1": 2020,
+      "var2": "anhängig am  01.01. des Jahres",
+      "var3": 2846,
+      "var4": 1852,
+      "var5": 16303
+    },
+    {
+      "var1": 2020,
+      "var2": "Neueingänge im Jahr",
+      "var3": 3105,
+      "var4": 3621,
+      "var5": 7086
+    },
+    {
+      "var1": 2020,
+      "var2": "Erledigungen im Jahr",
+      "var3": 3254,
+      "var4": 3747,
+      "var5": 6445
+    },
+    {
+      "var1": 2020,
+      "var2": "noch anhängig am  31.12. des Jahres",
+      "var3": 2697,
+      "var4": 1726,
+      "var5": 16944
+    },
+    {
+      "var1": 2021,
+      "var2": "anhängig am  01.01. des Jahres",
+      "var3": 2697,
+      "var4": 1726,
+      "var5": 16944
+    },
+    {
+      "var1": 2021,
+      "var2": "Neueingänge im Jahr",
+      "var3": 2440,
+      "var4": 2599,
+      "var5": 6208
+    },
+    {
+      "var1": 2021,
+      "var2": "Erledigungen im Jahr",
+      "var3": 2791,
+      "var4": 3014,
+      "var5": 7339
+    },
+    {
+      "var1": 2021,
+      "var2": "noch anhängig am  31.12. des Jahres",
+      "var3": 2346,
+      "var4": 1311,
+      "var5": 15813
+    },
+    {
+      "var1": 2022,
+      "var2": "anhängig am Beginn 01.01.2022",
+      "var3": 2346,
+      "var4": 1312,
+      "var5": 15813
+    },
+    {
+      "var1": 2022,
+      "var2": "Neueingänge 2022",
+      "var3": 2276,
+      "var4": 2471,
+      "var5": 4063
+    },
+    {
+      "var1": 2022,
+      "var2": "Erledigungen 2022",
+      "var3": 2801,
+      "var4": 2475,
+      "var5": 7343
+    },
+    {
+      "var1": 2022,
+      "var2": "noch anhängig am  31.12.2022",
+      "var3": 1821,
+      "var4": 1308,
+      "var5": 12533
+    },
+    {
+      "var1": 2023,
+      "var2": "anhängig am Beginn 01.01.2023",
+      "var3": 1822,
+      "var4": 1308,
+      "var5": 12533
+    },
+    {
+      "var1": 2023,
+      "var2": "Neueingänge 2023",
+      "var3": 2589,
+      "var4": 2950,
+      "var5": 3428
+    },
+    {
+      "var1": 2023,
+      "var2": "Erledigungen 2023",
+      "var3": 2789,
+      "var4": 2656,
+      "var5": 6164
+    },
+    {
+      "var1": 2023,
+      "var2": "noch anhängig am  31.12.2023",
+      "var3": 1622,
+      "var4": 1602,
+      "var5": 9797
+    },
+    {
+      "var1": 2024,
+      "var2": "anhängig am Beginn 01.01.2024",
+      "var3": 1624,
+      "var4": 1602,
+      "var5": 9797
+    },
+    {
+      "var1": 2024,
+      "var2": "Neueingänge 2024",
+      "var3": 3034,
+      "var4": 2921,
+      "var5": 3482
+    },
+    {
+      "var1": 2024,
+      "var2": "Erledigungen 2024",
+      "var3": 2720,
+      "var4": 2931,
+      "var5": 5269
+    },
+    {
+      "var1": 2024,
+      "var2": "noch anhängig am  31.12.2024",
+      "var3": 1983,
+      "var4": 1592,
+      "var5": 8010
+    }
+  ]
+}

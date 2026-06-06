@@ -1,0 +1,20 @@
+{
+  "source": {
+    "system": "Landeshauptstadt Magdeburg — Steuerstatistik",
+    "holder": "Stadt Magdeburg"
+  },
+  "datasets": [
+    {
+      "path": "steuereinnahmen-2010-2025.json",
+      "title": "Steuereinnahmen der Landeshauptstadt Magdeburg 2010–2025",
+      "rowCount": 16,
+      "columnCount": 13
+    },
+    {
+      "path": "steuersaetze-1991-2026.json",
+      "title": "Steuersätze und Hebesätze der Landeshauptstadt Magdeburg 1991–2026",
+      "rowCount": 1272,
+      "columnCount": 13
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "id": "arbeitsmarkt/hilfeempfaenger-nach-dem-sgb-xii-nach-altersklassen-und-geschlecht",
+  "title": "Hilfeempfänger nach dem SGB XII nach Altersklassen und Geschlecht",
+  "category": "Arbeitsmarkt",
+  "subcategory": "Sozialhilfe, sozialer Dienst, Betreuung von Schuldnern",
+  "tableId": "K4_T19c",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/arbeitsmarkt/hilfeempfaenger-nach-dem-sgb-xii-nach-altersklassen-und-geschlecht.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Hilfeempfänger nach dem SGB XII nach Altersklassen und Geschlecht.xlsx"
+  },
+  "description": "Hilfeempfänger nach SGB XII nach Altersklassen und Geschlecht. var2 enthält echte Altersgruppen-Strings (\"0 bis unter 3\", \"3 bis unter 7\" etc.). var3..var5 (vermutl. M/F/Gesamt) waren mit den Werten nicht konsistent (Summen ergaben nicht die erwarteten Beziehungen).",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2018,
+        2018,
+        2018
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Altersgruppe",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "0 bis unter 3",
+        "3 bis unter 7",
+        "7 bis unter 14"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        14,
+        43,
+        59
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5,
+        20,
+        33
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        9,
+        23,
+        26
+      ]
+    }
+  ],
+  "rowCount": 70,
+  "rows": [
+    {
+      "var1": 2018,
+      "var2": "0 bis unter 3",
+      "var3": 14,
+      "var4": 5,
+      "var5": 9
+    },
+    {
+      "var1": 2018,
+      "var2": "3 bis unter 7",
+      "var3": 43,
+      "var4": 20,
+      "var5": 23
+    },
+    {
+      "var1": 2018,
+      "var2": "7 bis unter 14",
+      "var3": 59,
+      "var4": 33,
+      "var5": 26
+    },
+    {
+      "var1": 2018,
+      "var2": "14 bis unter 18",
+      "var3": 13,
+      "var4": 6,
+      "var5": 7
+    },
+    {
+      "var1": 2018,
+      "var2": "18 bis unter 26",
+      "var3": 87,
+      "var4": 50,
+      "var5": 37
+    },
+    {
+      "var1": 2018,
+      "var2": "26 bis unter 40",
+      "var3": 506,
+      "var4": 301,
+      "var5": 205
+    },
+    {
+      "var1": 2018,
+      "var2": "40 bis unter 60",
+      "var3": 634,
+      "var4": 416,
+      "var5": 218
+    },
+    {
+      "var1": 2018,
+      "var2": "60 bis unter 65",
+      "var3": 235,
+      "var4": 122,
+      "var5": 113
+    },
+    {
+      "var1": 2018,
+      "var2": "65 und älter",
+      "var3": 1151,
+      "var4": 542,
+      "var5": 609
+    },
+    {
+      "var1": 2018,
+      "var2": "Insgesamt",
+      "var3": 2742,
+      "var4": 1495,
+      "var5": 1247
+    },
+    {
+      "var1": 2019,
+      "var2": "0 bis unter 3",
+      "var3": 17,
+      "var4": 5,
+      "var5": 12
+    },
+    {
+      "var1": 2019,
+      "var2": "3 bis unter 7",
+      "var3": 24,
+      "var4": 14,
+      "var5": 10
+    },
+    {
+      "var1": 2019,
+      "var2": "7 bis unter 14",
+      "var3": 67,
+      "var4": 31,
+      "var5": 36
+    },
+    {
+      "var1": 2019,
+      "var2": "14 bis unter 18",
+      "var3": 11,
+      "var4": 8,
+      "var5": 3
+    },
+    {
+      "var1": 2019,
+      "var2": "18 bis unter 26",
+      "var3": 83,
+      "var4": 54,
+      "var5": 29
+    },
+    {
+      "var1": 2019,
+      "var2": "26 bis unter 40",
+      "var3": 504,
+      "var4": 301,
+      "var5": 203
+    },
+    {
+      "var1": 2019,
+      "var2": "40 bis unter 60",
+      "var3": 637,
+      "var4": 419,
+      "var5": 218
+    },
+    {
+      "var1": 2019,
+      "var2": "60 bis unter 65",
+      "var3": 227,
+      "var4": 117,
+      "var5": 110
+    },
+    {
+      "var1": 2019,
+      "var2": "65 und älter",
+      "var3": 1158,
+      "var4": 545,
+      "var5": 613
+    },
+    {
+      "var1": 2019,
+      "var2": "Insgesamt",
+      "var3": 2728,
+      "var4": 1494,
+      "var5": 1234
+    },
+    {
+      "var1": 2020,
+      "var2": "0 bis unter 3",
+      "var3": 21,
+      "var4": 13,
+      "var5": 8
+    },
+    {
+      "var1": 2020,
+      "var2": "3 bis unter 7",
+      "var3": 27,
+      "var4": 14,
+      "var5": 13
+    },
+    {
+      "var1": 2020,
+      "var2": "7 bis unter 14",
+      "var3": 65,
+      "var4": 35,
+      "var5": 30
+    },
+    {
+      "var1": 2020,
+      "var2": "14 bis unter 18",
+      "var3": 17,
+      "var4": 4,
+      "var5": 13
+    },
+    {
+      "var1": 2020,
+      "var2": "18 bis unter 26",
+      "var3": 114,
+      "var4": 76,
+      "var5": 38
+    },
+    {
+      "var1": 2020,
+      "var2": "26 bis unter 40",
+      "var3": 572,
+      "var4": 331,
+      "var5": 241
+    },
+    {
+      "var1": 2020,
+      "var2": "40 bis unter 60",
+      "var3": 724,
+      "var4": 468,
+      "var5": 256
+    },
+    {
+      "var1": 2020,
+      "var2": "60 bis unter 65",
+      "var3": 223,
+      "var4": 123,
+      "var5": 100
+    },
+    {
+      "var1": 2020,
+      "var2": "65 und älter",
+      "var3": 1249,
+      "var4": 608,
+      "var5": 641
+    },
+    {
+      "var1": 2020,
+      "var2": "Insgesamt",
+      "var3": 3012,
+      "var4": 1672,
+      "var5": 1340
+    },
+    {
+      "var1": 2021,
+      "var2": "0 bis unter 3",
+      "var3": 22,
+      "var4": 15,
+      "var5": 7
+    },
+    {
+      "var1": 2021,
+      "var2": "3 bis unter 7",
+      "var3": 25,
+      "var4": 15,
+      "var5": 10
+    },
+    {
+      "var1": 2021,
+      "var2": "7 bis unter 14",
+      "var3": 60,
+      "var4": 31,
+      "var5": 29
+    },
+    {
+      "var1": 2021,
+      "var2": "14 bis unter 18",
+      "var3": 11,
+      "var4": 4,
+      "var5": 7
+    },
+    {
+      "var1": 2021,
+      "var2": "18 bis unter 26",
+      "var3": 109,
+      "var4": 73,
+      "var5": 36
+    },
+    {
+      "var1": 2021,
+      "var2": "26 bis unter 40",
+      "var3": 517,
+      "var4": 304,
+      "var5": 213
+    },
+    {
+      "var1": 2021,
+      "var2": "40 bis unter 60",
+      "var3": 671,
+      "var4": 429,
+      "var5": 242
+    },
+    {
+      "var1": 2021,
+      "var2": "60 bis unter 65",
+      "var3": 216,
+      "var4": 127,
+      "var5": 89
+    },
+    {
+      "var1": 2021,
+      "var2": "65 und älter",
+      "var3": 1240,
+      "var4": 613,
+      "var5": 627
+    },
+    {
+      "var1": 2021,
+      "var2": "Insgesamt",
+      "var3": 2871,
+      "var4": 1611,
+      "var5": 1260
+    },
+    {
+      "var1": 2022,
+      "var2": "0 bis unter 3",
+      "var3": 35,
+      "var4": 21,
+      "var5": 14
+    },
+    {
+      "var1": 2022,
+      "var2": "3 bis unter 7",
+      "var3": 58,
+      "var4": 27,
+      "var5": 31
+    },
+    {
+      "var1": 2022,
+      "var2": "7 bis unter 14",
+      "var3": 102,
+      "var4": 52,
+      "var5": 50
+    },
+    {
+      "var1": 2022,
+      "var2": "14 bis unter 18",
+      "var3": 73,
+      "var4": 44,
+      "var5": 29
+    },
+    {
+      "var1": 2022,
+      "var2": "18 bis unter 26",
+      "var3": 224,
+      "var4": 139,
+      "var5": 85
+    },
+    {
+      "var1": 2022,
+      "var2": "26 bis unter 40",
+      "var3": 658,
+      "var4": 386,
+      "var5": 272
+    },
+    {
+      "var1": 2022,
+      "var2": "40 bis unter 60",
+      "var3": 1119,
+      "var4": 652,
+      "var5": 467
+    },
+    {
+      "var1": 2022,
+      "var2": "60 bis unter 65",
+      "var3": 527,
+      "var4": 255,
+      "var5": 272
+    },
+    {
+      "var1": 2022,
+      "var2": "65 und älter",
+      "var3": 2087,
+      "var4": 945,
+      "var5": 1142
+    },
+    {
+      "var1": 2022,
+      "var2": "Insgesamt",
+      "var3": 4883,
+      "var4": 2521,
+      "var5": 2362
+    },
+    {
+      "var1": 2023,
+      "var2": "0 bis unter 3",
+      "var3": 36,
+      "var4": 15,
+      "var5": 21
+    },
+    {
+      "var1": 2023,
+      "var2": "3 bis unter 7",
+      "var3": 47,
+      "var4": 28,
+      "var5": 19
+    },
+    {
+      "var1": 2023,
+      "var2": "7 bis unter 14",
+      "var3": 81,
+      "var4": 41,
+      "var5": 40
+    },
+    {
+      "var1": 2023,
+      "var2": "14 bis unter 18",
+      "var3": 49,
+      "var4": 26,
+      "var5": 23
+    },
+    {
+      "var1": 2023,
+      "var2": "18 bis unter 26",
+      "var3": 225,
+      "var4": 144,
+      "var5": 81
+    },
+    {
+      "var1": 2023,
+      "var2": "26 bis unter 40",
+      "var3": 637,
+      "var4": 366,
+      "var5": 271
+    },
+    {
+      "var1": 2023,
+      "var2": "40 bis unter 60",
+      "var3": 1004,
+      "var4": 595,
+      "var5": 409
+    },
+    {
+      "var1": 2023,
+      "var2": "60 bis unter 65",
+      "var3": 481,
+      "var4": 228,
+      "var5": 253
+    },
+    {
+      "var1": 2023,
+      "var2": "65 und älter",
+      "var3": 2024,
+      "var4": 926,
+      "var5": 1098
+    },
+    {
+      "var1": 2023,
+      "var2": "Insgesamt",
+      "var3": 4584,
+      "var4": 2369,
+      "var5": 2215
+    },
+    {
+      "var1": 2024,
+      "var2": "0 bis unter 3",
+      "var3": 20,
+      "var4": 9,
+      "var5": 11
+    },
+    {
+      "var1": 2024,
+      "var2": "3 bis unter 7",
+      "var3": 26,
+      "var4": 17,
+      "var5": 9
+    },
+    {
+      "var1": 2024,
+      "var2": "7 bis unter 14",
+      "var3": 69,
+      "var4": 33,
+      "var5": 36
+    },
+    {
+      "var1": 2024,
+      "var2": "14 bis unter 18",
+      "var3": 10,
+      "var4": 4,
+      "var5": 6
+    },
+    {
+      "var1": 2024,
+      "var2": "18 bis unter 26",
+      "var3": 172,
+      "var4": 105,
+      "var5": 67
+    },
+    {
+      "var1": 2024,
+      "var2": "26 bis unter 40",
+      "var3": 529,
+      "var4": 308,
+      "var5": 221
+    },
+    {
+      "var1": 2024,
+      "var2": "40 bis unter 60",
+      "var3": 766,
+      "var4": 476,
+      "var5": 290
+    },
+    {
+      "var1": 2024,
+      "var2": "60 bis unter 65",
+      "var3": 391,
+      "var4": 200,
+      "var5": 191
+    },
+    {
+      "var1": 2024,
+      "var2": "65 und älter",
+      "var3": 1950,
+      "var4": 908,
+      "var5": 1042
+    },
+    {
+      "var1": 2024,
+      "var2": "Insgesamt",
+      "var3": 3933,
+      "var4": 2060,
+      "var5": 1873
+    }
+  ]
+}

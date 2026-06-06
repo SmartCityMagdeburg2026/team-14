@@ -1,0 +1,268 @@
+{
+  "id": "bevoelkerung/wanderungssaldo-nach-altersgruppen",
+  "title": "Wanderungssaldo nach Altersgruppen",
+  "category": "Bevölkerung",
+  "subcategory": "Bevölkerungsbewegung",
+  "tableId": "K3_T31",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bevoelkerung/wanderungssaldo-nach-altersgruppen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Wanderungssaldo nach Altersgruppen.xlsx"
+  },
+  "description": "Wanderungssaldo nach Altersgruppen. Die Altersgruppen-Zuordnung (var2..var8) war nicht zuverlässig herstellbar.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        31,
+        -72,
+        -46
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1670,
+        1895,
+        1772
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        -231,
+        -264,
+        -142
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        66,
+        -220,
+        -259
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        107,
+        29,
+        89
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        99,
+        34,
+        56
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1742,
+        1402,
+        1470
+      ]
+    }
+  ],
+  "rowCount": 15,
+  "rows": [
+    {
+      "var1": 2010,
+      "var2": 31,
+      "var3": 1670,
+      "var4": -231,
+      "var5": 66,
+      "var6": 107,
+      "var7": 99,
+      "var8": 1742
+    },
+    {
+      "var1": 2011,
+      "var2": -72,
+      "var3": 1895,
+      "var4": -264,
+      "var5": -220,
+      "var6": 29,
+      "var7": 34,
+      "var8": 1402
+    },
+    {
+      "var1": 2012,
+      "var2": -46,
+      "var3": 1772,
+      "var4": -142,
+      "var5": -259,
+      "var6": 89,
+      "var7": 56,
+      "var8": 1470
+    },
+    {
+      "var1": 2013,
+      "var2": 26,
+      "var3": 1909,
+      "var4": -241,
+      "var5": -142,
+      "var6": 100,
+      "var7": 58,
+      "var8": 1710
+    },
+    {
+      "var1": 2014,
+      "var2": -9,
+      "var3": 1978,
+      "var4": -103,
+      "var5": -162,
+      "var6": 147,
+      "var7": 32,
+      "var8": 1883
+    },
+    {
+      "var1": 2015,
+      "var2": 670,
+      "var3": 2596,
+      "var4": 219,
+      "var5": 247,
+      "var6": 201,
+      "var7": 89,
+      "var8": 4022
+    },
+    {
+      "var1": 2016,
+      "var2": 855,
+      "var3": 2156,
+      "var4": -144,
+      "var5": 31,
+      "var6": 57,
+      "var7": 74,
+      "var8": 3029
+    },
+    {
+      "var1": 2017,
+      "var2": 355,
+      "var3": 1436,
+      "var4": -527,
+      "var5": -419,
+      "var6": 39,
+      "var7": 106,
+      "var8": 990
+    },
+    {
+      "var1": 2018,
+      "var2": -43,
+      "var3": 1781,
+      "var4": -278,
+      "var5": -454,
+      "var6": 63,
+      "var7": 50,
+      "var8": 1119
+    },
+    {
+      "var1": 2019,
+      "var2": -446,
+      "var3": 1417,
+      "var4": -404,
+      "var5": -930,
+      "var6": -23,
+      "var7": 68,
+      "var8": -318
+    },
+    {
+      "var1": 2020,
+      "var2": -486,
+      "var3": 1121,
+      "var4": -369,
+      "var5": -985,
+      "var6": 25,
+      "var7": -25,
+      "var8": -719
+    },
+    {
+      "var1": 2021,
+      "var2": -123,
+      "var3": 1916,
+      "var4": 71,
+      "var5": -392,
+      "var6": 81,
+      "var7": 28,
+      "var8": 1581
+    },
+    {
+      "var1": 2022,
+      "var2": 1118,
+      "var3": 2239,
+      "var4": 45,
+      "var5": 429,
+      "var6": 568,
+      "var7": 403,
+      "var8": 4802
+    },
+    {
+      "var1": 2023,
+      "var2": 57,
+      "var3": 2081,
+      "var4": 151,
+      "var5": -20,
+      "var6": 95,
+      "var7": 98,
+      "var8": 2462
+    },
+    {
+      "var1": 2024,
+      "var2": 78,
+      "var3": 2319,
+      "var4": 553,
+      "var5": 261,
+      "var6": 128,
+      "var7": 211,
+      "var8": 3550
+    }
+  ]
+}

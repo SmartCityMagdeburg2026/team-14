@@ -1,0 +1,258 @@
+{
+  "id": "wirtschaft/handwerksbetriebe-im-bekleidungs-textil-und-lederhandwerk-nach-berufen",
+  "title": "Handwerksbetriebe im Bekleidungs-, Textil- und Lederhandwerk nach Berufen",
+  "category": "Wirtschaft",
+  "subcategory": "Handwerksbetriebe der Handwerkskammer Magdeburg",
+  "tableId": "K7_T9d",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/handwerksbetriebe-im-bekleidungs-textil-und-lederhandwerk-nach-berufen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Handwerksbetriebe im Bekleidungs-, Textil- und Lederhandwerk nach Berufen.xlsx"
+  },
+  "description": "Handwerksbetriebe im Bekleidungs-, Textil- und Lederhandwerk nach Berufen. var2..var8 entsprechen einzelnen Berufen (Schneider, Schuhmacher, Sattler etc.), Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        140,
+        136,
+        131
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        27,
+        29,
+        25
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        20,
+        19,
+        17
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        63,
+        59,
+        63
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        9,
+        8,
+        9
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        13,
+        13,
+        9
+      ]
+    }
+  ],
+  "rowCount": 14,
+  "rows": [
+    {
+      "var1": 2010,
+      "var2": 140,
+      "var3": 27,
+      "var4": 8,
+      "var5": 20,
+      "var6": 63,
+      "var7": 9,
+      "var8": 13
+    },
+    {
+      "var1": 2011,
+      "var2": 136,
+      "var3": 29,
+      "var4": 8,
+      "var5": 19,
+      "var6": 59,
+      "var7": 8,
+      "var8": 13
+    },
+    {
+      "var1": 2012,
+      "var2": 131,
+      "var3": 25,
+      "var4": 8,
+      "var5": 17,
+      "var6": 63,
+      "var7": 9,
+      "var8": 9
+    },
+    {
+      "var1": 2013,
+      "var2": 131,
+      "var3": 25,
+      "var4": 7,
+      "var5": 20,
+      "var6": 62,
+      "var7": 8,
+      "var8": 9
+    },
+    {
+      "var1": 2014,
+      "var2": 144,
+      "var3": 25,
+      "var4": 7,
+      "var5": 23,
+      "var6": 67,
+      "var7": 10,
+      "var8": 12
+    },
+    {
+      "var1": 2015,
+      "var2": 148,
+      "var3": 21,
+      "var4": 7,
+      "var5": 20,
+      "var6": 75,
+      "var7": 10,
+      "var8": 15
+    },
+    {
+      "var1": 2016,
+      "var2": 143,
+      "var3": 22,
+      "var4": 7,
+      "var5": 18,
+      "var6": 76,
+      "var7": 9,
+      "var8": 11
+    },
+    {
+      "var1": 2017,
+      "var2": 134,
+      "var3": 22,
+      "var4": 5,
+      "var5": 18,
+      "var6": 71,
+      "var7": 8,
+      "var8": 10
+    },
+    {
+      "var1": 2018,
+      "var2": 137,
+      "var3": 25,
+      "var4": 5,
+      "var5": 19,
+      "var6": 67,
+      "var7": 8,
+      "var8": 13
+    },
+    {
+      "var1": 2019,
+      "var2": 136,
+      "var3": 24,
+      "var4": 5,
+      "var5": 19,
+      "var6": 70,
+      "var7": 7,
+      "var8": 11
+    },
+    {
+      "var1": 2020,
+      "var2": 133,
+      "var3": 25,
+      "var4": 3,
+      "var5": 20,
+      "var6": 64,
+      "var7": 7,
+      "var8": 14
+    },
+    {
+      "var1": 2021,
+      "var2": 123,
+      "var3": 24,
+      "var4": 3,
+      "var5": 20,
+      "var6": 56,
+      "var7": 6,
+      "var8": 14
+    },
+    {
+      "var1": 2022,
+      "var2": 107,
+      "var3": 23,
+      "var4": 2,
+      "var5": 17,
+      "var6": 47,
+      "var7": 5,
+      "var8": 13
+    },
+    {
+      "var1": 2023,
+      "var2": 100,
+      "var3": 22,
+      "var4": 1,
+      "var5": 15,
+      "var6": 44,
+      "var7": 5,
+      "var8": 13
+    }
+  ]
+}

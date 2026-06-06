@@ -1,0 +1,215 @@
+{
+  "id": "energie-und-umwelt/trinkwasserversorgung-niedrigste-und-hoechste-tageseinspeisung-des-jahres",
+  "title": "Trinkwasserversorgung - niedrigste und höchste Tageseinspeisung des Jahres",
+  "category": "Energie und Umwelt",
+  "subcategory": "Versorgung mit Strom, Wärme, Erdgas und Wasser",
+  "tableId": "K9_T12_1",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/trinkwasserversorgung-niedrigste-und-hoechste-tageseinspeisung-des-jahres.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Trinkwasserversorgung - niedrigste und höchste Tageseinspeisung des Jahres.xlsx"
+  },
+  "description": "Niedrigste und höchste Tageseinspeisung Trinkwasser im Jahr. var4/var5 = Datum/Wert der höchsten Einspeisung, die Zuordnung war aber nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2006,
+        2007,
+        2008
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Datum der niedrigsten Einspeisung",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "am 25.12.",
+        "am 25.12.",
+        "am 25.12."
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Niedrigste Tageseinspeisung",
+      "unit": "m³",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        25541,
+        24198,
+        24410
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "am 11.05.",
+        "am 04.05.",
+        "am 30.05."
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        38140,
+        38382,
+        39993
+      ]
+    }
+  ],
+  "rowCount": 19,
+  "rows": [
+    {
+      "var1": 2006,
+      "var2": "am 25.12.",
+      "var3": 25541,
+      "var4": "am 11.05.",
+      "var5": 38140
+    },
+    {
+      "var1": 2007,
+      "var2": "am 25.12.",
+      "var3": 24198,
+      "var4": "am 04.05.",
+      "var5": 38382
+    },
+    {
+      "var1": 2008,
+      "var2": "am 25.12.",
+      "var3": 24410,
+      "var4": "am 30.05.",
+      "var5": 39993
+    },
+    {
+      "var1": 2009,
+      "var2": "am 01.01.",
+      "var3": 24682,
+      "var4": "am 20.08.",
+      "var5": 35779
+    },
+    {
+      "var1": 2010,
+      "var2": "am 01.01.",
+      "var3": 25926,
+      "var4": "am 09.07.",
+      "var5": 38710
+    },
+    {
+      "var1": 2011,
+      "var2": "am 01.01.",
+      "var3": 26033,
+      "var4": "am 06.06.",
+      "var5": 38239
+    },
+    {
+      "var1": 2012,
+      "var2": "am 01.01.",
+      "var3": 26762,
+      "var4": "am 28.05.",
+      "var5": 40885
+    },
+    {
+      "var1": 2013,
+      "var2": "am 25.12.",
+      "var3": 25299,
+      "var4": "am 23.07.",
+      "var5": 39653
+    },
+    {
+      "var1": 2014,
+      "var2": "am 01.01.",
+      "var3": 25370,
+      "var4": "am 22.07.",
+      "var5": 38170
+    },
+    {
+      "var1": 2015,
+      "var2": "am 01.01.",
+      "var3": 26833,
+      "var4": "am 03.07.",
+      "var5": 45256
+    },
+    {
+      "var1": 2016,
+      "var2": "am 01.01.",
+      "var3": 25825,
+      "var4": "am 22.05.",
+      "var5": 41236
+    },
+    {
+      "var1": 2017,
+      "var2": "am 25.12.",
+      "var3": 28121,
+      "var4": "am 02.06.",
+      "var5": 43247
+    },
+    {
+      "var1": 2018,
+      "var2": "am 25.12.",
+      "var3": 27531,
+      "var4": "am 26.07.",
+      "var5": 43461
+    },
+    {
+      "var1": 2019,
+      "var2": "am 25.12.",
+      "var3": 26185,
+      "var4": "am 30.06.",
+      "var5": 44682
+    },
+    {
+      "var1": 2020,
+      "var2": "am 01.01.",
+      "var3": 25246,
+      "var4": "am 07.05.",
+      "var5": 50896
+    },
+    {
+      "var1": 2021,
+      "var2": "am 30.11.",
+      "var3": 20581,
+      "var4": "am 17.06.",
+      "var5": 45590
+    },
+    {
+      "var1": 2022,
+      "var2": "am 17.11.",
+      "var3": 27371,
+      "var4": "am 23.06.",
+      "var5": 43599
+    },
+    {
+      "var1": 2023,
+      "var2": "am 25.12.",
+      "var3": 26362,
+      "var4": "am 11.06.",
+      "var5": 44676
+    },
+    {
+      "var1": 2024,
+      "var2": "am 28.12.",
+      "var3": 22910,
+      "var4": "am 04.09.",
+      "var5": 44659
+    }
+  ]
+}

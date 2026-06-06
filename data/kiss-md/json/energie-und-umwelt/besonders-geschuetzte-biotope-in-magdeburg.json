@@ -1,0 +1,1633 @@
+{
+  "id": "energie-und-umwelt/besonders-geschuetzte-biotope-in-magdeburg",
+  "title": "Besonders geschützte Biotope in Magdeburg",
+  "category": "Energie und Umwelt",
+  "subcategory": "Schutzobjekte im Stadtkreis Magdeburg",
+  "tableId": "K9_T40-42",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/besonders-geschuetzte-biotope-in-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Besonders geschützte Biotope in Magdeburg.xlsx"
+  },
+  "description": "Diese Tabelle listet besonders geschützte Biotope in Magdeburg auf und enthält Informationen zu deren Identifikatoren und Namen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2019,
+        2019,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Biotop-ID",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "GB_0001MD_",
+        "GB_0002MD_",
+        "GB_0003MD_"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Name des Biotops",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Schrotelauf am Barleber See",
+        "Kelterer Teich Rothensee",
+        "Feuchtbiotop nördlich der Metritze Rothensee"
+      ]
+    }
+  ],
+  "rowCount": 315,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": "GB_0001MD_",
+      "var3": "Schrotelauf am Barleber See"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0002MD_",
+      "var3": "Kelterer Teich Rothensee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0003MD_",
+      "var3": "Feuchtbiotop nördlich der Metritze Rothensee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0004MD_",
+      "var3": "Metritze Rothensee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0005MD_",
+      "var3": "Dreiecksteich am Barrosee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0006MD_",
+      "var3": "Große Sülze am Sülzeanger"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0007MD_",
+      "var3": "Teiche Eisböhme (Nähe Am Krähenstieg)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0008MD_",
+      "var3": "Röhricht an der Halbinsel im Neustädter See"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0009MD_",
+      "var3": "Privatteich an der Halbinsel im Neustädter See"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0010MD_",
+      "var3": "Dreiecksteich am Neustädter See"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0011MD_",
+      "var3": "\"Hohmanns\" - Teich"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0012MD_",
+      "var3": "Teich im Heideweg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0015MD_",
+      "var3": "Biederitzer Busch"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0016MD_",
+      "var3": "Weichholzaue am Blumenthalswerder"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0020MD_",
+      "var3": "Garnsee (Steinwiese)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0021MD_",
+      "var3": "Magerrasen Steinwiese und Kleingewässer"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0022MD_",
+      "var3": "Waldseen I und II Friedensweiler mit Hartholzaue"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0023MD_",
+      "var3": "Graben an der Gartenkolonie Steinwiese"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0024MD_",
+      "var3": "Feuchtbiotope \"Vogelschutzgehölz Puppendorf\""
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0026MD_",
+      "var3": "Diesdorfer Rückhaltebecken der Schrote und Schrotelauf mit Gehölzbestand"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0027MD_",
+      "var3": "Steinbruchsee Alt-Olvenstedt"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0028MD_",
+      "var3": "Pfingstwiesengraben mit Quelle, Gehölzgruppe und Mündungsbereich"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0029MD_",
+      "var3": "Taube Elbe"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0030MD_",
+      "var3": "Gräben an der Rohrlake einschließlich Weidengebüsch"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0031MD_",
+      "var3": "Magerrasen am Gübser Deich"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0032MD_",
+      "var3": "Godehardt-Teich im Stadtpark Rotehorn"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0033MD_",
+      "var3": "Arthur-Becker-Teich im Stadtprk Rotehorn"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0034MD_",
+      "var3": "Taube Elbe im Stadtpark Rotehorn"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0035MD_",
+      "var3": "Wallgraben am Fort  XII"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0036MD_",
+      "var3": "Prester See Teil I und II mit Gehölzgruppe"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0037MD_",
+      "var3": "Prester See Teil III mit Röhricht"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0038MD_",
+      "var3": "Röhricht südlich Prester"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0039MD_",
+      "var3": "Dreierkolk"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0040MD_",
+      "var3": "Gewässer südlich Zipkeleben"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0041MD_",
+      "var3": "Weichholzaue an der Elbe bei Prester"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0042MD_",
+      "var3": "Weichholzaue am Prester See"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0043MD_",
+      "var3": "Klinke mit Quelle und Gehölz"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0044MD_",
+      "var3": "Röhricht mit Gehölzgürtel an der Aßmannstraße"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0045MD_",
+      "var3": "Quellbereich am Elbufer Salbker See"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0046MD_",
+      "var3": "Weichholzaue an der Elbe/Salbker See"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0047MD_",
+      "var3": "Kleingewässerkette mit Magerrasen und Streuobstwiese südwestlich von Zipkeleben"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0048MD_",
+      "var3": "Magerrasen am Salbker See"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0049MD_",
+      "var3": "Feuchtwiese am Spionskopf"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0050MD_",
+      "var3": "Sülzelauf"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0051MD_",
+      "var3": "Magerrasen an der Welsleber Straße"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0052MD_",
+      "var3": "Magerrasen in den Sohlener Bergen"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0053MD_",
+      "var3": "Feuchtbiotop Wolfsschlucht"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0054MD_",
+      "var3": "Magerrasen am Elbdeich südlich Prester"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0055MD_",
+      "var3": "Weichholzaue an der Elbe in Westerhüsen"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0056MD_",
+      "var3": "ehemalige Tongrube Ottersleben"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0057MD_",
+      "var3": "Kleingewässer am Ende des Gübser Dammes"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0058MD_",
+      "var3": "Frohser Berg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0059MD_",
+      "var3": "Alte Elbe Kuhlenhagen und Mönchsgraben mit Hartholzaue"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0060MD_",
+      "var3": "Zipkeleber See im Umflutgebiet (Nord)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0061MD_",
+      "var3": "Verbuschter Magerrasen nördlich Rothensee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0063MD_",
+      "var3": "Kleingewässer südlich Puppendorf"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0064MD_",
+      "var3": "Flutrinne Langes Loch im Wiesenpark"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0065MD_",
+      "var3": "2 Kleingewässer im Wirtschaftsbereich Zoo"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0066MD_",
+      "var3": "Wallgraben Fort VI"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0067MD_",
+      "var3": "Baumhecke Barleber Grund"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0068MD_",
+      "var3": "Feldgehölzhecke an der verlängerten Königstraße"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0069MD_",
+      "var3": "Feldgehölzhecke an der Bahnlinie Wolfsfelde - Beyendorf"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0070MD_",
+      "var3": "Feldgehölz an der Großen Sülze (westlich Ebendorfer Chaussee)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0071MD_",
+      "var3": "ehemaliger Teich im Rennwiesengelände"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0072MD_",
+      "var3": "Magerrasen auf dem Lausehoch"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0073MD_",
+      "var3": "Erdkuhle Rothensee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0074MD_",
+      "var3": "Feldgehölzhecke südwestlich Ottersleben II"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0075MD_",
+      "var3": "Feldgehölzhecke südwestlich Ottersleben I"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0076MD_",
+      "var3": "Altwasser Schwarzes Loch im Wiesenpark"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0077MD_",
+      "var3": "Alte Elbe am Zuwachs"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0078MD_",
+      "var3": "Salzstelle südlich der Vikarienmühle"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0080MD_",
+      "var3": "Alte Elbe südlich des Naturschutzgebietes \"Kreuzhorst\""
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0081MD_",
+      "var3": "Kleingewässer Gartenanlage \"Friedensweiler\""
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0082MD_",
+      "var3": "Feldgehölzhecke am Junkerberg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0083MD_",
+      "var3": "Verbuschtes Kleingewässer westlich Bahnhof Rothensee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0085MD_",
+      "var3": "Kleingewässer Am Busch 1"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0086MD_",
+      "var3": "Streuobstwiese am Busch 1"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0087MD_",
+      "var3": "Kleingewässer nördlich Pechau"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0088MD_",
+      "var3": "Erdwall am Junkerberg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0089MD_",
+      "var3": "Feldgehölzhecke im Acker östlich Straße \"Am Neuber\""
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0090MD_",
+      "var3": "Feuchtwiese am Stadion Neue Welt"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0091MD_",
+      "var3": "Ehemaliges Freibad Pettenkoferstraße"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0092MD_",
+      "var3": "Magerrasenfläche am Randauer Friedhof"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0093MD_",
+      "var3": "Kleingewässerkette und Flutrinnen westlich Randau"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0094MD_",
+      "var3": "Hartholzauwaldinseln Wiesenpark (H)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0095MD_",
+      "var3": "Weichholzauwald Wiesenpark (W)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0096MD_",
+      "var3": "Magerrasen Wiesenpark (M)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0097MD_",
+      "var3": "Temporäre Gewässer Wiesenpark (TG)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0098MD_",
+      "var3": "Ufer- und Verlandungszone Pechauer See (Nord)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0099MD_",
+      "var3": "Streuobstwiese Randau Alte Elbe"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0100MD_",
+      "var3": "Streuobstwiese nördlich Randau"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0101MD_",
+      "var3": "Calenberger See"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0102MD_",
+      "var3": "Feuchtsenke mit Kleingewässern nördlich Calenberge"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0103MD_",
+      "var3": "Feuchtsenke mit Kleingewässer nördlich Brückbusch"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0104MD_",
+      "var3": "Hecke am Pechauer Busch"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0105MD_",
+      "var3": "Streuobstwiese südlich der Pechauer Mühle"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0106MD_",
+      "var3": "Feuchtgehölz an der Luisentaler Straße"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0107MD_",
+      "var3": "Kleingewässer südöstlich Calenberge an der Alten Elbe"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0108MD_",
+      "var3": "Kleingewässer südlich Calenberge an der Alten Elbe"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0109MD_",
+      "var3": "Stiftsforst mit Kolken"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0110MD_",
+      "var3": "Hartholzauwald südlich Ehlekanal mit Kolken"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0112MD_",
+      "var3": "Flutrinne mit Stromtalwiesen südl. Kuhlenhagen"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0113MD_",
+      "var3": "Flutrinne südwestlich Randau"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0114MD_",
+      "var3": "Flutrinnen auf dem Greifenwerder (5 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0115MD_",
+      "var3": "Flutrinne an der Elbe"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0116MD_",
+      "var3": "Flutrinne mit Kolken und Röhricht"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0117MD_",
+      "var3": "Hecke östlich Calenberge"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0119MD_",
+      "var3": "Streuobstwiese östlich Calenberge"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0120MD_",
+      "var3": "Streuobstwiese westlich Calenberge"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0121MD_",
+      "var3": "Feuchtsenke am Pechauer Burgberg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0122MD_",
+      "var3": "Uferzone des Pechauer Sees (Süd)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0123MD_",
+      "var3": "Streuobstwiese am Pechauer See"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0124MD_",
+      "var3": "Magerrasen auf den Deichen des Greifenwerder (6 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0125MD_",
+      "var3": "Hecken am Klusdamm (3 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0126MD_",
+      "var3": "Hecke am Damm des Umflutkanals"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0127MD_",
+      "var3": "Kolk südwestlich Calenberge"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0128MD_",
+      "var3": "Hecke am südlichen Greifenwerder"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0129MD_",
+      "var3": "Hecke an der Ebendorfer Chaussee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0130MD_",
+      "var3": "Flutrinne auf dem südl. Greifenwerder"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0131MD_",
+      "var3": "Feldgehölzhecke westlich Randauer See"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0132MD_",
+      "var3": "Altwasser und Feldgehölzhecke westlich Randau"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0133MD_",
+      "var3": "Teich am Sülzeanger"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0134MD_",
+      "var3": "Dornstrauchgebüsche auf dem Greifenwerder (6 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0135MD_",
+      "var3": "Gebüsch auf der Werderspitze"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0136MD_",
+      "var3": "Hartholzaue südlich des NSG Kreuzhorst (2 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0137MD_",
+      "var3": "Hartholzaue mit Kleingewässer an der Randauer Düne (2 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0138MD_",
+      "var3": "Hartholzaue am Elbdeich westlich Randau"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0140MD_",
+      "var3": "Hecke an der Großen Sülze"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0141MD_",
+      "var3": "Flutrinne am Wasserturm"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0143MD_",
+      "var3": "Hecke südlich der Kreuzhorst"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0144MD_",
+      "var3": "Magerrasen auf dem westlichen Deich des Umflutkanals (2 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0146MD_",
+      "var3": "Magerrasen auf dem östlichen Deich des Umflutkanals (4 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0147MD_",
+      "var3": "Zipkeleber See und Ehle mit Ufergehölzen und Staudenfluren östlich Pechau"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0148MD_",
+      "var3": "Kolke im Umflutkanal"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0149MD_",
+      "var3": "Flutrinnen im Umflutkanal (2 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0150MD_",
+      "var3": "Pechauer Busch mit Kolken (6 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0152MD_",
+      "var3": "Hecke im Umflutkanal westlich des Stiftsforstes"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0153MD_",
+      "var3": "Hecke westich des Stiftsforstes"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0155MD_",
+      "var3": "Gehölz südlich Barleber See"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0158MD_",
+      "var3": "Flutrinne auf dem südlichen Greifenwerder"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0159MD_",
+      "var3": "Flutrinne auf dem südlichen Greifenwerder"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0160MD_",
+      "var3": "Feuchtwiese am Kuhlenhagen mit angrenzenden Hecken"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0161MD_",
+      "var3": "Röhrichte und Uferstaudenfluren am Elbufer (3 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0162MD_",
+      "var3": "Hecken am südlichen Greifenwerder (3 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0163MD_",
+      "var3": "Auwaldartiges Feldgehölz am Greifenwerder-Deich"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0164MD_",
+      "var3": "Hecke südlich Randau"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0165MD_",
+      "var3": "Hecken südlich Randau (2 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0166MD_",
+      "var3": "Feldgehölz an der Alten Elbe"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0167MD_",
+      "var3": "Röhricht am Abstiegskanal"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0168MD_",
+      "var3": "Weichholzauenreste auf dem Maikäferwerder"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0169MD_",
+      "var3": "Teich nördlich Rothensee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0170MD_",
+      "var3": "Teich an der Erdkuhle Rothensee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0171MD_",
+      "var3": "Teich auf dem Rangierbahnhof Rothensee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0172MD_",
+      "var3": "Teich an der Windmühlenstraße"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0174MD_",
+      "var3": "Magerrasen am Zuwachs"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0175MD_",
+      "var3": "Trockengebüsch im Wiesenpark"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0176MD_",
+      "var3": "Feuchtwiese im Wiesenpark"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0177MD_",
+      "var3": "Weichholzaue nördlich des Handelshafens"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0178MD_",
+      "var3": "Hecken im Umflutkanal (6 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0179MD_",
+      "var3": "Flutrinnen im Umflutkanal"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0180MD_",
+      "var3": "Feldgehölze im Umflutkanal"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0181MD_",
+      "var3": "Ufer an der Langen Lake"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0182MD_",
+      "var3": "Kolk im Umflutkanal (I)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0183MD_",
+      "var3": "Kolk im Umflutkanal (II)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0184MD_",
+      "var3": "Kolk im Umflutkanal (III)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0185MD_",
+      "var3": "Kolk im Umflutkanal (IV)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0186MD_",
+      "var3": "Kolk im Umflutkanal (V)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0188MD_",
+      "var3": "Flutrinne bei Friedensweiler"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0189MD_",
+      "var3": "Gehölz am Schwanengraben"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0190MD_",
+      "var3": "Röhricht am Schwanengraben"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0191MD_",
+      "var3": "Teich am oberen Schwanengraben"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0192MD_",
+      "var3": "Hecken bei Puppendorf (5 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0193MD_",
+      "var3": "Feldgehölz südlich Friedensweiler I"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0194MD_",
+      "var3": "Feldgehölz südlich Friedensweiler II"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0195MD_",
+      "var3": "Feldgehölz am Rauhen Loch"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0199MD_",
+      "var3": "Uferröhrichte östlich Salbke"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0200MD_",
+      "var3": "Weichholzauenrreste nördlich Salbker See"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0201MD_",
+      "var3": "auwaldartiges Gehölz Buckau"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0202MD_",
+      "var3": "Obstwiese am Hohendodeleber Weg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0203MD_",
+      "var3": "Hecken und Feldgehölze im Kreuzgrund (5 Teilgebiete)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0204MD_",
+      "var3": "Obstwiese am Junkerberg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0206MD_",
+      "var3": "Röhricht am Ottersleber Weg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0207MD_",
+      "var3": "Rückhaltebecken Flora-Park"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0208MD_",
+      "var3": "Teiche und Feldgehölz \"In den Röthen\" (2 Teilgebiete)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0209MD_",
+      "var3": "Hecke an der Olvenstedter Chaussee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0212MD_",
+      "var3": "Feldgehölzhecke am Diesdorfer Graseweg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0215MD_",
+      "var3": "Quellen im Amtsgarten Ottersleben"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0216MD_",
+      "var3": "Teich im Amtsgarten Ottersleben"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0217MD_",
+      "var3": "Ligusterhecke an der Hängelsbreite"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0218MD_",
+      "var3": "Hecken und Feldgehölze an der Osterweddinger Ch. (5 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0219MD_",
+      "var3": "Kleingewässer im Gutspark Benneckenbeck"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0220MD_",
+      "var3": "Rückhaltebecken am Kleinen Wiesengraben"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0221MD_",
+      "var3": "Teich am Planetenweg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0222MD_",
+      "var3": "Hecken am Bördepark"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0224MD_",
+      "var3": "Hecke am Großen Wiesengraben"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0225MD_",
+      "var3": "Feldgehölz am Kleinen Wiesengraben"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0226MD_",
+      "var3": "Löschteich auf dem SKET-Gelände"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0229MD_",
+      "var3": "Hecke an den Sohlener Bergen"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0230MD_",
+      "var3": "Feldgehölzhecke südlich Viktarienmühle"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0232MD_",
+      "var3": "Alte Sülze in Salbke"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0233MD_",
+      "var3": "Obstwiese in Salbke"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0234MD_",
+      "var3": "Uferzone des Salbker Sees I"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0236MD_",
+      "var3": "Flutrinne auf der Großen Wiese"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0237MD_",
+      "var3": "Flutrinne bei Westerhüsen"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0238MD_",
+      "var3": "Feldgehölzhecken an der Kreuzhorst"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0239MD_",
+      "var3": "Röhricht an der Kreuzhorst"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0240MD_",
+      "var3": "Magerrasen an der Kreuzhorst"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0241MD_",
+      "var3": "Franzosengraben"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0242MD_",
+      "var3": "Röhricht am Franzosengraben"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0243MD_",
+      "var3": "Hecke westich Pechau"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0244MD_",
+      "var3": "Mühlenkolk Pechau"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0246MD_",
+      "var3": "Obstwiese an der Ölmühle Berliner Chaussee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0247MD_",
+      "var3": "Teich am Schwarzkopfweg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0251MD_",
+      "var3": "Feldgehölz an der Deponie Hängelsberge"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0252MD_",
+      "var3": "Hecken an der Wisninger Wuhne (2 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0253MD_",
+      "var3": "Magerrasen im Gewerbegebiet Rothensee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0254MD_",
+      "var3": "Trockene Glatthaferwiese nördl. Wolfswerder (2 Teilgebiete)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0255MD_",
+      "var3": "Flutrinne auf dem Hirschbergswerder"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0256MD_",
+      "var3": "Hartholzauenrest in Buckau"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0257MD_",
+      "var3": "Magerrasen und trockene Staudenfluren westl. Salbker See II (2 Teilflächen)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0258MD_",
+      "var3": "Senke am Fährhaus Fermersleben"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0259MD_",
+      "var3": "Trockene Glatthaferwiese und Röhricht östl. Salbker See I"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0260MD_",
+      "var3": "Flutrinne am Katzenwerder"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0261MD_",
+      "var3": "Trockengebüsch östli. Salbker See I"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0263MD_",
+      "var3": "Trockene Staudenfluren und Gebüsche östl. Salbker See I"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0264MD_",
+      "var3": "Trockene Staudenfluren westl. Salbker See I"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0265MD_",
+      "var3": "Feuchtsenke Neustädter See"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0266MD_",
+      "var3": "Ufer Stadion Neue Welt"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0267MD_",
+      "var3": "Verschilftes Südwestufer Barleber See I"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0269MD_",
+      "var3": "Feldgehölz Breitscheidstraße"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0270MD_",
+      "var3": "Alte Elbe/Stadt"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0271MD_",
+      "var3": "Feldgehölzhecke am Nordufer Neustädter See II"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0276MD_",
+      "var3": "Feldgehölzhecke an den Sohlener Berger"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0277MD_",
+      "var3": "Winklige Feldgehölzhecke an den Sohlener Bergen"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0278MD_",
+      "var3": "Magerrasen und Gehölze am Schrotestau"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0279MD_",
+      "var3": "Obstwiese am Thauberg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0280MD_",
+      "var3": "Uferrohrichte und Weichholzaue auf dem Weidenwerder"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0281MD_",
+      "var3": "Flächiges Feldgehölz zwischen A2 und Glindenberger Weg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0282MD_",
+      "var3": "Obstwiese an den Sohlener Bergen"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0283MD_",
+      "var3": "Barleber See II"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0284MD_",
+      "var3": "Gebüsch nördlich Wörmlitzer Straße"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0285MD_",
+      "var3": "Gebüsche nördlich BAB 2"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0286MD_",
+      "var3": "Böschung nördlich BAB 2"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0287MD_",
+      "var3": "Röhricht am Ost- und Südufer Barleber See II"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0288MD_",
+      "var3": "Südufer Barleber See II"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0289MD_",
+      "var3": "Südwest- und Südufer Barleber See II"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0290MD_",
+      "var3": "Gebüsch südlich Barleber See"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0291MD_",
+      "var3": "Trockenrasen und Gebüsche südlich Barleber See"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0292MD_",
+      "var3": "Schrote südlich Stegelitzer Straße"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0293MD_",
+      "var3": "Gebüsch am Gleisdreieck südlich BAB 2"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0295MD_",
+      "var3": "Röhricht am Nordufer großer Barrosee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0296MD_",
+      "var3": "Hecke nördlich Kratzbreite"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0297MD_",
+      "var3": "Gebüsch südöstlich Barrosee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0298MD_",
+      "var3": "Barrosee III (Langes Loch)"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0300MD_",
+      "var3": "Feldgehölz am Ostufer Neustädter See II"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0301MD_",
+      "var3": "Neustädter See II"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0302MD_",
+      "var3": "Gebüsch nördlich Koppelanger"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0303MD_",
+      "var3": "Neustädter See  Uferbereich Nordteil"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0304MD_",
+      "var3": "Gebüsche am Neustädter See I"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0305MD_",
+      "var3": "Hecken am Pfahlbergsgraben"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0306MD_",
+      "var3": "Gebüsch nördlich der Großen Sülze"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0307MD_",
+      "var3": "Wäldchen am Sülzeanger"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0308MD_",
+      "var3": "Hecke verlängerte Wisninger Wuhne"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0309MD_",
+      "var3": "Hecken südlich der Kratzbreite"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0310MD_",
+      "var3": "Feldgehölz nördlich Rotweg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0311MD_",
+      "var3": "Hecken östlich Agrarstraße"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0313MD_",
+      "var3": "Feldgehölz an der großen Sülze westlich Olvenstedt"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0314MD_",
+      "var3": "Gebüsch Regenrückhaltebecken östlich  Agrarstraße"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0315MD_",
+      "var3": "Hecke am JFZ Olvenstedt"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0316MD_",
+      "var3": "Gebüsch nördlich Neuer Renneweg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0317MD_",
+      "var3": "Hecke Westteil Hohendodeleber Weg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0318MD_",
+      "var3": "Gebüsch nordwestlich Hohendodeleber Weg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0319MD_",
+      "var3": "Hecken am Ottersleber Weg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0320MD_",
+      "var3": "Feldgehölz am Lausehoch"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0321MD_",
+      "var3": "Hecke westlich Thauberg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0322MD_",
+      "var3": "Magerrasen an der Seitenentnahme Lausehoch"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0323MD_",
+      "var3": "Gebüsch südlich Lausehoch"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0324MD_",
+      "var3": "Kleingewässer südlich Lausehoch"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0325MD_",
+      "var3": "Feldgehölzhecke östlich Thauberg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0326MD_",
+      "var3": "Feldgehölzhecke südöstlich Thauberg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0327MD_",
+      "var3": "Gebüsch westlich der BAB 14"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0328MD_",
+      "var3": "Feldgehölzhecke nördlich Osterweddinger Chaussee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0329MD_",
+      "var3": "Feldgehölzhecke östlich der Osterweddinger Chaussee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0330MD_",
+      "var3": "Gebüsch südlich Osterweddinger Chaussee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0331MD_",
+      "var3": "Gebüsch östlich BAB 14"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0332MD_",
+      "var3": "Rückhaltebecken östlich G.-Ricker-Straße"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0333MD_",
+      "var3": "Rückhaltebecken am Grünzug Hopfengarten"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0334MD_",
+      "var3": "Flutrinne im Umflutkanal"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0335MD_",
+      "var3": "Gehölz \"Am Busch\" - Nordteil"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0336MD_",
+      "var3": "Gebüsch am Gutspark Alt Benneckenbeck"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0337MD_",
+      "var3": "Gebüsch zwischen Magdeburger Ring und Eulegraben"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0338MD_",
+      "var3": "Feldgehölz nördlich des Großen Wiesengrabens"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0339MD_",
+      "var3": "Rückhaltebecken am Ottersleber Teich"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0340MD_",
+      "var3": "Ottersleber Teich"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0341MD_",
+      "var3": "Gehölz südlich der Saarbrücker Straße"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0342MD_",
+      "var3": "Gebüsche nördlich der Sohlener Berge"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0343MD_",
+      "var3": "Hecken am Bahndamm westlich Beyendorf"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0344MD_",
+      "var3": "Hecke östlich der Kiesgrube Beyendorf"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0345MD_",
+      "var3": "Feldgehölz unterhalb des Großen Wiesenberges"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0346MD_",
+      "var3": "Südliche Hecke am Sülzeufer"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0347MD_",
+      "var3": "Sülze zwischen Sohlen und Vikarienmühle"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0348MD_",
+      "var3": "Nördliche Hecke am Sülzeufer"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0349MD_",
+      "var3": "Trockenrasen westlich der Sohlener Berge"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0350MD_",
+      "var3": "Hecke westlich Sohlen"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0351MD_",
+      "var3": "Hecke am verlängerten Welsleber Weg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0352MD_",
+      "var3": "Feldgehölz am Mühlenberg bei Sohlen"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0353MD_",
+      "var3": "Feldgehölz am Kuhtränkengraseweg bei Sohlen"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0354MD_",
+      "var3": "Salzstelle westlich Sohlen"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0355MD_",
+      "var3": "Gebüsch am Schwanengraben"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0356MD_",
+      "var3": "Gehölz östlich Hohefeld-Privatweg"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0357MD_",
+      "var3": "Trockengebüsch westlich Luisenthaler Straße"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0358MD_",
+      "var3": "Kolk südlich Prester"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0359MD_",
+      "var3": "Nord- und Ostufer Großer Barrosee"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0361MD_",
+      "var3": "Hecke westlich Burger Straße"
+    },
+    {
+      "var1": 2019,
+      "var2": "GB_0362MD_",
+      "var3": "Gebüsch westlich Breslauer Straße"
+    }
+  ]
+}

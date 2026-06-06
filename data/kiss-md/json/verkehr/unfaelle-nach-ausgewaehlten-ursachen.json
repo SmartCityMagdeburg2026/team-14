@@ -1,0 +1,338 @@
+{
+  "id": "verkehr/unfaelle-nach-ausgewaehlten-ursachen",
+  "title": "Unfälle nach ausgewählten Ursachen",
+  "category": "Verkehr",
+  "subcategory": "Unfallgeschehen in der Stadt Magdeburg",
+  "tableId": "K8_T8",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/verkehr/unfaelle-nach-ausgewaehlten-ursachen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Unfälle nach ausgewählten Ursachen.xlsx"
+  },
+  "description": "Unfälle nach ausgewählten Ursachen. Zuordnung der 14 Ursachen-Spalten (var2..var15) nicht aus den Rohdaten ableitbar.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        116,
+        143,
+        145
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        483,
+        419,
+        429
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        200,
+        196,
+        164
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1119,
+        1173,
+        1126
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        112,
+        84,
+        112
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        460,
+        478,
+        506
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        523,
+        675,
+        540
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2450,
+        2465,
+        2343
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        120,
+        91,
+        92
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        207,
+        244,
+        208
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2695,
+        3009,
+        3342
+      ]
+    },
+    {
+      "key": "var13",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        86,
+        72,
+        78
+      ]
+    },
+    {
+      "key": "var14",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        22,
+        14,
+        13
+      ]
+    },
+    {
+      "key": "var15",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        129,
+        98,
+        120
+      ]
+    }
+  ],
+  "rowCount": 8,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": 116,
+      "var3": 483,
+      "var4": 200,
+      "var5": 1119,
+      "var6": 112,
+      "var7": 460,
+      "var8": 523,
+      "var9": 2450,
+      "var10": 120,
+      "var11": 207,
+      "var12": 2695,
+      "var13": 86,
+      "var14": 22,
+      "var15": 129
+    },
+    {
+      "var1": 2018,
+      "var2": 143,
+      "var3": 419,
+      "var4": 196,
+      "var5": 1173,
+      "var6": 84,
+      "var7": 478,
+      "var8": 675,
+      "var9": 2465,
+      "var10": 91,
+      "var11": 244,
+      "var12": 3009,
+      "var13": 72,
+      "var14": 14,
+      "var15": 98
+    },
+    {
+      "var1": 2019,
+      "var2": 145,
+      "var3": 429,
+      "var4": 164,
+      "var5": 1126,
+      "var6": 112,
+      "var7": 506,
+      "var8": 540,
+      "var9": 2343,
+      "var10": 92,
+      "var11": 208,
+      "var12": 3342,
+      "var13": 78,
+      "var14": 13,
+      "var15": 120
+    },
+    {
+      "var1": 2020,
+      "var2": 142,
+      "var3": 414,
+      "var4": 123,
+      "var5": 890,
+      "var6": 114,
+      "var7": 409,
+      "var8": 554,
+      "var9": 1890,
+      "var10": 80,
+      "var11": 190,
+      "var12": 3774,
+      "var13": 89,
+      "var14": 7,
+      "var15": 120
+    },
+    {
+      "var1": 2021,
+      "var2": 145,
+      "var3": 447,
+      "var4": 199,
+      "var5": 830,
+      "var6": 78,
+      "var7": 413,
+      "var8": 559,
+      "var9": 2000,
+      "var10": 93,
+      "var11": 141,
+      "var12": 3996,
+      "var13": 105,
+      "var14": 17,
+      "var15": 121
+    },
+    {
+      "var1": 2022,
+      "var2": 151,
+      "var3": 445,
+      "var4": 179,
+      "var5": 877,
+      "var6": 101,
+      "var7": 422,
+      "var8": 537,
+      "var9": 1628,
+      "var10": 92,
+      "var11": 184,
+      "var12": 4090,
+      "var13": 106,
+      "var14": 18,
+      "var15": 95
+    },
+    {
+      "var1": 2023,
+      "var2": 173,
+      "var3": 402,
+      "var4": 158,
+      "var5": 959,
+      "var6": 121,
+      "var7": 461,
+      "var8": 570,
+      "var9": 1590,
+      "var10": 94,
+      "var11": 138,
+      "var12": 4151,
+      "var13": 115,
+      "var14": 19,
+      "var15": 107
+    },
+    {
+      "var1": 2024,
+      "var2": 133,
+      "var3": 426,
+      "var4": 185,
+      "var5": 955,
+      "var6": 106,
+      "var7": 471,
+      "var8": 617,
+      "var9": 1718,
+      "var10": 97,
+      "var11": 150,
+      "var12": 4297,
+      "var13": 95,
+      "var14": 22,
+      "var15": 124
+    }
+  ]
+}

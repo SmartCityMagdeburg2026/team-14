@@ -1,0 +1,397 @@
+{
+  "id": "arbeitsmarkt/bruttoausgaben-nach-dem-asylbewerberleistungsgesetz-nach-der-art-der-leistung-in-1-000-euro",
+  "title": "Bruttoausgaben nach dem Asylbewerberleistungsgesetz nach der Art der Leistung (in 1.000 Euro)",
+  "category": "Arbeitsmarkt",
+  "subcategory": "Sozialhilfe, sozialer Dienst, Betreuung von Schuldnern",
+  "tableId": "K4_T18c",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/arbeitsmarkt/bruttoausgaben-nach-dem-asylbewerberleistungsgesetz-nach-der-art-der-leistung-in-1-000-euro.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Bruttoausgaben nach dem Asylbewerberleistungsgesetz nach der Art der Leistung (in 1.000 Euro).xlsx"
+  },
+  "description": "Bruttoausgaben nach dem Asylbewerberleistungsgesetz nach Art der Leistung (1.000 EUR). Die 18 Leistungs-Kategorien (var2..var19) waren nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2018,
+        2019,
+        2020
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        5220.1,
+        5329.1,
+        4755.4
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        469.9,
+        432.4,
+        438
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        2335.8,
+        2478.6,
+        2094.5
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        2165,
+        2047,
+        1996.1
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        76.2,
+        73.9,
+        70.8
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        173.2,
+        297.2,
+        156
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        4335.8,
+        4535,
+        4058.6
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        308.2,
+        293.7,
+        346.4
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        2015.2,
+        1879.2,
+        1851.9
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1769.2,
+        2004,
+        1702.5
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        76.2,
+        73.8,
+        20.8
+      ]
+    },
+    {
+      "key": "var13",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        167,
+        284.3,
+        137
+      ]
+    },
+    {
+      "key": "var14",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        884.3,
+        794.1,
+        696.8
+      ]
+    },
+    {
+      "key": "var15",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        161.7,
+        138.7,
+        91.6
+      ]
+    },
+    {
+      "key": "var16",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        566.6,
+        474.6,
+        392
+      ]
+    },
+    {
+      "key": "var17",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        149.8,
+        167.8,
+        144.2
+      ]
+    },
+    {
+      "key": "var18",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        0,
+        0.1,
+        50
+      ]
+    },
+    {
+      "key": "var19",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        6.2,
+        12.9,
+        19
+      ]
+    }
+  ],
+  "rowCount": 7,
+  "rows": [
+    {
+      "var1": 2018,
+      "var2": 5220.1,
+      "var3": 469.9,
+      "var4": 2335.8,
+      "var5": 2165,
+      "var6": 76.2,
+      "var7": 173.2,
+      "var8": 4335.8,
+      "var9": 308.2,
+      "var10": 2015.2,
+      "var11": 1769.2,
+      "var12": 76.2,
+      "var13": 167,
+      "var14": 884.3,
+      "var15": 161.7,
+      "var16": 566.6,
+      "var17": 149.8,
+      "var18": 0,
+      "var19": 6.2
+    },
+    {
+      "var1": 2019,
+      "var2": 5329.1,
+      "var3": 432.4,
+      "var4": 2478.6,
+      "var5": 2047,
+      "var6": 73.9,
+      "var7": 297.2,
+      "var8": 4535,
+      "var9": 293.7,
+      "var10": 1879.2,
+      "var11": 2004,
+      "var12": 73.8,
+      "var13": 284.3,
+      "var14": 794.1,
+      "var15": 138.7,
+      "var16": 474.6,
+      "var17": 167.8,
+      "var18": 0.1,
+      "var19": 12.9
+    },
+    {
+      "var1": 2020,
+      "var2": 4755.4,
+      "var3": 438,
+      "var4": 2094.5,
+      "var5": 1996.1,
+      "var6": 70.8,
+      "var7": 156,
+      "var8": 4058.6,
+      "var9": 346.4,
+      "var10": 1851.9,
+      "var11": 1702.5,
+      "var12": 20.8,
+      "var13": 137,
+      "var14": 696.8,
+      "var15": 91.6,
+      "var16": 392,
+      "var17": 144.2,
+      "var18": 50,
+      "var19": 19
+    },
+    {
+      "var1": 2021,
+      "var2": 4251.6,
+      "var3": 497.7,
+      "var4": 1199.1,
+      "var5": 2123.6,
+      "var6": 72.9,
+      "var7": 358.3,
+      "var8": 3570.9,
+      "var9": 407.3,
+      "var10": 1934.1,
+      "var11": 852.3,
+      "var12": 21.9,
+      "var13": 355.3,
+      "var14": 680.7,
+      "var15": 90.4,
+      "var16": 346.8,
+      "var17": 189.5,
+      "var18": 51,
+      "var19": 3
+    },
+    {
+      "var1": 2022,
+      "var2": 5191,
+      "var3": 312.3,
+      "var4": 2053.1,
+      "var5": 2322.8,
+      "var6": 68.9,
+      "var7": 433.9,
+      "var8": 4255.2,
+      "var9": 206.8,
+      "var10": 2217.8,
+      "var11": 1440.8,
+      "var12": 18.2,
+      "var13": 371.6,
+      "var14": 935.8,
+      "var15": 105.5,
+      "var16": 612.3,
+      "var17": 105,
+      "var18": 50.7,
+      "var19": 62.3
+    },
+    {
+      "var1": 2023,
+      "var2": 6865,
+      "var3": 495.2,
+      "var4": 4434.1,
+      "var5": 1582.2,
+      "var6": 62.7,
+      "var7": 290.8,
+      "var8": 5933.6,
+      "var9": 367,
+      "var10": 3965.6,
+      "var11": 1418.2,
+      "var12": 14.2,
+      "var13": 168.6,
+      "var14": 931.4,
+      "var15": 128.2,
+      "var16": 468.5,
+      "var17": 164,
+      "var18": 48.5,
+      "var19": 122.2
+    },
+    {
+      "var1": 2024,
+      "var2": 8829.9,
+      "var3": 466.7,
+      "var4": 5537.1,
+      "var5": 2356,
+      "var6": 45.6,
+      "var7": 424.5,
+      "var8": 8019.9,
+      "var9": 378.7,
+      "var10": 5027.3,
+      "var11": 2302.1,
+      "var12": 20.9,
+      "var13": 290.9,
+      "var14": 810,
+      "var15": 88,
+      "var16": 509.8,
+      "var17": 53.9,
+      "var18": 24.7,
+      "var19": 133.6
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "wirtschaft/kaufwerte-landwirtschaftlicher-grundstuecke-verkaeufe-zum-verkehrswert-ohne-gebaeude-und-ohne-inventar",
+  "title": "Kaufwerte landwirtschaftlicher Grundstücke - Verkäufe zum Verkehrswert ohne Gebäude und ohne Inventar",
+  "category": "Wirtschaft",
+  "subcategory": "Preise und Preisindizes",
+  "tableId": "K7_T96",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/kaufwerte-landwirtschaftlicher-grundstuecke-verkaeufe-zum-verkehrswert-ohne-gebaeude-und-ohne-inventar.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Kaufwerte landwirtschaftlicher Grundstücke - Verkäufe zum Verkehrswert ohne Gebäude und ohne Inventar.xlsx"
+  },
+  "description": "Kaufwerte landwirtschaftlicher Grundstücke (ohne Gebäude/Inventar). var3..var10 enthalten Verkäufe, Flächen und Kaufpreise, die Zuordnung war nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Bundesland/Region",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Sachsen-Anhalt",
+        "Sachsen-Anhalt",
+        "Sachsen-Anhalt"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        3418,
+        3190,
+        3160
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        11471,
+        11838,
+        12290
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        11426,
+        11789,
+        12170
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        204566,
+        214789,
+        222951
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        17834,
+        18143,
+        18140
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        17903,
+        18217,
+        18319
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        3.34,
+        3.7,
+        3.85
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        58.1,
+        57.8,
+        57.4
+      ]
+    }
+  ],
+  "rowCount": 12,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": "Sachsen-Anhalt",
+      "var3": 3418,
+      "var4": 11471,
+      "var5": 11426,
+      "var6": 204566,
+      "var7": 17834,
+      "var8": 17903,
+      "var9": 3.34,
+      "var10": 58.1
+    },
+    {
+      "var1": 2018,
+      "var2": "Sachsen-Anhalt",
+      "var3": 3190,
+      "var4": 11838,
+      "var5": 11789,
+      "var6": 214789,
+      "var7": 18143,
+      "var8": 18217,
+      "var9": 3.7,
+      "var10": 57.8
+    },
+    {
+      "var1": 2019,
+      "var2": "Sachsen-Anhalt",
+      "var3": 3160,
+      "var4": 12290,
+      "var5": 12170,
+      "var6": 222951,
+      "var7": 18140,
+      "var8": 18319,
+      "var9": 3.85,
+      "var10": 57.4
+    },
+    {
+      "var1": 2020,
+      "var2": "Sachsen-Anhalt",
+      "var3": 2957,
+      "var4": 12997,
+      "var5": 12929,
+      "var6": 253445,
+      "var7": 19500,
+      "var8": 19603,
+      "var9": 4.37,
+      "var10": 57.3
+    },
+    {
+      "var1": 2017,
+      "var2": "Magdeburg",
+      "var3": 19,
+      "var4": 56,
+      "var5": 56,
+      "var6": 1735,
+      "var7": 31202,
+      "var8": 31202,
+      "var9": 2.93,
+      "var10": 89.3
+    },
+    {
+      "var1": 2018,
+      "var2": "Magdeburg",
+      "var3": 20,
+      "var4": 105,
+      "var5": 105,
+      "var6": 2485,
+      "var7": 23652,
+      "var8": 23652,
+      "var9": 5.25,
+      "var10": 69.7
+    },
+    {
+      "var1": 2019,
+      "var2": "Magdeburg",
+      "var3": 11,
+      "var4": 41,
+      "var5": 41,
+      "var6": 1364,
+      "var7": 32884,
+      "var8": 32884,
+      "var9": 3.77,
+      "var10": 70.7
+    },
+    {
+      "var1": 2020,
+      "var2": "Magdeburg",
+      "var3": 15,
+      "var4": 69,
+      "var5": 68,
+      "var6": 2691,
+      "var7": 38833,
+      "var8": 39328,
+      "var9": 4.55999999999999,
+      "var10": 78.5
+    },
+    {
+      "var1": 2021,
+      "var2": "Sachsen-Anhalt",
+      "var3": 2437,
+      "var4": 8327,
+      "var5": 0,
+      "var6": 174617,
+      "var7": 20971,
+      "var8": 0,
+      "var9": 3.42,
+      "var10": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Sachsen-Anhalt",
+      "var3": 2312,
+      "var4": 6340,
+      "var5": 6340,
+      "var6": 136868,
+      "var7": 21589,
+      "var8": 0,
+      "var9": 2.74,
+      "var10": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Magdeburg",
+      "var3": 23,
+      "var4": 133,
+      "var5": 0,
+      "var6": 4946,
+      "var7": 37241,
+      "var8": 0,
+      "var9": 5.77,
+      "var10": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Magdeburg",
+      "var3": 18,
+      "var4": 0,
+      "var5": 0,
+      "var6": 4453,
+      "var7": 0,
+      "var8": 0,
+      "var9": 0,
+      "var10": 0
+    }
+  ]
+}

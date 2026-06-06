@@ -1,0 +1,484 @@
+{
+  "id": "bevoelkerung/hauptwohnsitzbevoelkerung-nach-postleitzahlen",
+  "title": "Hauptwohnsitzbevölkerung nach Postleitzahlen",
+  "category": "Bevölkerung",
+  "subcategory": "Bevölkerungsentwicklung",
+  "tableId": "K3_T11",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bevoelkerung/hauptwohnsitzbevoelkerung-nach-postleitzahlen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Hauptwohnsitzbevölkerung nach Postleitzahlen.xlsx"
+  },
+  "description": "Hauptwohnsitzbevölkerung nach Postleitzahlen. Spalten var2..var16 entsprechen den 15 PLZ-Bereichen in Magdeburg, deren Zuordnung nicht aus den Rohdaten herleitbar war.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        20369,
+        20842,
+        21130
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        10316,
+        10646,
+        10722
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        25393,
+        25508,
+        25691
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        18458,
+        18442,
+        18423
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        19568,
+        19837,
+        20382
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        20740,
+        20979,
+        20731
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        17058,
+        16993,
+        16914
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        14509,
+        14468,
+        14417
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        10138,
+        10049,
+        10114
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        11424,
+        11558,
+        11631
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        13765,
+        13897,
+        14192
+      ]
+    },
+    {
+      "key": "var13",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        14572,
+        14438,
+        14355
+      ]
+    },
+    {
+      "key": "var14",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        20558,
+        20469,
+        20445
+      ]
+    },
+    {
+      "key": "var15",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        14752,
+        14534,
+        14522
+      ]
+    },
+    {
+      "key": "var16",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        231620,
+        232660,
+        233669
+      ]
+    }
+  ],
+  "rowCount": 15,
+  "rows": [
+    {
+      "var1": 2011,
+      "var2": 20369,
+      "var3": 10316,
+      "var4": 25393,
+      "var5": 18458,
+      "var6": 19568,
+      "var7": 20740,
+      "var8": 17058,
+      "var9": 14509,
+      "var10": 10138,
+      "var11": 11424,
+      "var12": 13765,
+      "var13": 14572,
+      "var14": 20558,
+      "var15": 14752,
+      "var16": 231620
+    },
+    {
+      "var1": 2012,
+      "var2": 20842,
+      "var3": 10646,
+      "var4": 25508,
+      "var5": 18442,
+      "var6": 19837,
+      "var7": 20979,
+      "var8": 16993,
+      "var9": 14468,
+      "var10": 10049,
+      "var11": 11558,
+      "var12": 13897,
+      "var13": 14438,
+      "var14": 20469,
+      "var15": 14534,
+      "var16": 232660
+    },
+    {
+      "var1": 2013,
+      "var2": 21130,
+      "var3": 10722,
+      "var4": 25691,
+      "var5": 18423,
+      "var6": 20382,
+      "var7": 20731,
+      "var8": 16914,
+      "var9": 14417,
+      "var10": 10114,
+      "var11": 11631,
+      "var12": 14192,
+      "var13": 14355,
+      "var14": 20445,
+      "var15": 14522,
+      "var16": 233669
+    },
+    {
+      "var1": 2014,
+      "var2": 21703,
+      "var3": 10946,
+      "var4": 25702,
+      "var5": 18330,
+      "var6": 20526,
+      "var7": 20823,
+      "var8": 16844,
+      "var9": 14418,
+      "var10": 10128,
+      "var11": 11704,
+      "var12": 14416,
+      "var13": 14235,
+      "var14": 20522,
+      "var15": 14561,
+      "var16": 234858
+    },
+    {
+      "var1": 2015,
+      "var2": 22159,
+      "var3": 11451,
+      "var4": 25877,
+      "var5": 18537,
+      "var6": 21064,
+      "var7": 20866,
+      "var8": 16781,
+      "var9": 14231,
+      "var10": 10271,
+      "var11": 11979,
+      "var12": 15086,
+      "var13": 14393,
+      "var14": 20673,
+      "var15": 14844,
+      "var16": 238212
+    },
+    {
+      "var1": 2016,
+      "var2": 22336,
+      "var3": 11443,
+      "var4": 26025,
+      "var5": 18280,
+      "var6": 21419,
+      "var7": 21350,
+      "var8": 16848,
+      "var9": 14234,
+      "var10": 10484,
+      "var11": 12388,
+      "var12": 15639,
+      "var13": 14622,
+      "var14": 20895,
+      "var15": 15171,
+      "var16": 241134
+    },
+    {
+      "var1": 2017,
+      "var2": 22569,
+      "var3": 11425,
+      "var4": 26193,
+      "var5": 18232,
+      "var6": 21469,
+      "var7": 21372,
+      "var8": 16838,
+      "var9": 14164,
+      "var10": 10554,
+      "var11": 12469,
+      "var12": 15724,
+      "var13": 14564,
+      "var14": 20712,
+      "var15": 15484,
+      "var16": 241769
+    },
+    {
+      "var1": 2018,
+      "var2": 22678,
+      "var3": 11606,
+      "var4": 26123,
+      "var5": 18230,
+      "var6": 21493,
+      "var7": 21605,
+      "var8": 16777,
+      "var9": 14170,
+      "var10": 10501,
+      "var11": 12631,
+      "var12": 15736,
+      "var13": 14553,
+      "var14": 20629,
+      "var15": 15438,
+      "var16": 242170
+    },
+    {
+      "var1": 2019,
+      "var2": 22579,
+      "var3": 11706,
+      "var4": 25617,
+      "var5": 18320,
+      "var6": 21383,
+      "var7": 21906,
+      "var8": 16655,
+      "var9": 13989,
+      "var10": 10574,
+      "var11": 12446,
+      "var12": 15483,
+      "var13": 14513,
+      "var14": 20450,
+      "var15": 15326,
+      "var16": 240947
+    },
+    {
+      "var1": 2020,
+      "var2": 22531,
+      "var3": 11433,
+      "var4": 25258,
+      "var5": 18467,
+      "var6": 21348,
+      "var7": 21617,
+      "var8": 16456,
+      "var9": 14023,
+      "var10": 10498,
+      "var11": 12556,
+      "var12": 15299,
+      "var13": 14347,
+      "var14": 20250,
+      "var15": 15325,
+      "var16": 239408
+    },
+    {
+      "var1": 2021,
+      "var2": 22715,
+      "var3": 11742,
+      "var4": 25089,
+      "var5": 18450,
+      "var6": 21606,
+      "var7": 21658,
+      "var8": 16366,
+      "var9": 13905,
+      "var10": 10504,
+      "var11": 12672,
+      "var12": 15456,
+      "var13": 14242,
+      "var14": 20158,
+      "var15": 15407,
+      "var16": 239970
+    },
+    {
+      "var1": 2022,
+      "var2": 23168,
+      "var3": 11818,
+      "var4": 25208,
+      "var5": 18515,
+      "var6": 21977,
+      "var7": 21668,
+      "var8": 16508,
+      "var9": 14047,
+      "var10": 10832,
+      "var11": 12742,
+      "var12": 15760,
+      "var13": 14462,
+      "var14": 20341,
+      "var15": 15707,
+      "var16": 242753
+    },
+    {
+      "var1": 2023,
+      "var2": 23369,
+      "var3": 11855,
+      "var4": 25113,
+      "var5": 18448,
+      "var6": 22068,
+      "var7": 21622,
+      "var8": 16311,
+      "var9": 14055,
+      "var10": 10860,
+      "var11": 12782,
+      "var12": 15940,
+      "var13": 14824,
+      "var14": 20352,
+      "var15": 15820,
+      "var16": 243419
+    },
+    {
+      "var1": 2024,
+      "var2": 23828,
+      "var3": 12146,
+      "var4": 25184,
+      "var5": 18528,
+      "var6": 22500,
+      "var7": 21486,
+      "var8": 16273,
+      "var9": 14011,
+      "var10": 10935,
+      "var11": 12918,
+      "var12": 16243,
+      "var13": 15094,
+      "var14": 20503,
+      "var15": 15872,
+      "var16": 245521
+    },
+    {
+      "var1": 2025,
+      "var2": 23936,
+      "var3": 12374,
+      "var4": 25153,
+      "var5": 18614,
+      "var6": 22667,
+      "var7": 21486,
+      "var8": 16255,
+      "var9": 14025,
+      "var10": 10908,
+      "var11": 12908,
+      "var12": 16264,
+      "var13": 15009,
+      "var14": 20358,
+      "var15": 15877,
+      "var16": 245834
+    }
+  ]
+}

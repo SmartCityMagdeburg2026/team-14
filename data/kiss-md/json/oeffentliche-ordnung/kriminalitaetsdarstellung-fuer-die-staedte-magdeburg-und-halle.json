@@ -1,0 +1,196 @@
+{
+  "id": "oeffentliche-ordnung/kriminalitaetsdarstellung-fuer-die-staedte-magdeburg-und-halle",
+  "title": "Kriminalitätsdarstellung für die Städte Magdeburg und Halle",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Kriminalitätsstatistik",
+  "tableId": "K11_T4",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/kriminalitaetsdarstellung-fuer-die-staedte-magdeburg-und-halle.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Kriminalitätsdarstellung für die Städte Magdeburg und Halle.xlsx"
+  },
+  "description": "Kriminalitätsdarstellung für die Städte Magdeburg und Halle. var2..var7 enthalten Vergleichswerte (Fälle / Tatverdächtige / Häufigkeitszahlen × Magdeburg/Halle), die Zuordnung war nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        27143,
+        26877,
+        24584
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        30399,
+        28925,
+        27408
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        238136,
+        238478,
+        238697
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        238005,
+        239173,
+        239257
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        11398.1086438002,
+        11270,
+        10299
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        12772.4207474633,
+        12094,
+        11455
+      ]
+    }
+  ],
+  "rowCount": 10,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": 27143,
+      "var3": 30399,
+      "var4": 238136,
+      "var5": 238005,
+      "var6": 11398.1086438002,
+      "var7": 12772.4207474633
+    },
+    {
+      "var1": 2018,
+      "var2": 26877,
+      "var3": 28925,
+      "var4": 238478,
+      "var5": 239173,
+      "var6": 11270,
+      "var7": 12094
+    },
+    {
+      "var1": 2019,
+      "var2": 24584,
+      "var3": 27408,
+      "var4": 238697,
+      "var5": 239257,
+      "var6": 10299,
+      "var7": 11455
+    },
+    {
+      "var1": 2020,
+      "var2": 25093,
+      "var3": 29089,
+      "var4": 237565,
+      "var5": 238762,
+      "var6": 10563,
+      "var7": 12183
+    },
+    {
+      "var1": 2021,
+      "var2": 23286,
+      "var3": 27537,
+      "var4": 235775,
+      "var5": 237865,
+      "var6": 9876,
+      "var7": 11577
+    },
+    {
+      "var1": 2022,
+      "var2": 37332,
+      "var3": 26818,
+      "var4": 236188,
+      "var5": 238061,
+      "var6": 11572,
+      "var7": 11265
+    },
+    {
+      "var1": 2023,
+      "var2": 32332,
+      "var3": 39748,
+      "var4": 239364,
+      "var5": 242083,
+      "var6": 13507,
+      "var7": 12701
+    },
+    {
+      "var1": 2015,
+      "var2": 28440,
+      "var3": 32884,
+      "var4": 232306,
+      "var5": 232470,
+      "var6": 12242,
+      "var7": 14145
+    },
+    {
+      "var1": 2016,
+      "var2": 28354,
+      "var3": 31462,
+      "var4": 235723,
+      "var5": 236991,
+      "var6": 12029,
+      "var7": 13276
+    },
+    {
+      "var1": 2024,
+      "var2": 28108,
+      "var3": 28417,
+      "var4": 245521,
+      "var5": 227639,
+      "var6": 11706,
+      "var7": 11734
+    }
+  ]
+}

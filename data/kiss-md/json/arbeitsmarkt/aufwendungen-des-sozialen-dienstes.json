@@ -1,0 +1,188 @@
+{
+  "id": "arbeitsmarkt/aufwendungen-des-sozialen-dienstes",
+  "title": "Aufwendungen des sozialen Dienstes",
+  "category": "Arbeitsmarkt",
+  "subcategory": "Sozialhilfe, sozialer Dienst, Betreuung von Schuldnern",
+  "tableId": "K4_T20",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/arbeitsmarkt/aufwendungen-des-sozialen-dienstes.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Aufwendungen des sozialen Dienstes.xlsx"
+  },
+  "description": "Aufwendungen des sozialen Dienstes. var2..var6 entsprechen 5 Ausgabenkategorien, deren Zuordnung nicht aus den Rohdaten ableitbar war; var8 enthält die Gesamtsumme.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2018,
+        2019,
+        2020
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1487,
+        1388,
+        797
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        6018,
+        6569,
+        6137
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5890,
+        5370,
+        4545
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2979,
+        2785,
+        2200
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2911,
+        2585,
+        2345
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        15,
+        15,
+        16
+      ]
+    },
+    {
+      "key": "var8",
+      "label": "Gesamtaufwendungen sozialer Dienst",
+      "unit": "EUR",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        134744,
+        144565,
+        94201
+      ]
+    }
+  ],
+  "rowCount": 7,
+  "rows": [
+    {
+      "var1": 2018,
+      "var2": 1487,
+      "var3": 6018,
+      "var4": 5890,
+      "var5": 2979,
+      "var6": 2911,
+      "var7": 15,
+      "var8": 134744
+    },
+    {
+      "var1": 2019,
+      "var2": 1388,
+      "var3": 6569,
+      "var4": 5370,
+      "var5": 2785,
+      "var6": 2585,
+      "var7": 15,
+      "var8": 144565
+    },
+    {
+      "var1": 2020,
+      "var2": 797,
+      "var3": 6137,
+      "var4": 4545,
+      "var5": 2200,
+      "var6": 2345,
+      "var7": 16,
+      "var8": 94201
+    },
+    {
+      "var1": 2021,
+      "var2": 1081,
+      "var3": 6385,
+      "var4": 4661,
+      "var5": 2190,
+      "var6": 2471,
+      "var7": 16,
+      "var8": 120070
+    },
+    {
+      "var1": 2022,
+      "var2": 1021,
+      "var3": 6593,
+      "var4": 5456,
+      "var5": 2451,
+      "var6": 3005,
+      "var7": 16,
+      "var8": 159900
+    },
+    {
+      "var1": 2023,
+      "var2": 1260,
+      "var3": 8209,
+      "var4": 7304,
+      "var5": 3060,
+      "var6": 4244,
+      "var7": 16,
+      "var8": 148921
+    },
+    {
+      "var1": 2024,
+      "var2": 840,
+      "var3": 6771,
+      "var4": 7083,
+      "var5": 3044,
+      "var6": 4039,
+      "var7": 16,
+      "var8": 165360
+    }
+  ]
+}

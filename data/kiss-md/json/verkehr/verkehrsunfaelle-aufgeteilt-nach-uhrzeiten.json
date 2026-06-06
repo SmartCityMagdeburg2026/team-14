@@ -1,0 +1,403 @@
+{
+  "id": "verkehr/verkehrsunfaelle-aufgeteilt-nach-uhrzeiten",
+  "title": "Verkehrsunfälle aufgeteilt nach Uhrzeiten",
+  "category": "Verkehr",
+  "subcategory": "Unfallgeschehen in der Stadt Magdeburg",
+  "tableId": "K8_T11",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/verkehr/verkehrsunfaelle-aufgeteilt-nach-uhrzeiten.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Verkehrsunfälle aufgeteilt nach Uhrzeiten.xlsx"
+  },
+  "description": "Verkehrsunfälle nach Uhrzeit. Spalten var2..var13 entsprechen vermutlich 2-Stunden-Intervallen, die genaue Zeitbereich-Zuordnung ist aber nicht eindeutig aus den Rohdaten ableitbar.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        67,
+        73,
+        79
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        43,
+        40,
+        36
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        110,
+        110,
+        127
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        695,
+        775,
+        769
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        896,
+        1035,
+        1025
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1310,
+        1304,
+        1397
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1116,
+        1208,
+        1220
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1320,
+        1412,
+        1443
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1306,
+        1272,
+        1365
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        675,
+        681,
+        664
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        266,
+        300,
+        323
+      ]
+    },
+    {
+      "key": "var13",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        145,
+        130,
+        128
+      ]
+    }
+  ],
+  "rowCount": 15,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": 67,
+      "var3": 43,
+      "var4": 110,
+      "var5": 695,
+      "var6": 896,
+      "var7": 1310,
+      "var8": 1116,
+      "var9": 1320,
+      "var10": 1306,
+      "var11": 675,
+      "var12": 266,
+      "var13": 145
+    },
+    {
+      "var1": 2018,
+      "var2": 73,
+      "var3": 40,
+      "var4": 110,
+      "var5": 775,
+      "var6": 1035,
+      "var7": 1304,
+      "var8": 1208,
+      "var9": 1412,
+      "var10": 1272,
+      "var11": 681,
+      "var12": 300,
+      "var13": 130
+    },
+    {
+      "var1": 2019,
+      "var2": 79,
+      "var3": 36,
+      "var4": 127,
+      "var5": 769,
+      "var6": 1025,
+      "var7": 1397,
+      "var8": 1220,
+      "var9": 1443,
+      "var10": 1365,
+      "var11": 664,
+      "var12": 323,
+      "var13": 128
+    },
+    {
+      "var1": 2020,
+      "var2": 79,
+      "var3": 35,
+      "var4": 91,
+      "var5": 638,
+      "var6": 797,
+      "var7": 1250,
+      "var8": 1147,
+      "var9": 1256,
+      "var10": 1126,
+      "var11": 570,
+      "var12": 239,
+      "var13": 132
+    },
+    {
+      "var1": 2021,
+      "var2": 82,
+      "var3": 25,
+      "var4": 84,
+      "var5": 532,
+      "var6": 798,
+      "var7": 1102,
+      "var8": 1062,
+      "var9": 1161,
+      "var10": 961,
+      "var11": 531,
+      "var12": 220,
+      "var13": 130
+    },
+    {
+      "var1": 2022,
+      "var2": 116,
+      "var3": 40,
+      "var4": 88,
+      "var5": 670,
+      "var6": 944,
+      "var7": 1244,
+      "var8": 1130,
+      "var9": 1321,
+      "var10": 1120,
+      "var11": 604,
+      "var12": 287,
+      "var13": 154
+    },
+    {
+      "var1": 2010,
+      "var2": 105,
+      "var3": 77,
+      "var4": 132,
+      "var5": 800,
+      "var6": 1077,
+      "var7": 1415,
+      "var8": 1292,
+      "var9": 1545,
+      "var10": 1473,
+      "var11": 857,
+      "var12": 418,
+      "var13": 264
+    },
+    {
+      "var1": 2011,
+      "var2": 76,
+      "var3": 69,
+      "var4": 137,
+      "var5": 772,
+      "var6": 1015,
+      "var7": 1332,
+      "var8": 1267,
+      "var9": 1482,
+      "var10": 1498,
+      "var11": 781,
+      "var12": 336,
+      "var13": 193
+    },
+    {
+      "var1": 2012,
+      "var2": 93,
+      "var3": 58,
+      "var4": 134,
+      "var5": 798,
+      "var6": 943,
+      "var7": 1363,
+      "var8": 1254,
+      "var9": 1483,
+      "var10": 1472,
+      "var11": 845,
+      "var12": 353,
+      "var13": 205
+    },
+    {
+      "var1": 2013,
+      "var2": 85,
+      "var3": 52,
+      "var4": 129,
+      "var5": 774,
+      "var6": 988,
+      "var7": 1358,
+      "var8": 1207,
+      "var9": 1435,
+      "var10": 1461,
+      "var11": 789,
+      "var12": 386,
+      "var13": 190
+    },
+    {
+      "var1": 2014,
+      "var2": 79,
+      "var3": 42,
+      "var4": 118,
+      "var5": 783,
+      "var6": 895,
+      "var7": 1234,
+      "var8": 1171,
+      "var9": 1408,
+      "var10": 1319,
+      "var11": 706,
+      "var12": 294,
+      "var13": 172
+    },
+    {
+      "var1": 2015,
+      "var2": 53,
+      "var3": 27,
+      "var4": 112,
+      "var5": 756,
+      "var6": 916,
+      "var7": 1225,
+      "var8": 1111,
+      "var9": 1311,
+      "var10": 1254,
+      "var11": 686,
+      "var12": 281,
+      "var13": 150
+    },
+    {
+      "var1": 2016,
+      "var2": 64,
+      "var3": 39,
+      "var4": 88,
+      "var5": 697,
+      "var6": 886,
+      "var7": 1249,
+      "var8": 1134,
+      "var9": 1350,
+      "var10": 1285,
+      "var11": 735,
+      "var12": 295,
+      "var13": 175
+    },
+    {
+      "var1": 2023,
+      "var2": 123,
+      "var3": 56,
+      "var4": 102,
+      "var5": 641,
+      "var6": 862,
+      "var7": 1207,
+      "var8": 1187,
+      "var9": 1345,
+      "var10": 1124,
+      "var11": 701,
+      "var12": 299,
+      "var13": 190
+    },
+    {
+      "var1": 2024,
+      "var2": 165,
+      "var3": 45,
+      "var4": 112,
+      "var5": 762,
+      "var6": 866,
+      "var7": 1278,
+      "var8": 1147,
+      "var9": 1340,
+      "var10": 1131,
+      "var11": 690,
+      "var12": 346,
+      "var13": 186
+    }
+  ]
+}

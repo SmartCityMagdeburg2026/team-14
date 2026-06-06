@@ -1,0 +1,238 @@
+{
+  "id": "oeffentliche-ordnung/insolvenzverfahren-im-land-sachsen-anhalt-und-in-magdeburg-nach-wirtschaftsbereichen-der-klassifikation-der-wirtschaftszweige-2008-wz-2008",
+  "title": "Insolvenzverfahren im Land Sachsen-Anhalt und in Magdeburg nach Wirtschaftsbereichen der Klassifikation der Wirtschaftszweige 2008 (WZ 2008)",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Insolvenzen",
+  "tableId": "K11_T11",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/insolvenzverfahren-im-land-sachsen-anhalt-und-in-magdeburg-nach-wirtschaftsbereichen-der-klassifikation-der-wirtschaftszweige-2008-wz-2008.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Insolvenzverfahren im Land Sachsen-Anhalt und in Magdeburg nach Wirtschaftsbereichen der Klassifikation der Wirtschaftszweige 2008 (WZ 2008).xlsx"
+  },
+  "description": "Insolvenzverfahren im Land Sachsen-Anhalt und in Magdeburg nach Wirtschaftsbereichen (WZ 2008). var3/var4 enthalten Werte für Sachsen-Anhalt bzw. Magdeburg, die Zuordnung war nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2021,
+        2021,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Wirtschaftsbereich (WZ 2008)",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Verarbeitendes Gewerbe (C)",
+        "Baugewerbe (F)",
+        "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen (G)"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        28,
+        46,
+        43
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2,
+        6,
+        7
+      ]
+    }
+  ],
+  "rowCount": 28,
+  "rows": [
+    {
+      "var1": 2021,
+      "var2": "Verarbeitendes Gewerbe (C)",
+      "var3": 28,
+      "var4": 2
+    },
+    {
+      "var1": 2021,
+      "var2": "Baugewerbe (F)",
+      "var3": 46,
+      "var4": 6
+    },
+    {
+      "var1": 2021,
+      "var2": "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen (G)",
+      "var3": 43,
+      "var4": 7
+    },
+    {
+      "var1": 2021,
+      "var2": "Verkehr- und Lagerei; Information und Kommunikation (H,J)",
+      "var3": 25,
+      "var4": 4
+    },
+    {
+      "var1": 2021,
+      "var2": "Gastgewerbe (I)",
+      "var3": 31,
+      "var4": 5
+    },
+    {
+      "var1": 2021,
+      "var2": "Dienstleistungen (K,M,N,S)",
+      "var3": 80,
+      "var4": 11
+    },
+    {
+      "var1": 2021,
+      "var2": "Unternehmen gesamt",
+      "var3": 285,
+      "var4": 39
+    },
+    {
+      "var1": 2022,
+      "var2": "Verarbeitendes Gewerbe (C)",
+      "var3": 31,
+      "var4": 3
+    },
+    {
+      "var1": 2022,
+      "var2": "Baugewerbe (F)",
+      "var3": 53,
+      "var4": 10
+    },
+    {
+      "var1": 2022,
+      "var2": "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen (G)",
+      "var3": 46,
+      "var4": 10
+    },
+    {
+      "var1": 2022,
+      "var2": "Verkehr- und Lagerei; Information und Kommunikation (H,J)",
+      "var3": 32,
+      "var4": 6
+    },
+    {
+      "var1": 2022,
+      "var2": "Gastgewerbe (I)",
+      "var3": 30,
+      "var4": 8
+    },
+    {
+      "var1": 2022,
+      "var2": "Dienstleistungen (K,M,N,S)",
+      "var3": 79,
+      "var4": 11
+    },
+    {
+      "var1": 2022,
+      "var2": "Unternehmen gesamt",
+      "var3": 298,
+      "var4": 48
+    },
+    {
+      "var1": 2023,
+      "var2": "Verarbeitendes Gewerbe (C)",
+      "var3": 23,
+      "var4": 1
+    },
+    {
+      "var1": 2023,
+      "var2": "Baugewerbe (F)",
+      "var3": 50,
+      "var4": 4
+    },
+    {
+      "var1": 2023,
+      "var2": "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen (G)",
+      "var3": 27,
+      "var4": 6
+    },
+    {
+      "var1": 2023,
+      "var2": "Verkehr- und Lagerei; Information und Kommunikation (H,J)",
+      "var3": 23,
+      "var4": 6
+    },
+    {
+      "var1": 2023,
+      "var2": "Gastgewerbe (I)",
+      "var3": 47,
+      "var4": 5
+    },
+    {
+      "var1": 2023,
+      "var2": "Dienstleistungen (K,M,N,S)",
+      "var3": 115,
+      "var4": 16
+    },
+    {
+      "var1": 2023,
+      "var2": "Unternehmen gesamt",
+      "var3": 323,
+      "var4": 43
+    },
+    {
+      "var1": 2024,
+      "var2": "Verarbeitendes Gewerbe (C)",
+      "var3": 32,
+      "var4": 3
+    },
+    {
+      "var1": 2024,
+      "var2": "Baugewerbe (F)",
+      "var3": 67,
+      "var4": 6
+    },
+    {
+      "var1": 2024,
+      "var2": "Handel, Instandhaltung und Reparatur von Kraftfahrzeugen (G)",
+      "var3": 45,
+      "var4": 6
+    },
+    {
+      "var1": 2024,
+      "var2": "Verkehr- und Lagerei; Information und Kommunikation (H,J)",
+      "var3": 25,
+      "var4": 1
+    },
+    {
+      "var1": 2024,
+      "var2": "Gastgewerbe (I)",
+      "var3": 38,
+      "var4": 10
+    },
+    {
+      "var1": 2024,
+      "var2": "Dienstleistungen (K,M,N,S)",
+      "var3": 89,
+      "var4": 10
+    },
+    {
+      "var1": 2024,
+      "var2": "Unternehmen gesamt",
+      "var3": 352,
+      "var4": 47
+    }
+  ]
+}

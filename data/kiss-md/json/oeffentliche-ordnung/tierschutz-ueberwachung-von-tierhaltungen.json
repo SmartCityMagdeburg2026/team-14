@@ -1,0 +1,286 @@
+{
+  "id": "oeffentliche-ordnung/tierschutz-ueberwachung-von-tierhaltungen",
+  "title": "Tierschutz, Überwachung von Tierhaltungen",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Veterinärwesen und Lebensmittelüberwachung",
+  "tableId": "K11_T30",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/tierschutz-ueberwachung-von-tierhaltungen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Tierschutz, Überwachung  von Tierhaltungen.xlsx"
+  },
+  "description": "Tierschutz — Überwachung von Tierhaltungen. var3..var10 enthalten Kennzahlen (kontrollierte Einrichtungen, Kontrollen, Beanstandungen), deren Zuordnung nicht eindeutig war.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2019,
+        2019,
+        2020
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Art der Kontrolle",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Einrichtungen",
+        "Kontrollen",
+        "Einrichtungen"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        9,
+        9,
+        9
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        137,
+        0
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        29,
+        0
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        16,
+        16,
+        16
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        8,
+        8,
+        5
+      ]
+    }
+  ],
+  "rowCount": 12,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": "Einrichtungen",
+      "var3": 7,
+      "var4": 9,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 2,
+      "var9": 16,
+      "var10": 8
+    },
+    {
+      "var1": 2019,
+      "var2": "Kontrollen",
+      "var3": 7,
+      "var4": 9,
+      "var5": 137,
+      "var6": 29,
+      "var7": 1,
+      "var8": 2,
+      "var9": 16,
+      "var10": 8
+    },
+    {
+      "var1": 2020,
+      "var2": "Einrichtungen",
+      "var3": 7,
+      "var4": 9,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 2,
+      "var9": 16,
+      "var10": 5
+    },
+    {
+      "var1": 2020,
+      "var2": "Kontrollen",
+      "var3": 7,
+      "var4": 9,
+      "var5": 66,
+      "var6": 8,
+      "var7": 0,
+      "var8": 2,
+      "var9": 8,
+      "var10": 3
+    },
+    {
+      "var1": 2021,
+      "var2": "Einrichtungen",
+      "var3": 8,
+      "var4": 8,
+      "var5": 0,
+      "var6": 12,
+      "var7": 1,
+      "var8": 2,
+      "var9": 16,
+      "var10": 6
+    },
+    {
+      "var1": 2021,
+      "var2": "Kontrollen",
+      "var3": 2,
+      "var4": 8,
+      "var5": 80,
+      "var6": 0,
+      "var7": 1,
+      "var8": 1,
+      "var9": 4,
+      "var10": 2
+    },
+    {
+      "var1": 2022,
+      "var2": "Einrichtungen",
+      "var3": 8,
+      "var4": 8,
+      "var5": 0,
+      "var6": 15,
+      "var7": 0,
+      "var8": 3,
+      "var9": 16,
+      "var10": 6
+    },
+    {
+      "var1": 2022,
+      "var2": "Kontrollen",
+      "var3": 2,
+      "var4": 9,
+      "var5": 104,
+      "var6": 18,
+      "var7": 1,
+      "var8": 15,
+      "var9": 0,
+      "var10": 4
+    },
+    {
+      "var1": 2023,
+      "var2": "Einrichtungen",
+      "var3": 7,
+      "var4": 8,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 3,
+      "var9": 14,
+      "var10": 7
+    },
+    {
+      "var1": 2023,
+      "var2": "Kontrollen",
+      "var3": 2,
+      "var4": 9,
+      "var5": 125,
+      "var6": 24,
+      "var7": 2,
+      "var8": 7,
+      "var9": 2,
+      "var10": 2
+    },
+    {
+      "var1": 2024,
+      "var2": "Einrichtungen",
+      "var3": 7,
+      "var4": 9,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 2,
+      "var9": 14,
+      "var10": 7
+    },
+    {
+      "var1": 2024,
+      "var2": "Kontrollen",
+      "var3": 2,
+      "var4": 8,
+      "var5": 196,
+      "var6": 24,
+      "var7": 2,
+      "var8": 3,
+      "var9": 2,
+      "var10": 2
+    }
+  ]
+}

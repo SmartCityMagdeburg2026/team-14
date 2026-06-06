@@ -1,0 +1,284 @@
+{
+  "id": "wirtschaft/handwerksbetriebe-im-glas-papier-keramischen-und-sonstigem-gewerbe-nach-berufen",
+  "title": "Handwerksbetriebe im Glas-, Papier-, keramischen und sonstigem Gewerbe nach Berufen",
+  "category": "Wirtschaft",
+  "subcategory": "Handwerksbetriebe der Handwerkskammer Magdeburg",
+  "tableId": "K7_T9g",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/handwerksbetriebe-im-glas-papier-keramischen-und-sonstigem-gewerbe-nach-berufen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Handwerksbetriebe im Glas-, Papier-, keramischen und sonstigem Gewerbe nach Berufen.xlsx"
+  },
+  "description": "Handwerksbetriebe im Glas-, Papier-, keramischen und sonstigem Gewerbe nach Berufen. var2..var9 entsprechen Berufen (Glaser, Buchbinder, Töpfer etc.), Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        70,
+        84,
+        90
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        12,
+        14,
+        14
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        23,
+        32,
+        38
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        11,
+        12,
+        12
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        6,
+        7,
+        6
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        8,
+        9,
+        9
+      ]
+    }
+  ],
+  "rowCount": 14,
+  "rows": [
+    {
+      "var1": 2010,
+      "var2": 70,
+      "var3": 12,
+      "var4": 5,
+      "var5": 23,
+      "var6": 11,
+      "var7": 5,
+      "var8": 6,
+      "var9": 8
+    },
+    {
+      "var1": 2011,
+      "var2": 84,
+      "var3": 14,
+      "var4": 5,
+      "var5": 32,
+      "var6": 12,
+      "var7": 5,
+      "var8": 7,
+      "var9": 9
+    },
+    {
+      "var1": 2012,
+      "var2": 90,
+      "var3": 14,
+      "var4": 6,
+      "var5": 38,
+      "var6": 12,
+      "var7": 5,
+      "var8": 6,
+      "var9": 9
+    },
+    {
+      "var1": 2013,
+      "var2": 96,
+      "var3": 13,
+      "var4": 7,
+      "var5": 44,
+      "var6": 12,
+      "var7": 5,
+      "var8": 5,
+      "var9": 10
+    },
+    {
+      "var1": 2014,
+      "var2": 98,
+      "var3": 13,
+      "var4": 7,
+      "var5": 46,
+      "var6": 13,
+      "var7": 5,
+      "var8": 5,
+      "var9": 9
+    },
+    {
+      "var1": 2015,
+      "var2": 111,
+      "var3": 14,
+      "var4": 7,
+      "var5": 55,
+      "var6": 13,
+      "var7": 4,
+      "var8": 7,
+      "var9": 11
+    },
+    {
+      "var1": 2016,
+      "var2": 107,
+      "var3": 13,
+      "var4": 7,
+      "var5": 53,
+      "var6": 12,
+      "var7": 4,
+      "var8": 6,
+      "var9": 12
+    },
+    {
+      "var1": 2017,
+      "var2": 106,
+      "var3": 12,
+      "var4": 5,
+      "var5": 56,
+      "var6": 11,
+      "var7": 4,
+      "var8": 6,
+      "var9": 12
+    },
+    {
+      "var1": 2018,
+      "var2": 105,
+      "var3": 12,
+      "var4": 5,
+      "var5": 58,
+      "var6": 11,
+      "var7": 3,
+      "var8": 5,
+      "var9": 11
+    },
+    {
+      "var1": 2019,
+      "var2": 114,
+      "var3": 13,
+      "var4": 4,
+      "var5": 66,
+      "var6": 11,
+      "var7": 3,
+      "var8": 5,
+      "var9": 12
+    },
+    {
+      "var1": 2020,
+      "var2": 117,
+      "var3": 12,
+      "var4": 4,
+      "var5": 72,
+      "var6": 9,
+      "var7": 3,
+      "var8": 5,
+      "var9": 12
+    },
+    {
+      "var1": 2021,
+      "var2": 114,
+      "var3": 13,
+      "var4": 4,
+      "var5": 67,
+      "var6": 8,
+      "var7": 3,
+      "var8": 8,
+      "var9": 11
+    },
+    {
+      "var1": 2022,
+      "var2": 112,
+      "var3": 12,
+      "var4": 2,
+      "var5": 70,
+      "var6": 8,
+      "var7": 3,
+      "var8": 7,
+      "var9": 10
+    },
+    {
+      "var1": 2023,
+      "var2": 105,
+      "var3": 12,
+      "var4": 2,
+      "var5": 64,
+      "var6": 8,
+      "var7": 3,
+      "var8": 6,
+      "var9": 10
+    }
+  ]
+}

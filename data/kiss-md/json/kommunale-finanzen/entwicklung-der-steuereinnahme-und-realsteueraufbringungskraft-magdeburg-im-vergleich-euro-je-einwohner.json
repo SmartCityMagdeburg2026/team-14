@@ -1,0 +1,493 @@
+{
+  "id": "kommunale-finanzen/entwicklung-der-steuereinnahme-und-realsteueraufbringungskraft-magdeburg-im-vergleich-euro-je-einwohner",
+  "title": "Entwicklung der Steuereinnahme-und Realsteueraufbringungskraft - Magdeburg im Vergleich - (Euro je Einwohner)",
+  "category": "Kommunale Finanzen",
+  "subcategory": "Realsteuervergleich",
+  "tableId": "K12_T7",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/kommunale-finanzen/entwicklung-der-steuereinnahme-und-realsteueraufbringungskraft-magdeburg-im-vergleich-euro-je-einwohner.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Entwicklung der Steuereinnahme-und Realsteueraufbringungskraft - Magdeburg im Vergleich -  (Euro je Einwohner).xlsx"
+  },
+  "description": "Steuereinnahme- und Realsteueraufbringungskraft je Einwohner (EUR), Magdeburg im Vergleich zu anderen Regionen. var2..var9 entsprechen verschiedenen Vergleichs­regionen (Magdeburg, neue Länder, Sachsen-Anhalt, Bund), deren Zuordnung nicht eindeutig war.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        83.01,
+        147.41,
+        179.19
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        77.96,
+        165.29,
+        183.9
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        84.59,
+        141.81,
+        177.71
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        83.57,
+        176.86,
+        188.4
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        36.63,
+        58.98,
+        75.77
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        31.28,
+        76.78,
+        80.93
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        38.31,
+        53.5,
+        74.16
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        37.14,
+        88.88,
+        86.75
+      ]
+    }
+  ],
+  "rowCount": 33,
+  "rows": [
+    {
+      "var1": 1991,
+      "var2": 83.01,
+      "var3": 77.96,
+      "var4": 84.59,
+      "var5": 83.57,
+      "var6": 36.63,
+      "var7": 31.28,
+      "var8": 38.31,
+      "var9": 37.14
+    },
+    {
+      "var1": 1992,
+      "var2": 147.41,
+      "var3": 165.29,
+      "var4": 141.81,
+      "var5": 176.86,
+      "var6": 58.98,
+      "var7": 76.78,
+      "var8": 53.5,
+      "var9": 88.88
+    },
+    {
+      "var1": 1993,
+      "var2": 179.19,
+      "var3": 183.9,
+      "var4": 177.71,
+      "var5": 188.4,
+      "var6": 75.77,
+      "var7": 80.93,
+      "var8": 74.16,
+      "var9": 86.75
+    },
+    {
+      "var1": 1995,
+      "var2": 241.15,
+      "var3": 244.72,
+      "var4": 240.05,
+      "var5": 252.68,
+      "var6": 108.13,
+      "var7": 110.06,
+      "var8": 107.56,
+      "var9": 118.95
+    },
+    {
+      "var1": 1996,
+      "var2": 212.14,
+      "var3": 229.41,
+      "var4": 206.99,
+      "var5": 265.43,
+      "var6": 132.17,
+      "var7": 149.77,
+      "var8": 126.94,
+      "var9": 188.97
+    },
+    {
+      "var1": 1997,
+      "var2": 238.25,
+      "var3": 279.78,
+      "var4": 226.06,
+      "var5": 331.5,
+      "var6": 161.7,
+      "var7": 180.69,
+      "var8": 156.17,
+      "var9": 232.57
+    },
+    {
+      "var1": 1998,
+      "var2": 267.54,
+      "var3": 327.21,
+      "var4": 250.55,
+      "var5": 387.33,
+      "var6": 171.12,
+      "var7": 193.65,
+      "var8": 164.71,
+      "var9": 248.34
+    },
+    {
+      "var1": 1999,
+      "var2": 285.38,
+      "var3": 341.57,
+      "var4": 269.65,
+      "var5": 385.49,
+      "var6": 186.76,
+      "var7": 200.27,
+      "var8": 182.98,
+      "var9": 241.78
+    },
+    {
+      "var1": 2000,
+      "var2": 287.11,
+      "var3": 333.7,
+      "var4": 274.26,
+      "var5": 391.51,
+      "var6": 201.89,
+      "var7": 210.4,
+      "var8": 199.54,
+      "var9": 266.05
+    },
+    {
+      "var1": 2001,
+      "var2": 279.13,
+      "var3": 310.51,
+      "var4": 270.53,
+      "var5": 369.7,
+      "var6": 192.71,
+      "var7": 181.13,
+      "var8": 195.88,
+      "var9": 241.05
+    },
+    {
+      "var1": 2002,
+      "var2": 290.38,
+      "var3": 312.19,
+      "var4": 284.42,
+      "var5": 353.18,
+      "var6": 212.59,
+      "var7": 188.33,
+      "var8": 219.22,
+      "var9": 229.31
+    },
+    {
+      "var1": 2003,
+      "var2": 290.34,
+      "var3": 300.12,
+      "var4": 287.66,
+      "var5": 335.9,
+      "var6": 217.42,
+      "var7": 182.85,
+      "var8": 226.89,
+      "var9": 218.91
+    },
+    {
+      "var1": 2004,
+      "var2": 348.88,
+      "var3": 351.34,
+      "var4": 348.2,
+      "var5": 398.11,
+      "var6": 253.78,
+      "var7": 212.16,
+      "var8": 265.33,
+      "var9": 259.25
+    },
+    {
+      "var1": 2005,
+      "var2": 378.39,
+      "var3": 346.2,
+      "var4": 387.45,
+      "var5": 386.88,
+      "var6": 296.48,
+      "var7": 217.83,
+      "var8": 318.62,
+      "var9": 258.71
+    },
+    {
+      "var1": 2006,
+      "var2": 424.34,
+      "var3": 378.63,
+      "var4": 437.34,
+      "var5": 432.25,
+      "var6": 321.7,
+      "var7": 230.58,
+      "var8": 347.62,
+      "var9": 281.81
+    },
+    {
+      "var1": 2007,
+      "var2": 468.1,
+      "var3": 433.8,
+      "var4": 478.26,
+      "var5": 501.38,
+      "var6": 337.22,
+      "var7": 254.66,
+      "var8": 361.68,
+      "var9": 320.63
+    },
+    {
+      "var1": 2008,
+      "var2": 524.49,
+      "var3": 503.32,
+      "var4": 530.82,
+      "var5": 581.76,
+      "var6": 360.8,
+      "var7": 290.88,
+      "var8": 381.73,
+      "var9": 368.29
+    },
+    {
+      "var1": 2009,
+      "var2": 472.67,
+      "var3": 484.65,
+      "var4": 469.05,
+      "var5": 568.98,
+      "var6": 309.12,
+      "var7": 284.36,
+      "var8": 316.6,
+      "var9": 363.23
+    },
+    {
+      "var1": 2010,
+      "var2": 493.2,
+      "var3": 484.04,
+      "var4": 496.01,
+      "var5": 564.16,
+      "var6": 332.72,
+      "var7": 286.5,
+      "var8": 346.87,
+      "var9": 361.55
+    },
+    {
+      "var1": 2011,
+      "var2": 546.06,
+      "var3": 532.72,
+      "var4": 550.2,
+      "var5": 608.25,
+      "var6": 371.32,
+      "var7": 319.97,
+      "var8": 387.25,
+      "var9": 389.81
+    },
+    {
+      "var1": 2012,
+      "var2": 577.59,
+      "var3": 543.37,
+      "var4": 588.35,
+      "var5": 631.94,
+      "var6": 387.87,
+      "var7": 317.09,
+      "var8": 410.11,
+      "var9": 399.03
+    },
+    {
+      "var1": 2013,
+      "var2": 611.18,
+      "var3": 611.46,
+      "var4": 611.15,
+      "var5": 729.62,
+      "var6": 397.73,
+      "var7": 366.15,
+      "var8": 407.82,
+      "var9": 479.63
+    },
+    {
+      "var1": 2014,
+      "var2": 636.6,
+      "var3": 615.76,
+      "var4": 643.32,
+      "var5": 694.7,
+      "var6": 403.93,
+      "var7": 349.47,
+      "var8": 421.49,
+      "var9": 419.52
+    },
+    {
+      "var1": 2015,
+      "var2": 666.86,
+      "var3": 621.88,
+      "var4": 681.51,
+      "var5": 696.62,
+      "var6": 413.93,
+      "var7": 330.44,
+      "var8": 441.12,
+      "var9": 393.4
+    },
+    {
+      "var1": 2016,
+      "var2": 744.02,
+      "var3": 634.13,
+      "var4": 780.15,
+      "var5": 699.33,
+      "var6": 496.25,
+      "var7": 340.13,
+      "var8": 547.58,
+      "var9": 392.18
+    },
+    {
+      "var1": 2017,
+      "var2": 753.45,
+      "var3": 694.33,
+      "var4": 773.2,
+      "var5": 805.83,
+      "var6": 470.66,
+      "var7": 372.09,
+      "var8": 503.59,
+      "var9": 474.96
+    },
+    {
+      "var1": 2018,
+      "var2": 805.91,
+      "var3": 752.19,
+      "var4": 824.01,
+      "var5": 851.56,
+      "var6": 496.73,
+      "var7": 407.44,
+      "var8": 526.81,
+      "var9": 490.28
+    },
+    {
+      "var1": 2019,
+      "var2": 839.58,
+      "var3": 817.87,
+      "var4": 846.94,
+      "var5": 873.85,
+      "var6": 506.23,
+      "var7": 450.94,
+      "var8": 524.96,
+      "var9": 484.19
+    },
+    {
+      "var1": 2020,
+      "var2": 800.34,
+      "var3": 768.72,
+      "var4": 811.05,
+      "var5": 854.45,
+      "var6": 453.29,
+      "var7": 385.52,
+      "var8": 426.25,
+      "var9": 450.48
+    },
+    {
+      "var1": 2021,
+      "var2": 903.79,
+      "var3": 893.21,
+      "var4": 907.39,
+      "var5": 972.16,
+      "var6": 547.05,
+      "var7": 504.99,
+      "var8": 561.35,
+      "var9": 558.37
+    },
+    {
+      "var1": 2022,
+      "var2": 997.34,
+      "var3": 923.22,
+      "var4": 1022.86,
+      "var5": 980.17,
+      "var6": 651.44,
+      "var7": 545.09,
+      "var8": 688.05,
+      "var9": 575.97
+    },
+    {
+      "var1": 2023,
+      "var2": 1084.52,
+      "var3": 931.14,
+      "var4": 1137.47,
+      "var5": 1032.37,
+      "var6": 739.23,
+      "var7": 545.58,
+      "var8": 806.07,
+      "var9": 623.91
+    },
+    {
+      "var1": 2024,
+      "var2": 1087.14,
+      "var3": 1004.23,
+      "var4": 1115.53,
+      "var5": 1059.37,
+      "var6": 695.9,
+      "var7": 574.27,
+      "var8": 737.56,
+      "var9": 626.53
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": "oeffentliche-ordnung/personalbestand-der-gerichte",
+  "title": "Personalbestand der Gerichte",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Gerichtsbarkeit",
+  "tableId": "K11_T6",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/personalbestand-der-gerichte.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Personalbestand der Gerichte.xlsx"
+  },
+  "description": "Personalbestand der Gerichte. var2..var13 enthalten Aufschlüsselungen nach Gerichtstyp (AG/LG/OLG/SozG/ArbG/VG) und Personalgruppe (Richter/Beamte/Justizdienst), die nicht eindeutig zuzuordnen waren.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": "day",
+      "sample": [
+        31,
+        30,
+        28
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        95,
+        97,
+        105
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        74,
+        71,
+        70
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        29,
+        25,
+        25
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        12,
+        10,
+        10
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        12,
+        13,
+        12
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        11,
+        11,
+        9
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        6,
+        6,
+        4
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        10,
+        10,
+        10
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        33,
+        36,
+        27
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        14,
+        16,
+        9
+      ]
+    },
+    {
+      "key": "var13",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        29,
+        29,
+        27
+      ]
+    }
+  ],
+  "rowCount": 5,
+  "rows": [
+    {
+      "var1": 2020,
+      "var2": 31,
+      "var3": 95,
+      "var4": 74,
+      "var5": 29,
+      "var6": 12,
+      "var7": 12,
+      "var8": 11,
+      "var9": 6,
+      "var10": 10,
+      "var11": 33,
+      "var12": 14,
+      "var13": 29
+    },
+    {
+      "var1": 2021,
+      "var2": 30,
+      "var3": 97,
+      "var4": 71,
+      "var5": 25,
+      "var6": 10,
+      "var7": 13,
+      "var8": 11,
+      "var9": 6,
+      "var10": 10,
+      "var11": 36,
+      "var12": 16,
+      "var13": 29
+    },
+    {
+      "var1": 2022,
+      "var2": 28,
+      "var3": 105,
+      "var4": 70,
+      "var5": 25,
+      "var6": 10,
+      "var7": 12,
+      "var8": 9,
+      "var9": 4,
+      "var10": 10,
+      "var11": 27,
+      "var12": 9,
+      "var13": 27
+    },
+    {
+      "var1": 2023,
+      "var2": 27,
+      "var3": 103,
+      "var4": 67,
+      "var5": 24,
+      "var6": 10,
+      "var7": 12,
+      "var8": 9,
+      "var9": 4,
+      "var10": 10,
+      "var11": 27,
+      "var12": 9,
+      "var13": 27
+    },
+    {
+      "var1": 2024,
+      "var2": 27,
+      "var3": 106,
+      "var4": 65,
+      "var5": 26,
+      "var6": 8,
+      "var7": 11,
+      "var8": 8,
+      "var9": 4,
+      "var10": 8,
+      "var11": 27,
+      "var12": 8,
+      "var13": 22
+    }
+  ]
+}

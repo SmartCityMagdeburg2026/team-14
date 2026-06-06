@@ -1,0 +1,558 @@
+{
+  "id": "verkehr/anzahl-der-gueterschiffe-und-ladung",
+  "title": "Anzahl der Güterschiffe und Ladung",
+  "category": "Verkehr",
+  "subcategory": "Schiffsverkehr im Bereich des Magdeburger Wasserstraßenkreuzes",
+  "tableId": "K8_T40",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/verkehr/anzahl-der-gueterschiffe-und-ladung.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Anzahl der Güterschiffe und Ladung.xlsx"
+  },
+  "description": "Güterschiffe und Ladungsmengen im Magdeburger Wasserstraßenkreuz. Aufteilung der Kennzahlen (var3..var12) nach Ladung/Tonnage nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2017,
+        2017
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Streckenabschnitt",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Magdeburger Stadtstrecke der Elbe",
+        "Sparschleuse Rothensee",
+        "Doppelsparschleuse Hohenwarthe und Kanalbrücke über die Elbe"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1081,
+        6356,
+        7718
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        373,
+        1556,
+        4653
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        498,
+        1757,
+        1806
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        210,
+        3043,
+        1259
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1030242,
+        7313800,
+        6175837
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        521697,
+        4033312,
+        3310826
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        508545,
+        3280488,
+        2865011
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        262210,
+        3100267,
+        3444751
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        71456,
+        1608076,
+        2057528
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        190754,
+        1492191,
+        1387223
+      ]
+    }
+  ],
+  "rowCount": 28,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": "Magdeburger Stadtstrecke der Elbe",
+      "var3": 1081,
+      "var4": 373,
+      "var5": 498,
+      "var6": 210,
+      "var7": 1030242,
+      "var8": 521697,
+      "var9": 508545,
+      "var10": 262210,
+      "var11": 71456,
+      "var12": 190754
+    },
+    {
+      "var1": 2017,
+      "var2": "Sparschleuse Rothensee",
+      "var3": 6356,
+      "var4": 1556,
+      "var5": 1757,
+      "var6": 3043,
+      "var7": 7313800,
+      "var8": 4033312,
+      "var9": 3280488,
+      "var10": 3100267,
+      "var11": 1608076,
+      "var12": 1492191
+    },
+    {
+      "var1": 2017,
+      "var2": "Doppelsparschleuse Hohenwarthe und Kanalbrücke über die Elbe",
+      "var3": 7718,
+      "var4": 4653,
+      "var5": 1806,
+      "var6": 1259,
+      "var7": 6175837,
+      "var8": 3310826,
+      "var9": 2865011,
+      "var10": 3444751,
+      "var11": 2057528,
+      "var12": 1387223
+    },
+    {
+      "var1": 2017,
+      "var2": "Schleuse Niegripp",
+      "var3": 791,
+      "var4": 382,
+      "var5": 204,
+      "var6": 205,
+      "var7": 679362,
+      "var8": 165425,
+      "var9": 513937,
+      "var10": 142639,
+      "var11": 77565,
+      "var12": 65074
+    },
+    {
+      "var1": 2018,
+      "var2": "Magdeburger Stadtstrecke der Elbe",
+      "var3": 637,
+      "var4": 207,
+      "var5": 310,
+      "var6": 120,
+      "var7": 624988,
+      "var8": 304726,
+      "var9": 320262,
+      "var10": 192601,
+      "var11": 42309,
+      "var12": 150292
+    },
+    {
+      "var1": 2018,
+      "var2": "Sparschleuse Rothensee",
+      "var3": 5617,
+      "var4": 1132,
+      "var5": 1573,
+      "var6": 2912,
+      "var7": 6676679,
+      "var8": 3508747,
+      "var9": 3167932,
+      "var10": 2626398,
+      "var11": 1455710,
+      "var12": 1170688
+    },
+    {
+      "var1": 2018,
+      "var2": "Doppelsparschleuse Hohenwarthe und Kanalbrücke über die Elbe",
+      "var3": 6403,
+      "var4": 3514,
+      "var5": 1694,
+      "var6": 1195,
+      "var7": 5484778,
+      "var8": 2842592,
+      "var9": 2641826,
+      "var10": 2967063,
+      "var11": 1813998,
+      "var12": 1153065
+    },
+    {
+      "var1": 2018,
+      "var2": "Schleuse Niegripp",
+      "var3": 324,
+      "var4": 114,
+      "var5": 110,
+      "var6": 100,
+      "var7": 316565,
+      "var8": 82352,
+      "var9": 234213,
+      "var10": 70907,
+      "var11": 46852,
+      "var12": 24055
+    },
+    {
+      "var1": 2019,
+      "var2": "Magdeburger Stadtstrecke der Elbe",
+      "var3": 659,
+      "var4": 219,
+      "var5": 301,
+      "var6": 139,
+      "var7": 661592,
+      "var8": 327639,
+      "var9": 333953,
+      "var10": 177910,
+      "var11": 33687,
+      "var12": 144223
+    },
+    {
+      "var1": 2019,
+      "var2": "Sparschleuse Rothensee",
+      "var3": 4203,
+      "var4": 769,
+      "var5": 1181,
+      "var6": 2253,
+      "var7": 5245385,
+      "var8": 2732292,
+      "var9": 2513093,
+      "var10": 2036563,
+      "var11": 1004214,
+      "var12": 1032349
+    },
+    {
+      "var1": 2019,
+      "var2": "Doppelsparschleuse Hohenwarthe und Kanalbrücke über die Elbe",
+      "var3": 10577,
+      "var4": 5296,
+      "var5": 5281,
+      "var6": 1664,
+      "var7": 5376273,
+      "var8": 2796978,
+      "var9": 2579295,
+      "var10": 2624695,
+      "var11": 1624832,
+      "var12": 999863
+    },
+    {
+      "var1": 2019,
+      "var2": "Schleuse Niegripp",
+      "var3": 1166,
+      "var4": 301,
+      "var5": 315,
+      "var6": 550,
+      "var7": 1350047,
+      "var8": 531879,
+      "var9": 818168,
+      "var10": 430969,
+      "var11": 208340,
+      "var12": 222629
+    },
+    {
+      "var1": 2020,
+      "var2": "Magdeburger Stadtstrecke der Elbe",
+      "var3": 579,
+      "var4": 169,
+      "var5": 291,
+      "var6": 119,
+      "var7": 581444,
+      "var8": 289646,
+      "var9": 291798,
+      "var10": 159876,
+      "var11": 18642,
+      "var12": 141234
+    },
+    {
+      "var1": 2020,
+      "var2": "Sparschleuse Rothensee",
+      "var3": 4741,
+      "var4": 712,
+      "var5": 1408,
+      "var6": 2621,
+      "var7": 6002402,
+      "var8": 3105371,
+      "var9": 2897031,
+      "var10": 2488279,
+      "var11": 1048300,
+      "var12": 1439979
+    },
+    {
+      "var1": 2020,
+      "var2": "Doppelsparschleuse Hohenwarthe und Kanalbrücke über die Elbe",
+      "var3": 5858,
+      "var4": 2645,
+      "var5": 1669,
+      "var6": 1544,
+      "var7": 5655876,
+      "var8": 2906202,
+      "var9": 2749674,
+      "var10": 2855507,
+      "var11": 1431618,
+      "var12": 1423889
+    },
+    {
+      "var1": 2020,
+      "var2": "Schleuse Niegripp",
+      "var3": 932,
+      "var4": 214,
+      "var5": 302,
+      "var6": 416,
+      "var7": 1071799,
+      "var8": 475566,
+      "var9": 596233,
+      "var10": 332929,
+      "var11": 209355,
+      "var12": 123574
+    },
+    {
+      "var1": 2021,
+      "var2": "Magdeburger Stadtstrecke der Elbe",
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null,
+      "var9": null,
+      "var10": null,
+      "var11": null,
+      "var12": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Sparschleuse Rothensee",
+      "var3": 5512,
+      "var4": 781,
+      "var5": 1666,
+      "var6": 3065,
+      "var7": 7088005,
+      "var8": 3716791,
+      "var9": 3371214,
+      "var10": 2841789,
+      "var11": 1187788,
+      "var12": 1654001
+    },
+    {
+      "var1": 2021,
+      "var2": "Doppelsparschleuse Hohenwarthe und Kanalbrücke über die Elbe",
+      "var3": 5695,
+      "var4": 2579,
+      "var5": 1773,
+      "var6": 1343,
+      "var7": 5405410,
+      "var8": 2799752,
+      "var9": 2605658,
+      "var10": 2877683,
+      "var11": 1472892,
+      "var12": 1404791
+    },
+    {
+      "var1": 2021,
+      "var2": "Schleuse Niegripp",
+      "var3": 267,
+      "var4": 61,
+      "var5": 83,
+      "var6": 123,
+      "var7": 311431,
+      "var8": 79531,
+      "var9": 231900,
+      "var10": 37885,
+      "var11": 21680,
+      "var12": 16205
+    },
+    {
+      "var1": 2022,
+      "var2": "Magdeburger Stadtstrecke der Elbe",
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null,
+      "var9": null,
+      "var10": null,
+      "var11": null,
+      "var12": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Sparschleuse Rothensee",
+      "var3": 4946,
+      "var4": 808,
+      "var5": 1447,
+      "var6": 2691,
+      "var7": 6231732,
+      "var8": 3221448,
+      "var9": 3010284,
+      "var10": 2506697,
+      "var11": 1154249,
+      "var12": 1352448
+    },
+    {
+      "var1": 2022,
+      "var2": "Doppelsparschleuse Hohenwarthe und Kanalbrücke über die Elbe",
+      "var3": 5217,
+      "var4": 2543,
+      "var5": 1584,
+      "var6": 1090,
+      "var7": 4798358,
+      "var8": 2483846,
+      "var9": 2314512,
+      "var10": 2514612,
+      "var11": 1393013,
+      "var12": 1121599
+    },
+    {
+      "var1": 2022,
+      "var2": "Schleuse Niegripp",
+      "var3": 591,
+      "var4": 453,
+      "var5": 57,
+      "var6": 81,
+      "var7": 385559,
+      "var8": 121908,
+      "var9": 263651,
+      "var10": 75284,
+      "var11": 62066,
+      "var12": 13218
+    },
+    {
+      "var1": 2023,
+      "var2": "Magdeburger Stadtstrecke der Elbe",
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null,
+      "var9": null,
+      "var10": null,
+      "var11": null,
+      "var12": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Sparschleuse Rothensee",
+      "var3": 5631,
+      "var4": 826,
+      "var5": 1746,
+      "var6": 3059,
+      "var7": 7180953,
+      "var8": 3708956,
+      "var9": 3471997,
+      "var10": 2933894,
+      "var11": 1209083,
+      "var12": 1724811
+    },
+    {
+      "var1": 2023,
+      "var2": "Doppelsparschleuse Hohenwarthe und Kanalbrücke über die Elbe",
+      "var3": 4987,
+      "var4": 2391,
+      "var5": 1467,
+      "var6": 1129,
+      "var7": 4686008,
+      "var8": 2443441,
+      "var9": 2242567,
+      "var10": 2353274,
+      "var11": 1196880,
+      "var12": 1156394
+    },
+    {
+      "var1": 2023,
+      "var2": "Schleuse Niegripp",
+      "var3": 414,
+      "var4": 166,
+      "var5": 87,
+      "var6": 151,
+      "var7": 121908,
+      "var8": 125756,
+      "var9": 302762,
+      "var10": 98818,
+      "var11": 60940,
+      "var12": 37878
+    }
+  ]
+}

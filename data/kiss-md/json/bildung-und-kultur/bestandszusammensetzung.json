@@ -1,0 +1,229 @@
+{
+  "id": "bildung-und-kultur/bestandszusammensetzung",
+  "title": "Bestandszusammensetzung",
+  "category": "Bildung und Kultur",
+  "subcategory": "Stadtbibliothek",
+  "tableId": "K5_T26_05",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bildung-und-kultur/bestandszusammensetzung.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Bestandszusammensetzung.xlsx"
+  },
+  "description": "Stadtbibliothek — Bestandszusammensetzung. var5 enthält eine weitere Kategorie, deren Zuordnung nicht eindeutig war.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1998,
+        1999,
+        2000
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Gesamtbestand",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        583208,
+        568885,
+        548873
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Buchbestand",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        526509,
+        522694,
+        501932
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Medienbestand (Nicht-Bücher)",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        15449,
+        20216,
+        25421
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        56699,
+        46191,
+        46941
+      ]
+    }
+  ],
+  "rowCount": 21,
+  "rows": [
+    {
+      "var1": 1998,
+      "var2": 583208,
+      "var3": 526509,
+      "var4": null,
+      "var5": 56699
+    },
+    {
+      "var1": 1999,
+      "var2": 568885,
+      "var3": 522694,
+      "var4": null,
+      "var5": 46191
+    },
+    {
+      "var1": 2000,
+      "var2": 548873,
+      "var3": 501932,
+      "var4": null,
+      "var5": 46941
+    },
+    {
+      "var1": 2001,
+      "var2": 519919,
+      "var3": 470222,
+      "var4": null,
+      "var5": 49697
+    },
+    {
+      "var1": 2002,
+      "var2": 509592,
+      "var3": 456683,
+      "var4": null,
+      "var5": 52909
+    },
+    {
+      "var1": 2003,
+      "var2": 489826,
+      "var3": 435759,
+      "var4": null,
+      "var5": 54067
+    },
+    {
+      "var1": 2004,
+      "var2": 395083,
+      "var3": 345041,
+      "var4": null,
+      "var5": 50042
+    },
+    {
+      "var1": 2005,
+      "var2": 398316,
+      "var3": 348859,
+      "var4": null,
+      "var5": 49457
+    },
+    {
+      "var1": 2006,
+      "var2": 391351,
+      "var3": 337339,
+      "var4": null,
+      "var5": 54012
+    },
+    {
+      "var1": 2007,
+      "var2": 386305,
+      "var3": 330162,
+      "var4": null,
+      "var5": 56143
+    },
+    {
+      "var1": 2008,
+      "var2": 376690,
+      "var3": 316278,
+      "var4": null,
+      "var5": 60412
+    },
+    {
+      "var1": 2009,
+      "var2": 361228,
+      "var3": 299929,
+      "var4": null,
+      "var5": 61299
+    },
+    {
+      "var1": 2010,
+      "var2": 362090,
+      "var3": 305622,
+      "var4": null,
+      "var5": 56468
+    },
+    {
+      "var1": 2011,
+      "var2": 366680,
+      "var3": 306071,
+      "var4": null,
+      "var5": 60609
+    },
+    {
+      "var1": 2012,
+      "var2": 368214,
+      "var3": 300001,
+      "var4": null,
+      "var5": 68213
+    },
+    {
+      "var1": 2013,
+      "var2": 377230,
+      "var3": 293109,
+      "var4": 15449,
+      "var5": 68672
+    },
+    {
+      "var1": 2014,
+      "var2": 387360,
+      "var3": 296995,
+      "var4": 20216,
+      "var5": 70149
+    },
+    {
+      "var1": 2015,
+      "var2": 385740,
+      "var3": 289658,
+      "var4": 25421,
+      "var5": 70661
+    },
+    {
+      "var1": 2016,
+      "var2": 383152,
+      "var3": 283668,
+      "var4": 31418,
+      "var5": 68066
+    },
+    {
+      "var1": 2017,
+      "var2": 346113,
+      "var3": 273040,
+      "var4": 35504,
+      "var5": 37569
+    },
+    {
+      "var1": 2018,
+      "var2": 345526,
+      "var3": 254485,
+      "var4": 39445,
+      "var5": 51596
+    }
+  ]
+}

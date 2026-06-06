@@ -1,0 +1,638 @@
+{
+  "id": "oeffentliche-ordnung/erfasste-und-aufgeklaerte-straftaten",
+  "title": "Erfasste und aufgeklärte Straftaten",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Kriminalitätsstatistik",
+  "tableId": "K11_T1",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/erfasste-und-aufgeklaerte-straftaten.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Erfasste und aufgeklärte Straftaten.xlsx"
+  },
+  "description": "Erfasste und aufgeklärte Straftaten — Vergleich Sachsen-Anhalt vs. Magdeburg. var2 enthält die Deliktart (z.B. \"Straftaten insgesamt\", \"Mord\", \"Diebstahl\") sowie Hierarchie-Markierungen (\"davon:\", \"darunter:\"). Aufklärungsquote = aufgeklärte/erfasste, verifiziert.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2021,
+        2021,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Deliktart",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Straftaten insgesamt *",
+        "Häufigkeitszahl",
+        "davon:"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Erfasste Fälle Sachsen-Anhalt",
+      "unit": "Anzahl",
+      "type": "number",
+      "role": null,
+      "sample": [
+        170465,
+        7817,
+        104
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Erfasste Fälle Magdeburg",
+      "unit": "Anzahl",
+      "type": "number",
+      "role": null,
+      "sample": [
+        23286,
+        10563,
+        12
+      ]
+    },
+    {
+      "key": "var5",
+      "label": "Aufgeklärte Fälle Sachsen-Anhalt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        94528,
+        74,
+        13
+      ]
+    },
+    {
+      "key": "var6",
+      "label": "Aufgeklärte Fälle Magdeburg",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        13650,
+        10,
+        2
+      ]
+    },
+    {
+      "key": "var7",
+      "label": "Aufklärungsquote Sachsen-Anhalt",
+      "unit": "%",
+      "type": "number",
+      "role": null,
+      "sample": [
+        55.5,
+        71.2,
+        86.7
+      ]
+    },
+    {
+      "key": "var8",
+      "label": "Aufklärungsquote Magdeburg",
+      "unit": "%",
+      "type": "number",
+      "role": null,
+      "sample": [
+        58.6,
+        83.8,
+        100
+      ]
+    }
+  ],
+  "rowCount": 52,
+  "rows": [
+    {
+      "var1": 2021,
+      "var2": "Straftaten insgesamt *",
+      "var3": 170465,
+      "var4": 23286,
+      "var5": 94528,
+      "var6": 13650,
+      "var7": 55.5,
+      "var8": 58.6
+    },
+    {
+      "var1": 2021,
+      "var2": "Häufigkeitszahl",
+      "var3": 7817,
+      "var4": 10563,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "davon:",
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Straftaten gegen das Leben",
+      "var3": 104,
+      "var4": 12,
+      "var5": 74,
+      "var6": 10,
+      "var7": 71.2,
+      "var8": 83.8
+    },
+    {
+      "var1": 2021,
+      "var2": "Häufigkeitszahl (dieser Deliktart)",
+      "var3": 4.7691458276394,
+      "var4": 5.08959813381402,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "darunter:",
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Mord",
+      "var3": 15,
+      "var4": 2,
+      "var5": 13,
+      "var6": 2,
+      "var7": 86.7,
+      "var8": 100
+    },
+    {
+      "var1": 2021,
+      "var2": "Totschlag/Tötung auf Verlangen",
+      "var3": 39,
+      "var4": 5,
+      "var5": 38,
+      "var6": 5,
+      "var7": 97.4,
+      "var8": 100
+    },
+    {
+      "var1": 2021,
+      "var2": "Fahrlässige Tötung",
+      "var3": 49,
+      "var4": 5,
+      "var5": 22,
+      "var6": 3,
+      "var7": 44.9,
+      "var8": 60
+    },
+    {
+      "var1": 2021,
+      "var2": "Straftaten gegen die sex. Selbstbestimmung",
+      "var3": 3021,
+      "var4": 315,
+      "var5": 2659,
+      "var6": 284,
+      "var7": 88,
+      "var8": 90.2
+    },
+    {
+      "var1": 2021,
+      "var2": "Häufigkeitszahl (dieser Deliktart)",
+      "var3": 138.534514858641,
+      "var4": 133.601951012618,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "darunter:",
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Vergewaltigung, bes. schwere Fälle sex. Nötigung",
+      "var3": 270,
+      "var4": 38,
+      "var5": 245,
+      "var6": 36,
+      "var7": 90.7,
+      "var8": 94.7
+    },
+    {
+      "var1": 2021,
+      "var2": "sonstige sexuelle Nötigung",
+      "var3": 83,
+      "var4": 14,
+      "var5": 70,
+      "var6": 13,
+      "var7": 84.3,
+      "var8": 92.9
+    },
+    {
+      "var1": 2021,
+      "var2": "sexueller Missbrauch von Kindern",
+      "var3": 569,
+      "var4": 37,
+      "var5": 526,
+      "var6": 35,
+      "var7": 92.4,
+      "var8": 94.6
+    },
+    {
+      "var1": 2021,
+      "var2": "exhibition. Handlungen",
+      "var3": 156,
+      "var4": 29,
+      "var5": 103,
+      "var6": 16,
+      "var7": 66,
+      "var8": 55.2
+    },
+    {
+      "var1": 2021,
+      "var2": "Rohheitsdelikte und  Straftaten gegen die persönliche Freiheit",
+      "var3": 25434,
+      "var4": 3470,
+      "var5": 22617,
+      "var6": 3015,
+      "var7": 88.9,
+      "var8": 86.9
+    },
+    {
+      "var1": 2021,
+      "var2": "Häufigkeitszahl (dieser Deliktart)",
+      "var3": 1166.33129788635,
+      "var4": 1471.74212702789,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "darunter:",
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Raub/räuberische Erpressung, räuberischer Angriff",
+      "var3": 942,
+      "var4": 177,
+      "var5": 655,
+      "var6": 117,
+      "var7": 69.5,
+      "var8": 66.1
+    },
+    {
+      "var1": 2021,
+      "var2": "Körperverletzung",
+      "var3": 16017,
+      "var4": 2286,
+      "var5": 14469,
+      "var6": 2017,
+      "var7": 90.3,
+      "var8": 88.2
+    },
+    {
+      "var1": 2021,
+      "var2": "Straftaten gegen die persönliche Freiheit",
+      "var3": 8475,
+      "var4": 805,
+      "var5": 7493,
+      "var6": 694,
+      "var7": 88.4,
+      "var8": 86.2
+    },
+    {
+      "var1": 2021,
+      "var2": "Diebstahl insgesamt",
+      "var3": 53382,
+      "var4": 7999,
+      "var5": 14612,
+      "var6": 2370,
+      "var7": 27.4,
+      "var8": 29.6
+    },
+    {
+      "var1": 2021,
+      "var2": "Häufigkeitszahl (dieser Deliktart)",
+      "var3": 2447.9475247216,
+      "var4": 3392.64128936486,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "darunter:",
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "in/aus Wohnungen",
+      "var3": 2771,
+      "var4": 297,
+      "var5": 1135,
+      "var6": 106,
+      "var7": 41,
+      "var8": 35.7
+    },
+    {
+      "var1": 2021,
+      "var2": "an/aus Kfz",
+      "var3": 6706,
+      "var4": 877,
+      "var5": 815,
+      "var6": 95,
+      "var7": 12.2,
+      "var8": 10.8
+    },
+    {
+      "var1": 2021,
+      "var2": "in/aus Warenhäusern/Geschäften",
+      "var3": 8033,
+      "var4": 1678,
+      "var5": 6452,
+      "var6": 1405,
+      "var7": 80.3,
+      "var8": 83.7
+    },
+    {
+      "var1": 2021,
+      "var2": "darunter Ladendiebstahl",
+      "var3": 7058,
+      "var4": 1580,
+      "var5": 6151,
+      "var6": 1377,
+      "var7": 87.1,
+      "var8": 87.2
+    },
+    {
+      "var1": 2021,
+      "var2": "von Fahrrädern/unbef. Ingebrauchnahme",
+      "var3": 9001,
+      "var4": 1813,
+      "var5": 1134,
+      "var6": 156,
+      "var7": 12.6,
+      "var8": 8.6
+    },
+    {
+      "var1": 2021,
+      "var2": "von Kraftwagen/unbef. Ingebrauchnahme",
+      "var3": 767,
+      "var4": 145,
+      "var5": 284,
+      "var6": 40,
+      "var7": 37,
+      "var8": 27.6
+    },
+    {
+      "var1": 2021,
+      "var2": "Vermögens- und Fälschungsdelikte",
+      "var3": 30758,
+      "var4": 2673,
+      "var5": 17355,
+      "var6": 2059,
+      "var7": 56.4,
+      "var8": 77
+    },
+    {
+      "var1": 2021,
+      "var2": "Häufigkeitszahl (dieser Deliktart)",
+      "var3": 1410.47487852435,
+      "var4": 1133.70798430707,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "darunter:",
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Betrug",
+      "var3": 23776,
+      "var4": 1815,
+      "var5": 13074,
+      "var6": 1458,
+      "var7": 55,
+      "var8": 80.3
+    },
+    {
+      "var1": 2021,
+      "var2": "darunter",
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Tankbetrug",
+      "var3": 2306,
+      "var4": 131,
+      "var5": 1076,
+      "var6": 40,
+      "var7": 46.7,
+      "var8": 30.5
+    },
+    {
+      "var1": 2021,
+      "var2": "Leistungserschleichung",
+      "var3": 3323,
+      "var4": 388,
+      "var5": 3198,
+      "var6": 364,
+      "var7": 96.2,
+      "var8": 93.8
+    },
+    {
+      "var1": 2021,
+      "var2": "Betrug m. rechtsw. erlangten unbaren Zahlungsmittel",
+      "var3": 1692,
+      "var4": 144,
+      "var5": 548,
+      "var6": 33,
+      "var7": 32.4,
+      "var8": 22.9
+    },
+    {
+      "var1": 2021,
+      "var2": "Unterschlagung",
+      "var3": 3761,
+      "var4": 457,
+      "var5": 1810,
+      "var6": 250,
+      "var7": 48.1,
+      "var8": 54.7
+    },
+    {
+      "var1": 2021,
+      "var2": "Urkundenfälschung",
+      "var3": 2748,
+      "var4": 288,
+      "var5": 2051,
+      "var6": 238,
+      "var7": 74.6,
+      "var8": 82.6
+    },
+    {
+      "var1": 2021,
+      "var2": "Sonstige Straftaten STGB",
+      "var3": 41608,
+      "var4": 5497,
+      "var5": 22432,
+      "var6": 2809,
+      "var7": 53.9,
+      "var8": 51.1
+    },
+    {
+      "var1": 2021,
+      "var2": "Häufigkeitszahl (dieser Deliktart)",
+      "var3": 1908.02518842712,
+      "var4": 2331.46007846464,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "darunter:",
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Sachbeschädigung",
+      "var3": 20146,
+      "var4": 3157,
+      "var5": 5998,
+      "var6": 811,
+      "var7": 29.8,
+      "var8": 25.7
+    },
+    {
+      "var1": 2021,
+      "var2": "darunter an Kfz",
+      "var3": 5120,
+      "var4": 910,
+      "var5": 1224,
+      "var6": 194,
+      "var7": 23.9,
+      "var8": 21.3
+    },
+    {
+      "var1": 2021,
+      "var2": "Straftaten gegen die Umwelt gem. STGB",
+      "var3": 564,
+      "var4": 13,
+      "var5": 324,
+      "var6": 8,
+      "var7": 57.4,
+      "var8": 61.5
+    },
+    {
+      "var1": 2021,
+      "var2": "Strafrechtliche Nebengesetze",
+      "var3": 16158,
+      "var4": 3320,
+      "var5": 14779,
+      "var6": 3103,
+      "var7": 91.5,
+      "var8": 93.5
+    },
+    {
+      "var1": 2021,
+      "var2": "Häufigkeitszahl (dieser Deliktart)",
+      "var3": 740.960175798052,
+      "var4": 1408.12215035521,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "darunter:",
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Rauschgiftdelikte nach BtMG",
+      "var3": 10265,
+      "var4": 1207,
+      "var5": 9619,
+      "var6": 1105,
+      "var7": 93.7,
+      "var8": 91.5
+    },
+    {
+      "var1": 2021,
+      "var2": "Strafrechtliche Nebengesetze Umweltsektor",
+      "var3": 467,
+      "var4": 68,
+      "var5": 310,
+      "var6": 57,
+      "var7": 66.4,
+      "var8": 83.8
+    }
+  ]
+}

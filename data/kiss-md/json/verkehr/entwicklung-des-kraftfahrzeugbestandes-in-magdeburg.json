@@ -1,0 +1,376 @@
+{
+  "id": "verkehr/entwicklung-des-kraftfahrzeugbestandes-in-magdeburg",
+  "title": "Entwicklung des Kraftfahrzeugbestandes in Magdeburg",
+  "category": "Verkehr",
+  "subcategory": "Individualverkehr",
+  "tableId": "K8_T1",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/verkehr/entwicklung-des-kraftfahrzeugbestandes-in-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Entwicklung des Kraftfahrzeugbestandes in Magdeburg.xlsx"
+  },
+  "description": "Entwicklung des Kraftfahrzeugbestandes in Magdeburg. Spezifische Fahrzeugtypen-Spalten (PKW, LKW, Busse, Anhänger, ÖPNV) waren nicht eindeutig zuzuordnen und bleiben unbenannt — Reihenfolge nicht durch Quelle gesichert.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Kraftfahrzeugbestand gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        123590,
+        125346,
+        126837
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        533,
+        539,
+        543
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        100619,
+        101847,
+        102897
+      ]
+    },
+    {
+      "key": "var5",
+      "label": "Motorräder",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        4817,
+        4959,
+        5131
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        67,
+        67,
+        63
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        13383,
+        13738,
+        13842
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        716,
+        642,
+        646
+      ]
+    },
+    {
+      "key": "var9",
+      "label": "Transporter",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        3988,
+        4093,
+        4258
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        534,
+        94,
+        101
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        445,
+        428,
+        392
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1164,
+        1231,
+        1284
+      ]
+    }
+  ],
+  "rowCount": 15,
+  "rows": [
+    {
+      "var1": 2011,
+      "var2": 123590,
+      "var3": 533,
+      "var4": 100619,
+      "var5": 4817,
+      "var6": 67,
+      "var7": 13383,
+      "var8": 716,
+      "var9": 3988,
+      "var10": null,
+      "var11": null,
+      "var12": null
+    },
+    {
+      "var1": 2012,
+      "var2": 125346,
+      "var3": 539,
+      "var4": 101847,
+      "var5": 4959,
+      "var6": 67,
+      "var7": 13738,
+      "var8": 642,
+      "var9": 4093,
+      "var10": null,
+      "var11": null,
+      "var12": null
+    },
+    {
+      "var1": 2013,
+      "var2": 126837,
+      "var3": 543,
+      "var4": 102897,
+      "var5": 5131,
+      "var6": 63,
+      "var7": 13842,
+      "var8": 646,
+      "var9": 4258,
+      "var10": null,
+      "var11": null,
+      "var12": null
+    },
+    {
+      "var1": 2014,
+      "var2": 128802,
+      "var3": 548,
+      "var4": 104080,
+      "var5": 5311,
+      "var6": 63,
+      "var7": 8725,
+      "var8": 576,
+      "var9": 10047,
+      "var10": null,
+      "var11": null,
+      "var12": null
+    },
+    {
+      "var1": 2015,
+      "var2": 131046,
+      "var3": 550,
+      "var4": 105635,
+      "var5": 5403,
+      "var6": 63,
+      "var7": 9071,
+      "var8": 583,
+      "var9": 10291,
+      "var10": null,
+      "var11": null,
+      "var12": null
+    },
+    {
+      "var1": 2016,
+      "var2": 133199,
+      "var3": 552,
+      "var4": 107047,
+      "var5": 5587,
+      "var6": 70,
+      "var7": 9320,
+      "var8": 557,
+      "var9": 10618,
+      "var10": null,
+      "var11": null,
+      "var12": null
+    },
+    {
+      "var1": 2017,
+      "var2": 134831,
+      "var3": 558,
+      "var4": 107923,
+      "var5": 5663,
+      "var6": 72,
+      "var7": 9707,
+      "var8": 571,
+      "var9": 10895,
+      "var10": null,
+      "var11": null,
+      "var12": null
+    },
+    {
+      "var1": 2018,
+      "var2": 137005,
+      "var3": 565,
+      "var4": 109291,
+      "var5": 5730,
+      "var6": 72,
+      "var7": 10101,
+      "var8": 556,
+      "var9": 11255,
+      "var10": null,
+      "var11": null,
+      "var12": null
+    },
+    {
+      "var1": 2019,
+      "var2": 138142,
+      "var3": 573,
+      "var4": 109797,
+      "var5": 5781,
+      "var6": 74,
+      "var7": 10385,
+      "var8": 543,
+      "var9": 11562,
+      "var10": null,
+      "var11": null,
+      "var12": null
+    },
+    {
+      "var1": 2020,
+      "var2": 139908,
+      "var3": 584,
+      "var4": 110659,
+      "var5": 6064,
+      "var6": 71,
+      "var7": 10716,
+      "var8": 542,
+      "var9": 11856,
+      "var10": null,
+      "var11": null,
+      "var12": null
+    },
+    {
+      "var1": 2021,
+      "var2": 141001,
+      "var3": 587.5776138684,
+      "var4": 110818,
+      "var5": 6310,
+      "var6": 83,
+      "var7": 10987,
+      "var8": 577,
+      "var9": 12226,
+      "var10": null,
+      "var11": null,
+      "var12": null
+    },
+    {
+      "var1": 2022,
+      "var2": 141345,
+      "var3": 582.258509678562,
+      "var4": 110418,
+      "var5": 6494,
+      "var6": 82,
+      "var7": 11259,
+      "var8": 590,
+      "var9": 12502,
+      "var10": null,
+      "var11": null,
+      "var12": null
+    },
+    {
+      "var1": 2023,
+      "var2": 142179,
+      "var3": 584.09162801589,
+      "var4": 110529,
+      "var5": 6651,
+      "var6": 79,
+      "var7": 9626,
+      "var8": 446,
+      "var9": 12705,
+      "var10": 534,
+      "var11": 445,
+      "var12": 1164
+    },
+    {
+      "var1": 2024,
+      "var2": 143791,
+      "var3": 585.656624076963,
+      "var4": 111373,
+      "var5": 6838,
+      "var6": 81,
+      "var7": 9995,
+      "var8": 910,
+      "var9": 12841,
+      "var10": 94,
+      "var11": 428,
+      "var12": 1231
+    },
+    {
+      "var1": 2025,
+      "var2": 144339,
+      "var3": 587.140102670908,
+      "var4": 111588,
+      "var5": 6959,
+      "var6": 82,
+      "var7": 10076,
+      "var8": 909,
+      "var9": 12948,
+      "var10": 101,
+      "var11": 392,
+      "var12": 1284
+    }
+  ]
+}

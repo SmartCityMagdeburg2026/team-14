@@ -1,0 +1,273 @@
+{
+  "id": "oeffentliche-ordnung/bestattungswesen-in-magdeburg",
+  "title": "Bestattungswesen in Magdeburg",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Bestattungswesen in der Stadt",
+  "tableId": "K9_T39_1",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/bestattungswesen-in-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Bestattungswesen in Magdeburg.xlsx"
+  },
+  "description": "Bestattungswesen in Magdeburg, halbjährlich. var3..var9 entsprechen Bestattungsarten (Erd-/Feuer-/Anonym/Seebestattung etc.), die nicht eindeutig zuzuordnen waren.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2021,
+        2021,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Zeitraum",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "1.Halbjahr",
+        "2.Halbjahr",
+        "Insgesamt"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        55,
+        47,
+        102
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        854,
+        846,
+        1700
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2138,
+        1985,
+        4123
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2235,
+        1867,
+        4102
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        6,
+        1,
+        7
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5,
+        0,
+        5
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2192,
+        1931,
+        4123
+      ]
+    }
+  ],
+  "rowCount": 13,
+  "rows": [
+    {
+      "var1": 2021,
+      "var2": "1.Halbjahr",
+      "var3": 55,
+      "var4": 854,
+      "var5": 2138,
+      "var6": 2235,
+      "var7": 6,
+      "var8": 5,
+      "var9": 2192
+    },
+    {
+      "var1": 2021,
+      "var2": "2.Halbjahr",
+      "var3": 47,
+      "var4": 846,
+      "var5": 1985,
+      "var6": 1867,
+      "var7": 1,
+      "var8": 0,
+      "var9": 1931
+    },
+    {
+      "var1": 2021,
+      "var2": "Insgesamt",
+      "var3": 102,
+      "var4": 1700,
+      "var5": 4123,
+      "var6": 4102,
+      "var7": 7,
+      "var8": 5,
+      "var9": 4123
+    },
+    {
+      "var1": 2022,
+      "var2": "1.Halbjahr",
+      "var3": 52,
+      "var4": 913,
+      "var5": 1893,
+      "var6": 2043,
+      "var7": 2,
+      "var8": 2,
+      "var9": 1983
+    },
+    {
+      "var1": 2022,
+      "var2": "2.Halbjahr",
+      "var3": 52,
+      "var4": 920,
+      "var5": 2178,
+      "var6": 2018,
+      "var7": 4,
+      "var8": 0,
+      "var9": 1973
+    },
+    {
+      "var1": 2022,
+      "var2": "Insgesamt",
+      "var3": 104,
+      "var4": 1833,
+      "var5": 4071,
+      "var6": 4061,
+      "var7": 6,
+      "var8": 2,
+      "var9": 3956
+    },
+    {
+      "var1": 2023,
+      "var2": "1.Halbjahr",
+      "var3": 36,
+      "var4": 988,
+      "var5": 1913,
+      "var6": 2071,
+      "var7": 4,
+      "var8": 2,
+      "var9": 2015
+    },
+    {
+      "var1": 2023,
+      "var2": "2.Halbjahr",
+      "var3": 54,
+      "var4": 905,
+      "var5": 1952,
+      "var6": 1788,
+      "var7": 1,
+      "var8": 1,
+      "var9": 1736
+    },
+    {
+      "var1": 2023,
+      "var2": "Insgesamt",
+      "var3": 90,
+      "var4": 1893,
+      "var5": 3865,
+      "var6": 3859,
+      "var7": 5,
+      "var8": 3,
+      "var9": 3751
+    },
+    {
+      "var1": 2024,
+      "var2": "1.Halbjahr",
+      "var3": 47,
+      "var4": 873,
+      "var5": 1697,
+      "var6": 1744,
+      "var7": 4,
+      "var8": 4,
+      "var9": 1697
+    },
+    {
+      "var1": 2024,
+      "var2": "2.Halbjahr",
+      "var3": 38,
+      "var4": 942,
+      "var5": 1581,
+      "var6": 1554,
+      "var7": 2,
+      "var8": 1,
+      "var9": 1495
+    },
+    {
+      "var1": 2024,
+      "var2": "Insgesamt",
+      "var3": 85,
+      "var4": 1815,
+      "var5": 3278,
+      "var6": 3298,
+      "var7": 6,
+      "var8": 5,
+      "var9": 3192
+    },
+    {
+      "var1": 2025,
+      "var2": "1. Halbjahr",
+      "var3": 39,
+      "var4": 901,
+      "var5": 1567,
+      "var6": 1690,
+      "var7": 4,
+      "var8": 1,
+      "var9": 1649
+    }
+  ]
+}

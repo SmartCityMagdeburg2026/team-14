@@ -1,0 +1,403 @@
+{
+  "id": "kommunale-finanzen/magdeburg-im-vergleich-zu-den-kreisfreien-staedten-sachsen-anhalts-euro-je-einwohner",
+  "title": "Magdeburg im Vergleich zu den kreisfreien Städten Sachsen-Anhalts (Euro je Einwohner)",
+  "category": "Kommunale Finanzen",
+  "subcategory": "Realsteuervergleich",
+  "tableId": "K12_T8",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/kommunale-finanzen/magdeburg-im-vergleich-zu-den-kreisfreien-staedten-sachsen-anhalts-euro-je-einwohner.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Magdeburg im Vergleich zu den kreisfreien Städten Sachsen-Anhalts (Euro je Einwohner).xlsx"
+  },
+  "description": "Magdeburg im Vergleich zu den kreisfreien Städten Sachsen-Anhalts (Euro je Einwohner). Aufteilung nach Steuerart/Stadt in var2..var7 nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        83.57,
+        176.86,
+        188.4
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        72.54,
+        158.24,
+        181.75
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        79.13,
+        154.21,
+        177.65
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        37.14,
+        88.88,
+        86.75
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        25.8,
+        69.13,
+        77.63
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        31.93,
+        66.08,
+        74.5
+      ]
+    }
+  ],
+  "rowCount": 33,
+  "rows": [
+    {
+      "var1": 1991,
+      "var2": 83.57,
+      "var3": 72.54,
+      "var4": 79.13,
+      "var5": 37.14,
+      "var6": 25.8,
+      "var7": 31.93
+    },
+    {
+      "var1": 1992,
+      "var2": 176.86,
+      "var3": 158.24,
+      "var4": 154.21,
+      "var5": 88.88,
+      "var6": 69.13,
+      "var7": 66.08
+    },
+    {
+      "var1": 1993,
+      "var2": 188.4,
+      "var3": 181.75,
+      "var4": 177.65,
+      "var5": 86.75,
+      "var6": 77.63,
+      "var7": 74.5
+    },
+    {
+      "var1": 1995,
+      "var2": 252.68,
+      "var3": 243.84,
+      "var4": 224.8,
+      "var5": 118.95,
+      "var6": 108.73,
+      "var7": 88.83
+    },
+    {
+      "var1": 1996,
+      "var2": 265.43,
+      "var3": 213.2,
+      "var4": 177.99,
+      "var5": 188.97,
+      "var6": 131.94,
+      "var7": 94.39
+    },
+    {
+      "var1": 1997,
+      "var2": 331.5,
+      "var3": 241.27,
+      "var4": 256.1,
+      "var5": 232.57,
+      "var6": 138.99,
+      "var7": 163.96
+    },
+    {
+      "var1": 1998,
+      "var2": 387.33,
+      "var3": 290.3,
+      "var4": 271.94,
+      "var5": 248.34,
+      "var6": 154.39,
+      "var7": 160.54
+    },
+    {
+      "var1": 1999,
+      "var2": 385.49,
+      "var3": 312.6,
+      "var4": 307.13,
+      "var5": 241.78,
+      "var6": 165.65,
+      "var7": 189.44
+    },
+    {
+      "var1": 2000,
+      "var2": 391.51,
+      "var3": 298.77,
+      "var4": 277.74,
+      "var5": 266.05,
+      "var6": 170.49,
+      "var7": 175.28
+    },
+    {
+      "var1": 2001,
+      "var2": 369.7,
+      "var3": 273.48,
+      "var4": 254.73,
+      "var5": 241.05,
+      "var6": 136.91,
+      "var7": 144.72
+    },
+    {
+      "var1": 2002,
+      "var2": 353.18,
+      "var3": 287.69,
+      "var4": 268.88,
+      "var5": 229.31,
+      "var6": 157.25,
+      "var7": 164.81
+    },
+    {
+      "var1": 2003,
+      "var2": 335.9,
+      "var3": 273.77,
+      "var4": 276.56,
+      "var5": 218.91,
+      "var6": 149.22,
+      "var7": 180.42
+    },
+    {
+      "var1": 2004,
+      "var2": 398.11,
+      "var3": 317.36,
+      "var4": 319.52,
+      "var5": 259.25,
+      "var6": 171.84,
+      "var7": 198.91
+    },
+    {
+      "var1": 2005,
+      "var2": 386.88,
+      "var3": 304,
+      "var4": 355.67,
+      "var5": 258.71,
+      "var6": 168.08,
+      "var7": 249.46
+    },
+    {
+      "var1": 2006,
+      "var2": 432.25,
+      "var3": 341.81,
+      "var4": 332.78,
+      "var5": 281.81,
+      "var6": 191.91,
+      "var7": 197.43
+    },
+    {
+      "var1": 2007,
+      "var2": 501.38,
+      "var3": 382.64,
+      "var4": 398.97,
+      "var5": 320.63,
+      "var6": 197.62,
+      "var7": 235.16
+    },
+    {
+      "var1": 2008,
+      "var2": 581.76,
+      "var3": 446.71,
+      "var4": 449.49,
+      "var5": 368.29,
+      "var6": 228.09,
+      "var7": 255.83
+    },
+    {
+      "var1": 2009,
+      "var2": 568.98,
+      "var3": 419.12,
+      "var4": 437.36,
+      "var5": 362.23,
+      "var6": 219.2,
+      "var7": 252.9
+    },
+    {
+      "var1": 2010,
+      "var2": 564.16,
+      "var3": 418.85,
+      "var4": 445.69,
+      "var5": 361.55,
+      "var6": 220.93,
+      "var7": 262.58
+    },
+    {
+      "var1": 2011,
+      "var2": 608.25,
+      "var3": 455.18,
+      "var4": 539.9,
+      "var5": 389.81,
+      "var6": 241.65,
+      "var7": 343.48
+    },
+    {
+      "var1": 2012,
+      "var2": 631.94,
+      "var3": 459.26,
+      "var4": 532.11,
+      "var5": 399.03,
+      "var6": 237.48,
+      "var7": 311.58
+    },
+    {
+      "var1": 2013,
+      "var2": 729.62,
+      "var3": 500.82,
+      "var4": 591.82,
+      "var5": 479.63,
+      "var6": 258.6,
+      "var7": 350.62
+    },
+    {
+      "var1": 2014,
+      "var2": 694.7,
+      "var3": 534.71,
+      "var4": 622.17,
+      "var5": 419.52,
+      "var6": 276.05,
+      "var7": 359.36
+    },
+    {
+      "var1": 2015,
+      "var2": 696.62,
+      "var3": 539.14,
+      "var4": 644.14,
+      "var5": 393.4,
+      "var6": 257.41,
+      "var7": 358.53
+    },
+    {
+      "var1": 2016,
+      "var2": 699.33,
+      "var3": 562.96,
+      "var4": 652.18,
+      "var5": 392.18,
+      "var6": 281.53,
+      "var7": 359.64
+    },
+    {
+      "var1": 2017,
+      "var2": 805.83,
+      "var3": 593.88,
+      "var4": 661.85,
+      "var5": 474.96,
+      "var6": 283.09,
+      "var7": 331.53
+    },
+    {
+      "var1": 2018,
+      "var2": 851.56,
+      "var3": 643.76,
+      "var4": 779.2,
+      "var5": 490.28,
+      "var6": 317.45,
+      "var7": 428.83
+    },
+    {
+      "var1": 2019,
+      "var2": 873.85,
+      "var3": 690.75,
+      "var4": 1028.48,
+      "var5": 484.19,
+      "var6": 343.75,
+      "var7": 669.65
+    },
+    {
+      "var1": 2020,
+      "var2": 854.45,
+      "var3": 680.63,
+      "var4": 777.15,
+      "var5": 450.48,
+      "var6": 323.52,
+      "var7": 377.77
+    },
+    {
+      "var1": 2021,
+      "var2": 972.16,
+      "var3": 824.06,
+      "var4": 865.91,
+      "var5": 558.37,
+      "var6": 464.3,
+      "var7": 468.29
+    },
+    {
+      "var1": 2022,
+      "var2": 980.17,
+      "var3": 864.39,
+      "var4": 930.43,
+      "var5": 575.97,
+      "var6": 514.94,
+      "var7": 543.71
+    },
+    {
+      "var1": 2023,
+      "var2": 1032.37,
+      "var3": 850.46,
+      "var4": 872.44,
+      "var5": 623.91,
+      "var6": 492.47,
+      "var7": 471.89
+    },
+    {
+      "var1": 2024,
+      "var2": 1059.37,
+      "var3": 943.27,
+      "var4": 1010.13,
+      "var5": 626.53,
+      "var6": 519.72,
+      "var7": 570.17
+    }
+  ]
+}

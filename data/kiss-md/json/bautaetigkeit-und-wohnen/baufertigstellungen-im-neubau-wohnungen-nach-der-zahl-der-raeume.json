@@ -1,0 +1,271 @@
+{
+  "id": "bautaetigkeit-und-wohnen/baufertigstellungen-im-neubau-wohnungen-nach-der-zahl-der-raeume",
+  "title": "Baufertigstellungen im Neubau - Wohnungen nach der Zahl der Räume",
+  "category": "Bautätigkeit und Wohnen",
+  "subcategory": "Baufertigstellungen",
+  "tableId": "K6_T21",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bautaetigkeit-und-wohnen/baufertigstellungen-im-neubau-wohnungen-nach-der-zahl-der-raeume.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Baufertigstellungen im Neubau - Wohnungen nach der Zahl der Räume.xlsx"
+  },
+  "description": "Baufertigstellungen im Neubau — Wohnungen nach Zahl der Räume. Die LLM-Labels für die Raumzahl-Spalten (var4..var11) lieferten unplausible Reihenfolge und wurden genullt.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2022,
+        2022,
+        2022
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Wohnungsart",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Wohnungen gesamt",
+        "Wohnungen in Wohngebäuden",
+        "Wohnungen in Nichtwohngebäuden"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Wohnungen gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1032,
+        980,
+        52
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        286,
+        268,
+        18
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        101,
+        68,
+        33
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        190,
+        190,
+        0
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        188,
+        188,
+        0
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        119,
+        118,
+        1
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        104,
+        104,
+        0
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        44,
+        44,
+        0
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        84070,
+        81170,
+        2900
+      ]
+    }
+  ],
+  "rowCount": 9,
+  "rows": [
+    {
+      "var1": 2022,
+      "var2": "Wohnungen gesamt",
+      "var3": 1032,
+      "var4": 286,
+      "var5": 101,
+      "var6": 190,
+      "var7": 188,
+      "var8": 119,
+      "var9": 104,
+      "var10": 44,
+      "var11": 84070
+    },
+    {
+      "var1": 2022,
+      "var2": "Wohnungen in Wohngebäuden",
+      "var3": 980,
+      "var4": 268,
+      "var5": 68,
+      "var6": 190,
+      "var7": 188,
+      "var8": 118,
+      "var9": 104,
+      "var10": 44,
+      "var11": 81170
+    },
+    {
+      "var1": 2022,
+      "var2": "Wohnungen in Nichtwohngebäuden",
+      "var3": 52,
+      "var4": 18,
+      "var5": 33,
+      "var6": 0,
+      "var7": 0,
+      "var8": 1,
+      "var9": 0,
+      "var10": 0,
+      "var11": 2900
+    },
+    {
+      "var1": 2023,
+      "var2": "Wohnungen gesamt",
+      "var3": 730,
+      "var4": 122,
+      "var5": 255,
+      "var6": 81,
+      "var7": 76,
+      "var8": 91,
+      "var9": 64,
+      "var10": 41,
+      "var11": 56111
+    },
+    {
+      "var1": 2023,
+      "var2": "Wohnungen in Wohngebäuden",
+      "var3": 679,
+      "var4": 94,
+      "var5": 234,
+      "var6": 81,
+      "var7": 75,
+      "var8": 90,
+      "var9": 64,
+      "var10": 41,
+      "var11": 54195
+    },
+    {
+      "var1": 2023,
+      "var2": "Wohnungen in Nichtwohngebäuden",
+      "var3": 51,
+      "var4": 28,
+      "var5": 21,
+      "var6": 0,
+      "var7": 1,
+      "var8": 1,
+      "var9": 0,
+      "var10": 0,
+      "var11": 1916
+    },
+    {
+      "var1": 2024,
+      "var2": "Wohnungen gesamt",
+      "var3": 780,
+      "var4": 383,
+      "var5": 131,
+      "var6": 76,
+      "var7": 80,
+      "var8": 40,
+      "var9": 41,
+      "var10": 29,
+      "var11": 46917
+    },
+    {
+      "var1": 2024,
+      "var2": "Wohnungen in Wohngebäuden",
+      "var3": 549,
+      "var4": 153,
+      "var5": 131,
+      "var6": 76,
+      "var7": 80,
+      "var8": 39,
+      "var9": 41,
+      "var10": 29,
+      "var11": 41643
+    },
+    {
+      "var1": 2024,
+      "var2": "Wohnungen in Nichtwohngebäuden",
+      "var3": 231,
+      "var4": 230,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 1,
+      "var9": 0,
+      "var10": 0,
+      "var11": 5274
+    }
+  ]
+}

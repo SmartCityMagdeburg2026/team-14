@@ -1,0 +1,310 @@
+{
+  "id": "bautaetigkeit-und-wohnen/bauueberhang-im-bau-befindliche-und-geplante-wohnungen-und-gebaeude-neubau",
+  "title": "Bauüberhang - im Bau befindliche und geplante Wohnungen und Gebäude - Neubau",
+  "category": "Bautätigkeit und Wohnen",
+  "subcategory": "Bauüberhang",
+  "tableId": "K6_T22",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bautaetigkeit-und-wohnen/bauueberhang-im-bau-befindliche-und-geplante-wohnungen-und-gebaeude-neubau.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Bauüberhang - im Bau befindliche und geplante Wohnungen und Gebäude - Neubau.xlsx"
+  },
+  "description": "Bauüberhang — im Bau befindliche und geplante Wohnungen und Gebäude im Neubau, aufgeschlüsselt nach Bauphase. var4..var11 enthalten weitere Detail-Spalten (Räume, Gebäudearten), deren Zuordnung nicht eindeutig war.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2021,
+        2021,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Bauphase",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "noch nicht begonnen",
+        "im Bau befindlich",
+        "unter Dach (rohbaufertig)"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Wohnungen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1702,
+        685,
+        466
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        957,
+        196,
+        2
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        221,
+        273,
+        42
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        170,
+        59,
+        147
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        136,
+        66,
+        132
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        120,
+        30,
+        74
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        71,
+        38,
+        50
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        27,
+        23,
+        19
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        244,
+        136,
+        152
+      ]
+    }
+  ],
+  "rowCount": 12,
+  "rows": [
+    {
+      "var1": 2021,
+      "var2": "noch nicht begonnen",
+      "var3": 1702,
+      "var4": 957,
+      "var5": 221,
+      "var6": 170,
+      "var7": 136,
+      "var8": 120,
+      "var9": 71,
+      "var10": 27,
+      "var11": 244
+    },
+    {
+      "var1": 2021,
+      "var2": "im Bau befindlich",
+      "var3": 685,
+      "var4": 196,
+      "var5": 273,
+      "var6": 59,
+      "var7": 66,
+      "var8": 30,
+      "var9": 38,
+      "var10": 23,
+      "var11": 136
+    },
+    {
+      "var1": 2021,
+      "var2": "unter Dach (rohbaufertig)",
+      "var3": 466,
+      "var4": 2,
+      "var5": 42,
+      "var6": 147,
+      "var7": 132,
+      "var8": 74,
+      "var9": 50,
+      "var10": 19,
+      "var11": 152
+    },
+    {
+      "var1": 2022,
+      "var2": "noch nicht begonnen",
+      "var3": 1576,
+      "var4": 639,
+      "var5": 242,
+      "var6": 271,
+      "var7": 215,
+      "var8": 95,
+      "var9": 60,
+      "var10": 54,
+      "var11": 222
+    },
+    {
+      "var1": 2022,
+      "var2": "im Bau befindlich",
+      "var3": 1013,
+      "var4": 448,
+      "var5": 329,
+      "var6": 69,
+      "var7": 72,
+      "var8": 50,
+      "var9": 23,
+      "var10": 22,
+      "var11": 138
+    },
+    {
+      "var1": 2022,
+      "var2": "unter Dach (rohbaufertig)",
+      "var3": 187,
+      "var4": 0,
+      "var5": 15,
+      "var6": 26,
+      "var7": 34,
+      "var8": 45,
+      "var9": 40,
+      "var10": 27,
+      "var11": 115
+    },
+    {
+      "var1": 2023,
+      "var2": "noch nicht begonnen",
+      "var3": 1567,
+      "var4": 691,
+      "var5": 236,
+      "var6": 227,
+      "var7": 229,
+      "var8": 93,
+      "var9": 50,
+      "var10": 41,
+      "var11": 173
+    },
+    {
+      "var1": 2023,
+      "var2": "im Bau befindlich",
+      "var3": 258,
+      "var4": 19,
+      "var5": 108,
+      "var6": 57,
+      "var7": 27,
+      "var8": 18,
+      "var9": 16,
+      "var10": 13,
+      "var11": 67
+    },
+    {
+      "var1": 2023,
+      "var2": "unter Dach (rohbaufertig)",
+      "var3": 558,
+      "var4": 336,
+      "var5": 32,
+      "var6": 58,
+      "var7": 58,
+      "var8": 21,
+      "var9": 30,
+      "var10": 23,
+      "var11": 93
+    },
+    {
+      "var1": 2024,
+      "var2": "noch nicht begonnen",
+      "var3": 1749,
+      "var4": 613,
+      "var5": 296,
+      "var6": 404,
+      "var7": 257,
+      "var8": 98,
+      "var9": 48,
+      "var10": 33,
+      "var11": 170
+    },
+    {
+      "var1": 2024,
+      "var2": "im Bau befindlich",
+      "var3": 166,
+      "var4": 41,
+      "var5": 30,
+      "var6": 39,
+      "var7": 8,
+      "var8": 16,
+      "var9": 11,
+      "var10": 21,
+      "var11": 73
+    },
+    {
+      "var1": 2024,
+      "var2": "unter Dach (rohbaufertig)",
+      "var3": 148,
+      "var4": 33,
+      "var5": 29,
+      "var6": 33,
+      "var7": 10,
+      "var8": 17,
+      "var9": 19,
+      "var10": 7,
+      "var11": 47
+    }
+  ]
+}

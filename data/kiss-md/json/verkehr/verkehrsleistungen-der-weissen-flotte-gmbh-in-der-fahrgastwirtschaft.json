@@ -1,0 +1,178 @@
+{
+  "id": "verkehr/verkehrsleistungen-der-weissen-flotte-gmbh-in-der-fahrgastwirtschaft",
+  "title": "Verkehrsleistungen der Weißen Flotte GmbH in der Fahrgastwirtschaft",
+  "category": "Verkehr",
+  "subcategory": "Weiße Flotte",
+  "tableId": "K8_T31",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/verkehr/verkehrsleistungen-der-weissen-flotte-gmbh-in-der-fahrgastwirtschaft.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Verkehrsleistungen der Weißen Flotte GmbH in der Fahrgastwirtschaft.xlsx"
+  },
+  "description": "Verkehrsleistungen der Weißen Flotte in der Fahrgastwirtschaft. Spaltenzuordnung der Fahrgastsegmente unsicher.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        953,
+        671,
+        632
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        330,
+        157,
+        236
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        310,
+        287,
+        191
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        313,
+        227,
+        295
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        46815,
+        27486,
+        26257
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        20425,
+        12790,
+        13413
+      ]
+    }
+  ],
+  "rowCount": 8,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": 953,
+      "var3": 330,
+      "var4": 310,
+      "var5": 313,
+      "var6": 46815,
+      "var7": 20425
+    },
+    {
+      "var1": 2018,
+      "var2": 671,
+      "var3": 157,
+      "var4": 287,
+      "var5": 227,
+      "var6": 27486,
+      "var7": 12790
+    },
+    {
+      "var1": 2019,
+      "var2": 632,
+      "var3": 236,
+      "var4": 191,
+      "var5": 295,
+      "var6": 26257,
+      "var7": 13413
+    },
+    {
+      "var1": 2020,
+      "var2": 639,
+      "var3": 274,
+      "var4": 147,
+      "var5": 218,
+      "var6": 23573,
+      "var7": 12587
+    },
+    {
+      "var1": 2021,
+      "var2": 635,
+      "var3": 198,
+      "var4": 208,
+      "var5": 229,
+      "var6": 29933,
+      "var7": 13352
+    },
+    {
+      "var1": 2022,
+      "var2": 745,
+      "var3": 298,
+      "var4": 129,
+      "var5": 318,
+      "var6": 33308,
+      "var7": 15986
+    },
+    {
+      "var1": 2023,
+      "var2": 735,
+      "var3": 231,
+      "var4": 215,
+      "var5": 289,
+      "var6": 33366,
+      "var7": 14778
+    },
+    {
+      "var1": 2024,
+      "var2": 809,
+      "var3": 278,
+      "var4": 234,
+      "var5": 297,
+      "var6": 41525,
+      "var7": 18013
+    }
+  ]
+}

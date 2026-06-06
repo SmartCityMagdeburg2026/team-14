@@ -1,0 +1,1454 @@
+{
+  "id": "gesundheit-und-soziales/rettungsdienst-fahrzeuge",
+  "title": "Rettungsdienst Fahrzeuge",
+  "category": "Gesundheit und Soziales",
+  "subcategory": "Rettungsdienst",
+  "tableId": "K4_T16",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/gesundheit-und-soziales/rettungsdienst-fahrzeuge.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Rettungsdienst Fahrzeuge.xlsx"
+  },
+  "description": "Rettungsdienst-Fahrzeuge nach Dienstleister (Johanniter, Malteser, Berufsfeuerwehr etc.). Aufteilung nach Fahrzeugtyp (RTW/NEF/KTW) in var3..var6 nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1991,
+        1991,
+        1991
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Dienstleister",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Johanniter Unfallhilfe",
+        "Malteser Hilfsdienst",
+        "Berufsfeuerwehr Magdeburg"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1,
+        2,
+        0
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        4,
+        1,
+        0
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "rowCount": 170,
+  "rows": [
+    {
+      "var1": 1991,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 1,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 1991,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 0,
+      "var4": 2,
+      "var5": 1,
+      "var6": 0
+    },
+    {
+      "var1": 1991,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 1991,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 1,
+      "var4": 0,
+      "var5": 8,
+      "var6": 0
+    },
+    {
+      "var1": 1991,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 0,
+      "var5": 1,
+      "var6": 0
+    },
+    {
+      "var1": 1992,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 1,
+      "var5": 5,
+      "var6": 0
+    },
+    {
+      "var1": 1992,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 0,
+      "var4": 0,
+      "var5": 2,
+      "var6": 0
+    },
+    {
+      "var1": 1992,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 1992,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 1,
+      "var4": 2,
+      "var5": 5,
+      "var6": 0
+    },
+    {
+      "var1": 1992,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 1,
+      "var5": 1,
+      "var6": 0
+    },
+    {
+      "var1": 1993,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 1,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 1993,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 0,
+      "var4": 0,
+      "var5": 2,
+      "var6": 0
+    },
+    {
+      "var1": 1993,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 1993,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 1,
+      "var4": 2,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 1993,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 1,
+      "var5": 1,
+      "var6": 0
+    },
+    {
+      "var1": 1994,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 1,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 1994,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 0,
+      "var4": 0,
+      "var5": 2,
+      "var6": 0
+    },
+    {
+      "var1": 1994,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 1994,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 1,
+      "var4": 2,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 1994,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 1,
+      "var5": 1,
+      "var6": 0
+    },
+    {
+      "var1": 1995,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 1,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 1995,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 0,
+      "var4": 0,
+      "var5": 5,
+      "var6": 0
+    },
+    {
+      "var1": 1995,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 1,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 1995,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 1,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 1995,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 0,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 1996,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 1,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 1996,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 0,
+      "var4": 0,
+      "var5": 5,
+      "var6": 0
+    },
+    {
+      "var1": 1996,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 1,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 1996,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 1,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 1996,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 0,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 1997,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 1,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 1997,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 0,
+      "var4": 0,
+      "var5": 5,
+      "var6": 0
+    },
+    {
+      "var1": 1997,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 1,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 1997,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 1,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 1997,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 0,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 1998,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 2,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 1998,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 0,
+      "var4": 0,
+      "var5": 5,
+      "var6": 0
+    },
+    {
+      "var1": 1998,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 1998,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 1,
+      "var4": 4,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 1998,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 0,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 1999,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 1,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 1999,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 2,
+      "var5": 5,
+      "var6": 0
+    },
+    {
+      "var1": 1999,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 1999,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 1999,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2000,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 1,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2000,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 2,
+      "var5": 5,
+      "var6": 0
+    },
+    {
+      "var1": 2000,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2000,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2000,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2001,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 1,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2001,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 2,
+      "var5": 5,
+      "var6": 0
+    },
+    {
+      "var1": 2001,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2001,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2001,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2002,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 1,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2002,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 2,
+      "var5": 5,
+      "var6": 0
+    },
+    {
+      "var1": 2002,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2002,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2002,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2003,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2003,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 0,
+      "var4": 0,
+      "var5": 7,
+      "var6": 0
+    },
+    {
+      "var1": 2003,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2003,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2003,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 0,
+      "var4": 3,
+      "var5": 6,
+      "var6": 0
+    },
+    {
+      "var1": 2004,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 2,
+      "var4": 3,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2004,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 0,
+      "var4": 0,
+      "var5": 7,
+      "var6": 0
+    },
+    {
+      "var1": 2004,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2004,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2004,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 3,
+      "var5": 6,
+      "var6": 0
+    },
+    {
+      "var1": 2005,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 2,
+      "var4": 3,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2005,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 0,
+      "var4": 0,
+      "var5": 7,
+      "var6": 0
+    },
+    {
+      "var1": 2005,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2005,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2005,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 3,
+      "var5": 6,
+      "var6": 0
+    },
+    {
+      "var1": 2006,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 2,
+      "var4": 3,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2006,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 0,
+      "var4": 0,
+      "var5": 6,
+      "var6": 0
+    },
+    {
+      "var1": 2006,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2006,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2006,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 3,
+      "var5": 6,
+      "var6": 0
+    },
+    {
+      "var1": 2007,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 2,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2007,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 2,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2007,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2007,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2007,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 2,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2008,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 2,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2008,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 2,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2008,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2008,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2008,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 2,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2009,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 2,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2009,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 2,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2009,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2009,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2009,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 2,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2010,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2011,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2012,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 4,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 3,
+      "var5": 3,
+      "var6": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 4,
+      "var5": 3,
+      "var6": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 4,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 3,
+      "var5": 3,
+      "var6": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 4,
+      "var5": 3,
+      "var6": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 4,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 3,
+      "var5": 3,
+      "var6": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 4,
+      "var5": 3,
+      "var6": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 4,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 3,
+      "var5": 3,
+      "var6": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 4,
+      "var5": 3,
+      "var6": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 4,
+      "var5": 5,
+      "var6": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 3,
+      "var5": 3,
+      "var6": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 4,
+      "var5": 3,
+      "var6": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 5,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 4,
+      "var5": 3,
+      "var6": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 5,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 3,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 4,
+      "var5": 3,
+      "var6": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 5,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 4,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 4,
+      "var5": 3,
+      "var6": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 5,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 4,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 4,
+      "var5": 3,
+      "var6": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Johanniter Unfallhilfe",
+      "var3": 1,
+      "var4": 5,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Malteser Hilfsdienst",
+      "var3": 1,
+      "var4": 4,
+      "var5": 4,
+      "var6": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Berufsfeuerwehr Magdeburg",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Deutsches Rotes Kreuz",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Arbeiter-Samariter-Bund",
+      "var3": 1,
+      "var4": 4,
+      "var5": 3,
+      "var6": 0
+    }
+  ]
+}

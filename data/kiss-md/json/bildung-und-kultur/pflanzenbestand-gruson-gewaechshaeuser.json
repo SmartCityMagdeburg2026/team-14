@@ -1,0 +1,130 @@
+{
+  "id": "bildung-und-kultur/pflanzenbestand-gruson-gewaechshaeuser",
+  "title": "Pflanzenbestand Gruson Gewächshäuser",
+  "category": "Bildung und Kultur",
+  "subcategory": "Gruson-Gewächshäuser",
+  "tableId": "K5_T29_2",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bildung-und-kultur/pflanzenbestand-gruson-gewaechshaeuser.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Pflanzenbestand Gruson Gewächshäuser.xlsx"
+  },
+  "description": "Pflanzenbestand der Gruson-Gewächshäuser. Die 7 Detail-Spalten entsprechen verschiedenen Gewächshäusern/Pflanzengruppen, deren Zuordnung nicht eindeutig war.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2024,
+        2025
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        743,
+        721
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        723,
+        752
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        687,
+        739
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        86,
+        86
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5661,
+        5588
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5828,
+        5674
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        7484,
+        6950
+      ]
+    }
+  ],
+  "rowCount": 2,
+  "rows": [
+    {
+      "var1": 2024,
+      "var2": 743,
+      "var3": 723,
+      "var4": 687,
+      "var5": 86,
+      "var6": 5661,
+      "var7": 5828,
+      "var8": 7484
+    },
+    {
+      "var1": 2025,
+      "var2": 721,
+      "var3": 752,
+      "var4": 739,
+      "var5": 86,
+      "var6": 5588,
+      "var7": 5674,
+      "var8": 6950
+    }
+  ]
+}

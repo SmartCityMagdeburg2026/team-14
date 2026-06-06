@@ -1,0 +1,490 @@
+{
+  "id": "kommunale-finanzen/entwicklung-der-realsteueraufbringungskraft-und-der-steuereinnahmekraft",
+  "title": "Entwicklung der Realsteueraufbringungskraft und der Steuereinnahmekraft",
+  "category": "Kommunale Finanzen",
+  "subcategory": "Realsteuervergleich",
+  "tableId": "K12_T5",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/kommunale-finanzen/entwicklung-der-realsteueraufbringungskraft-und-der-steuereinnahmekraft.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Entwicklung der Realsteueraufbringungskraft und der Steuereinnahmekraft.xlsx"
+  },
+  "description": "Entwicklung der Realsteueraufbringungskraft und der Steuereinnahmekraft. Aufteilung nach Steuerarten in var2..var10 nicht zuverlässig zuzuordnen — LLM-Labels lieferten widersprüchliche Größenordnungen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        113,
+        141,
+        104
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        3468,
+        15349,
+        10745
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        7252,
+        11630,
+        14575
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        56,
+        70,
+        52
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        889,
+        3935,
+        2755
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2266,
+        3634,
+        4506
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        200,
+        200,
+        200
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        390,
+        390,
+        390
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        320,
+        320,
+        400
+      ]
+    }
+  ],
+  "rowCount": 29,
+  "rows": [
+    {
+      "var1": 1991,
+      "var2": 113,
+      "var3": 3468,
+      "var4": 7252,
+      "var5": 56,
+      "var6": 889,
+      "var7": 2266,
+      "var8": 200,
+      "var9": 390,
+      "var10": 320
+    },
+    {
+      "var1": 1992,
+      "var2": 141,
+      "var3": 15349,
+      "var4": 11630,
+      "var5": 70,
+      "var6": 3935,
+      "var7": 3634,
+      "var8": 200,
+      "var9": 390,
+      "var10": 320
+    },
+    {
+      "var1": 1993,
+      "var2": 104,
+      "var3": 10745,
+      "var4": 14575,
+      "var5": 52,
+      "var6": 2755,
+      "var7": 4506,
+      "var8": 200,
+      "var9": 390,
+      "var10": 400
+    },
+    {
+      "var1": 1995,
+      "var2": 135,
+      "var3": 11278,
+      "var4": 25583,
+      "var5": 67,
+      "var6": 2892,
+      "var7": 6396,
+      "var8": 200,
+      "var9": 390,
+      "var10": 400
+    },
+    {
+      "var1": 1996,
+      "var2": 151,
+      "var3": 18034,
+      "var4": 38305,
+      "var5": 73,
+      "var6": 4624,
+      "var7": 9576,
+      "var8": 200,
+      "var9": 390,
+      "var10": 400
+    },
+    {
+      "var1": 1997,
+      "var2": 139,
+      "var3": 17497,
+      "var4": 52323,
+      "var5": 70,
+      "var6": 4268,
+      "var7": 12458,
+      "var8": 200,
+      "var9": 410,
+      "var10": 420
+    },
+    {
+      "var1": 1998,
+      "var2": 106,
+      "var3": 22484,
+      "var4": 50252,
+      "var5": 53,
+      "var6": 5484,
+      "var7": 11965,
+      "var8": 200,
+      "var9": 410,
+      "var10": 420
+    },
+    {
+      "var1": 1999,
+      "var2": 149,
+      "var3": 26537,
+      "var4": 44648,
+      "var5": 59,
+      "var6": 5897,
+      "var7": 10630,
+      "var8": 250,
+      "var9": 450,
+      "var10": 420
+    },
+    {
+      "var1": 2000,
+      "var2": 151,
+      "var3": 24651,
+      "var4": 54880,
+      "var5": 60,
+      "var6": 5478,
+      "var7": 12195,
+      "var8": 250,
+      "var9": 450,
+      "var10": 450
+    },
+    {
+      "var1": 2001,
+      "var2": 187,
+      "var3": 26573,
+      "var4": 44566,
+      "var5": 75,
+      "var6": 5918,
+      "var7": 9903,
+      "var8": 248,
+      "var9": 449,
+      "var10": 450
+    },
+    {
+      "var1": 2003,
+      "var2": 181,
+      "var3": 26882,
+      "var4": 36134,
+      "var5": 73,
+      "var6": 5987,
+      "var7": 8030,
+      "var8": 248,
+      "var9": 449,
+      "var10": 450
+    },
+    {
+      "var1": 2004,
+      "var2": 157,
+      "var3": 24922,
+      "var4": 50999,
+      "var5": 64,
+      "var6": 5526,
+      "var7": 11333,
+      "var8": 247,
+      "var9": 451,
+      "var10": 450
+    },
+    {
+      "var1": 2006,
+      "var2": 233,
+      "var3": 26047,
+      "var4": 61104,
+      "var5": 93,
+      "var6": 5788,
+      "var7": 13579,
+      "var8": 250,
+      "var9": 450,
+      "var10": 450
+    },
+    {
+      "var1": 2007,
+      "var2": 165,
+      "var3": 26704,
+      "var4": 71264,
+      "var5": 66,
+      "var6": 5934,
+      "var7": 15837,
+      "var8": 250,
+      "var9": 450,
+      "var10": 450
+    },
+    {
+      "var1": 2008,
+      "var2": 199,
+      "var3": 26142,
+      "var4": 84434,
+      "var5": 80,
+      "var6": 5809,
+      "var7": 18763,
+      "var8": 250,
+      "var9": 450,
+      "var10": 450
+    },
+    {
+      "var1": 2010,
+      "var2": 187,
+      "var3": 26432,
+      "var4": 78143,
+      "var5": 75,
+      "var6": 5874,
+      "var7": 17365,
+      "var8": 250,
+      "var9": 450,
+      "var10": 450
+    },
+    {
+      "var1": 2012,
+      "var2": 166,
+      "var3": 29284,
+      "var4": 86194,
+      "var5": 66,
+      "var6": 5916,
+      "var7": 19154,
+      "var8": 250,
+      "var9": 495,
+      "var10": 450
+    },
+    {
+      "var1": 2013,
+      "var2": 170,
+      "var3": 30484,
+      "var4": 104170,
+      "var5": 68,
+      "var6": 6158,
+      "var7": 23149,
+      "var8": 250,
+      "var9": 495,
+      "var10": 450
+    },
+    {
+      "var1": 2014,
+      "var2": 164,
+      "var3": 30655,
+      "var4": 87715,
+      "var5": 66,
+      "var6": 6193,
+      "var7": 19492,
+      "var8": 250,
+      "var9": 495,
+      "var10": 450
+    },
+    {
+      "var1": 2015,
+      "var2": 162,
+      "var3": 30810,
+      "var4": 82119,
+      "var5": 65,
+      "var6": 6224,
+      "var7": 18249,
+      "var8": 250,
+      "var9": 495,
+      "var10": 450
+    },
+    {
+      "var1": 2016,
+      "var2": 168,
+      "var3": 31234,
+      "var4": 92450,
+      "var5": 67,
+      "var6": 6310,
+      "var7": 20544,
+      "var8": 250,
+      "var9": 495,
+      "var10": 450
+    },
+    {
+      "var1": 2017,
+      "var2": 167,
+      "var3": 31141,
+      "var4": 108253,
+      "var5": 67,
+      "var6": 6291,
+      "var7": 24056,
+      "var8": 250,
+      "var9": 495,
+      "var10": 450
+    },
+    {
+      "var1": 2018,
+      "var2": 169,
+      "var3": 31260,
+      "var4": 111503,
+      "var5": 68,
+      "var6": 6315,
+      "var7": 24778,
+      "var8": 250,
+      "var9": 495,
+      "var10": 450
+    },
+    {
+      "var1": 2019,
+      "var2": 158,
+      "var3": 32123,
+      "var4": 104844,
+      "var5": 63,
+      "var6": 6489,
+      "var7": 23299,
+      "var8": 250,
+      "var9": 495,
+      "var10": 450
+    },
+    {
+      "var1": 2020,
+      "var2": 164,
+      "var3": 31693,
+      "var4": 93195,
+      "var5": 66,
+      "var6": 6403,
+      "var7": 20710,
+      "var8": 250,
+      "var9": 495,
+      "var10": 450
+    },
+    {
+      "var1": 2021,
+      "var2": 160,
+      "var3": 31874,
+      "var4": 111742,
+      "var5": 64,
+      "var6": 6439,
+      "var7": 27832,
+      "var8": 250,
+      "var9": 495,
+      "var10": 450
+    },
+    {
+      "var1": 2022,
+      "var2": 158,
+      "var3": 32237,
+      "var4": 127971,
+      "var5": 63,
+      "var6": 6513,
+      "var7": 28438,
+      "var8": 250,
+      "var9": 495,
+      "var10": 450
+    },
+    {
+      "var1": 2023,
+      "var2": 158,
+      "var3": 32103,
+      "var4": 143648,
+      "var5": 63,
+      "var6": 6485,
+      "var7": 31923,
+      "var8": 250,
+      "var9": 495,
+      "var10": 450
+    },
+    {
+      "var1": 2024,
+      "var2": 147,
+      "var3": 38636,
+      "var4": 142196,
+      "var5": 59,
+      "var6": 6548,
+      "var7": 31599,
+      "var8": 250,
+      "var9": 590,
+      "var10": 450
+    }
+  ]
+}

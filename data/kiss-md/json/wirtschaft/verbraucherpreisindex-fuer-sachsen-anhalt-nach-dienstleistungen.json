@@ -1,0 +1,219 @@
+{
+  "id": "wirtschaft/verbraucherpreisindex-fuer-sachsen-anhalt-nach-dienstleistungen",
+  "title": "Verbraucherpreisindex für Sachsen-Anhalt nach Dienstleistungen",
+  "category": "Wirtschaft",
+  "subcategory": "Preise und Preisindizes",
+  "tableId": "K7_T94b",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/verbraucherpreisindex-fuer-sachsen-anhalt-nach-dienstleistungen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Verbraucherpreisindex für Sachsen-Anhalt nach Dienstleistungen.xlsx"
+  },
+  "description": "Verbraucherpreisindex für Sachsen-Anhalt nach Dienstleistungen. var2..var11 enthalten Teilindizes für Dienstleistungsgruppen und deren Veränderungsraten, Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        103.5,
+        104.7,
+        106.7
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1.2,
+        1.2,
+        1.9
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        105.3,
+        106.4,
+        108.8
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        3.2,
+        1,
+        2.29999999999999
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        103.3,
+        104.3,
+        105.3
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1.1,
+        1,
+        1
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        102.6,
+        104.1,
+        106.9
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        -2.2,
+        1.5,
+        2.7
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        102.1,
+        104.1,
+        105.1
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1.7,
+        2,
+        1
+      ]
+    }
+  ],
+  "rowCount": 5,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": 103.5,
+      "var3": 1.2,
+      "var4": 105.3,
+      "var5": 3.2,
+      "var6": 103.3,
+      "var7": 1.1,
+      "var8": 102.6,
+      "var9": -2.2,
+      "var10": 102.1,
+      "var11": 1.7
+    },
+    {
+      "var1": 2018,
+      "var2": 104.7,
+      "var3": 1.2,
+      "var4": 106.4,
+      "var5": 1,
+      "var6": 104.3,
+      "var7": 1,
+      "var8": 104.1,
+      "var9": 1.5,
+      "var10": 104.1,
+      "var11": 2
+    },
+    {
+      "var1": 2019,
+      "var2": 106.7,
+      "var3": 1.9,
+      "var4": 108.8,
+      "var5": 2.29999999999999,
+      "var6": 105.3,
+      "var7": 1,
+      "var8": 106.9,
+      "var9": 2.7,
+      "var10": 105.1,
+      "var11": 1
+    },
+    {
+      "var1": 2020,
+      "var2": 108,
+      "var3": 1.2,
+      "var4": 107.6,
+      "var5": -1.1,
+      "var6": 105.9,
+      "var7": 0.6,
+      "var8": 106.2,
+      "var9": -0.7,
+      "var10": 108.5,
+      "var11": 3.2
+    },
+    {
+      "var1": 2021,
+      "var2": 112.9,
+      "var3": 4.5,
+      "var4": 111.8,
+      "var5": 3.9,
+      "var6": 110.3,
+      "var7": 4.2,
+      "var8": 109.6,
+      "var9": 3.2,
+      "var10": 111.5,
+      "var11": 2.8
+    }
+  ]
+}

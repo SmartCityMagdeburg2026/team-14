@@ -1,0 +1,169 @@
+{
+  "id": "arbeitsmarkt/massnahmen-zur-beschaeftigungsfoerderung",
+  "title": "Maßnahmen zur Beschäftigungsförderung",
+  "category": "Arbeitsmarkt",
+  "subcategory": "Sozialhilfe, sozialer Dienst, Betreuung von Schuldnern",
+  "tableId": "K4_T21",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/arbeitsmarkt/massnahmen-zur-beschaeftigungsfoerderung.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Maßnahmen zur Beschäftigungsförderung.xlsx"
+  },
+  "description": "Maßnahmen zur Beschäftigungsförderung. Die 6 Detail-Spalten (Fälle, Maßnahmen, Personen, Teilnehmer, Gruppen, Beratungen) waren mit den LLM-Labels nicht konsistent.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2018,
+        2019,
+        2020
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        68,
+        78,
+        67
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1070,
+        1129,
+        912
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        8,
+        7,
+        6
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        172,
+        190,
+        166
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        4,
+        4,
+        3
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        30,
+        32,
+        24
+      ]
+    }
+  ],
+  "rowCount": 7,
+  "rows": [
+    {
+      "var1": 2018,
+      "var2": 68,
+      "var3": 1070,
+      "var4": 8,
+      "var5": 172,
+      "var6": 4,
+      "var7": 30
+    },
+    {
+      "var1": 2019,
+      "var2": 78,
+      "var3": 1129,
+      "var4": 7,
+      "var5": 190,
+      "var6": 4,
+      "var7": 32
+    },
+    {
+      "var1": 2020,
+      "var2": 67,
+      "var3": 912,
+      "var4": 6,
+      "var5": 166,
+      "var6": 3,
+      "var7": 24
+    },
+    {
+      "var1": 2021,
+      "var2": 72,
+      "var3": 879,
+      "var4": 6,
+      "var5": 167,
+      "var6": 3,
+      "var7": 26
+    },
+    {
+      "var1": 2022,
+      "var2": 58,
+      "var3": 673,
+      "var4": 6,
+      "var5": 195,
+      "var6": 3,
+      "var7": 26
+    },
+    {
+      "var1": 2023,
+      "var2": 54,
+      "var3": 501,
+      "var4": 6,
+      "var5": 204,
+      "var6": 3,
+      "var7": 25
+    },
+    {
+      "var1": 2024,
+      "var2": 49,
+      "var3": 470,
+      "var4": 6,
+      "var5": 194,
+      "var6": 4,
+      "var7": 42
+    }
+  ]
+}

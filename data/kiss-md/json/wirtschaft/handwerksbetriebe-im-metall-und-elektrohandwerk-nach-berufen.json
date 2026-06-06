@@ -1,0 +1,466 @@
+{
+  "id": "wirtschaft/handwerksbetriebe-im-metall-und-elektrohandwerk-nach-berufen",
+  "title": "Handwerksbetriebe im Metall- und Elektrohandwerk nach Berufen",
+  "category": "Wirtschaft",
+  "subcategory": "Handwerksbetriebe der Handwerkskammer Magdeburg",
+  "tableId": "K7_T9b",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/handwerksbetriebe-im-metall-und-elektrohandwerk-nach-berufen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Handwerksbetriebe im Metall- und Elektrohandwerk nach Berufen.xlsx"
+  },
+  "description": "Handwerksbetriebe im Metall- und Elektrohandwerk nach Berufen. var2..var16 entsprechen einzelnen Berufen (Klempner, Installateur, Elektriker, Mechatroniker etc.), Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        655,
+        649,
+        641
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        7,
+        8,
+        7
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        162,
+        163,
+        160
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        18,
+        17,
+        18
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        17,
+        17,
+        17
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        16,
+        15,
+        16
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        24,
+        24,
+        19
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        94,
+        96,
+        97
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        17,
+        16,
+        15
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        161,
+        160,
+        163
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        13,
+        13,
+        12
+      ]
+    },
+    {
+      "key": "var13",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        56,
+        52,
+        48
+      ]
+    },
+    {
+      "key": "var14",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "key": "var15",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        14,
+        12,
+        12
+      ]
+    },
+    {
+      "key": "var16",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        48,
+        48,
+        49
+      ]
+    }
+  ],
+  "rowCount": 14,
+  "rows": [
+    {
+      "var1": 2010,
+      "var2": 655,
+      "var3": 7,
+      "var4": 162,
+      "var5": 18,
+      "var6": 17,
+      "var7": 16,
+      "var8": 24,
+      "var9": 94,
+      "var10": 17,
+      "var11": 161,
+      "var12": 13,
+      "var13": 56,
+      "var14": 8,
+      "var15": 14,
+      "var16": 48
+    },
+    {
+      "var1": 2011,
+      "var2": 649,
+      "var3": 8,
+      "var4": 163,
+      "var5": 17,
+      "var6": 17,
+      "var7": 15,
+      "var8": 24,
+      "var9": 96,
+      "var10": 16,
+      "var11": 160,
+      "var12": 13,
+      "var13": 52,
+      "var14": 8,
+      "var15": 12,
+      "var16": 48
+    },
+    {
+      "var1": 2012,
+      "var2": 641,
+      "var3": 7,
+      "var4": 160,
+      "var5": 18,
+      "var6": 17,
+      "var7": 16,
+      "var8": 19,
+      "var9": 97,
+      "var10": 15,
+      "var11": 163,
+      "var12": 12,
+      "var13": 48,
+      "var14": 8,
+      "var15": 12,
+      "var16": 49
+    },
+    {
+      "var1": 2013,
+      "var2": 639,
+      "var3": 9,
+      "var4": 155,
+      "var5": 19,
+      "var6": 16,
+      "var7": 17,
+      "var8": 17,
+      "var9": 94,
+      "var10": 15,
+      "var11": 168,
+      "var12": 11,
+      "var13": 51,
+      "var14": 9,
+      "var15": 11,
+      "var16": 47
+    },
+    {
+      "var1": 2014,
+      "var2": 630,
+      "var3": 12,
+      "var4": 154,
+      "var5": 20,
+      "var6": 14,
+      "var7": 16,
+      "var8": 16,
+      "var9": 94,
+      "var10": 15,
+      "var11": 166,
+      "var12": 11,
+      "var13": 50,
+      "var14": 8,
+      "var15": 9,
+      "var16": 45
+    },
+    {
+      "var1": 2015,
+      "var2": 620,
+      "var3": 9,
+      "var4": 151,
+      "var5": 19,
+      "var6": 12,
+      "var7": 15,
+      "var8": 17,
+      "var9": 95,
+      "var10": 15,
+      "var11": 167,
+      "var12": 11,
+      "var13": 50,
+      "var14": 8,
+      "var15": 8,
+      "var16": 43
+    },
+    {
+      "var1": 2016,
+      "var2": 615,
+      "var3": 8,
+      "var4": 149,
+      "var5": 18,
+      "var6": 12,
+      "var7": 14,
+      "var8": 18,
+      "var9": 96,
+      "var10": 15,
+      "var11": 173,
+      "var12": 8,
+      "var13": 45,
+      "var14": 8,
+      "var15": 7,
+      "var16": 44
+    },
+    {
+      "var1": 2017,
+      "var2": 586,
+      "var3": 8,
+      "var4": 141,
+      "var5": 16,
+      "var6": 11,
+      "var7": 14,
+      "var8": 17,
+      "var9": 94,
+      "var10": 14,
+      "var11": 168,
+      "var12": 7,
+      "var13": 43,
+      "var14": 7,
+      "var15": 7,
+      "var16": 39
+    },
+    {
+      "var1": 2018,
+      "var2": 560,
+      "var3": 7,
+      "var4": 137,
+      "var5": 16,
+      "var6": 11,
+      "var7": 13,
+      "var8": 16,
+      "var9": 90,
+      "var10": 14,
+      "var11": 160,
+      "var12": 6,
+      "var13": 40,
+      "var14": 7,
+      "var15": 6,
+      "var16": 37
+    },
+    {
+      "var1": 2019,
+      "var2": 538,
+      "var3": 8,
+      "var4": 138,
+      "var5": 16,
+      "var6": 9,
+      "var7": 12,
+      "var8": 14,
+      "var9": 87,
+      "var10": 14,
+      "var11": 155,
+      "var12": 5,
+      "var13": 36,
+      "var14": 7,
+      "var15": 6,
+      "var16": 31
+    },
+    {
+      "var1": 2020,
+      "var2": 528,
+      "var3": 5,
+      "var4": 139,
+      "var5": 14,
+      "var6": 8,
+      "var7": 9,
+      "var8": 13,
+      "var9": 86,
+      "var10": 13,
+      "var11": 156,
+      "var12": 5,
+      "var13": 37,
+      "var14": 7,
+      "var15": 5,
+      "var16": 31
+    },
+    {
+      "var1": 2021,
+      "var2": 517,
+      "var3": 4,
+      "var4": 135,
+      "var5": 12,
+      "var6": 7,
+      "var7": 9,
+      "var8": 12,
+      "var9": 87,
+      "var10": 12,
+      "var11": 154,
+      "var12": 4,
+      "var13": 34,
+      "var14": 7,
+      "var15": 5,
+      "var16": 35
+    },
+    {
+      "var1": 2022,
+      "var2": 515,
+      "var3": 3,
+      "var4": 136,
+      "var5": 13,
+      "var6": 7,
+      "var7": 10,
+      "var8": 12,
+      "var9": 88,
+      "var10": 12,
+      "var11": 152,
+      "var12": 4,
+      "var13": 35,
+      "var14": 7,
+      "var15": 4,
+      "var16": 32
+    },
+    {
+      "var1": 2023,
+      "var2": 508,
+      "var3": 3,
+      "var4": 137,
+      "var5": 10,
+      "var6": 7,
+      "var7": 10,
+      "var8": 11,
+      "var9": 85,
+      "var10": 10,
+      "var11": 155,
+      "var12": 4,
+      "var13": 34,
+      "var14": 6,
+      "var15": 4,
+      "var16": 32
+    }
+  ]
+}

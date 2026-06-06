@@ -1,0 +1,131 @@
+{
+  "id": "arbeitsmarkt/bruttoausgaben-der-sozialhilfe-nach-dem-sgb-xii-nach-der-art-der-leistung-in-1-000-euro",
+  "title": "Bruttoausgaben der Sozialhilfe nach dem SGB XII nach der Art der Leistung (in 1.000 Euro)",
+  "category": "Arbeitsmarkt",
+  "subcategory": "Sozialhilfe, sozialer Dienst, Betreuung von Schuldnern",
+  "tableId": "K4_T18b",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/arbeitsmarkt/bruttoausgaben-der-sozialhilfe-nach-dem-sgb-xii-nach-der-art-der-leistung-in-1-000-euro.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Bruttoausgaben der Sozialhilfe nach dem SGB XII nach der Art der Leistung (in 1.000 Euro).xlsx"
+  },
+  "description": "Bruttoausgaben der Sozialhilfe nach SGB XII nach der Art der Leistung (1.000 EUR). Aufteilung in 4 Leistungsarten (var2..var5) nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2018,
+        2019,
+        2020
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        2989.6,
+        3454.7,
+        3826.3
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        2228.1,
+        2117.5,
+        2369.8
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        579.9,
+        1179.9,
+        1249.6
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        181.6,
+        157.3,
+        206.9
+      ]
+    }
+  ],
+  "rowCount": 7,
+  "rows": [
+    {
+      "var1": 2018,
+      "var2": 2989.6,
+      "var3": 2228.1,
+      "var4": 579.9,
+      "var5": 181.6
+    },
+    {
+      "var1": 2019,
+      "var2": 3454.7,
+      "var3": 2117.5,
+      "var4": 1179.9,
+      "var5": 157.3
+    },
+    {
+      "var1": 2020,
+      "var2": 3826.3,
+      "var3": 2369.8,
+      "var4": 1249.6,
+      "var5": 206.9
+    },
+    {
+      "var1": 2021,
+      "var2": 4032.7,
+      "var3": 2497.5,
+      "var4": 1378,
+      "var5": 157.2
+    },
+    {
+      "var1": 2022,
+      "var2": 4214.1,
+      "var3": 3324.4,
+      "var4": 756.2,
+      "var5": 133.5
+    },
+    {
+      "var1": 2023,
+      "var2": 5729.8,
+      "var3": 4384,
+      "var4": 1167.1,
+      "var5": 178.7
+    },
+    {
+      "var1": 2024,
+      "var2": 8119.4,
+      "var3": 4604.5,
+      "var4": 3335.6,
+      "var5": 179.3
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "oeffentliche-ordnung/ausgewaehlte-kennziffern-zum-jagd-und-fischereiwesen",
+  "title": "Ausgewählte Kennziffern zum Jagd- und Fischereiwesen",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Jagd- und Fischereiwesen",
+  "tableId": "K11_T33",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/ausgewaehlte-kennziffern-zum-jagd-und-fischereiwesen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Ausgewählte Kennziffern zum Jagd- und Fischereiwesen.xlsx"
+  },
+  "description": "Ausgewählte Kennziffern zum Jagd- und Fischereiwesen. var4..var10 enthalten Kennzahlen (Reviergröße, Wildunfälle, Veranstaltungen etc.), die mit den LLM-Labels nicht konsistent waren.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2019,
+        2020,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Jagdscheine",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        459,
+        445,
+        481
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Fischereischeine",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        60,
+        37,
+        55
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5615,
+        5712,
+        5919
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        239,
+        289,
+        404
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        321,
+        454,
+        513
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        122,
+        10,
+        45
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        56,
+        22,
+        49
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        42,
+        66,
+        44
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1108,
+        968,
+        944
+      ]
+    }
+  ],
+  "rowCount": 6,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": 459,
+      "var3": 60,
+      "var4": 5615,
+      "var5": 239,
+      "var6": 321,
+      "var7": 122,
+      "var8": 56,
+      "var9": 42,
+      "var10": 1108
+    },
+    {
+      "var1": 2020,
+      "var2": 445,
+      "var3": 37,
+      "var4": 5712,
+      "var5": 289,
+      "var6": 454,
+      "var7": 10,
+      "var8": 22,
+      "var9": 66,
+      "var10": 968
+    },
+    {
+      "var1": 2021,
+      "var2": 481,
+      "var3": 55,
+      "var4": 5919,
+      "var5": 404,
+      "var6": 513,
+      "var7": 45,
+      "var8": 49,
+      "var9": 44,
+      "var10": 944
+    },
+    {
+      "var1": 2022,
+      "var2": 522,
+      "var3": 59,
+      "var4": 5440,
+      "var5": 489,
+      "var6": 312,
+      "var7": 58,
+      "var8": 54,
+      "var9": 88,
+      "var10": 920
+    },
+    {
+      "var1": 2023,
+      "var2": 501,
+      "var3": 53,
+      "var4": 5612,
+      "var5": 526,
+      "var6": 365,
+      "var7": 44,
+      "var8": 44,
+      "var9": 21,
+      "var10": 913
+    },
+    {
+      "var1": 2024,
+      "var2": 490,
+      "var3": 55,
+      "var4": 6278,
+      "var5": 565,
+      "var6": 351,
+      "var7": 109,
+      "var8": 23,
+      "var9": 30,
+      "var10": 953
+    }
+  ]
+}

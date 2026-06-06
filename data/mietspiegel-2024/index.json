@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-05-25T13:35:16.233Z",
+  "source": "Mietspiegel Magdeburg 2024",
+  "sourceUrl": "https://www.magdeburg.de/Magdeburg-erleben/Bauen-Wohnen/Mietspiegel/",
+  "description": "Aggregierte Werte aus dem qualifizierten Mietspiegel der Landeshauptstadt Magdeburg 2024: durchschnittliche Nettokaltmiete pro m² je Stadtteil × Wohnflächen-/Baualtersklasse für die Jahre 2012–2024.",
+  "datasets": [
+    {
+      "id": "mietspiegel-2024/nach-wohnflaeche",
+      "title": "Mietspiegel 2024 — Nettokaltmiete je m² nach Wohnflächenklasse und Stadtteil",
+      "path": "nach-wohnflaeche.json",
+      "rowCount": 1461,
+      "yearRange": [
+        2012,
+        2026
+      ],
+      "stadtteilCount": 37,
+      "kategorieCount": 4
+    },
+    {
+      "id": "mietspiegel-2024/nach-baualter",
+      "title": "Mietspiegel 2024 — Nettokaltmiete je m² nach Baualtersklasse und Stadtteil",
+      "path": "nach-baualter.json",
+      "rowCount": 1791,
+      "yearRange": [
+        2012,
+        2026
+      ],
+      "stadtteilCount": 34,
+      "kategorieCount": 6
+    }
+  ]
+}

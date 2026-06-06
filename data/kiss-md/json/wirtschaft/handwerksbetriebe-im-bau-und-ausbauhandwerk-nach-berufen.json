@@ -1,0 +1,492 @@
+{
+  "id": "wirtschaft/handwerksbetriebe-im-bau-und-ausbauhandwerk-nach-berufen",
+  "title": "Handwerksbetriebe im Bau- und Ausbauhandwerk nach Berufen",
+  "category": "Wirtschaft",
+  "subcategory": "Handwerksbetriebe der Handwerkskammer Magdeburg",
+  "tableId": "K7_T9a",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/handwerksbetriebe-im-bau-und-ausbauhandwerk-nach-berufen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Handwerksbetriebe im Bau- und Ausbauhandwerk nach Berufen.xlsx"
+  },
+  "description": "Handwerksbetriebe im Bau- und Ausbauhandwerk nach Berufen. Die einzelnen Berufsspalten (var3..var17) waren mit den LLM-Labels teilweise unplausibel (z. B. \"Tischler\" 190 vs. \"Schreiner\" 13 — sind im Deutschen praktisch identisch).",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Handwerksbetriebe Bau-/Ausbau gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        643,
+        659,
+        628
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        35,
+        35,
+        33
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        31,
+        32,
+        32
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        19,
+        20,
+        15
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        13,
+        16,
+        18
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        190,
+        197,
+        191
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        6,
+        11,
+        12
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        47,
+        47,
+        46
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        80,
+        82,
+        79
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        137,
+        139,
+        128
+      ]
+    },
+    {
+      "key": "var13",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        15,
+        15,
+        14
+      ]
+    },
+    {
+      "key": "var14",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "key": "var15",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        25,
+        21,
+        19
+      ]
+    },
+    {
+      "key": "var16",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        10,
+        10,
+        8
+      ]
+    },
+    {
+      "key": "var17",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        21,
+        20,
+        19
+      ]
+    }
+  ],
+  "rowCount": 14,
+  "rows": [
+    {
+      "var1": 2010,
+      "var2": 643,
+      "var3": 35,
+      "var4": 31,
+      "var5": 19,
+      "var6": 13,
+      "var7": 190,
+      "var8": 6,
+      "var9": 7,
+      "var10": 47,
+      "var11": 80,
+      "var12": 137,
+      "var13": 15,
+      "var14": 7,
+      "var15": 25,
+      "var16": 10,
+      "var17": 21
+    },
+    {
+      "var1": 2011,
+      "var2": 659,
+      "var3": 35,
+      "var4": 32,
+      "var5": 20,
+      "var6": 16,
+      "var7": 197,
+      "var8": 11,
+      "var9": 7,
+      "var10": 47,
+      "var11": 82,
+      "var12": 139,
+      "var13": 15,
+      "var14": 7,
+      "var15": 21,
+      "var16": 10,
+      "var17": 20
+    },
+    {
+      "var1": 2012,
+      "var2": 628,
+      "var3": 33,
+      "var4": 32,
+      "var5": 15,
+      "var6": 18,
+      "var7": 191,
+      "var8": 12,
+      "var9": 7,
+      "var10": 46,
+      "var11": 79,
+      "var12": 128,
+      "var13": 14,
+      "var14": 7,
+      "var15": 19,
+      "var16": 8,
+      "var17": 19
+    },
+    {
+      "var1": 2013,
+      "var2": 634,
+      "var3": 30,
+      "var4": 36,
+      "var5": 15,
+      "var6": 20,
+      "var7": 193,
+      "var8": 14,
+      "var9": 7,
+      "var10": 46,
+      "var11": 81,
+      "var12": 123,
+      "var13": 13,
+      "var14": 7,
+      "var15": 21,
+      "var16": 9,
+      "var17": 19
+    },
+    {
+      "var1": 2014,
+      "var2": 620,
+      "var3": 29,
+      "var4": 34,
+      "var5": 13,
+      "var6": 24,
+      "var7": 193,
+      "var8": 13,
+      "var9": 6,
+      "var10": 40,
+      "var11": 79,
+      "var12": 121,
+      "var13": 11,
+      "var14": 8,
+      "var15": 22,
+      "var16": 9,
+      "var17": 18
+    },
+    {
+      "var1": 2015,
+      "var2": 596,
+      "var3": 30,
+      "var4": 34,
+      "var5": 13,
+      "var6": 20,
+      "var7": 175,
+      "var8": 12,
+      "var9": 6,
+      "var10": 43,
+      "var11": 79,
+      "var12": 116,
+      "var13": 12,
+      "var14": 8,
+      "var15": 23,
+      "var16": 8,
+      "var17": 17
+    },
+    {
+      "var1": 2016,
+      "var2": 571,
+      "var3": 26,
+      "var4": 34,
+      "var5": 13,
+      "var6": 17,
+      "var7": 169,
+      "var8": 10,
+      "var9": 6,
+      "var10": 37,
+      "var11": 77,
+      "var12": 113,
+      "var13": 14,
+      "var14": 7,
+      "var15": 23,
+      "var16": 8,
+      "var17": 17
+    },
+    {
+      "var1": 2017,
+      "var2": 554,
+      "var3": 26,
+      "var4": 33,
+      "var5": 13,
+      "var6": 16,
+      "var7": 168,
+      "var8": 8,
+      "var9": 6,
+      "var10": 37,
+      "var11": 76,
+      "var12": 105,
+      "var13": 13,
+      "var14": 7,
+      "var15": 24,
+      "var16": 8,
+      "var17": 14
+    },
+    {
+      "var1": 2018,
+      "var2": 527,
+      "var3": 27,
+      "var4": 33,
+      "var5": 15,
+      "var6": 15,
+      "var7": 158,
+      "var8": 7,
+      "var9": 6,
+      "var10": 34,
+      "var11": 73,
+      "var12": 96,
+      "var13": 13,
+      "var14": 7,
+      "var15": 22,
+      "var16": 7,
+      "var17": 14
+    },
+    {
+      "var1": 2019,
+      "var2": 519,
+      "var3": 26,
+      "var4": 33,
+      "var5": 15,
+      "var6": 15,
+      "var7": 160,
+      "var8": 6,
+      "var9": 6,
+      "var10": 35,
+      "var11": 71,
+      "var12": 93,
+      "var13": 13,
+      "var14": 7,
+      "var15": 21,
+      "var16": 6,
+      "var17": 12
+    },
+    {
+      "var1": 2020,
+      "var2": 489,
+      "var3": 27,
+      "var4": 29,
+      "var5": 17,
+      "var6": 11,
+      "var7": 149,
+      "var8": 4,
+      "var9": 6,
+      "var10": 36,
+      "var11": 69,
+      "var12": 86,
+      "var13": 12,
+      "var14": 7,
+      "var15": 17,
+      "var16": 6,
+      "var17": 13
+    },
+    {
+      "var1": 2021,
+      "var2": 468,
+      "var3": 25,
+      "var4": 28,
+      "var5": 15,
+      "var6": 10,
+      "var7": 135,
+      "var8": 4,
+      "var9": 6,
+      "var10": 34,
+      "var11": 71,
+      "var12": 84,
+      "var13": 11,
+      "var14": 7,
+      "var15": 19,
+      "var16": 5,
+      "var17": 14
+    },
+    {
+      "var1": 2022,
+      "var2": 459,
+      "var3": 23,
+      "var4": 27,
+      "var5": 19,
+      "var6": 8,
+      "var7": 126,
+      "var8": 5,
+      "var9": 6,
+      "var10": 36,
+      "var11": 69,
+      "var12": 84,
+      "var13": 12,
+      "var14": 6,
+      "var15": 18,
+      "var16": 7,
+      "var17": 13
+    },
+    {
+      "var1": 2023,
+      "var2": 445,
+      "var3": 22,
+      "var4": 28,
+      "var5": 20,
+      "var6": 8,
+      "var7": 114,
+      "var8": 6,
+      "var9": 6,
+      "var10": 36,
+      "var11": 66,
+      "var12": 82,
+      "var13": 13,
+      "var14": 6,
+      "var15": 19,
+      "var16": 6,
+      "var17": 13
+    }
+  ]
+}

@@ -1,0 +1,1726 @@
+{
+  "id": "stadtgebiet/anzahl-der-tage-in-den-monaten-des-jeweiligen-jahres-mit-einem-bestimmten-wasserstand-tagesmittel-am-strombrueckenpegel-in-magdeburg",
+  "title": "Anzahl der Tage in den Monaten des jeweiligen Jahres mit einem bestimmten Wasserstand (Tagesmittel) am Strombrückenpegel in Magdeburg",
+  "category": "Stadtgebiet",
+  "subcategory": "Die Elbe im Stadtgebiet Magdeburg",
+  "tableId": "K2_T8b",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/stadtgebiet/anzahl-der-tage-in-den-monaten-des-jeweiligen-jahres-mit-einem-bestimmten-wasserstand-tagesmittel-am-strombrueckenpegel-in-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Anzahl der Tage in den Monaten des jeweiligen Jahres mit einem bestimmten Wasserstand (Tagesmittel) am Strombrückenpegel in Magdeburg.xlsx"
+  },
+  "description": "Anzahl Tage je Monat mit einem bestimmten Wasserstand am Strombrückenpegel Magdeburg. var3..var7 entsprechen den 5 Wasserstands-Kategorien aus K2_T8a, deren Schwellen aber nicht ableitbar waren.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2019,
+        2019,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Monat",
+      "unit": null,
+      "type": "string",
+      "role": "month_de",
+      "sample": [
+        "Januar",
+        "Februar",
+        "März"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        15,
+        13,
+        2
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        16,
+        15,
+        24
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        5
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "rowCount": 180,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": "Januar",
+      "var3": 0,
+      "var4": 15,
+      "var5": 16,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Februar",
+      "var3": 0,
+      "var4": 13,
+      "var5": 15,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "März",
+      "var3": 0,
+      "var4": 2,
+      "var5": 24,
+      "var6": 5,
+      "var7": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "April",
+      "var3": 0,
+      "var4": 25,
+      "var5": 5,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Mai",
+      "var3": 0,
+      "var4": 31,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Juni",
+      "var3": 18,
+      "var4": 12,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Juli",
+      "var3": 31,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "August",
+      "var3": 31,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "September",
+      "var3": 30,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Oktober",
+      "var3": 26,
+      "var4": 5,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "November",
+      "var3": 30,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Dezember",
+      "var3": 27,
+      "var4": 4,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Januar",
+      "var3": 24,
+      "var4": 7,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Februar",
+      "var3": 4,
+      "var4": 21,
+      "var5": 4,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "März",
+      "var3": 0,
+      "var4": 8,
+      "var5": 22,
+      "var6": 1,
+      "var7": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "April",
+      "var3": 15,
+      "var4": 15,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Mai",
+      "var3": 31,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Juni",
+      "var3": 15,
+      "var4": 11,
+      "var5": 4,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Juli",
+      "var3": 18,
+      "var4": 11,
+      "var5": 2,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "August",
+      "var3": 27,
+      "var4": 4,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "September",
+      "var3": 22,
+      "var4": 8,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Oktober",
+      "var3": 0,
+      "var4": 26,
+      "var5": 5,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "November",
+      "var3": 0,
+      "var4": 24,
+      "var5": 6,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Dezember",
+      "var3": 0,
+      "var4": 24,
+      "var5": 7,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Januar",
+      "var3": 1,
+      "var4": 30,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Februar",
+      "var3": 0,
+      "var4": 0,
+      "var5": 10,
+      "var6": 18,
+      "var7": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "März",
+      "var3": 0,
+      "var4": 8,
+      "var5": 22,
+      "var6": 1,
+      "var7": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "April",
+      "var3": 0,
+      "var4": 30,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Mai",
+      "var3": 15,
+      "var4": 16,
+      "var5": 15,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Juni",
+      "var3": 0,
+      "var4": 15,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Juli",
+      "var3": 0,
+      "var4": 16,
+      "var5": 14,
+      "var6": 1,
+      "var7": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "August",
+      "var3": 3,
+      "var4": 30,
+      "var5": 1,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "September",
+      "var3": 0,
+      "var4": 22,
+      "var5": 5,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Oktober",
+      "var3": 0,
+      "var4": 31,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "November",
+      "var3": 2,
+      "var4": 28,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Dezember",
+      "var3": 2,
+      "var4": 29,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Januar",
+      "var3": 0,
+      "var4": 9,
+      "var5": 21,
+      "var6": 1,
+      "var7": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Februar",
+      "var3": 0,
+      "var4": 2,
+      "var5": 18,
+      "var6": 8,
+      "var7": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "März",
+      "var3": 0,
+      "var4": 22,
+      "var5": 9,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "April",
+      "var3": 0,
+      "var4": 30,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Mai",
+      "var3": 7,
+      "var4": 24,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Juni",
+      "var3": 30,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Juli",
+      "var3": 19,
+      "var4": 12,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "August",
+      "var3": 25,
+      "var4": 6,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "September",
+      "var3": 16,
+      "var4": 14,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Oktober",
+      "var3": 7,
+      "var4": 24,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "November",
+      "var3": 30,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Dezember",
+      "var3": 12,
+      "var4": 15,
+      "var5": 4,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Januar",
+      "var3": 0,
+      "var4": 23,
+      "var5": 8,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Februar",
+      "var3": 0,
+      "var4": 14,
+      "var5": 14,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "März",
+      "var3": 0,
+      "var4": 2,
+      "var5": 21,
+      "var6": 8,
+      "var7": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "April",
+      "var3": 0,
+      "var4": 0,
+      "var5": 22,
+      "var6": 8,
+      "var7": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Mai",
+      "var3": 0,
+      "var4": 24,
+      "var5": 7,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Juni",
+      "var3": 26,
+      "var4": 4,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Juli",
+      "var3": 31,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "August",
+      "var3": 20,
+      "var4": 11,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "September",
+      "var3": 27,
+      "var4": 3,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Oktober",
+      "var3": 26,
+      "var4": 5,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "November",
+      "var3": 1,
+      "var4": 29,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Dezember",
+      "var3": 0,
+      "var4": 12,
+      "var5": 11,
+      "var6": 2,
+      "var7": 6
+    },
+    {
+      "var1": 2024,
+      "var2": "Januar",
+      "var3": 0,
+      "var4": 0,
+      "var5": 4,
+      "var6": 13,
+      "var7": 14
+    },
+    {
+      "var1": 2024,
+      "var2": "Februar",
+      "var3": 0,
+      "var4": 0,
+      "var5": 5,
+      "var6": 11,
+      "var7": 13
+    },
+    {
+      "var1": 2024,
+      "var2": "März",
+      "var3": 0,
+      "var4": 11,
+      "var5": 17,
+      "var6": 3,
+      "var7": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "April",
+      "var3": 0,
+      "var4": 30,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Mai",
+      "var3": 2,
+      "var4": 29,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Juni",
+      "var3": 1,
+      "var4": 21,
+      "var5": 8,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Juli",
+      "var3": 17,
+      "var4": 14,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "August",
+      "var3": 21,
+      "var4": 10,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "September",
+      "var3": 15,
+      "var4": 1,
+      "var5": 5,
+      "var6": 8,
+      "var7": 1
+    },
+    {
+      "var1": 2024,
+      "var2": "Oktober",
+      "var3": 0,
+      "var4": 13,
+      "var5": 18,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "November",
+      "var3": 0,
+      "var4": 30,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Dezember",
+      "var3": 0,
+      "var4": 12,
+      "var5": 19,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Januar",
+      "var3": 0,
+      "var4": 5,
+      "var5": 26,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Februar",
+      "var3": 0,
+      "var4": 24,
+      "var5": 3,
+      "var6": 1,
+      "var7": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "März",
+      "var3": 0,
+      "var4": 0,
+      "var5": 12,
+      "var6": 10,
+      "var7": 9
+    },
+    {
+      "var1": 2010,
+      "var2": "April",
+      "var3": 0,
+      "var4": 2,
+      "var5": 19,
+      "var6": 7,
+      "var7": 2
+    },
+    {
+      "var1": 2010,
+      "var2": "Mai",
+      "var3": 0,
+      "var4": 8,
+      "var5": 23,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Juni",
+      "var3": 0,
+      "var4": 5,
+      "var5": 16,
+      "var6": 9,
+      "var7": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Juli",
+      "var3": 5,
+      "var4": 20,
+      "var5": 6,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "August",
+      "var3": 0,
+      "var4": 6,
+      "var5": 11,
+      "var6": 10,
+      "var7": 4
+    },
+    {
+      "var1": 2010,
+      "var2": "September",
+      "var3": 0,
+      "var4": 6,
+      "var5": 22,
+      "var6": 2,
+      "var7": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Oktober",
+      "var3": 0,
+      "var4": 2,
+      "var5": 18,
+      "var6": 5,
+      "var7": 6
+    },
+    {
+      "var1": 2010,
+      "var2": "November",
+      "var3": 0,
+      "var4": 9,
+      "var5": 8,
+      "var6": 13,
+      "var7": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Dezember",
+      "var3": 0,
+      "var4": 0,
+      "var5": 11,
+      "var6": 17,
+      "var7": 3
+    },
+    {
+      "var1": 2011,
+      "var2": "Januar",
+      "var3": 0,
+      "var4": 0,
+      "var5": 2,
+      "var6": 7,
+      "var7": 22
+    },
+    {
+      "var1": 2011,
+      "var2": "Februar",
+      "var3": 0,
+      "var4": 0,
+      "var5": 6,
+      "var6": 20,
+      "var7": 2
+    },
+    {
+      "var1": 2011,
+      "var2": "März",
+      "var3": 0,
+      "var4": 0,
+      "var5": 31,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "April",
+      "var3": 0,
+      "var4": 9,
+      "var5": 21,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Mai",
+      "var3": 0,
+      "var4": 31,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Juni",
+      "var3": 0,
+      "var4": 30,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Juli",
+      "var3": 0,
+      "var4": 26,
+      "var5": 5,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "August",
+      "var3": 0,
+      "var4": 25,
+      "var5": 6,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "September",
+      "var3": 0,
+      "var4": 30,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Oktober",
+      "var3": 0,
+      "var4": 31,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "November",
+      "var3": 0,
+      "var4": 30,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Dezember",
+      "var3": 2,
+      "var4": 23,
+      "var5": 6,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Januar",
+      "var3": 0,
+      "var4": 0,
+      "var5": 11,
+      "var6": 16,
+      "var7": 4
+    },
+    {
+      "var1": 2012,
+      "var2": "Februar",
+      "var3": 0,
+      "var4": 6,
+      "var5": 19,
+      "var6": 4,
+      "var7": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "März",
+      "var3": 0,
+      "var4": 0,
+      "var5": 20,
+      "var6": 8,
+      "var7": 3
+    },
+    {
+      "var1": 2012,
+      "var2": "April",
+      "var3": 0,
+      "var4": 24,
+      "var5": 6,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Mai",
+      "var3": 3,
+      "var4": 28,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Juni",
+      "var3": 7,
+      "var4": 23,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Juli",
+      "var3": 0,
+      "var4": 31,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "August",
+      "var3": 10,
+      "var4": 21,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "September",
+      "var3": 9,
+      "var4": 21,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Oktober",
+      "var3": 2,
+      "var4": 29,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "November",
+      "var3": 0,
+      "var4": 30,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Dezember",
+      "var3": 0,
+      "var4": 20,
+      "var5": 5,
+      "var6": 6,
+      "var7": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Januar",
+      "var3": 0,
+      "var4": 0,
+      "var5": 12,
+      "var6": 12,
+      "var7": 7
+    },
+    {
+      "var1": 2013,
+      "var2": "Februar",
+      "var3": 0,
+      "var4": 0,
+      "var5": 12,
+      "var6": 8,
+      "var7": 8
+    },
+    {
+      "var1": 2013,
+      "var2": "März",
+      "var3": 0,
+      "var4": 0,
+      "var5": 13,
+      "var6": 18,
+      "var7": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "April",
+      "var3": 0,
+      "var4": 0,
+      "var5": 27,
+      "var6": 3,
+      "var7": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Mai",
+      "var3": 0,
+      "var4": 0,
+      "var5": 28,
+      "var6": 3,
+      "var7": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Juni",
+      "var3": 0,
+      "var4": 0,
+      "var5": 1,
+      "var6": 8,
+      "var7": 21
+    },
+    {
+      "var1": 2013,
+      "var2": "Juli",
+      "var3": 0,
+      "var4": 16,
+      "var5": 10,
+      "var6": 3,
+      "var7": 2
+    },
+    {
+      "var1": 2013,
+      "var2": "August",
+      "var3": 0,
+      "var4": 31,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "September",
+      "var3": 0,
+      "var4": 30,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Oktober",
+      "var3": 0,
+      "var4": 30,
+      "var5": 1,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "November",
+      "var3": 0,
+      "var4": 30,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Dezember",
+      "var3": 0,
+      "var4": 24,
+      "var5": 7,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Januar",
+      "var3": 0,
+      "var4": 31,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Februar",
+      "var3": 0,
+      "var4": 28,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "März",
+      "var3": 0,
+      "var4": 31,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "April",
+      "var3": 0,
+      "var4": 30,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Mai",
+      "var3": 0,
+      "var4": 29,
+      "var5": 2,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Juni",
+      "var3": 14,
+      "var4": 11,
+      "var5": 5,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Juli",
+      "var3": 16,
+      "var4": 15,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "August",
+      "var3": 15,
+      "var4": 16,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "September",
+      "var3": 0,
+      "var4": 19,
+      "var5": 11,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Oktober",
+      "var3": 0,
+      "var4": 25,
+      "var5": 6,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "November",
+      "var3": 0,
+      "var4": 28,
+      "var5": 2,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Dezember",
+      "var3": 0,
+      "var4": 31,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Januar",
+      "var3": 0,
+      "var4": 10,
+      "var5": 13,
+      "var6": 8,
+      "var7": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Februar",
+      "var3": 0,
+      "var4": 19,
+      "var5": 9,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "März",
+      "var3": 0,
+      "var4": 31,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "April",
+      "var3": 0,
+      "var4": 12,
+      "var5": 18,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Mai",
+      "var3": 2,
+      "var4": 29,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Juni",
+      "var3": 30,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Juli",
+      "var3": 31,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "August",
+      "var3": 27,
+      "var4": 4,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "September",
+      "var3": 30,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Oktober",
+      "var3": 26,
+      "var4": 5,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "November",
+      "var3": 18,
+      "var4": 12,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Dezember",
+      "var3": 0,
+      "var4": 26,
+      "var5": 5,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Januar",
+      "var3": 0,
+      "var4": 30,
+      "var5": 1,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Februar",
+      "var3": 0,
+      "var4": 0,
+      "var5": 27,
+      "var6": 2,
+      "var7": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "März",
+      "var3": 0,
+      "var4": 5,
+      "var5": 26,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "April",
+      "var3": 0,
+      "var4": 26,
+      "var5": 4,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Mai",
+      "var3": 5,
+      "var4": 26,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Juni",
+      "var3": 0,
+      "var4": 30,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Juli",
+      "var3": 7,
+      "var4": 24,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "August",
+      "var3": 17,
+      "var4": 14,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "September",
+      "var3": 26,
+      "var4": 4,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Oktober",
+      "var3": 7,
+      "var4": 24,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "November",
+      "var3": 0,
+      "var4": 30,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Dezember",
+      "var3": 0,
+      "var4": 31,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Januar",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Februar",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "März",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "April",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Mai",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Juni",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Juli",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "August",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "September",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Oktober",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "November",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Dezember",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Januar",
+      "var3": 0,
+      "var4": 0,
+      "var5": 23,
+      "var6": 8,
+      "var7": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Februar",
+      "var3": 0,
+      "var4": 11,
+      "var5": 15,
+      "var6": 2,
+      "var7": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "März",
+      "var3": 0,
+      "var4": 27,
+      "var5": 4,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "April",
+      "var3": 0,
+      "var4": 30,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Mai",
+      "var3": 15,
+      "var4": 16,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Juni",
+      "var3": 27,
+      "var4": 3,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Juli",
+      "var3": 31,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "August",
+      "var3": 31,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "September",
+      "var3": 30,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Oktober",
+      "var3": 31,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "November",
+      "var3": 30,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Dezember",
+      "var3": 24,
+      "var4": 7,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0
+    }
+  ]
+}

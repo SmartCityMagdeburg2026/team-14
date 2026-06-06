@@ -1,0 +1,308 @@
+{
+  "id": "wirtschaft/gewerbeanmeldungen-am-jahresende-nach-dem-grund-der-anmeldung",
+  "title": "Gewerbeanmeldungen am Jahresende nach dem Grund der Anmeldung",
+  "category": "Wirtschaft",
+  "subcategory": "Gewerbean- und abmeldungen",
+  "tableId": "K7_T1b",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/gewerbeanmeldungen-am-jahresende-nach-dem-grund-der-anmeldung.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Gewerbeanmeldungen am Jahresende nach dem Grund der Anmeldung.xlsx"
+  },
+  "description": "Gewerbeanmeldungen am Jahresende nach Grund der Anmeldung (Neueröffnung/Verlegung/Übernahme/etc.). var2..var8 nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2490,
+        2571,
+        2181
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2188,
+        2297,
+        1934
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        98,
+        104,
+        100
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        7,
+        18,
+        15
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        47,
+        47,
+        33
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        17,
+        9,
+        15
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        133,
+        96,
+        84
+      ]
+    }
+  ],
+  "rowCount": 19,
+  "rows": [
+    {
+      "var1": 2005,
+      "var2": 2490,
+      "var3": 2188,
+      "var4": 98,
+      "var5": 7,
+      "var6": 47,
+      "var7": 17,
+      "var8": 133
+    },
+    {
+      "var1": 2006,
+      "var2": 2571,
+      "var3": 2297,
+      "var4": 104,
+      "var5": 18,
+      "var6": 47,
+      "var7": 9,
+      "var8": 96
+    },
+    {
+      "var1": 2007,
+      "var2": 2181,
+      "var3": 1934,
+      "var4": 100,
+      "var5": 15,
+      "var6": 33,
+      "var7": 15,
+      "var8": 84
+    },
+    {
+      "var1": 2008,
+      "var2": 2328,
+      "var3": 2043,
+      "var4": 109,
+      "var5": 8,
+      "var6": 55,
+      "var7": 17,
+      "var8": 96
+    },
+    {
+      "var1": 2009,
+      "var2": 2328,
+      "var3": 2074,
+      "var4": 118,
+      "var5": 10,
+      "var6": 52,
+      "var7": 6,
+      "var8": 68
+    },
+    {
+      "var1": 2010,
+      "var2": 2255,
+      "var3": 1977,
+      "var4": 128,
+      "var5": 11,
+      "var6": 45,
+      "var7": 5,
+      "var8": 89
+    },
+    {
+      "var1": 2011,
+      "var2": 2111,
+      "var3": 1831,
+      "var4": 133,
+      "var5": 16,
+      "var6": 43,
+      "var7": 13,
+      "var8": 75
+    },
+    {
+      "var1": 2012,
+      "var2": 1912,
+      "var3": 1673,
+      "var4": 110,
+      "var5": 11,
+      "var6": 41,
+      "var7": 11,
+      "var8": 66
+    },
+    {
+      "var1": 2013,
+      "var2": 1918,
+      "var3": 1674,
+      "var4": 100,
+      "var5": 12,
+      "var6": 55,
+      "var7": 7,
+      "var8": 70
+    },
+    {
+      "var1": 2014,
+      "var2": 1901,
+      "var3": 1726,
+      "var4": 92,
+      "var5": 16,
+      "var6": 14,
+      "var7": 9,
+      "var8": 44
+    },
+    {
+      "var1": 2015,
+      "var2": 1885,
+      "var3": 1701,
+      "var4": 110,
+      "var5": 15,
+      "var6": 20,
+      "var7": 5,
+      "var8": 34
+    },
+    {
+      "var1": 2016,
+      "var2": 1705,
+      "var3": 1515,
+      "var4": 97,
+      "var5": 18,
+      "var6": 32,
+      "var7": 13,
+      "var8": 30
+    },
+    {
+      "var1": 2017,
+      "var2": 1625,
+      "var3": 1420,
+      "var4": 92,
+      "var5": 8,
+      "var6": 22,
+      "var7": 9,
+      "var8": 74
+    },
+    {
+      "var1": 2018,
+      "var2": 1434,
+      "var3": 1163,
+      "var4": 75,
+      "var5": 30,
+      "var6": 25,
+      "var7": 7,
+      "var8": 134
+    },
+    {
+      "var1": 2019,
+      "var2": 1456,
+      "var3": 1189,
+      "var4": 81,
+      "var5": 13,
+      "var6": 27,
+      "var7": 4,
+      "var8": 142
+    },
+    {
+      "var1": 2020,
+      "var2": 1411,
+      "var3": 1168,
+      "var4": 80,
+      "var5": 20,
+      "var6": 13,
+      "var7": 4,
+      "var8": 126
+    },
+    {
+      "var1": 2021,
+      "var2": 1483,
+      "var3": 1235,
+      "var4": 104,
+      "var5": 23,
+      "var6": 37,
+      "var7": 9,
+      "var8": 75
+    },
+    {
+      "var1": 2022,
+      "var2": 1550,
+      "var3": 1327,
+      "var4": 94,
+      "var5": 14,
+      "var6": 18,
+      "var7": 7,
+      "var8": 90
+    },
+    {
+      "var1": 2023,
+      "var2": 1469,
+      "var3": 1263,
+      "var4": 82,
+      "var5": 15,
+      "var6": 16,
+      "var7": 9,
+      "var8": 84
+    }
+  ]
+}

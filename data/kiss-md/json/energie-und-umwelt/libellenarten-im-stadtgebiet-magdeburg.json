@@ -1,0 +1,232 @@
+{
+  "id": "energie-und-umwelt/libellenarten-im-stadtgebiet-magdeburg",
+  "title": "Libellenarten im Stadtgebiet Magdeburg",
+  "category": "Energie und Umwelt",
+  "subcategory": "Schutzobjekte im Stadtkreis Magdeburg",
+  "tableId": "K9_T45_1",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/libellenarten-im-stadtgebiet-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Libellenarten im Stadtgebiet Magdeburg.xlsx"
+  },
+  "description": "Diese Tabelle listet verschiedene Arten von Libellen, die im Stadtgebiet Magdeburg vorkommen, und deren Status oder Klassifizierung.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2019,
+        2019,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Schutzstatus",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Arten der Vorwarnliste",
+        "Arten der Vorwarnliste",
+        "Arten der Vorwarnliste"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Wissenschaftlicher Name",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Gomphus (Stylurus) flavipes",
+        "Cordulia aenea",
+        "Coenagrion pulchellum"
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Deutsche Bezeichnung",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Asiatische Keiljungfer",
+        "Falkenlibelle",
+        "Fledermaus – Azurjungfer"
+      ]
+    }
+  ],
+  "rowCount": 27,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Gomphus (Stylurus) flavipes",
+      "var4": "Asiatische Keiljungfer"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Cordulia aenea",
+      "var4": "Falkenlibelle"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Coenagrion pulchellum",
+      "var4": "Fledermaus – Azurjungfer"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Brachytron pratense",
+      "var4": "Früher Schilfjäger"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Calopteryx splendens",
+      "var4": "Gebänderte Prachtlibelle"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Erythromma najas",
+      "var4": "Großes Granatauge"
+    },
+    {
+      "var1": 2019,
+      "var2": "Vorkommen defizitär",
+      "var3": "Sympetrum  striolatum",
+      "var4": "Große Heidelibelle"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Sympetrum pedemontanum",
+      "var4": "Gebänderte Heidelibelle"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Somatochlora flavomaculata",
+      "var4": "Gefleckte Smaragdlibelle"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Lestes dryas",
+      "var4": "Glänzende Binsenjungfer"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Leucorrhinia dubia",
+      "var4": "Kleine Moosjungfer"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Erythromma viridulum",
+      "var4": "Kleines Granatauge"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Leucorrhinia rubicunda",
+      "var4": "Nordische Moosjungfer"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Coenagrion hastulatum",
+      "var4": "Speer – Azurjungfer"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Lestes barbarus",
+      "var4": "Südliche Binsenjungfer"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Aeshna affinis",
+      "var4": "Südliche Mosaikjungfer"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Calopteryx virgo",
+      "var4": "Blauflügel - Prachtlibelle"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Gomphus vulgatissimus",
+      "var4": "Gemeine Keiljungfer"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Leucorrhinia pectoralis",
+      "var4": "Große Moosjungfer"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Ophiogomphus cecilia",
+      "var4": "Grüne Flussjungfer"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Aeshna isoceles",
+      "var4": "Keilflecklibelle"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Lestes virens vestalis",
+      "var4": "Kleine Binsenjungfer"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Ischnura pumilio",
+      "var4": "Kleine Pechlibelle"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Orthetrum coerulescens",
+      "var4": "Kleiner Blaupfeil"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Aeshna viridis",
+      "var4": "Grüne Mosaikjungfer"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Leucorrhinia albifrons",
+      "var4": "Östliche Moosjungfer"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Libellula fulva",
+      "var4": "Spitzenfleck"
+    }
+  ]
+}

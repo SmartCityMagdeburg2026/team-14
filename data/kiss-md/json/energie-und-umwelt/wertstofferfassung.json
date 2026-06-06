@@ -1,0 +1,237 @@
+{
+  "id": "energie-und-umwelt/wertstofferfassung",
+  "title": "Wertstofferfassung",
+  "category": "Energie und Umwelt",
+  "subcategory": "Abfallentsorgung",
+  "tableId": "K9_T20",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/wertstofferfassung.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Wertstofferfassung.xlsx"
+  },
+  "description": "Wertstofferfassung Magdeburg jährlich. Aufteilung nach Wertstoffart (Papier, Glas, Kunststoff, Bioabfall, etc.) in var3..var7 nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Gesamte Wertstoffmenge",
+      "unit": "Tonnen",
+      "type": "number",
+      "role": null,
+      "sample": [
+        13822.36,
+        13521.22,
+        12621.8
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        2116.21,
+        2070.1,
+        2735.14
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        3982.82,
+        4018.62,
+        3679.48
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        7674.72,
+        7171.2,
+        6873.86
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "empty",
+      "role": null,
+      "sample": []
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        25479.9,
+        24711.04,
+        23175.14
+      ]
+    }
+  ],
+  "rowCount": 15,
+  "rows": [
+    {
+      "var1": 2010,
+      "var2": 13822.36,
+      "var3": 2116.21,
+      "var4": 3982.82,
+      "var5": 7674.72,
+      "var6": null,
+      "var7": 25479.9
+    },
+    {
+      "var1": 2011,
+      "var2": 13521.22,
+      "var3": 2070.1,
+      "var4": 4018.62,
+      "var5": 7171.2,
+      "var6": null,
+      "var7": 24711.04
+    },
+    {
+      "var1": 2012,
+      "var2": 12621.8,
+      "var3": 2735.14,
+      "var4": 3679.48,
+      "var5": 6873.86,
+      "var6": null,
+      "var7": 23175.14
+    },
+    {
+      "var1": 2013,
+      "var2": 12396.82,
+      "var3": 2686.39,
+      "var4": 3815.48,
+      "var5": 7160.66,
+      "var6": null,
+      "var7": 23372.96
+    },
+    {
+      "var1": 2014,
+      "var2": 12374.38,
+      "var3": 2681.51,
+      "var4": 3782.1,
+      "var5": 7806.22,
+      "var6": null,
+      "var7": 23962.7
+    },
+    {
+      "var1": 2015,
+      "var2": 12348.48,
+      "var3": 2675.92,
+      "var4": 3678.6,
+      "var5": 7286.06,
+      "var6": null,
+      "var7": 23313.14
+    },
+    {
+      "var1": 2016,
+      "var2": 12592.74,
+      "var3": 2728.85,
+      "var4": 3626.42,
+      "var5": 8319.33,
+      "var6": null,
+      "var7": 24538.49
+    },
+    {
+      "var1": 2017,
+      "var2": 13001.28,
+      "var3": 2817.38,
+      "var4": 3719.56,
+      "var5": 8378.056,
+      "var6": null,
+      "var7": 25098.896
+    },
+    {
+      "var1": 2018,
+      "var2": 12931.24,
+      "var3": 2802.2,
+      "var4": 3467.12,
+      "var5": 8345.834,
+      "var6": null,
+      "var7": 24744.194
+    },
+    {
+      "var1": 2019,
+      "var2": 12887.38,
+      "var3": 2792.7,
+      "var4": 3722.26,
+      "var5": 8283.738,
+      "var6": null,
+      "var7": 24893.378
+    },
+    {
+      "var1": 2020,
+      "var2": 13156.83,
+      "var3": 4341.75,
+      "var4": 3937.56,
+      "var5": 8606.71,
+      "var6": null,
+      "var7": 25701.1
+    },
+    {
+      "var1": 2021,
+      "var2": 13513.46,
+      "var3": 4459.44,
+      "var4": 3806.04,
+      "var5": 8699.809,
+      "var6": null,
+      "var7": 26019.309
+    },
+    {
+      "var1": 2022,
+      "var2": 12654.5,
+      "var3": 4175.98,
+      "var4": 3911.23,
+      "var5": 8343.33,
+      "var6": null,
+      "var7": 24909.06
+    },
+    {
+      "var1": 2023,
+      "var2": 12063.74,
+      "var3": 3981.0342,
+      "var4": 3695.05,
+      "var5": 8380.91,
+      "var6": null,
+      "var7": 24139.7
+    },
+    {
+      "var1": 2024,
+      "var2": 11836.48,
+      "var3": 3906.0384,
+      "var4": 3961.3,
+      "var5": 8287.03,
+      "var6": null,
+      "var7": 24084.805
+    }
+  ]
+}

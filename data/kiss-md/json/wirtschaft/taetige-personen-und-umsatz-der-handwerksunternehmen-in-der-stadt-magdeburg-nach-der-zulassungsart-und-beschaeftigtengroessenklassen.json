@@ -1,0 +1,358 @@
+{
+  "id": "wirtschaft/taetige-personen-und-umsatz-der-handwerksunternehmen-in-der-stadt-magdeburg-nach-der-zulassungsart-und-beschaeftigtengroessenklassen",
+  "title": "Tätige Personen und Umsatz der Handwerksunternehmen in der Stadt Magdeburg nach der Zulassungsart und Beschäftigtengrößenklassen",
+  "category": "Wirtschaft",
+  "subcategory": "Handwerkszählung",
+  "tableId": "K7_T10_1",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/taetige-personen-und-umsatz-der-handwerksunternehmen-in-der-stadt-magdeburg-nach-der-zulassungsart-und-beschaeftigtengroessenklassen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Tätige Personen und Umsatz der Handwerksunternehmen in der Stadt Magdeburg nach der Zulassungsart und Beschäftigtengrößenklassen.xlsx"
+  },
+  "description": "Tätige Personen und Umsatz der Handwerksunternehmen nach Zulassungsart und Beschäftigtengrößenklassen. var3..var8 enthalten Unternehmen/Personen/Umsatz × Zulassungsart, Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2017,
+        2017
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Beschäftigtengrößenklasse",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "unter 5 Personen",
+        "5 - 9 Personen",
+        "10 - 19 Personen"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        463,
+        180,
+        124
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        967,
+        1184,
+        1680
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        71339,
+        90078,
+        174197
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        230,
+        43,
+        17
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        408,
+        270,
+        223
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        24220,
+        14107,
+        11956
+      ]
+    }
+  ],
+  "rowCount": 24,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": "unter 5 Personen",
+      "var3": 463,
+      "var4": 967,
+      "var5": 71339,
+      "var6": 230,
+      "var7": 408,
+      "var8": 24220
+    },
+    {
+      "var1": 2017,
+      "var2": "5 - 9 Personen",
+      "var3": 180,
+      "var4": 1184,
+      "var5": 90078,
+      "var6": 43,
+      "var7": 270,
+      "var8": 14107
+    },
+    {
+      "var1": 2017,
+      "var2": "10 - 19 Personen",
+      "var3": 124,
+      "var4": 1680,
+      "var5": 174197,
+      "var6": 17,
+      "var7": 223,
+      "var8": 11956
+    },
+    {
+      "var1": 2017,
+      "var2": "20 - 49 Personen",
+      "var3": 75,
+      "var4": 2269,
+      "var5": 314498,
+      "var6": 9,
+      "var7": 279,
+      "var8": 53928
+    },
+    {
+      "var1": 2017,
+      "var2": "50 und mehr Personen",
+      "var3": 36,
+      "var4": 4194,
+      "var5": 555385,
+      "var6": 19,
+      "var7": 4296,
+      "var8": 155840
+    },
+    {
+      "var1": 2017,
+      "var2": "insgesamt",
+      "var3": 878,
+      "var4": 10294,
+      "var5": 1205497,
+      "var6": 318,
+      "var7": 5476,
+      "var8": 260051
+    },
+    {
+      "var1": 2018,
+      "var2": "unter 5 Personen",
+      "var3": 430,
+      "var4": 903,
+      "var5": 68020,
+      "var6": 211,
+      "var7": 396,
+      "var8": 22510
+    },
+    {
+      "var1": 2018,
+      "var2": "5 - 9 Personen",
+      "var3": 171,
+      "var4": 1149,
+      "var5": 93207,
+      "var6": 34,
+      "var7": 230,
+      "var8": 13728
+    },
+    {
+      "var1": 2018,
+      "var2": "10 - 19 Personen",
+      "var3": 115,
+      "var4": 1592,
+      "var5": 168965,
+      "var6": 16,
+      "var7": 242,
+      "var8": 13814
+    },
+    {
+      "var1": 2018,
+      "var2": "20 - 49 Personen",
+      "var3": 80,
+      "var4": 2500,
+      "var5": 348216,
+      "var6": 7,
+      "var7": 224,
+      "var8": 6669
+    },
+    {
+      "var1": 2018,
+      "var2": "50 und mehr Personen",
+      "var3": 34,
+      "var4": 4201,
+      "var5": 538243,
+      "var6": 18,
+      "var7": 4292,
+      "var8": 152287
+    },
+    {
+      "var1": 2018,
+      "var2": "insgesamt",
+      "var3": 830,
+      "var4": 10345,
+      "var5": 1216651,
+      "var6": 286,
+      "var7": 5384,
+      "var8": 209008
+    },
+    {
+      "var1": 2019,
+      "var2": "unter 5 Personen",
+      "var3": 462,
+      "var4": 1004,
+      "var5": 76384,
+      "var6": 206,
+      "var7": 375,
+      "var8": 23554
+    },
+    {
+      "var1": 2019,
+      "var2": "5 - 9 Personen",
+      "var3": 177,
+      "var4": 1191,
+      "var5": 106979,
+      "var6": 42,
+      "var7": 281,
+      "var8": 15489
+    },
+    {
+      "var1": 2019,
+      "var2": "10 - 19 Personen",
+      "var3": 123,
+      "var4": 1670,
+      "var5": 193454,
+      "var6": 20,
+      "var7": 281,
+      "var8": 14572
+    },
+    {
+      "var1": 2019,
+      "var2": "20 - 49 Personen",
+      "var3": 89,
+      "var4": 2663,
+      "var5": 391794,
+      "var6": 11,
+      "var7": 324,
+      "var8": 11757
+    },
+    {
+      "var1": 2019,
+      "var2": "50 und mehr Personen",
+      "var3": 36,
+      "var4": 4462,
+      "var5": 592902,
+      "var6": 18,
+      "var7": 3899,
+      "var8": 147539
+    },
+    {
+      "var1": 2019,
+      "var2": "insgesamt",
+      "var3": 887,
+      "var4": 10990,
+      "var5": 1361513,
+      "var6": 297,
+      "var7": 5160,
+      "var8": 212911
+    },
+    {
+      "var1": 2020,
+      "var2": "unter 5 Personen",
+      "var3": 606,
+      "var4": 1257,
+      "var5": 93566,
+      "var6": 96,
+      "var7": 176,
+      "var8": 8612
+    },
+    {
+      "var1": 2020,
+      "var2": "5 - 9 Personen",
+      "var3": 189,
+      "var4": 1267,
+      "var5": 107878,
+      "var6": 26,
+      "var7": 161,
+      "var8": 7236
+    },
+    {
+      "var1": 2020,
+      "var2": "10 - 19 Personen",
+      "var3": 137,
+      "var4": 1814,
+      "var5": 217924,
+      "var6": 12,
+      "var7": 171,
+      "var8": 6622
+    },
+    {
+      "var1": 2020,
+      "var2": "20 - 49 Personen",
+      "var3": 96,
+      "var4": 2809,
+      "var5": 436172,
+      "var6": 11,
+      "var7": 335,
+      "var8": 13311
+    },
+    {
+      "var1": 2020,
+      "var2": "50 und mehr Personen",
+      "var3": 33,
+      "var4": 4243,
+      "var5": 556137,
+      "var6": 16,
+      "var7": 3018,
+      "var8": 73468
+    },
+    {
+      "var1": 2020,
+      "var2": "insgesamt",
+      "var3": 1061,
+      "var4": 11390,
+      "var5": 1411677,
+      "var6": 161,
+      "var7": 3861,
+      "var8": 109249
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "id": "kommunale-finanzen/ueberblick-der-ein-und-auszahlungen-gesamt-nach-jahren",
+  "title": "Überblick der Ein- und Auszahlungen gesamt nach Jahren",
+  "category": "Kommunale Finanzen",
+  "subcategory": "Einzahlungen und Auszahlungen",
+  "tableId": "K12_10",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/kommunale-finanzen/ueberblick-der-ein-und-auszahlungen-gesamt-nach-jahren.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Überblick der Ein- und Auszahlungen gesamt nach Jahren.xlsx"
+  },
+  "description": "Überblick der Ein- und Auszahlungen der Stadt Magdeburg, jährlich. Einheit als 1.000 EUR angenommen (die Größenordnung würde sonst nicht zu einem Stadthaushalt passen). var5..var7 enthalten Alternativwerte / -Quellen, die nicht eindeutig zuzuordnen waren.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Einzahlungen gesamt",
+      "unit": "1.000 EUR",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        893940,
+        835279,
+        552428
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Auszahlungen gesamt",
+      "unit": "1.000 EUR",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        494624,
+        511018,
+        517243
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Saldo (Einzahlungen − Auszahlungen)",
+      "unit": "1.000 EUR",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        399316,
+        324261,
+        35185
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        887008,
+        853798,
+        559784
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        476652,
+        497458,
+        504780
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        410356,
+        356340,
+        55004
+      ]
+    }
+  ],
+  "rowCount": 15,
+  "rows": [
+    {
+      "var1": 2010,
+      "var2": 893940,
+      "var3": 494624,
+      "var4": 399316,
+      "var5": 887008,
+      "var6": 476652,
+      "var7": 410356
+    },
+    {
+      "var1": 2011,
+      "var2": 835279,
+      "var3": 511018,
+      "var4": 324261,
+      "var5": 853798,
+      "var6": 497458,
+      "var7": 356340
+    },
+    {
+      "var1": 2012,
+      "var2": 552428,
+      "var3": 517243,
+      "var4": 35185,
+      "var5": 559784,
+      "var6": 504780,
+      "var7": 55004
+    },
+    {
+      "var1": 2013,
+      "var2": 598784,
+      "var3": 568993,
+      "var4": 29791,
+      "var5": 594823,
+      "var6": 535968,
+      "var7": 58855
+    },
+    {
+      "var1": 2014,
+      "var2": 636299,
+      "var3": 566503,
+      "var4": 69796,
+      "var5": 650096,
+      "var6": 559465,
+      "var7": 90631
+    },
+    {
+      "var1": 2015,
+      "var2": 622728,
+      "var3": 572453,
+      "var4": 50275,
+      "var5": 652639,
+      "var6": 589576,
+      "var7": 63063
+    },
+    {
+      "var1": 2016,
+      "var2": 670717,
+      "var3": 621831,
+      "var4": 48886,
+      "var5": 674999,
+      "var6": 605552,
+      "var7": 69447
+    },
+    {
+      "var1": 2017,
+      "var2": 745512,
+      "var3": 672597,
+      "var4": 72915,
+      "var5": 711909,
+      "var6": 642570,
+      "var7": 69339
+    },
+    {
+      "var1": 2018,
+      "var2": 753690,
+      "var3": 696665,
+      "var4": 57025,
+      "var5": 774967,
+      "var6": 661164,
+      "var7": 113803
+    },
+    {
+      "var1": 2019,
+      "var2": 795673,
+      "var3": 688301,
+      "var4": 107372,
+      "var5": 777773,
+      "var6": 678413,
+      "var7": 99360
+    },
+    {
+      "var1": 2020,
+      "var2": 815908,
+      "var3": 732735,
+      "var4": 83173,
+      "var5": 857719,
+      "var6": 717603,
+      "var7": 140116
+    },
+    {
+      "var1": 2021,
+      "var2": 913621,
+      "var3": 744144,
+      "var4": 169477,
+      "var5": 919679,
+      "var6": 718736,
+      "var7": 200943
+    },
+    {
+      "var1": 2022,
+      "var2": 1011103,
+      "var3": 764162,
+      "var4": 246941,
+      "var5": 1056538,
+      "var6": 772790,
+      "var7": 283748
+    },
+    {
+      "var1": 2023,
+      "var2": 1088321,
+      "var3": 811593,
+      "var4": 276728,
+      "var5": 1042186,
+      "var6": 839466,
+      "var7": 202720
+    },
+    {
+      "var1": 2024,
+      "var2": 1047396,
+      "var3": 928543,
+      "var4": 159056,
+      "var5": 1071413,
+      "var6": 928543,
+      "var7": 142870
+    }
+  ]
+}

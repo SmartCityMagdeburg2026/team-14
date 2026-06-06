@@ -1,0 +1,298 @@
+{
+  "id": "energie-und-umwelt/waermeabgabe-an-kunden-ohne-eigenverbrauch-in-mwh-bereinigter-jahresgesamtwert",
+  "title": "Wärmeabgabe an Kunden, ohne Eigenverbrauch in MWh (bereinigter Jahresgesamtwert)",
+  "category": "Energie und Umwelt",
+  "subcategory": "Versorgung mit Strom, Wärme, Erdgas und Wasser",
+  "tableId": "K9_T7",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/waermeabgabe-an-kunden-ohne-eigenverbrauch-in-mwh-bereinigter-jahresgesamtwert.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Wärmeabgabe an Kunden, ohne Eigenverbrauch in MWh (bereinigter Jahresgesamtwert).xlsx"
+  },
+  "description": "Wärmeabgabe an Kunden in MWh, ohne Eigenverbrauch (bereinigter Jahresgesamtwert). Aufteilung nach Kundengruppe (var2..var8) nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        303820,
+        311751,
+        326672
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        185169,
+        178257,
+        182210
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        162490,
+        156350,
+        157736
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        8085,
+        7294,
+        9033
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        490,
+        609,
+        501
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        10935,
+        10470,
+        11609
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        3169,
+        3534,
+        3331
+      ]
+    }
+  ],
+  "rowCount": 18,
+  "rows": [
+    {
+      "var1": 2007,
+      "var2": 303820,
+      "var3": 185169,
+      "var4": 162490,
+      "var5": 8085,
+      "var6": 490,
+      "var7": 10935,
+      "var8": 3169
+    },
+    {
+      "var1": 2008,
+      "var2": 311751,
+      "var3": 178257,
+      "var4": 156350,
+      "var5": 7294,
+      "var6": 609,
+      "var7": 10470,
+      "var8": 3534
+    },
+    {
+      "var1": 2009,
+      "var2": 326672,
+      "var3": 182210,
+      "var4": 157736,
+      "var5": 9033,
+      "var6": 501,
+      "var7": 11609,
+      "var8": 3331
+    },
+    {
+      "var1": 2010,
+      "var2": 370673,
+      "var3": 216191,
+      "var4": 185884,
+      "var5": 11462,
+      "var6": 644,
+      "var7": 14778,
+      "var8": 3424
+    },
+    {
+      "var1": 2011,
+      "var2": 304799,
+      "var3": 168878,
+      "var4": 145935,
+      "var5": 7713,
+      "var6": 577,
+      "var7": 11581,
+      "var8": 3071
+    },
+    {
+      "var1": 2012,
+      "var2": 305664,
+      "var3": 174075,
+      "var4": 151349,
+      "var5": 7408,
+      "var6": 601,
+      "var7": 11709,
+      "var8": 3009
+    },
+    {
+      "var1": 2013,
+      "var2": 346612,
+      "var3": 180300,
+      "var4": 165464,
+      "var5": 7882,
+      "var6": 726,
+      "var7": 2480,
+      "var8": 3748
+    },
+    {
+      "var1": 2014,
+      "var2": 301037,
+      "var3": 146425,
+      "var4": 136362,
+      "var5": 5810,
+      "var6": 637,
+      "var7": 498,
+      "var8": 3118
+    },
+    {
+      "var1": 2015,
+      "var2": 326345,
+      "var3": 155789,
+      "var4": 144964,
+      "var5": 6102,
+      "var6": 1078,
+      "var7": 495,
+      "var8": 3149
+    },
+    {
+      "var1": 2016,
+      "var2": 343715,
+      "var3": 164077,
+      "var4": 149416,
+      "var5": 4764,
+      "var6": 1188,
+      "var7": 4189,
+      "var8": 4520
+    },
+    {
+      "var1": 2017,
+      "var2": 338465,
+      "var3": 161486,
+      "var4": 137684,
+      "var5": 4474,
+      "var6": 940,
+      "var7": 15942,
+      "var8": 2446
+    },
+    {
+      "var1": 2018,
+      "var2": 331544,
+      "var3": 155944,
+      "var4": 130693,
+      "var5": 3995,
+      "var6": 1030,
+      "var7": 20226,
+      "var8": 0
+    },
+    {
+      "var1": 2019,
+      "var2": 322265.591519999,
+      "var3": 151791.23015,
+      "var4": 128027.673010015,
+      "var5": 2319.80752256673,
+      "var6": 1250.48060741837,
+      "var7": 20193.26901,
+      "var8": 0
+    },
+    {
+      "var1": 2020,
+      "var2": 317360.09937,
+      "var3": 138344.11905,
+      "var4": 118556.156541086,
+      "var5": 2635.44733173162,
+      "var6": 1136.77810718158,
+      "var7": 16015.73707,
+      "var8": 0
+    },
+    {
+      "var1": 2021,
+      "var2": 357561.721,
+      "var3": 142086.562554,
+      "var4": 117971.747528133,
+      "var5": 4088.86346888812,
+      "var6": 980.142556978385,
+      "var7": 19045.809,
+      "var8": 0
+    },
+    {
+      "var1": 2022,
+      "var2": 342979.026,
+      "var3": 123711.173698,
+      "var4": 97000.15442994,
+      "var5": 3276.29727144369,
+      "var6": 1174.34350661628,
+      "var7": 22260.37849,
+      "var8": 0
+    },
+    {
+      "var1": 2023,
+      "var2": 319317.958,
+      "var3": 114757.516818,
+      "var4": 88992.8463622287,
+      "var5": 2055.14974687358,
+      "var6": 985.643198897778,
+      "var7": 22723.87751,
+      "var8": 0
+    },
+    {
+      "var1": 2024,
+      "var2": 328380.182,
+      "var3": 117292.878844,
+      "var4": 90832.8895425119,
+      "var5": 2996.11771665759,
+      "var6": 977.008584830517,
+      "var7": 22486.863,
+      "var8": 0
+    }
+  ]
+}

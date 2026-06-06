@@ -1,0 +1,658 @@
+{
+  "id": "oeffentliche-ordnung/personalbestand-der-feuerwehr",
+  "title": "Personalbestand der Feuerwehr",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Feuerwehr",
+  "tableId": "K11_T17",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/personalbestand-der-feuerwehr.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Personalbestand der Feuerwehr .xlsx"
+  },
+  "description": "Diese Tabelle zeigt den Personalbestand der Feuerwehr zu verschiedenen Zeitpunkten.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2019,
+        2019,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Personalgruppe",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Berufsfeuerwehr gesamt",
+        "davon:",
+        "Ausbildungsbeamte/Auszubildende"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Personalbestand",
+      "unit": "Personen",
+      "type": "number",
+      "role": null,
+      "sample": [
+        316,
+        28,
+        4
+      ]
+    }
+  ],
+  "rowCount": 120,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": "Berufsfeuerwehr gesamt",
+      "var3": 316
+    },
+    {
+      "var1": 2019,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Ausbildungsbeamte/Auszubildende",
+      "var3": 28
+    },
+    {
+      "var1": 2019,
+      "var2": "Höherer Dienst",
+      "var3": 4
+    },
+    {
+      "var1": 2019,
+      "var2": "Gehobener Dienst",
+      "var3": 32
+    },
+    {
+      "var1": 2019,
+      "var2": "Mittlerer Dienst",
+      "var3": 259
+    },
+    {
+      "var1": 2019,
+      "var2": "Verwaltungsangestellte",
+      "var3": 12
+    },
+    {
+      "var1": 2019,
+      "var2": "Angest. im kom. feuerwehrtechn. Dienst",
+      "var3": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Freiwillige Feuerwehr gesamt",
+      "var3": 388
+    },
+    {
+      "var1": 2019,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Diesdorf",
+      "var3": 42
+    },
+    {
+      "var1": 2019,
+      "var2": "Rothensee",
+      "var3": 68
+    },
+    {
+      "var1": 2019,
+      "var2": "Ottersleben",
+      "var3": 45
+    },
+    {
+      "var1": 2019,
+      "var2": "Olvenstedt",
+      "var3": 68
+    },
+    {
+      "var1": 2019,
+      "var2": "Prester",
+      "var3": 26
+    },
+    {
+      "var1": 2019,
+      "var2": "Südost",
+      "var3": 17
+    },
+    {
+      "var1": 2019,
+      "var2": "Randau/Calenberge",
+      "var3": 20
+    },
+    {
+      "var1": 2019,
+      "var2": "Pechau",
+      "var3": 14
+    },
+    {
+      "var1": 2019,
+      "var2": "Beyendorf - Sohlen",
+      "var3": 25
+    },
+    {
+      "var1": 2019,
+      "var2": "WF Enercon (gegründet 2008)",
+      "var3": 58
+    },
+    {
+      "var1": 2019,
+      "var2": "Jugendfeuerwehr gesamt",
+      "var3": 152
+    },
+    {
+      "var1": 2019,
+      "var2": "Kinderfeuerwehr gesamt",
+      "var3": 91
+    },
+    {
+      "var1": 2019,
+      "var2": "Frauenanteil in der Freiwilligen Feuerwehr (in %)",
+      "var3": 16.5
+    },
+    {
+      "var1": 2019,
+      "var2": "Mitglieder in den Alters- und Ehrenabteilungen",
+      "var3": 77
+    },
+    {
+      "var1": 2020,
+      "var2": "Berufsfeuerwehr gesamt",
+      "var3": 316
+    },
+    {
+      "var1": 2020,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Ausbildungsbeamte/Auszubildende",
+      "var3": 30
+    },
+    {
+      "var1": 2020,
+      "var2": "Höherer Dienst",
+      "var3": 4
+    },
+    {
+      "var1": 2020,
+      "var2": "Gehobener Dienst",
+      "var3": 30
+    },
+    {
+      "var1": 2020,
+      "var2": "Mittlerer Dienst",
+      "var3": 226
+    },
+    {
+      "var1": 2020,
+      "var2": "Verwaltungsangestellte",
+      "var3": 12
+    },
+    {
+      "var1": 2020,
+      "var2": "Angest. im kom. feuerwehrtechn. Dienst",
+      "var3": 14
+    },
+    {
+      "var1": 2020,
+      "var2": "Freiwillige Feuerwehr gesamt",
+      "var3": 357
+    },
+    {
+      "var1": 2020,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Diesdorf",
+      "var3": 44
+    },
+    {
+      "var1": 2020,
+      "var2": "Rothensee",
+      "var3": 62
+    },
+    {
+      "var1": 2020,
+      "var2": "Ottersleben",
+      "var3": 44
+    },
+    {
+      "var1": 2020,
+      "var2": "Olvenstedt",
+      "var3": 70
+    },
+    {
+      "var1": 2020,
+      "var2": "Prester",
+      "var3": 31
+    },
+    {
+      "var1": 2020,
+      "var2": "Südost",
+      "var3": 22
+    },
+    {
+      "var1": 2020,
+      "var2": "Randau/Calenberge",
+      "var3": 17
+    },
+    {
+      "var1": 2020,
+      "var2": "Pechau",
+      "var3": 14
+    },
+    {
+      "var1": 2020,
+      "var2": "Beyendorf - Sohlen",
+      "var3": 23
+    },
+    {
+      "var1": 2020,
+      "var2": "WF Enercon (gegründet 2008)",
+      "var3": 23
+    },
+    {
+      "var1": 2020,
+      "var2": "Jugendfeuerwehr gesamt",
+      "var3": 160
+    },
+    {
+      "var1": 2020,
+      "var2": "Kinderfeuerwehr gesamt",
+      "var3": 83
+    },
+    {
+      "var1": 2020,
+      "var2": "Frauenanteil in der Freiwilligen Feuerwehr (in %)",
+      "var3": 20.7
+    },
+    {
+      "var1": 2020,
+      "var2": "Mitglieder in den Alters- und Ehrenabteilungen",
+      "var3": 83
+    },
+    {
+      "var1": 2021,
+      "var2": "Berufsfeuerwehr gesamt",
+      "var3": 327
+    },
+    {
+      "var1": 2021,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Ausbildungsbeamte/Auszubildende",
+      "var3": 35
+    },
+    {
+      "var1": 2021,
+      "var2": "Höherer Dienst",
+      "var3": 3
+    },
+    {
+      "var1": 2021,
+      "var2": "Gehobener Dienst",
+      "var3": 30
+    },
+    {
+      "var1": 2021,
+      "var2": "Mittlerer Dienst",
+      "var3": 235
+    },
+    {
+      "var1": 2021,
+      "var2": "Verwaltungsangestellte",
+      "var3": 13
+    },
+    {
+      "var1": 2021,
+      "var2": "Angest. im kom. feuerwehrtechn. Dienst",
+      "var3": 11
+    },
+    {
+      "var1": 2021,
+      "var2": "Freiwillige Feuerwehr gesamt",
+      "var3": 372
+    },
+    {
+      "var1": 2021,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Diesdorf",
+      "var3": 44
+    },
+    {
+      "var1": 2021,
+      "var2": "Rothensee",
+      "var3": 66
+    },
+    {
+      "var1": 2021,
+      "var2": "Ottersleben",
+      "var3": 47
+    },
+    {
+      "var1": 2021,
+      "var2": "Olvenstedt",
+      "var3": 73
+    },
+    {
+      "var1": 2021,
+      "var2": "Prester",
+      "var3": 35
+    },
+    {
+      "var1": 2021,
+      "var2": "Südost",
+      "var3": 26
+    },
+    {
+      "var1": 2021,
+      "var2": "Randau/Calenberge",
+      "var3": 17
+    },
+    {
+      "var1": 2021,
+      "var2": "Pechau",
+      "var3": 13
+    },
+    {
+      "var1": 2021,
+      "var2": "Beyendorf - Sohlen",
+      "var3": 21
+    },
+    {
+      "var1": 2021,
+      "var2": "WF Enercon (gegründet 2008)",
+      "var3": 30
+    },
+    {
+      "var1": 2021,
+      "var2": "Jugendfeuerwehr gesamt",
+      "var3": 159
+    },
+    {
+      "var1": 2021,
+      "var2": "Kinderfeuerwehr gesamt",
+      "var3": 99
+    },
+    {
+      "var1": 2021,
+      "var2": "Frauenanteil in der Freiwilligen Feuerwehr (in %)",
+      "var3": 20.2
+    },
+    {
+      "var1": 2021,
+      "var2": "Mitglieder in den Alters- und Ehrenabteilungen",
+      "var3": 89
+    },
+    {
+      "var1": 2022,
+      "var2": "Berufsfeuerwehr gesamt",
+      "var3": 352
+    },
+    {
+      "var1": 2022,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Ausbildungsbeamte/Auszubildende",
+      "var3": 32
+    },
+    {
+      "var1": 2022,
+      "var2": "Höherer Dienst",
+      "var3": 3
+    },
+    {
+      "var1": 2022,
+      "var2": "Gehobener Dienst",
+      "var3": 33
+    },
+    {
+      "var1": 2022,
+      "var2": "Mittlerer Dienst",
+      "var3": 261
+    },
+    {
+      "var1": 2022,
+      "var2": "Verwaltungsangestellte",
+      "var3": 14
+    },
+    {
+      "var1": 2022,
+      "var2": "Angest. im kom. feuerwehrtechn. Dienst",
+      "var3": 9
+    },
+    {
+      "var1": 2022,
+      "var2": "Freiwillige Feuerwehr gesamt",
+      "var3": 356
+    },
+    {
+      "var1": 2022,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Diesdorf",
+      "var3": 39
+    },
+    {
+      "var1": 2022,
+      "var2": "Rothensee",
+      "var3": 67
+    },
+    {
+      "var1": 2022,
+      "var2": "Ottersleben",
+      "var3": 47
+    },
+    {
+      "var1": 2022,
+      "var2": "Olvenstedt",
+      "var3": 78
+    },
+    {
+      "var1": 2022,
+      "var2": "Prester",
+      "var3": 36
+    },
+    {
+      "var1": 2022,
+      "var2": "Südost",
+      "var3": 39
+    },
+    {
+      "var1": 2022,
+      "var2": "Randau/Calenberge",
+      "var3": 16
+    },
+    {
+      "var1": 2022,
+      "var2": "Pechau",
+      "var3": 13
+    },
+    {
+      "var1": 2022,
+      "var2": "Beyendorf - Sohlen",
+      "var3": 21
+    },
+    {
+      "var1": 2022,
+      "var2": "WF Enercon (gegründet 2008)",
+      "var3": 33
+    },
+    {
+      "var1": 2022,
+      "var2": "Jugendfeuerwehr gesamt",
+      "var3": 162
+    },
+    {
+      "var1": 2022,
+      "var2": "Kinderfeuerwehr gesamt",
+      "var3": 94
+    },
+    {
+      "var1": 2022,
+      "var2": "Frauenanteil in der Freiwilligen Feuerwehr (in %)",
+      "var3": 21
+    },
+    {
+      "var1": 2022,
+      "var2": "Mitglieder in den Alters- und Ehrenabteilungen",
+      "var3": 89
+    },
+    {
+      "var1": 2023,
+      "var2": "Berufsfeuerwehr gesamt",
+      "var3": 391
+    },
+    {
+      "var1": 2023,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Ausbildungsbeamte/Auszubildende",
+      "var3": 28
+    },
+    {
+      "var1": 2023,
+      "var2": "Höherer Dienst",
+      "var3": 4
+    },
+    {
+      "var1": 2023,
+      "var2": "Gehobener Dienst",
+      "var3": 32
+    },
+    {
+      "var1": 2023,
+      "var2": "Mittlerer Dienst",
+      "var3": 284
+    },
+    {
+      "var1": 2023,
+      "var2": "Verwaltungsangestellte",
+      "var3": 15
+    },
+    {
+      "var1": 2023,
+      "var2": "Angest. im kom. feuerwehrtechn. Dienst",
+      "var3": 28
+    },
+    {
+      "var1": 2023,
+      "var2": "Freiwillige Feuerwehr gesamt",
+      "var3": 407
+    },
+    {
+      "var1": 2023,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Diesdorf",
+      "var3": 38
+    },
+    {
+      "var1": 2023,
+      "var2": "Rothensee",
+      "var3": 65
+    },
+    {
+      "var1": 2023,
+      "var2": "Ottersleben",
+      "var3": 51
+    },
+    {
+      "var1": 2023,
+      "var2": "Olvenstedt",
+      "var3": 79
+    },
+    {
+      "var1": 2023,
+      "var2": "Prester",
+      "var3": 32
+    },
+    {
+      "var1": 2023,
+      "var2": "Südost",
+      "var3": 38
+    },
+    {
+      "var1": 2023,
+      "var2": "Randau/Calenberge",
+      "var3": 18
+    },
+    {
+      "var1": 2023,
+      "var2": "Pechau",
+      "var3": 15
+    },
+    {
+      "var1": 2023,
+      "var2": "Beyendorf - Sohlen",
+      "var3": 27
+    },
+    {
+      "var1": 2023,
+      "var2": "WF Enercon (gegründet 2008)",
+      "var3": 44
+    },
+    {
+      "var1": 2023,
+      "var2": "Jugendfeuerwehr gesamt",
+      "var3": 145
+    },
+    {
+      "var1": 2023,
+      "var2": "Kinderfeuerwehr gesamt",
+      "var3": 91
+    },
+    {
+      "var1": 2023,
+      "var2": "Frauenanteil in der Freiwilligen Feuerwehr (in %)",
+      "var3": 18.4
+    },
+    {
+      "var1": 2023,
+      "var2": "Mitglieder in den Alters- und Ehrenabteilungen",
+      "var3": 89
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "id": "energie-und-umwelt/komponentenausstattung-der-messstationen",
+  "title": "Komponentenausstattung der Messstationen",
+  "category": "Energie und Umwelt",
+  "subcategory": "Luftverunreinigungen im Raum Magdeburg",
+  "tableId": "K9_T25",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/komponentenausstattung-der-messstationen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Komponentenausstattung der Messstationen.xlsx"
+  },
+  "description": "Komponentenausstattung der LÜSA-Messstationen — Matrix von Standort × gemessener Komponente (Ja/Nein). Die einzelnen Komponenten-Spalten (var3..var25) sind nicht eindeutig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1993,
+        2009,
+        2016
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Messstandort",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Magdeburg / West",
+        "Magdeburg / Schleinufer",
+        "Magdeburg / Guericke-Str."
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "nein",
+        "nein",
+        "nein"
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "ja",
+        "ja",
+        "ja"
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "nein",
+        "ja",
+        "nein"
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "nein",
+        "nein",
+        "nein"
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "ja",
+        "nein",
+        "nein"
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "nein",
+        "nein",
+        "nein"
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "ja",
+        "ja",
+        "nein"
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "ja",
+        "nein",
+        "ja"
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "ja",
+        "nein",
+        "ja"
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "ja",
+        "nein",
+        "ja"
+      ]
+    },
+    {
+      "key": "var13",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "ja",
+        "nein",
+        "ja"
+      ]
+    },
+    {
+      "key": "var14",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "nein",
+        "nein",
+        "ja"
+      ]
+    },
+    {
+      "key": "var15",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "nein",
+        "nein",
+        "ja"
+      ]
+    },
+    {
+      "key": "var16",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "nein",
+        "nein",
+        "nein"
+      ]
+    },
+    {
+      "key": "var17",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "nein",
+        "nein",
+        "nein"
+      ]
+    },
+    {
+      "key": "var18",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "ja",
+        "ja",
+        "ja"
+      ]
+    },
+    {
+      "key": "var19",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "ja",
+        "ja",
+        "ja"
+      ]
+    },
+    {
+      "key": "var20",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "nein",
+        "nein",
+        "nein"
+      ]
+    },
+    {
+      "key": "var21",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "ja",
+        "nein",
+        "nein"
+      ]
+    },
+    {
+      "key": "var22",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "ja",
+        "nein",
+        "nein"
+      ]
+    },
+    {
+      "key": "var23",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "ja",
+        "nein",
+        "nein"
+      ]
+    },
+    {
+      "key": "var24",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "ja",
+        "nein",
+        "nein"
+      ]
+    },
+    {
+      "key": "var25",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "ja",
+        "nein",
+        "nein"
+      ]
+    }
+  ],
+  "rowCount": 4,
+  "rows": [
+    {
+      "var1": 1993,
+      "var2": "Magdeburg / West",
+      "var3": "nein",
+      "var4": "ja",
+      "var5": "nein",
+      "var6": "nein",
+      "var7": "ja",
+      "var8": "nein",
+      "var9": "ja",
+      "var10": "ja",
+      "var11": "ja",
+      "var12": "ja",
+      "var13": "ja",
+      "var14": "nein",
+      "var15": "nein",
+      "var16": "nein",
+      "var17": "nein",
+      "var18": "ja",
+      "var19": "ja",
+      "var20": "nein",
+      "var21": "ja",
+      "var22": "ja",
+      "var23": "ja",
+      "var24": "ja",
+      "var25": "ja"
+    },
+    {
+      "var1": 2009,
+      "var2": "Magdeburg / Schleinufer",
+      "var3": "nein",
+      "var4": "ja",
+      "var5": "ja",
+      "var6": "nein",
+      "var7": "nein",
+      "var8": "nein",
+      "var9": "ja",
+      "var10": "nein",
+      "var11": "nein",
+      "var12": "nein",
+      "var13": "nein",
+      "var14": "nein",
+      "var15": "nein",
+      "var16": "nein",
+      "var17": "nein",
+      "var18": "ja",
+      "var19": "ja",
+      "var20": "nein",
+      "var21": "nein",
+      "var22": "nein",
+      "var23": "nein",
+      "var24": "nein",
+      "var25": "nein"
+    },
+    {
+      "var1": 2016,
+      "var2": "Magdeburg / Guericke-Str.",
+      "var3": "nein",
+      "var4": "ja",
+      "var5": "nein",
+      "var6": "nein",
+      "var7": "nein",
+      "var8": "nein",
+      "var9": "nein",
+      "var10": "ja",
+      "var11": "ja",
+      "var12": "ja",
+      "var13": "ja",
+      "var14": "ja",
+      "var15": "ja",
+      "var16": "nein",
+      "var17": "nein",
+      "var18": "ja",
+      "var19": "ja",
+      "var20": "nein",
+      "var21": "nein",
+      "var22": "nein",
+      "var23": "nein",
+      "var24": "nein",
+      "var25": "nein"
+    },
+    {
+      "var1": 2023,
+      "var2": "Magdeburg City-Tunnel",
+      "var3": "nein",
+      "var4": "ja",
+      "var5": "nein",
+      "var6": "nein",
+      "var7": "nein",
+      "var8": "nein",
+      "var9": "nein",
+      "var10": "nein",
+      "var11": "nein",
+      "var12": "nein",
+      "var13": "nein",
+      "var14": "nein",
+      "var15": "nein",
+      "var16": "nein",
+      "var17": "nein",
+      "var18": "nein",
+      "var19": "nein",
+      "var20": "nein",
+      "var21": "nein",
+      "var22": "nein",
+      "var23": "nein",
+      "var24": "nein",
+      "var25": "nein"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3126;Magdeburg;11.63;52.13;54;54;18810101;19270712;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3126;Magdeburg;11.63;52.13;54;66;19270713;19310331;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3126;Magdeburg;11.63;52.13;54;54;19310401;19381130;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3126;Magdeburg;11.72;52.13;45;53.2;19381201;19400731;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3126;Magdeburg;11.72;52.13;45;49.7;19400801;19430228;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3126;Magdeburg;11.72;52.13;45;50.15;19430301;19440430;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3126;Magdeburg;11.72;52.13;45;51.7;19440501;19450131;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3126;Magdeburg;11.72;52.13;45;53.2;19450601;19460621;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3126;Magdeburg;11.58;52.1;79;81.7;19460622;19530331;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3126;Magdeburg;11.58;52.1;79;84.8;19530401;19921021;Stationsbarometer;Luftdruckmessung, konv.;eor;
+3126;Magdeburg;11.58;52.1;79;84.8;19921022;20060405;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+3126;Magdeburg;11.58;52.1;79;85;20060406;20160802;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+3126;Magdeburg;11.58;52.1;79;85;20160803;20260524;Digitalbarometer PTB 330 (ohne Anzeige, einfach);Luftdruckmessung, elektr.;eor;
+generiert: 25.05.2026 --  Deutscher Wetterdienst  --

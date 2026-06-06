@@ -1,0 +1,1987 @@
+{
+  "id": "bildung-und-kultur/anzahl-der-mitarbeiter-nach-fachrichtung",
+  "title": "Anzahl der Mitarbeiter nach Fachrichtung",
+  "category": "Bildung und Kultur",
+  "subcategory": "Hochschulen",
+  "tableId": "K5_T16",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bildung-und-kultur/anzahl-der-mitarbeiter-nach-fachrichtung.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Anzahl der Mitarbeiter nach Fachrichtung.xlsx"
+  },
+  "description": "Anzahl der Mitarbeiter nach Hochschule und Fachrichtung. var4..var7 enthalten Aufteilungen (vermutl. Professoren/wiss.Mitarbeiter/nichtwiss./Geschlecht), Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2011,
+        2011,
+        2011
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Hochschule",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Otto-von-Guericke-Universität Magdeburg",
+        "Otto-von-Guericke-Universität Magdeburg",
+        "Otto-von-Guericke-Universität Magdeburg"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Fachrichtung",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Elektrotechnik und Informationstechnik",
+        "Humanwissenschaften",
+        "Informatik"
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        65,
+        114,
+        63
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        15,
+        34,
+        18
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        50,
+        80,
+        45
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        10,
+        6
+      ]
+    }
+  ],
+  "rowCount": 209,
+  "rows": [
+    {
+      "var1": 2011,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Elektrotechnik und Informationstechnik",
+      "var4": 65,
+      "var5": 15,
+      "var6": 50,
+      "var7": null
+    },
+    {
+      "var1": 2011,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Humanwissenschaften",
+      "var4": 114,
+      "var5": 34,
+      "var6": 80,
+      "var7": null
+    },
+    {
+      "var1": 2011,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Informatik",
+      "var4": 63,
+      "var5": 18,
+      "var6": 45,
+      "var7": null
+    },
+    {
+      "var1": 2011,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Maschinenbau",
+      "var4": 77,
+      "var5": 15,
+      "var6": 62,
+      "var7": null
+    },
+    {
+      "var1": 2011,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Mathematik",
+      "var4": 41,
+      "var5": 14,
+      "var6": 27,
+      "var7": null
+    },
+    {
+      "var1": 2011,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Medizin",
+      "var4": 670,
+      "var5": 54,
+      "var6": 616,
+      "var7": null
+    },
+    {
+      "var1": 2011,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Naturwissenschaften",
+      "var4": 50,
+      "var5": 16,
+      "var6": 34,
+      "var7": null
+    },
+    {
+      "var1": 2011,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Verfahrenstechnik und Systemtechnik",
+      "var4": 54,
+      "var5": 13,
+      "var6": 41,
+      "var7": null
+    },
+    {
+      "var1": 2011,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Wirtschaftswissenschaften",
+      "var4": 70,
+      "var5": 20,
+      "var6": 50,
+      "var7": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Bauwesen",
+      "var4": 22,
+      "var5": 17,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Elektrotechnik",
+      "var4": 15,
+      "var5": 13,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Gestaltung und Industriedesign",
+      "var4": 10,
+      "var5": 8,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Kommunikation und Medien",
+      "var4": 19,
+      "var5": 11,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Maschinenbau/Technische Betriebswirtschaft",
+      "var4": 12,
+      "var5": 12,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Sozial und Gesundheitswesen",
+      "var4": 36,
+      "var5": 26,
+      "var6": 0,
+      "var7": 10
+    },
+    {
+      "var1": 2012,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Wasserwirtschaft",
+      "var4": 18,
+      "var5": 12,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Gesamt",
+      "var4": 35,
+      "var5": 29,
+      "var6": 0,
+      "var7": 6
+    },
+    {
+      "var1": 2012,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Elektrotechnik und Informationstechnik",
+      "var4": 63,
+      "var5": 14,
+      "var6": 49,
+      "var7": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Humanwissenschaften",
+      "var4": 118,
+      "var5": 36,
+      "var6": 82,
+      "var7": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Informatik",
+      "var4": 62,
+      "var5": 15,
+      "var6": 47,
+      "var7": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Maschinenbau",
+      "var4": 77,
+      "var5": 15,
+      "var6": 62,
+      "var7": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Mathematik",
+      "var4": 41,
+      "var5": 14,
+      "var6": 27,
+      "var7": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Medizin",
+      "var4": 684,
+      "var5": 58,
+      "var6": 626,
+      "var7": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Naturwissenschaften",
+      "var4": 59,
+      "var5": 18,
+      "var6": 41,
+      "var7": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Verfahrenstechnik und Systemtechnik",
+      "var4": 50,
+      "var5": 12,
+      "var6": 38,
+      "var7": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Wirtschaftswissenschaften",
+      "var4": 69,
+      "var5": 19,
+      "var6": 50,
+      "var7": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Bauwesen",
+      "var4": 18,
+      "var5": 15,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Elektrotechnik",
+      "var4": 14,
+      "var5": 12,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Gestaltung und Industriedesign",
+      "var4": 10,
+      "var5": 8,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Kommunikation und Medien",
+      "var4": 19,
+      "var5": 12,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Maschinenbau/Technische Betriebswirtschaft",
+      "var4": 12,
+      "var5": 12,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Sozial und Gesundheitswesen",
+      "var4": 35,
+      "var5": 26,
+      "var6": 0,
+      "var7": 9
+    },
+    {
+      "var1": 2013,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Wasserwirtschaft",
+      "var4": 18,
+      "var5": 12,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Gesamt",
+      "var4": 37,
+      "var5": 33,
+      "var6": 0,
+      "var7": 4
+    },
+    {
+      "var1": 2013,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Elektrotechnik und Informationstechnik",
+      "var4": 54,
+      "var5": 13,
+      "var6": 41,
+      "var7": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Humanwissenschaften",
+      "var4": 118,
+      "var5": 36,
+      "var6": 82,
+      "var7": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Informatik",
+      "var4": 69,
+      "var5": 17,
+      "var6": 52,
+      "var7": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Maschinenbau",
+      "var4": 78,
+      "var5": 16,
+      "var6": 62,
+      "var7": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Mathematik",
+      "var4": 39,
+      "var5": 13,
+      "var6": 26,
+      "var7": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Medizin",
+      "var4": 677,
+      "var5": 58,
+      "var6": 619,
+      "var7": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Naturwissenschaften",
+      "var4": 50,
+      "var5": 17,
+      "var6": 33,
+      "var7": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Verfahrenstechnik und Systemtechnik",
+      "var4": 49,
+      "var5": 12,
+      "var6": 37,
+      "var7": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Wirtschaftswissenschaften",
+      "var4": 66,
+      "var5": 21,
+      "var6": 45,
+      "var7": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Bauwesen",
+      "var4": 19,
+      "var5": 16,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Elektrotechnik",
+      "var4": 15,
+      "var5": 13,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Gestaltung und Industriedesign",
+      "var4": 11,
+      "var5": 9,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Kommunikation und Medien",
+      "var4": 19,
+      "var5": 12,
+      "var6": 0,
+      "var7": 7
+    },
+    {
+      "var1": 2014,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Maschinenbau/Technische Betriebswirtschaft",
+      "var4": 13,
+      "var5": 13,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Sozial und Gesundheitswesen",
+      "var4": 33,
+      "var5": 23,
+      "var6": 0,
+      "var7": 10
+    },
+    {
+      "var1": 2014,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Wasserwirtschaft",
+      "var4": 16,
+      "var5": 11,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Gesamt",
+      "var4": 41,
+      "var5": 36,
+      "var6": 0,
+      "var7": 5
+    },
+    {
+      "var1": 2014,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Elektrotechnik und Informationstechnik",
+      "var4": 60,
+      "var5": 14,
+      "var6": 46,
+      "var7": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Humanwissenschaften",
+      "var4": 114,
+      "var5": 38,
+      "var6": 76,
+      "var7": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Informatik",
+      "var4": 68,
+      "var5": 18,
+      "var6": 50,
+      "var7": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Maschinenbau",
+      "var4": 73,
+      "var5": 15,
+      "var6": 58,
+      "var7": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Mathematik",
+      "var4": 38,
+      "var5": 12,
+      "var6": 26,
+      "var7": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Medizin",
+      "var4": 682,
+      "var5": 56,
+      "var6": 626,
+      "var7": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Naturwissenschaften",
+      "var4": 54,
+      "var5": 16,
+      "var6": 38,
+      "var7": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Verfahrenstechnik und Systemtechnik",
+      "var4": 48,
+      "var5": 12,
+      "var6": 36,
+      "var7": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Wirtschaftswissenschaften",
+      "var4": 65,
+      "var5": 20,
+      "var6": 45,
+      "var7": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Bauwesen",
+      "var4": 19,
+      "var5": 16,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Elektrotechnik",
+      "var4": 14,
+      "var5": 13,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Gestaltung und Industriedesign",
+      "var4": 10,
+      "var5": 8,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Kommunikation und Medien",
+      "var4": 17,
+      "var5": 11,
+      "var6": 0,
+      "var7": 6
+    },
+    {
+      "var1": 2015,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Maschinenbau/Technische Betriebswirtschaft",
+      "var4": 11,
+      "var5": 11,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Sozial und Gesundheitswesen",
+      "var4": 30,
+      "var5": 20,
+      "var6": 0,
+      "var7": 10
+    },
+    {
+      "var1": 2015,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Wasserwirtschaft",
+      "var4": 18,
+      "var5": 13,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Gesamt",
+      "var4": 44,
+      "var5": 39,
+      "var6": 0,
+      "var7": 5
+    },
+    {
+      "var1": 2015,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Elektrotechnik und Informationstechnik",
+      "var4": 59,
+      "var5": 14,
+      "var6": 45,
+      "var7": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Humanwissenschaften",
+      "var4": 113,
+      "var5": 37,
+      "var6": 76,
+      "var7": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Informatik",
+      "var4": 64,
+      "var5": 17,
+      "var6": 47,
+      "var7": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Maschinenbau",
+      "var4": 69,
+      "var5": 15,
+      "var6": 54,
+      "var7": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Mathematik",
+      "var4": 41,
+      "var5": 12,
+      "var6": 29,
+      "var7": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Medizin",
+      "var4": 664,
+      "var5": 57,
+      "var6": 607,
+      "var7": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Naturwissenschaften",
+      "var4": 49,
+      "var5": 17,
+      "var6": 32,
+      "var7": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Verfahrenstechnik und Systemtechnik",
+      "var4": 47,
+      "var5": 11,
+      "var6": 36,
+      "var7": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Wirtschaftswissenschaften",
+      "var4": 69,
+      "var5": 20,
+      "var6": 49,
+      "var7": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Bauwesen",
+      "var4": 21,
+      "var5": 18,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Elektrotechnik",
+      "var4": 13,
+      "var5": 12,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Gestaltung und Industriedesign",
+      "var4": 10,
+      "var5": 8,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Kommunikation und Medien",
+      "var4": 20,
+      "var5": 13,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Maschinenbau/Technische Betriebswirtschaft",
+      "var4": 11,
+      "var5": 11,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Sozial und Gesundheitswesen",
+      "var4": 29,
+      "var5": 20,
+      "var6": 0,
+      "var7": 9
+    },
+    {
+      "var1": 2016,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Wasserwirtschaft",
+      "var4": 19,
+      "var5": 13,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Gesamt",
+      "var4": 46,
+      "var5": 40,
+      "var6": 0,
+      "var7": 6
+    },
+    {
+      "var1": 2016,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Elektrotechnik und Informationstechnik",
+      "var4": 57,
+      "var5": 15,
+      "var6": 42,
+      "var7": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Humanwissenschaften",
+      "var4": 102,
+      "var5": 34,
+      "var6": 68,
+      "var7": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Informatik",
+      "var4": 67,
+      "var5": 16,
+      "var6": 51,
+      "var7": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Maschinenbau",
+      "var4": 75,
+      "var5": 13,
+      "var6": 62,
+      "var7": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Mathematik",
+      "var4": 39,
+      "var5": 13,
+      "var6": 26,
+      "var7": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Medizin",
+      "var4": 678,
+      "var5": 71,
+      "var6": 607,
+      "var7": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Naturwissenschaften",
+      "var4": 63,
+      "var5": 20,
+      "var6": 43,
+      "var7": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Verfahrenstechnik und Systemtechnik",
+      "var4": 47,
+      "var5": 11,
+      "var6": 36,
+      "var7": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Wirtschaftswissenschaften",
+      "var4": 66,
+      "var5": 20,
+      "var6": 46,
+      "var7": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Bauwesen",
+      "var4": 21,
+      "var5": 17,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Elektrotechnik",
+      "var4": 12,
+      "var5": 11,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Gestaltung und Industriedesign",
+      "var4": 9,
+      "var5": 8,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Kommunikation und Medien",
+      "var4": 19,
+      "var5": 11,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Maschinenbau/Technische Betriebswirtschaft",
+      "var4": 11,
+      "var5": 11,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Sozial und Gesundheitswesen",
+      "var4": 26,
+      "var5": 19,
+      "var6": 0,
+      "var7": 7
+    },
+    {
+      "var1": 2017,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Wasserwirtschaft",
+      "var4": 17,
+      "var5": 11,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Gesamt",
+      "var4": 44,
+      "var5": 39,
+      "var6": 0,
+      "var7": 5
+    },
+    {
+      "var1": 2017,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Elektrotechnik und Informationstechnik",
+      "var4": 64,
+      "var5": 16,
+      "var6": 48,
+      "var7": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Humanwissenschaften",
+      "var4": 95,
+      "var5": 31,
+      "var6": 64,
+      "var7": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Informatik",
+      "var4": 61,
+      "var5": 16,
+      "var6": 45,
+      "var7": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Maschinenbau",
+      "var4": 64,
+      "var5": 8,
+      "var6": 56,
+      "var7": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Mathematik",
+      "var4": 38,
+      "var5": 13,
+      "var6": 25,
+      "var7": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Medizin",
+      "var4": 683,
+      "var5": 60,
+      "var6": 623,
+      "var7": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Naturwissenschaften",
+      "var4": 63,
+      "var5": 20,
+      "var6": 43,
+      "var7": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Verfahrenstechnik und Systemtechnik",
+      "var4": 49,
+      "var5": 13,
+      "var6": 36,
+      "var7": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Wirtschaftswissenschaften",
+      "var4": 66,
+      "var5": 20,
+      "var6": 46,
+      "var7": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Ingenieurwissenschaften und Industriedesign",
+      "var4": 34,
+      "var5": 32,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Soziale Arbeit, Gesundheit und Medien",
+      "var4": 42,
+      "var5": 27,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Wasser, Umwelt, Bau und Sicherheit",
+      "var4": 39,
+      "var5": 29,
+      "var6": 4,
+      "var7": 6
+    },
+    {
+      "var1": 2018,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Angewandte Humanwissenschaften",
+      "var4": 21,
+      "var5": 19,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Wirtschaft",
+      "var4": 15,
+      "var5": 11,
+      "var6": 0,
+      "var7": 4
+    },
+    {
+      "var1": 2018,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Elektrotechnik und Informationstechnik",
+      "var4": 60,
+      "var5": 14,
+      "var6": 46,
+      "var7": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Humanwissenschaften",
+      "var4": 99,
+      "var5": 31,
+      "var6": 68,
+      "var7": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Informatik",
+      "var4": 63,
+      "var5": 17,
+      "var6": 46,
+      "var7": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Maschinenbau",
+      "var4": 72,
+      "var5": 9,
+      "var6": 63,
+      "var7": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Mathematik",
+      "var4": 39,
+      "var5": 14,
+      "var6": 25,
+      "var7": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Medizin",
+      "var4": 719,
+      "var5": 55,
+      "var6": 664,
+      "var7": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Naturwissenschaften",
+      "var4": 59,
+      "var5": 20,
+      "var6": 39,
+      "var7": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Verfahrenstechnik und Systemtechnik",
+      "var4": 52,
+      "var5": 13,
+      "var6": 39,
+      "var7": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Wirtschaftswissenschaften",
+      "var4": 62,
+      "var5": 20,
+      "var6": 42,
+      "var7": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Ingenieurwissenschaften und Industriedesign",
+      "var4": 36,
+      "var5": 32,
+      "var6": 0,
+      "var7": 4
+    },
+    {
+      "var1": 2019,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Soziale Arbeit, Gesundheit und Medien",
+      "var4": 43,
+      "var5": 29,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Wasser, Umwelt, Bau und Sicherheit",
+      "var4": 42,
+      "var5": 32,
+      "var6": 3,
+      "var7": 7
+    },
+    {
+      "var1": 2019,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Angewandte Humanwissenschaften",
+      "var4": 31,
+      "var5": 28,
+      "var6": 0,
+      "var7": 3
+    },
+    {
+      "var1": 2019,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Wirtschaft",
+      "var4": 14,
+      "var5": 11,
+      "var6": 0,
+      "var7": 3
+    },
+    {
+      "var1": 2019,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Elektrotechnik und Informationstechnik",
+      "var4": 58,
+      "var5": 15,
+      "var6": 43,
+      "var7": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Humanwissenschaften",
+      "var4": 103,
+      "var5": 32,
+      "var6": 71,
+      "var7": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Informatik",
+      "var4": 62,
+      "var5": 17,
+      "var6": 45,
+      "var7": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Maschinenbau",
+      "var4": 70,
+      "var5": 13,
+      "var6": 57,
+      "var7": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Mathematik",
+      "var4": 39,
+      "var5": 14,
+      "var6": 25,
+      "var7": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Medizin",
+      "var4": 708,
+      "var5": 55,
+      "var6": 653,
+      "var7": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Naturwissenschaften",
+      "var4": 65,
+      "var5": 20,
+      "var6": 45,
+      "var7": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Verfahrenstechnik und Systemtechnik",
+      "var4": 49,
+      "var5": 11,
+      "var6": 38,
+      "var7": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Wirtschaftswissenschaften",
+      "var4": 60,
+      "var5": 20,
+      "var6": 40,
+      "var7": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Ingenieurwissenschaften und Industriedesign (zusammengefasst (Maschinenbau/ Technische Betriebswirtschaft, Elektrotechnik und Gestaltung/Industriedesign",
+      "var4": 37,
+      "var5": 33,
+      "var6": null,
+      "var7": 4
+    },
+    {
+      "var1": 2020,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Soziale Arbeit, Gesundheit und Medien (zusammengefasst Sozial- und Gesundheitswesen und Kommunikation und Medien)",
+      "var4": 42,
+      "var5": 29,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Wasser, Umwelt, Bau und Sicherheit (zusamengefasst Bauwesen und Wasserwirtschaft)",
+      "var4": 42,
+      "var5": 32,
+      "var6": 3,
+      "var7": 7
+    },
+    {
+      "var1": 2020,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Angewandte Humanwissenschaften",
+      "var4": 28,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Wirtschaft",
+      "var4": 17,
+      "var5": 14,
+      "var6": null,
+      "var7": 3
+    },
+    {
+      "var1": 2020,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Elektrotechnik und Informationstechnik",
+      "var4": 60,
+      "var5": 14,
+      "var6": 46,
+      "var7": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Humanwissenschaften",
+      "var4": 104,
+      "var5": 30,
+      "var6": 74,
+      "var7": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Informatik",
+      "var4": 65,
+      "var5": 17,
+      "var6": 48,
+      "var7": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Maschinenbau",
+      "var4": 71,
+      "var5": 13,
+      "var6": 58,
+      "var7": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Mathematik",
+      "var4": 43,
+      "var5": 14,
+      "var6": 29,
+      "var7": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Medizin",
+      "var4": 775,
+      "var5": 60,
+      "var6": 715,
+      "var7": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Naturwissenschaften",
+      "var4": 64,
+      "var5": 20,
+      "var6": 44,
+      "var7": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Verfahrens- und Systemtechnik",
+      "var4": 49,
+      "var5": 11,
+      "var6": 38,
+      "var7": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Wirtschaftswissenschaft",
+      "var4": 60,
+      "var5": 20,
+      "var6": 40,
+      "var7": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Ingenieurwissenschaften und Industriedesign (zusammengefasst (Maschinenbau/ Technische Betriebswirtschaft, Elektrotechnik und Gestaltung/Industriedesign",
+      "var4": 36,
+      "var5": 32,
+      "var6": null,
+      "var7": 4
+    },
+    {
+      "var1": 2021,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Soziale Arbeit, Gesundheit und Medien (zusammengefasst Sozial- und Gesundheitswesen und Kommunikation und Medien)",
+      "var4": 41,
+      "var5": 30,
+      "var6": null,
+      "var7": 11
+    },
+    {
+      "var1": 2021,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Wasser, Umwelt, Bau und Sicherheit (zusamengefasst Bauwesen und Wasserwirtschaft)",
+      "var4": 38,
+      "var5": 31,
+      "var6": null,
+      "var7": 7
+    },
+    {
+      "var1": 2021,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Angewandte Humanwissenschaften",
+      "var4": 28,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Wirtschaft",
+      "var4": 15,
+      "var5": 12,
+      "var6": null,
+      "var7": 3
+    },
+    {
+      "var1": 2021,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Elektrotechnik und Informationstechnik",
+      "var4": 53,
+      "var5": 14,
+      "var6": 39,
+      "var7": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Humanwissenschaften",
+      "var4": 103,
+      "var5": 30,
+      "var6": 73,
+      "var7": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Informatik",
+      "var4": 71,
+      "var5": 17,
+      "var6": 54,
+      "var7": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Maschinenbau",
+      "var4": 59,
+      "var5": 13,
+      "var6": 46,
+      "var7": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Mathematik",
+      "var4": 38,
+      "var5": 14,
+      "var6": 24,
+      "var7": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Medizin",
+      "var4": 714,
+      "var5": 60,
+      "var6": 654,
+      "var7": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Naturwissenschaften",
+      "var4": 63,
+      "var5": 20,
+      "var6": 43,
+      "var7": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Verfahrens- und Systemtechnik",
+      "var4": 48,
+      "var5": 11,
+      "var6": 37,
+      "var7": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Wirtschaftswissenschaft",
+      "var4": 64,
+      "var5": 20,
+      "var6": 44,
+      "var7": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Ingenieurwissenschaften und Industriedesign (zusammengefasst (Maschinenbau/ Technische Betriebswirtschaft, Elektrotechnik und Gestaltung/Industriedesign",
+      "var4": 36,
+      "var5": 32,
+      "var6": null,
+      "var7": 4
+    },
+    {
+      "var1": 2022,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Soziale Arbeit, Gesundheit und Medien (zusammengefasst Sozial- und Gesundheitswesen und Kommunikation und Medien)",
+      "var4": 41,
+      "var5": 29,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Wasser, Umwelt, Bau und Sicherheit (zusamengefasst Bauwesen und Wasserwirtschaft)",
+      "var4": 40,
+      "var5": 30,
+      "var6": 3,
+      "var7": 7
+    },
+    {
+      "var1": 2022,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Angewandte Humanwissenschaften",
+      "var4": 28,
+      "var5": 25,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Wirtschaft",
+      "var4": 15,
+      "var5": 12,
+      "var6": null,
+      "var7": 3
+    },
+    {
+      "var1": 2022,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Elektrotechnik und Informationstechnik",
+      "var4": 54,
+      "var5": 14,
+      "var6": 40,
+      "var7": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Humanwissenschaften",
+      "var4": 102,
+      "var5": 30,
+      "var6": 72,
+      "var7": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Informatik",
+      "var4": 66,
+      "var5": 17,
+      "var6": 49,
+      "var7": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Maschinenbau",
+      "var4": 56,
+      "var5": 13,
+      "var6": 43,
+      "var7": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Mathematik",
+      "var4": 41,
+      "var5": 14,
+      "var6": 27,
+      "var7": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Medizin",
+      "var4": 704,
+      "var5": 60,
+      "var6": 644,
+      "var7": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Naturwissenschaften",
+      "var4": 66,
+      "var5": 20,
+      "var6": 46,
+      "var7": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Verfahrens- und Systemtechnik",
+      "var4": 46,
+      "var5": 11,
+      "var6": 35,
+      "var7": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Wirtschaftswissenschaft",
+      "var4": 66,
+      "var5": 20,
+      "var6": 46,
+      "var7": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Ingenieurwissenschaften und Industriedesign (zusammengefasst (Maschinenbau/ Technische Betriebswirtschaft, Elektrotechnik und Gestaltung/Industriedesign",
+      "var4": 36,
+      "var5": 31,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Soziale Arbeit, Gesundheit und Medien (zusammengefasst Sozial- und Gesundheitswesen und Kommunikation und Medien)",
+      "var4": 45,
+      "var5": 32,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Wasser, Umwelt, Bau und Sicherheit (zusamengefasst Bauwesen und Wasserwirtschaft)",
+      "var4": 41,
+      "var5": 30,
+      "var6": 4,
+      "var7": 7
+    },
+    {
+      "var1": 2023,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Angewandte Humanwissenschaften",
+      "var4": 30,
+      "var5": 26,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Wirtschaft",
+      "var4": 15,
+      "var5": 12,
+      "var6": null,
+      "var7": 3
+    },
+    {
+      "var1": 2023,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Elektrotechnik und Informationstechnik",
+      "var4": 46,
+      "var5": 14,
+      "var6": 32,
+      "var7": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Humanwissenschaften",
+      "var4": 107,
+      "var5": 30,
+      "var6": 77,
+      "var7": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Informatik",
+      "var4": 61,
+      "var5": 17,
+      "var6": 44,
+      "var7": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Maschinenbau",
+      "var4": 51,
+      "var5": 13,
+      "var6": 38,
+      "var7": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Mathematik",
+      "var4": 42,
+      "var5": 14,
+      "var6": 28,
+      "var7": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Medizin",
+      "var4": 825,
+      "var5": 60,
+      "var6": 765,
+      "var7": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Naturwissenschaften",
+      "var4": 67,
+      "var5": 20,
+      "var6": 47,
+      "var7": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Verfahrens- und Systemtechnik",
+      "var4": 46,
+      "var5": 11,
+      "var6": 35,
+      "var7": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Wirtschaftswissenschaft",
+      "var4": 63,
+      "var5": 20,
+      "var6": 43,
+      "var7": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Ingenieurwissenschaften und Industriedesign (zusammengefasst (Maschinenbau/ Technische Betriebswirtschaft, Elektrotechnik und Gestaltung/Industriedesign",
+      "var4": 34,
+      "var5": 30,
+      "var6": null,
+      "var7": 4
+    },
+    {
+      "var1": 2024,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Soziale Arbeit, Gesundheit und Medien (zusammengefasst Sozial- und Gesundheitswesen und Kommunikation und Medien)",
+      "var4": 45,
+      "var5": 32,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": "Wasser, Umwelt, Bau und Sicherheit (zusamengefasst Bauwesen und Wasserwirtschaft)",
+      "var4": 37,
+      "var5": 29,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Angewandte Humanwissenschaften",
+      "var4": 31,
+      "var5": 26,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": "Wirtschaft",
+      "var4": 19,
+      "var5": 15,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Elektrotechnik und Informationstechnik",
+      "var4": 47,
+      "var5": 14,
+      "var6": 33,
+      "var7": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Humanwissenschaften",
+      "var4": 107,
+      "var5": 30,
+      "var6": 77,
+      "var7": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Informatik",
+      "var4": 65,
+      "var5": 17,
+      "var6": 48,
+      "var7": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Maschinenbau",
+      "var4": 54,
+      "var5": 13,
+      "var6": 41,
+      "var7": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Mathematik",
+      "var4": 40,
+      "var5": 14,
+      "var6": 26,
+      "var7": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Medizin",
+      "var4": 727,
+      "var5": 60,
+      "var6": 667,
+      "var7": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Naturwissenschaften",
+      "var4": 70,
+      "var5": 20,
+      "var6": 50,
+      "var7": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Verfahrens- und Systemtechnik",
+      "var4": 54,
+      "var5": 11,
+      "var6": 43,
+      "var7": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": "Wirtschaftswissenschaft",
+      "var4": 64,
+      "var5": 20,
+      "var6": 44,
+      "var7": null
+    }
+  ]
+}

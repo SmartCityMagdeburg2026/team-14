@@ -1,0 +1,166 @@
+{
+  "id": "oeffentliche-ordnung/hundehaltung-in-magdeburg",
+  "title": "Hundehaltung in Magdeburg",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Hunde",
+  "tableId": "K11_T36",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/hundehaltung-in-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Hundehaltung in Magdeburg.xlsx"
+  },
+  "description": "Hundehaltung in Magdeburg. var3..var6 enthalten weitere Zähler (vermutl. Hundesteuer-Pflichtige, gefährliche Hunde, Listenhunde etc.), die nicht eindeutig zuzuordnen waren.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Hundebestand",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        10539,
+        10664,
+        11141
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        11176,
+        11323,
+        11884
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        595,
+        617,
+        677
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        42,
+        42,
+        66
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        22,
+        21,
+        20
+      ]
+    }
+  ],
+  "rowCount": 9,
+  "rows": [
+    {
+      "var1": 2016,
+      "var2": 10539,
+      "var3": 11176,
+      "var4": 595,
+      "var5": 42,
+      "var6": 22
+    },
+    {
+      "var1": 2017,
+      "var2": 10664,
+      "var3": 11323,
+      "var4": 617,
+      "var5": 42,
+      "var6": 21
+    },
+    {
+      "var1": 2018,
+      "var2": 11141,
+      "var3": 11884,
+      "var4": 677,
+      "var5": 66,
+      "var6": 20
+    },
+    {
+      "var1": 2019,
+      "var2": 11250,
+      "var3": 12078,
+      "var4": 748,
+      "var5": 80,
+      "var6": 20
+    },
+    {
+      "var1": 2020,
+      "var2": 11275,
+      "var3": 12146,
+      "var4": 786,
+      "var5": 85,
+      "var6": 20
+    },
+    {
+      "var1": 2021,
+      "var2": 11806,
+      "var3": 12762,
+      "var4": 861,
+      "var5": 95,
+      "var6": 19
+    },
+    {
+      "var1": 2022,
+      "var2": 12102,
+      "var3": 13127,
+      "var4": 929,
+      "var5": 96,
+      "var6": 18
+    },
+    {
+      "var1": 2023,
+      "var2": 12242,
+      "var3": 13321,
+      "var4": 954,
+      "var5": 125,
+      "var6": 18
+    },
+    {
+      "var1": 2024,
+      "var2": 0,
+      "var3": 13384,
+      "var4": 0,
+      "var5": 0,
+      "var6": 18
+    }
+  ]
+}

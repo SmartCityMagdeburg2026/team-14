@@ -1,0 +1,382 @@
+{
+  "id": "energie-und-umwelt/voegel-im-stadtgebiet-magdeburg",
+  "title": "Vögel im Stadtgebiet Magdeburg",
+  "category": "Energie und Umwelt",
+  "subcategory": "Schutzobjekte im Stadtkreis Magdeburg",
+  "tableId": "K9_T44_1",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/voegel-im-stadtgebiet-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Vögel im Stadtgebiet Magdeburg.xlsx"
+  },
+  "description": "Diese Tabelle listet verschiedene Vogelarten, die im Stadtgebiet Magdeburg vorkommen, und deren Schutzstatus.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2019,
+        2019,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Schutzstatus",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "extrem seltene Arten mit geographischer Restriktion",
+        "vom Aussterben bedroht",
+        "vom Aussterben bedroht"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Wissenschaftlicher Name",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Larus argentatus",
+        "Anthus campestris",
+        "Anas clypeata"
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Deutsche Bezeichnung",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Silbermöwe",
+        "Brachpieper",
+        "Löffelente"
+      ]
+    }
+  ],
+  "rowCount": 52,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": "extrem seltene Arten mit geographischer Restriktion",
+      "var3": "Larus argentatus",
+      "var4": "Silbermöwe"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Anthus campestris",
+      "var4": "Brachpieper"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Anas clypeata",
+      "var4": "Löffelente"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Gallinago gallinago",
+      "var4": "Bekassine"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Mergus merganser",
+      "var4": "Gänsesäger"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Porzana porzana",
+      "var4": "Tüpfelsumpfhuhn"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Actitis hypoleucos",
+      "var4": "Flussuferläufer"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Anas crecca",
+      "var4": "Krickente"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Anas querquedula",
+      "var4": "Knäkente"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Anthus pratensis",
+      "var4": "Wiesenpieper"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Crex crex",
+      "var4": "Wachtelkönig"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Circus pygargus",
+      "var4": "Wiesenweihe"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Chlidonias niger",
+      "var4": "Trauerseeschwalbe"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Galerida cristata",
+      "var4": "Haubenlerche"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Oenanthe oenanthe",
+      "var4": "Steinschmätzer"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Perdix perdix",
+      "var4": "Rebhuhn"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Pernis apivorus",
+      "var4": "Wespenbussard"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Streptopelia turtur",
+      "var4": "Turteltaube"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Vanellus vanellus",
+      "var4": "Kiebitz"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Alauda arvensis",
+      "var4": "Feldlerche"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Botaurus stellaris",
+      "var4": "Rohrdommel"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Carduelis cannabina",
+      "var4": "Bluthänfling"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Corvus monedula",
+      "var4": "Dohle"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Cuculus canorus",
+      "var4": "Kuckuck"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Emberiza hortulana",
+      "var4": "Ortolan"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Falco subbuteo",
+      "var4": "Baumfalke"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Falco peregrinus",
+      "var4": "Wanderfalke"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Hirundo rustica",
+      "var4": "Rauchschwalbe"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Jynx torquilla",
+      "var4": "Wendehals"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Lanius excubitor",
+      "var4": "Raubwürger"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Locustella naevia",
+      "var4": "Feldschwirl"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Saxicola rubetra",
+      "var4": "Braunkehlchen"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Sterna hirundo",
+      "var4": "Flussseeschwalbe"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Sylvia nisoria",
+      "var4": "Sperbergrasmücke"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Tyto alba",
+      "var4": "Schleiereule"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Upupa epops",
+      "var4": "Wiedehopf"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Acrocephalus palustris",
+      "var4": "Sumpfrohrsänger"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Alcedo atthis",
+      "var4": "Eisvogel"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Anthus trivialis",
+      "var4": "Baumpieper"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Ardea cinerea",
+      "var4": "Graureiher"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Charadrius dubius",
+      "var4": "Flussregenpfeifer"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Emberiza calandra",
+      "var4": "Grauammer"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Gallinula chloropus",
+      "var4": "Teichhuhn"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Hippolais icterina",
+      "var4": "Gelbspötter"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Ixobrychus minutus",
+      "var4": "Zwergdommel"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Lanius collurio",
+      "var4": "Neuntöter"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Milvus milvus",
+      "var4": "Rotmilan"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Passer domesticus",
+      "var4": "Haussperling"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Passer montanus",
+      "var4": "Feldsperling"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Rallus aquaticus",
+      "var4": "Wasserralle"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Sturnus vulgaris",
+      "var4": "Star"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Streptopedia elecaocto",
+      "var4": "Türkentaube"
+    }
+  ]
+}

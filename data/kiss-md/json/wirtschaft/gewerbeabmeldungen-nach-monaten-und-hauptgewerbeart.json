@@ -1,0 +1,2518 @@
+{
+  "id": "wirtschaft/gewerbeabmeldungen-nach-monaten-und-hauptgewerbeart",
+  "title": "Gewerbeabmeldungen nach Monaten und Hauptgewerbeart",
+  "category": "Wirtschaft",
+  "subcategory": "Gewerbean- und abmeldungen",
+  "tableId": "MB6b",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/gewerbeabmeldungen-nach-monaten-und-hauptgewerbeart.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Gewerbeabmeldungen nach Monaten und Hauptgewerbeart.xlsx"
+  },
+  "description": "Gewerbeabmeldungen nach Monaten und Hauptgewerbeart. var3..var8 entsprechen Gewerbearten (Handel/Handwerk/Gastgewerbe/etc.), Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2005,
+        2005,
+        2005
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Monat",
+      "unit": null,
+      "type": "string",
+      "role": "month_de",
+      "sample": [
+        "Januar",
+        "Februar",
+        "März"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        160,
+        186,
+        182
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        24,
+        25,
+        14
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        56,
+        71,
+        57
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        16,
+        9,
+        9
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        64,
+        79,
+        98
+      ]
+    }
+  ],
+  "rowCount": 240,
+  "rows": [
+    {
+      "var1": 2005,
+      "var2": "Januar",
+      "var3": 160,
+      "var4": 0,
+      "var5": 24,
+      "var6": 56,
+      "var7": 16,
+      "var8": 64
+    },
+    {
+      "var1": 2005,
+      "var2": "Februar",
+      "var3": 186,
+      "var4": 2,
+      "var5": 25,
+      "var6": 71,
+      "var7": 9,
+      "var8": 79
+    },
+    {
+      "var1": 2005,
+      "var2": "März",
+      "var3": 182,
+      "var4": 4,
+      "var5": 14,
+      "var6": 57,
+      "var7": 9,
+      "var8": 98
+    },
+    {
+      "var1": 2005,
+      "var2": "April",
+      "var3": 202,
+      "var4": 3,
+      "var5": 23,
+      "var6": 67,
+      "var7": 14,
+      "var8": 95
+    },
+    {
+      "var1": 2005,
+      "var2": "Mai",
+      "var3": 176,
+      "var4": 1,
+      "var5": 38,
+      "var6": 58,
+      "var7": 13,
+      "var8": 66
+    },
+    {
+      "var1": 2005,
+      "var2": "Juni",
+      "var3": 173,
+      "var4": 1,
+      "var5": 32,
+      "var6": 67,
+      "var7": 6,
+      "var8": 67
+    },
+    {
+      "var1": 2005,
+      "var2": "Juli",
+      "var3": 206,
+      "var4": 3,
+      "var5": 24,
+      "var6": 62,
+      "var7": 12,
+      "var8": 105
+    },
+    {
+      "var1": 2005,
+      "var2": "August",
+      "var3": 178,
+      "var4": 0,
+      "var5": 19,
+      "var6": 48,
+      "var7": 6,
+      "var8": 105
+    },
+    {
+      "var1": 2005,
+      "var2": "September",
+      "var3": 164,
+      "var4": 1,
+      "var5": 25,
+      "var6": 63,
+      "var7": 12,
+      "var8": 63
+    },
+    {
+      "var1": 2005,
+      "var2": "Oktober",
+      "var3": 177,
+      "var4": 1,
+      "var5": 26,
+      "var6": 52,
+      "var7": 11,
+      "var8": 87
+    },
+    {
+      "var1": 2005,
+      "var2": "November",
+      "var3": 168,
+      "var4": 2,
+      "var5": 25,
+      "var6": 59,
+      "var7": 12,
+      "var8": 70
+    },
+    {
+      "var1": 2005,
+      "var2": "Dezember",
+      "var3": 199,
+      "var4": 1,
+      "var5": 34,
+      "var6": 41,
+      "var7": 6,
+      "var8": 117
+    },
+    {
+      "var1": 2006,
+      "var2": "Januar",
+      "var3": 211,
+      "var4": 2,
+      "var5": 26,
+      "var6": 71,
+      "var7": 7,
+      "var8": 105
+    },
+    {
+      "var1": 2006,
+      "var2": "Februar",
+      "var3": 196,
+      "var4": 1,
+      "var5": 30,
+      "var6": 57,
+      "var7": 12,
+      "var8": 96
+    },
+    {
+      "var1": 2006,
+      "var2": "März",
+      "var3": 203,
+      "var4": 2,
+      "var5": 26,
+      "var6": 58,
+      "var7": 14,
+      "var8": 103
+    },
+    {
+      "var1": 2006,
+      "var2": "April",
+      "var3": 149,
+      "var4": 2,
+      "var5": 16,
+      "var6": 48,
+      "var7": 8,
+      "var8": 75
+    },
+    {
+      "var1": 2006,
+      "var2": "Mai",
+      "var3": 161,
+      "var4": 0,
+      "var5": 26,
+      "var6": 55,
+      "var7": 7,
+      "var8": 73
+    },
+    {
+      "var1": 2006,
+      "var2": "Juni",
+      "var3": 171,
+      "var4": 1,
+      "var5": 27,
+      "var6": 49,
+      "var7": 7,
+      "var8": 87
+    },
+    {
+      "var1": 2006,
+      "var2": "Juli",
+      "var3": 139,
+      "var4": 1,
+      "var5": 16,
+      "var6": 47,
+      "var7": 10,
+      "var8": 65
+    },
+    {
+      "var1": 2006,
+      "var2": "August",
+      "var3": 141,
+      "var4": 3,
+      "var5": 25,
+      "var6": 34,
+      "var7": 3,
+      "var8": 76
+    },
+    {
+      "var1": 2006,
+      "var2": "September",
+      "var3": 165,
+      "var4": 4,
+      "var5": 18,
+      "var6": 51,
+      "var7": 10,
+      "var8": 82
+    },
+    {
+      "var1": 2006,
+      "var2": "Oktober",
+      "var3": 148,
+      "var4": 0,
+      "var5": 16,
+      "var6": 46,
+      "var7": 9,
+      "var8": 77
+    },
+    {
+      "var1": 2006,
+      "var2": "November",
+      "var3": 157,
+      "var4": 0,
+      "var5": 25,
+      "var6": 43,
+      "var7": 16,
+      "var8": 73
+    },
+    {
+      "var1": 2006,
+      "var2": "Dezember",
+      "var3": 216,
+      "var4": 4,
+      "var5": 20,
+      "var6": 84,
+      "var7": 7,
+      "var8": 101
+    },
+    {
+      "var1": 2007,
+      "var2": "Januar",
+      "var3": 146,
+      "var4": 2,
+      "var5": 20,
+      "var6": 57,
+      "var7": 4,
+      "var8": 63
+    },
+    {
+      "var1": 2007,
+      "var2": "Februar",
+      "var3": 168,
+      "var4": 0,
+      "var5": 26,
+      "var6": 43,
+      "var7": 7,
+      "var8": 92
+    },
+    {
+      "var1": 2007,
+      "var2": "März",
+      "var3": 160,
+      "var4": 4,
+      "var5": 17,
+      "var6": 49,
+      "var7": 13,
+      "var8": 77
+    },
+    {
+      "var1": 2007,
+      "var2": "April",
+      "var3": 112,
+      "var4": 0,
+      "var5": 9,
+      "var6": 40,
+      "var7": 4,
+      "var8": 59
+    },
+    {
+      "var1": 2007,
+      "var2": "Mai",
+      "var3": 187,
+      "var4": 3,
+      "var5": 23,
+      "var6": 40,
+      "var7": 13,
+      "var8": 108
+    },
+    {
+      "var1": 2007,
+      "var2": "Juni",
+      "var3": 148,
+      "var4": 3,
+      "var5": 17,
+      "var6": 50,
+      "var7": 5,
+      "var8": 73
+    },
+    {
+      "var1": 2007,
+      "var2": "Juli",
+      "var3": 176,
+      "var4": 3,
+      "var5": 33,
+      "var6": 58,
+      "var7": 7,
+      "var8": 75
+    },
+    {
+      "var1": 2007,
+      "var2": "August",
+      "var3": 170,
+      "var4": 1,
+      "var5": 19,
+      "var6": 48,
+      "var7": 7,
+      "var8": 95
+    },
+    {
+      "var1": 2007,
+      "var2": "September",
+      "var3": 151,
+      "var4": 2,
+      "var5": 21,
+      "var6": 54,
+      "var7": 5,
+      "var8": 69
+    },
+    {
+      "var1": 2007,
+      "var2": "Oktober",
+      "var3": 161,
+      "var4": 1,
+      "var5": 16,
+      "var6": 51,
+      "var7": 6,
+      "var8": 87
+    },
+    {
+      "var1": 2007,
+      "var2": "November",
+      "var3": 186,
+      "var4": 2,
+      "var5": 22,
+      "var6": 65,
+      "var7": 6,
+      "var8": 91
+    },
+    {
+      "var1": 2007,
+      "var2": "Dezember",
+      "var3": 169,
+      "var4": 1,
+      "var5": 19,
+      "var6": 52,
+      "var7": 6,
+      "var8": 91
+    },
+    {
+      "var1": 2008,
+      "var2": "Januar",
+      "var3": 254,
+      "var4": 2,
+      "var5": 28,
+      "var6": 72,
+      "var7": 14,
+      "var8": 138
+    },
+    {
+      "var1": 2008,
+      "var2": "Februar",
+      "var3": 159,
+      "var4": 1,
+      "var5": 17,
+      "var6": 54,
+      "var7": 9,
+      "var8": 78
+    },
+    {
+      "var1": 2008,
+      "var2": "März",
+      "var3": 129,
+      "var4": 0,
+      "var5": 20,
+      "var6": 45,
+      "var7": 12,
+      "var8": 52
+    },
+    {
+      "var1": 2008,
+      "var2": "April",
+      "var3": 151,
+      "var4": 2,
+      "var5": 21,
+      "var6": 40,
+      "var7": 9,
+      "var8": 79
+    },
+    {
+      "var1": 2008,
+      "var2": "Mai",
+      "var3": 158,
+      "var4": 1,
+      "var5": 22,
+      "var6": 49,
+      "var7": 8,
+      "var8": 78
+    },
+    {
+      "var1": 2008,
+      "var2": "Juni",
+      "var3": 145,
+      "var4": 2,
+      "var5": 17,
+      "var6": 47,
+      "var7": 5,
+      "var8": 74
+    },
+    {
+      "var1": 2008,
+      "var2": "Juli",
+      "var3": 201,
+      "var4": 1,
+      "var5": 28,
+      "var6": 55,
+      "var7": 12,
+      "var8": 105
+    },
+    {
+      "var1": 2008,
+      "var2": "August",
+      "var3": 161,
+      "var4": 1,
+      "var5": 18,
+      "var6": 51,
+      "var7": 3,
+      "var8": 88
+    },
+    {
+      "var1": 2008,
+      "var2": "September",
+      "var3": 154,
+      "var4": 2,
+      "var5": 18,
+      "var6": 36,
+      "var7": 11,
+      "var8": 87
+    },
+    {
+      "var1": 2008,
+      "var2": "Oktober",
+      "var3": 142,
+      "var4": 2,
+      "var5": 14,
+      "var6": 47,
+      "var7": 6,
+      "var8": 73
+    },
+    {
+      "var1": 2008,
+      "var2": "November",
+      "var3": 146,
+      "var4": 2,
+      "var5": 14,
+      "var6": 55,
+      "var7": 4,
+      "var8": 71
+    },
+    {
+      "var1": 2008,
+      "var2": "Dezember",
+      "var3": 226,
+      "var4": 0,
+      "var5": 21,
+      "var6": 78,
+      "var7": 11,
+      "var8": 116
+    },
+    {
+      "var1": 2009,
+      "var2": "Januar",
+      "var3": 198,
+      "var4": 0,
+      "var5": 14,
+      "var6": 69,
+      "var7": 16,
+      "var8": 99
+    },
+    {
+      "var1": 2009,
+      "var2": "Februar",
+      "var3": 185,
+      "var4": 2,
+      "var5": 19,
+      "var6": 64,
+      "var7": 9,
+      "var8": 91
+    },
+    {
+      "var1": 2009,
+      "var2": "März",
+      "var3": 197,
+      "var4": 1,
+      "var5": 19,
+      "var6": 59,
+      "var7": 11,
+      "var8": 107
+    },
+    {
+      "var1": 2009,
+      "var2": "April",
+      "var3": 156,
+      "var4": 0,
+      "var5": 20,
+      "var6": 31,
+      "var7": 10,
+      "var8": 95
+    },
+    {
+      "var1": 2009,
+      "var2": "Mai",
+      "var3": 154,
+      "var4": 0,
+      "var5": 17,
+      "var6": 40,
+      "var7": 11,
+      "var8": 86
+    },
+    {
+      "var1": 2009,
+      "var2": "Juni",
+      "var3": 177,
+      "var4": 0,
+      "var5": 20,
+      "var6": 56,
+      "var7": 8,
+      "var8": 93
+    },
+    {
+      "var1": 2009,
+      "var2": "Juli",
+      "var3": 153,
+      "var4": 0,
+      "var5": 13,
+      "var6": 44,
+      "var7": 18,
+      "var8": 78
+    },
+    {
+      "var1": 2009,
+      "var2": "August",
+      "var3": 171,
+      "var4": 1,
+      "var5": 24,
+      "var6": 55,
+      "var7": 9,
+      "var8": 82
+    },
+    {
+      "var1": 2009,
+      "var2": "September",
+      "var3": 141,
+      "var4": 0,
+      "var5": 14,
+      "var6": 33,
+      "var7": 10,
+      "var8": 84
+    },
+    {
+      "var1": 2009,
+      "var2": "Oktober",
+      "var3": 177,
+      "var4": 1,
+      "var5": 19,
+      "var6": 43,
+      "var7": 14,
+      "var8": 100
+    },
+    {
+      "var1": 2009,
+      "var2": "November",
+      "var3": 185,
+      "var4": 3,
+      "var5": 24,
+      "var6": 36,
+      "var7": 17,
+      "var8": 105
+    },
+    {
+      "var1": 2009,
+      "var2": "Dezember",
+      "var3": 176,
+      "var4": 0,
+      "var5": 19,
+      "var6": 46,
+      "var7": 9,
+      "var8": 102
+    },
+    {
+      "var1": 2010,
+      "var2": "Januar",
+      "var3": 211,
+      "var4": 0,
+      "var5": 29,
+      "var6": 47,
+      "var7": 13,
+      "var8": 122
+    },
+    {
+      "var1": 2010,
+      "var2": "Februar",
+      "var3": 146,
+      "var4": 1,
+      "var5": 17,
+      "var6": 39,
+      "var7": 15,
+      "var8": 74
+    },
+    {
+      "var1": 2010,
+      "var2": "März",
+      "var3": 172,
+      "var4": 0,
+      "var5": 19,
+      "var6": 49,
+      "var7": 16,
+      "var8": 88
+    },
+    {
+      "var1": 2010,
+      "var2": "April",
+      "var3": 174,
+      "var4": 1,
+      "var5": 15,
+      "var6": 51,
+      "var7": 12,
+      "var8": 95
+    },
+    {
+      "var1": 2010,
+      "var2": "Mai",
+      "var3": 124,
+      "var4": 0,
+      "var5": 18,
+      "var6": 25,
+      "var7": 12,
+      "var8": 69
+    },
+    {
+      "var1": 2010,
+      "var2": "Juni",
+      "var3": 144,
+      "var4": 0,
+      "var5": 17,
+      "var6": 26,
+      "var7": 16,
+      "var8": 85
+    },
+    {
+      "var1": 2010,
+      "var2": "Juli",
+      "var3": 168,
+      "var4": 2,
+      "var5": 22,
+      "var6": 38,
+      "var7": 18,
+      "var8": 88
+    },
+    {
+      "var1": 2010,
+      "var2": "August",
+      "var3": 185,
+      "var4": 0,
+      "var5": 12,
+      "var6": 45,
+      "var7": 18,
+      "var8": 110
+    },
+    {
+      "var1": 2010,
+      "var2": "September",
+      "var3": 158,
+      "var4": 3,
+      "var5": 22,
+      "var6": 38,
+      "var7": 6,
+      "var8": 89
+    },
+    {
+      "var1": 2010,
+      "var2": "Oktober",
+      "var3": 152,
+      "var4": 2,
+      "var5": 14,
+      "var6": 36,
+      "var7": 16,
+      "var8": 84
+    },
+    {
+      "var1": 2010,
+      "var2": "November",
+      "var3": 151,
+      "var4": 0,
+      "var5": 21,
+      "var6": 33,
+      "var7": 15,
+      "var8": 82
+    },
+    {
+      "var1": 2010,
+      "var2": "Dezember",
+      "var3": 169,
+      "var4": 0,
+      "var5": 22,
+      "var6": 48,
+      "var7": 8,
+      "var8": 91
+    },
+    {
+      "var1": 2011,
+      "var2": "Januar",
+      "var3": 156,
+      "var4": 1,
+      "var5": 14,
+      "var6": 36,
+      "var7": 13,
+      "var8": 92
+    },
+    {
+      "var1": 2011,
+      "var2": "Februar",
+      "var3": 139,
+      "var4": 0,
+      "var5": 17,
+      "var6": 33,
+      "var7": 15,
+      "var8": 74
+    },
+    {
+      "var1": 2011,
+      "var2": "März",
+      "var3": 154,
+      "var4": 1,
+      "var5": 13,
+      "var6": 37,
+      "var7": 20,
+      "var8": 83
+    },
+    {
+      "var1": 2011,
+      "var2": "April",
+      "var3": 136,
+      "var4": 1,
+      "var5": 14,
+      "var6": 31,
+      "var7": 10,
+      "var8": 80
+    },
+    {
+      "var1": 2011,
+      "var2": "Mai",
+      "var3": 158,
+      "var4": 0,
+      "var5": 19,
+      "var6": 24,
+      "var7": 17,
+      "var8": 98
+    },
+    {
+      "var1": 2011,
+      "var2": "Juni",
+      "var3": 133,
+      "var4": 0,
+      "var5": 12,
+      "var6": 32,
+      "var7": 13,
+      "var8": 76
+    },
+    {
+      "var1": 2011,
+      "var2": "Juli",
+      "var3": 169,
+      "var4": 0,
+      "var5": 14,
+      "var6": 37,
+      "var7": 7,
+      "var8": 111
+    },
+    {
+      "var1": 2011,
+      "var2": "August",
+      "var3": 167,
+      "var4": 11,
+      "var5": 25,
+      "var6": 33,
+      "var7": 12,
+      "var8": 86
+    },
+    {
+      "var1": 2011,
+      "var2": "September",
+      "var3": 221,
+      "var4": 2,
+      "var5": 34,
+      "var6": 51,
+      "var7": 15,
+      "var8": 119
+    },
+    {
+      "var1": 2011,
+      "var2": "Oktober",
+      "var3": 143,
+      "var4": 4,
+      "var5": 15,
+      "var6": 24,
+      "var7": 15,
+      "var8": 85
+    },
+    {
+      "var1": 2011,
+      "var2": "November",
+      "var3": 177,
+      "var4": 5,
+      "var5": 23,
+      "var6": 49,
+      "var7": 10,
+      "var8": 90
+    },
+    {
+      "var1": 2011,
+      "var2": "Dezember",
+      "var3": 204,
+      "var4": 0,
+      "var5": 27,
+      "var6": 37,
+      "var7": 14,
+      "var8": 126
+    },
+    {
+      "var1": 2012,
+      "var2": "Januar",
+      "var3": 196,
+      "var4": 1,
+      "var5": 35,
+      "var6": 33,
+      "var7": 10,
+      "var8": 117
+    },
+    {
+      "var1": 2012,
+      "var2": "Februar",
+      "var3": 156,
+      "var4": 2,
+      "var5": 24,
+      "var6": 36,
+      "var7": 8,
+      "var8": 86
+    },
+    {
+      "var1": 2012,
+      "var2": "März",
+      "var3": 168,
+      "var4": 2,
+      "var5": 28,
+      "var6": 36,
+      "var7": 19,
+      "var8": 83
+    },
+    {
+      "var1": 2012,
+      "var2": "April",
+      "var3": 171,
+      "var4": 3,
+      "var5": 30,
+      "var6": 41,
+      "var7": 12,
+      "var8": 85
+    },
+    {
+      "var1": 2012,
+      "var2": "Mai",
+      "var3": 154,
+      "var4": 2,
+      "var5": 21,
+      "var6": 37,
+      "var7": 6,
+      "var8": 88
+    },
+    {
+      "var1": 2012,
+      "var2": "Juni",
+      "var3": 150,
+      "var4": 1,
+      "var5": 9,
+      "var6": 39,
+      "var7": 14,
+      "var8": 87
+    },
+    {
+      "var1": 2012,
+      "var2": "Juli",
+      "var3": 169,
+      "var4": 0,
+      "var5": 15,
+      "var6": 47,
+      "var7": 11,
+      "var8": 96
+    },
+    {
+      "var1": 2012,
+      "var2": "August",
+      "var3": 180,
+      "var4": 2,
+      "var5": 26,
+      "var6": 37,
+      "var7": 8,
+      "var8": 107
+    },
+    {
+      "var1": 2012,
+      "var2": "September",
+      "var3": 137,
+      "var4": 0,
+      "var5": 16,
+      "var6": 39,
+      "var7": 8,
+      "var8": 74
+    },
+    {
+      "var1": 2012,
+      "var2": "Oktober",
+      "var3": 159,
+      "var4": 3,
+      "var5": 23,
+      "var6": 29,
+      "var7": 14,
+      "var8": 90
+    },
+    {
+      "var1": 2012,
+      "var2": "November",
+      "var3": 161,
+      "var4": 2,
+      "var5": 11,
+      "var6": 39,
+      "var7": 14,
+      "var8": 95
+    },
+    {
+      "var1": 2012,
+      "var2": "Dezember",
+      "var3": 188,
+      "var4": 1,
+      "var5": 16,
+      "var6": 50,
+      "var7": 9,
+      "var8": 112
+    },
+    {
+      "var1": 2013,
+      "var2": "Januar",
+      "var3": 195,
+      "var4": 1,
+      "var5": 18,
+      "var6": 42,
+      "var7": 20,
+      "var8": 114
+    },
+    {
+      "var1": 2013,
+      "var2": "Februar",
+      "var3": 129,
+      "var4": 0,
+      "var5": 13,
+      "var6": 33,
+      "var7": 6,
+      "var8": 77
+    },
+    {
+      "var1": 2013,
+      "var2": "März",
+      "var3": 157,
+      "var4": 0,
+      "var5": 23,
+      "var6": 39,
+      "var7": 11,
+      "var8": 84
+    },
+    {
+      "var1": 2013,
+      "var2": "April",
+      "var3": 154,
+      "var4": 0,
+      "var5": 11,
+      "var6": 31,
+      "var7": 9,
+      "var8": 103
+    },
+    {
+      "var1": 2013,
+      "var2": "Mai",
+      "var3": 149,
+      "var4": 0,
+      "var5": 11,
+      "var6": 24,
+      "var7": 12,
+      "var8": 102
+    },
+    {
+      "var1": 2013,
+      "var2": "Juni",
+      "var3": 131,
+      "var4": 0,
+      "var5": 15,
+      "var6": 39,
+      "var7": 15,
+      "var8": 62
+    },
+    {
+      "var1": 2013,
+      "var2": "Juli",
+      "var3": 129,
+      "var4": 0,
+      "var5": 18,
+      "var6": 29,
+      "var7": 12,
+      "var8": 70
+    },
+    {
+      "var1": 2013,
+      "var2": "August",
+      "var3": 152,
+      "var4": 1,
+      "var5": 15,
+      "var6": 27,
+      "var7": 13,
+      "var8": 96
+    },
+    {
+      "var1": 2013,
+      "var2": "September",
+      "var3": 143,
+      "var4": 1,
+      "var5": 16,
+      "var6": 35,
+      "var7": 6,
+      "var8": 85
+    },
+    {
+      "var1": 2013,
+      "var2": "Oktober",
+      "var3": 146,
+      "var4": 0,
+      "var5": 14,
+      "var6": 41,
+      "var7": 11,
+      "var8": 80
+    },
+    {
+      "var1": 2013,
+      "var2": "November",
+      "var3": 182,
+      "var4": 0,
+      "var5": 21,
+      "var6": 45,
+      "var7": 23,
+      "var8": 93
+    },
+    {
+      "var1": 2013,
+      "var2": "Dezember",
+      "var3": 262,
+      "var4": 2,
+      "var5": 28,
+      "var6": 57,
+      "var7": 17,
+      "var8": 158
+    },
+    {
+      "var1": 2014,
+      "var2": "Januar",
+      "var3": 113,
+      "var4": 0,
+      "var5": 10,
+      "var6": 30,
+      "var7": 9,
+      "var8": 64
+    },
+    {
+      "var1": 2014,
+      "var2": "Februar",
+      "var3": 148,
+      "var4": 0,
+      "var5": 14,
+      "var6": 40,
+      "var7": 10,
+      "var8": 84
+    },
+    {
+      "var1": 2014,
+      "var2": "März",
+      "var3": 141,
+      "var4": 2,
+      "var5": 13,
+      "var6": 26,
+      "var7": 9,
+      "var8": 91
+    },
+    {
+      "var1": 2014,
+      "var2": "April",
+      "var3": 125,
+      "var4": 2,
+      "var5": 11,
+      "var6": 26,
+      "var7": 7,
+      "var8": 79
+    },
+    {
+      "var1": 2014,
+      "var2": "Mai",
+      "var3": 122,
+      "var4": 2,
+      "var5": 11,
+      "var6": 32,
+      "var7": 11,
+      "var8": 66
+    },
+    {
+      "var1": 2014,
+      "var2": "Juni",
+      "var3": 141,
+      "var4": 3,
+      "var5": 12,
+      "var6": 27,
+      "var7": 5,
+      "var8": 94
+    },
+    {
+      "var1": 2014,
+      "var2": "Juli",
+      "var3": 138,
+      "var4": 1,
+      "var5": 12,
+      "var6": 31,
+      "var7": 6,
+      "var8": 88
+    },
+    {
+      "var1": 2014,
+      "var2": "August",
+      "var3": 138,
+      "var4": 2,
+      "var5": 18,
+      "var6": 30,
+      "var7": 9,
+      "var8": 79
+    },
+    {
+      "var1": 2014,
+      "var2": "September",
+      "var3": 150,
+      "var4": 0,
+      "var5": 22,
+      "var6": 22,
+      "var7": 12,
+      "var8": 94
+    },
+    {
+      "var1": 2014,
+      "var2": "Oktober",
+      "var3": 134,
+      "var4": 1,
+      "var5": 19,
+      "var6": 28,
+      "var7": 5,
+      "var8": 81
+    },
+    {
+      "var1": 2014,
+      "var2": "November",
+      "var3": 122,
+      "var4": 0,
+      "var5": 19,
+      "var6": 20,
+      "var7": 11,
+      "var8": 72
+    },
+    {
+      "var1": 2014,
+      "var2": "Dezember",
+      "var3": 181,
+      "var4": 0,
+      "var5": 27,
+      "var6": 29,
+      "var7": 12,
+      "var8": 113
+    },
+    {
+      "var1": 2015,
+      "var2": "Januar",
+      "var3": 154,
+      "var4": 0,
+      "var5": 27,
+      "var6": 38,
+      "var7": 8,
+      "var8": 81
+    },
+    {
+      "var1": 2015,
+      "var2": "Februar",
+      "var3": 160,
+      "var4": 2,
+      "var5": 16,
+      "var6": 30,
+      "var7": 10,
+      "var8": 102
+    },
+    {
+      "var1": 2015,
+      "var2": "März",
+      "var3": 161,
+      "var4": 0,
+      "var5": 25,
+      "var6": 41,
+      "var7": 9,
+      "var8": 86
+    },
+    {
+      "var1": 2015,
+      "var2": "April",
+      "var3": 150,
+      "var4": 0,
+      "var5": 8,
+      "var6": 41,
+      "var7": 9,
+      "var8": 92
+    },
+    {
+      "var1": 2015,
+      "var2": "Mai",
+      "var3": 106,
+      "var4": 1,
+      "var5": 15,
+      "var6": 19,
+      "var7": 9,
+      "var8": 62
+    },
+    {
+      "var1": 2015,
+      "var2": "Juni",
+      "var3": 146,
+      "var4": 0,
+      "var5": 17,
+      "var6": 32,
+      "var7": 14,
+      "var8": 83
+    },
+    {
+      "var1": 2015,
+      "var2": "Juli",
+      "var3": 152,
+      "var4": 0,
+      "var5": 18,
+      "var6": 32,
+      "var7": 12,
+      "var8": 90
+    },
+    {
+      "var1": 2015,
+      "var2": "August",
+      "var3": 143,
+      "var4": 1,
+      "var5": 27,
+      "var6": 23,
+      "var7": 3,
+      "var8": 89
+    },
+    {
+      "var1": 2015,
+      "var2": "September",
+      "var3": 135,
+      "var4": 1,
+      "var5": 23,
+      "var6": 18,
+      "var7": 8,
+      "var8": 85
+    },
+    {
+      "var1": 2015,
+      "var2": "Oktober",
+      "var3": 135,
+      "var4": 2,
+      "var5": 20,
+      "var6": 20,
+      "var7": 7,
+      "var8": 86
+    },
+    {
+      "var1": 2015,
+      "var2": "November",
+      "var3": 138,
+      "var4": 0,
+      "var5": 23,
+      "var6": 29,
+      "var7": 11,
+      "var8": 75
+    },
+    {
+      "var1": 2015,
+      "var2": "Dezember",
+      "var3": 186,
+      "var4": 0,
+      "var5": 33,
+      "var6": 40,
+      "var7": 8,
+      "var8": 105
+    },
+    {
+      "var1": 2016,
+      "var2": "Januar",
+      "var3": 196,
+      "var4": 0,
+      "var5": 23,
+      "var6": 34,
+      "var7": 13,
+      "var8": 126
+    },
+    {
+      "var1": 2016,
+      "var2": "Februar",
+      "var3": 187,
+      "var4": 0,
+      "var5": 19,
+      "var6": 27,
+      "var7": 12,
+      "var8": 129
+    },
+    {
+      "var1": 2016,
+      "var2": "März",
+      "var3": 149,
+      "var4": 1,
+      "var5": 8,
+      "var6": 34,
+      "var7": 10,
+      "var8": 96
+    },
+    {
+      "var1": 2016,
+      "var2": "April",
+      "var3": 135,
+      "var4": 2,
+      "var5": 17,
+      "var6": 14,
+      "var7": 7,
+      "var8": 95
+    },
+    {
+      "var1": 2016,
+      "var2": "Mai",
+      "var3": 155,
+      "var4": 2,
+      "var5": 14,
+      "var6": 25,
+      "var7": 20,
+      "var8": 94
+    },
+    {
+      "var1": 2016,
+      "var2": "Juni",
+      "var3": 159,
+      "var4": 0,
+      "var5": 21,
+      "var6": 33,
+      "var7": 14,
+      "var8": 91
+    },
+    {
+      "var1": 2016,
+      "var2": "Juli",
+      "var3": 123,
+      "var4": 0,
+      "var5": 14,
+      "var6": 33,
+      "var7": 7,
+      "var8": 69
+    },
+    {
+      "var1": 2016,
+      "var2": "August",
+      "var3": 136,
+      "var4": 1,
+      "var5": 20,
+      "var6": 35,
+      "var7": 5,
+      "var8": 75
+    },
+    {
+      "var1": 2016,
+      "var2": "September",
+      "var3": 148,
+      "var4": 0,
+      "var5": 21,
+      "var6": 22,
+      "var7": 8,
+      "var8": 97
+    },
+    {
+      "var1": 2016,
+      "var2": "Oktober",
+      "var3": 138,
+      "var4": 0,
+      "var5": 22,
+      "var6": 31,
+      "var7": 10,
+      "var8": 75
+    },
+    {
+      "var1": 2016,
+      "var2": "November",
+      "var3": 169,
+      "var4": 0,
+      "var5": 31,
+      "var6": 32,
+      "var7": 10,
+      "var8": 96
+    },
+    {
+      "var1": 2016,
+      "var2": "Dezember",
+      "var3": 193,
+      "var4": 0,
+      "var5": 24,
+      "var6": 42,
+      "var7": 13,
+      "var8": 114
+    },
+    {
+      "var1": 2017,
+      "var2": "Januar",
+      "var3": 156,
+      "var4": 2,
+      "var5": 28,
+      "var6": 27,
+      "var7": 7,
+      "var8": 92
+    },
+    {
+      "var1": 2017,
+      "var2": "Februar",
+      "var3": 124,
+      "var4": 2,
+      "var5": 11,
+      "var6": 21,
+      "var7": 13,
+      "var8": 77
+    },
+    {
+      "var1": 2017,
+      "var2": "März",
+      "var3": 136,
+      "var4": 0,
+      "var5": 11,
+      "var6": 30,
+      "var7": 13,
+      "var8": 82
+    },
+    {
+      "var1": 2017,
+      "var2": "April",
+      "var3": 138,
+      "var4": 0,
+      "var5": 16,
+      "var6": 32,
+      "var7": 11,
+      "var8": 79
+    },
+    {
+      "var1": 2017,
+      "var2": "Mai",
+      "var3": 128,
+      "var4": 1,
+      "var5": 17,
+      "var6": 28,
+      "var7": 8,
+      "var8": 74
+    },
+    {
+      "var1": 2017,
+      "var2": "Juni",
+      "var3": 127,
+      "var4": 2,
+      "var5": 18,
+      "var6": 27,
+      "var7": 10,
+      "var8": 70
+    },
+    {
+      "var1": 2017,
+      "var2": "Juli",
+      "var3": 152,
+      "var4": 0,
+      "var5": 26,
+      "var6": 29,
+      "var7": 11,
+      "var8": 86
+    },
+    {
+      "var1": 2017,
+      "var2": "August",
+      "var3": 153,
+      "var4": 1,
+      "var5": 15,
+      "var6": 30,
+      "var7": 13,
+      "var8": 94
+    },
+    {
+      "var1": 2017,
+      "var2": "September",
+      "var3": 148,
+      "var4": 1,
+      "var5": 26,
+      "var6": 19,
+      "var7": 10,
+      "var8": 92
+    },
+    {
+      "var1": 2017,
+      "var2": "Oktober",
+      "var3": 126,
+      "var4": 2,
+      "var5": 16,
+      "var6": 26,
+      "var7": 14,
+      "var8": 68
+    },
+    {
+      "var1": 2017,
+      "var2": "November",
+      "var3": 157,
+      "var4": 0,
+      "var5": 25,
+      "var6": 26,
+      "var7": 9,
+      "var8": 97
+    },
+    {
+      "var1": 2017,
+      "var2": "Dezember",
+      "var3": 191,
+      "var4": 1,
+      "var5": 29,
+      "var6": 40,
+      "var7": 17,
+      "var8": 104
+    },
+    {
+      "var1": 2018,
+      "var2": "Januar",
+      "var3": 209,
+      "var4": 0,
+      "var5": 33,
+      "var6": 35,
+      "var7": 17,
+      "var8": 124
+    },
+    {
+      "var1": 2018,
+      "var2": "Februar",
+      "var3": 166,
+      "var4": 0,
+      "var5": 21,
+      "var6": 33,
+      "var7": 10,
+      "var8": 102
+    },
+    {
+      "var1": 2018,
+      "var2": "März",
+      "var3": 123,
+      "var4": 1,
+      "var5": 21,
+      "var6": 21,
+      "var7": 3,
+      "var8": 77
+    },
+    {
+      "var1": 2018,
+      "var2": "April",
+      "var3": 131,
+      "var4": 0,
+      "var5": 18,
+      "var6": 32,
+      "var7": 13,
+      "var8": 68
+    },
+    {
+      "var1": 2018,
+      "var2": "Mai",
+      "var3": 121,
+      "var4": 3,
+      "var5": 14,
+      "var6": 29,
+      "var7": 17,
+      "var8": 58
+    },
+    {
+      "var1": 2018,
+      "var2": "Juni",
+      "var3": 126,
+      "var4": 1,
+      "var5": 15,
+      "var6": 25,
+      "var7": 7,
+      "var8": 78
+    },
+    {
+      "var1": 2018,
+      "var2": "Juli",
+      "var3": 170,
+      "var4": 1,
+      "var5": 20,
+      "var6": 35,
+      "var7": 11,
+      "var8": 103
+    },
+    {
+      "var1": 2018,
+      "var2": "August",
+      "var3": 145,
+      "var4": 1,
+      "var5": 19,
+      "var6": 24,
+      "var7": 8,
+      "var8": 93
+    },
+    {
+      "var1": 2018,
+      "var2": "September",
+      "var3": 133,
+      "var4": 0,
+      "var5": 16,
+      "var6": 23,
+      "var7": 8,
+      "var8": 86
+    },
+    {
+      "var1": 2018,
+      "var2": "Oktober",
+      "var3": 154,
+      "var4": 2,
+      "var5": 26,
+      "var6": 22,
+      "var7": 7,
+      "var8": 97
+    },
+    {
+      "var1": 2018,
+      "var2": "November",
+      "var3": 144,
+      "var4": 1,
+      "var5": 22,
+      "var6": 26,
+      "var7": 16,
+      "var8": 79
+    },
+    {
+      "var1": 2018,
+      "var2": "Dezember",
+      "var3": 165,
+      "var4": 0,
+      "var5": 23,
+      "var6": 37,
+      "var7": 7,
+      "var8": 98
+    },
+    {
+      "var1": 2019,
+      "var2": "Januar",
+      "var3": 167,
+      "var4": 2,
+      "var5": 26,
+      "var6": 43,
+      "var7": 15,
+      "var8": 81
+    },
+    {
+      "var1": 2019,
+      "var2": "Februar",
+      "var3": 119,
+      "var4": 0,
+      "var5": 11,
+      "var6": 22,
+      "var7": 7,
+      "var8": 79
+    },
+    {
+      "var1": 2019,
+      "var2": "März",
+      "var3": 155,
+      "var4": 0,
+      "var5": 23,
+      "var6": 40,
+      "var7": 12,
+      "var8": 80
+    },
+    {
+      "var1": 2019,
+      "var2": "April",
+      "var3": 139,
+      "var4": 0,
+      "var5": 17,
+      "var6": 25,
+      "var7": 5,
+      "var8": 92
+    },
+    {
+      "var1": 2019,
+      "var2": "Mai",
+      "var3": 105,
+      "var4": 1,
+      "var5": 9,
+      "var6": 18,
+      "var7": 9,
+      "var8": 68
+    },
+    {
+      "var1": 2019,
+      "var2": "Juni",
+      "var3": 117,
+      "var4": 2,
+      "var5": 10,
+      "var6": 28,
+      "var7": 8,
+      "var8": 69
+    },
+    {
+      "var1": 2019,
+      "var2": "Juli",
+      "var3": 104,
+      "var4": 0,
+      "var5": 7,
+      "var6": 21,
+      "var7": 11,
+      "var8": 65
+    },
+    {
+      "var1": 2019,
+      "var2": "August",
+      "var3": 107,
+      "var4": 1,
+      "var5": 10,
+      "var6": 28,
+      "var7": 5,
+      "var8": 63
+    },
+    {
+      "var1": 2019,
+      "var2": "September",
+      "var3": 135,
+      "var4": 2,
+      "var5": 17,
+      "var6": 18,
+      "var7": 20,
+      "var8": 78
+    },
+    {
+      "var1": 2019,
+      "var2": "Oktober",
+      "var3": 118,
+      "var4": 2,
+      "var5": 17,
+      "var6": 17,
+      "var7": 8,
+      "var8": 74
+    },
+    {
+      "var1": 2019,
+      "var2": "November",
+      "var3": 165,
+      "var4": 0,
+      "var5": 32,
+      "var6": 27,
+      "var7": 17,
+      "var8": 89
+    },
+    {
+      "var1": 2019,
+      "var2": "Dezember",
+      "var3": 189,
+      "var4": 0,
+      "var5": 25,
+      "var6": 47,
+      "var7": 15,
+      "var8": 102
+    },
+    {
+      "var1": 2020,
+      "var2": "Januar",
+      "var3": 174,
+      "var4": 0,
+      "var5": 21,
+      "var6": 30,
+      "var7": 21,
+      "var8": 102
+    },
+    {
+      "var1": 2020,
+      "var2": "Februar",
+      "var3": 140,
+      "var4": 3,
+      "var5": 18,
+      "var6": 26,
+      "var7": 18,
+      "var8": 75
+    },
+    {
+      "var1": 2020,
+      "var2": "März",
+      "var3": 132,
+      "var4": 0,
+      "var5": 13,
+      "var6": 28,
+      "var7": 10,
+      "var8": 81
+    },
+    {
+      "var1": 2020,
+      "var2": "April",
+      "var3": 66,
+      "var4": 0,
+      "var5": 15,
+      "var6": 11,
+      "var7": 3,
+      "var8": 37
+    },
+    {
+      "var1": 2020,
+      "var2": "Mai",
+      "var3": 86,
+      "var4": 1,
+      "var5": 10,
+      "var6": 21,
+      "var7": 7,
+      "var8": 47
+    },
+    {
+      "var1": 2020,
+      "var2": "Juni",
+      "var3": 112,
+      "var4": 1,
+      "var5": 22,
+      "var6": 15,
+      "var7": 14,
+      "var8": 60
+    },
+    {
+      "var1": 2020,
+      "var2": "Juli",
+      "var3": 163,
+      "var4": 2,
+      "var5": 28,
+      "var6": 35,
+      "var7": 7,
+      "var8": 91
+    },
+    {
+      "var1": 2020,
+      "var2": "August",
+      "var3": 101,
+      "var4": 0,
+      "var5": 13,
+      "var6": 21,
+      "var7": 7,
+      "var8": 60
+    },
+    {
+      "var1": 2020,
+      "var2": "September",
+      "var3": 114,
+      "var4": 0,
+      "var5": 12,
+      "var6": 25,
+      "var7": 11,
+      "var8": 66
+    },
+    {
+      "var1": 2020,
+      "var2": "Oktober",
+      "var3": 127,
+      "var4": 2,
+      "var5": 18,
+      "var6": 26,
+      "var7": 7,
+      "var8": 74
+    },
+    {
+      "var1": 2020,
+      "var2": "November",
+      "var3": 128,
+      "var4": 3,
+      "var5": 15,
+      "var6": 32,
+      "var7": 7,
+      "var8": 71
+    },
+    {
+      "var1": 2020,
+      "var2": "Dezember",
+      "var3": 187,
+      "var4": 1,
+      "var5": 29,
+      "var6": 48,
+      "var7": 4,
+      "var8": 105
+    },
+    {
+      "var1": 2021,
+      "var2": "Januar",
+      "var3": 159,
+      "var4": 3,
+      "var5": 17,
+      "var6": 30,
+      "var7": 7,
+      "var8": 102
+    },
+    {
+      "var1": 2021,
+      "var2": "Februar",
+      "var3": 134,
+      "var4": 1,
+      "var5": 24,
+      "var6": 22,
+      "var7": 8,
+      "var8": 79
+    },
+    {
+      "var1": 2021,
+      "var2": "März",
+      "var3": 141,
+      "var4": 1,
+      "var5": 21,
+      "var6": 34,
+      "var7": 13,
+      "var8": 72
+    },
+    {
+      "var1": 2021,
+      "var2": "April",
+      "var3": 103,
+      "var4": 3,
+      "var5": 11,
+      "var6": 21,
+      "var7": 4,
+      "var8": 64
+    },
+    {
+      "var1": 2021,
+      "var2": "Mai",
+      "var3": 74,
+      "var4": 2,
+      "var5": 8,
+      "var6": 7,
+      "var7": 7,
+      "var8": 50
+    },
+    {
+      "var1": 2021,
+      "var2": "Juni",
+      "var3": 133,
+      "var4": 2,
+      "var5": 14,
+      "var6": 40,
+      "var7": 3,
+      "var8": 74
+    },
+    {
+      "var1": 2021,
+      "var2": "Juli",
+      "var3": 116,
+      "var4": 1,
+      "var5": 11,
+      "var6": 19,
+      "var7": 15,
+      "var8": 70
+    },
+    {
+      "var1": 2021,
+      "var2": "August",
+      "var3": 113,
+      "var4": 1,
+      "var5": 14,
+      "var6": 24,
+      "var7": 7,
+      "var8": 67
+    },
+    {
+      "var1": 2021,
+      "var2": "September",
+      "var3": 103,
+      "var4": 1,
+      "var5": 14,
+      "var6": 29,
+      "var7": 12,
+      "var8": 47
+    },
+    {
+      "var1": 2021,
+      "var2": "Oktober",
+      "var3": 102,
+      "var4": 2,
+      "var5": 17,
+      "var6": 19,
+      "var7": 6,
+      "var8": 58
+    },
+    {
+      "var1": 2021,
+      "var2": "November",
+      "var3": 131,
+      "var4": 1,
+      "var5": 13,
+      "var6": 29,
+      "var7": 6,
+      "var8": 82
+    },
+    {
+      "var1": 2021,
+      "var2": "Dezember",
+      "var3": 122,
+      "var4": 1,
+      "var5": 29,
+      "var6": 26,
+      "var7": 4,
+      "var8": 62
+    },
+    {
+      "var1": 2022,
+      "var2": "Januar",
+      "var3": 178,
+      "var4": 0,
+      "var5": 32,
+      "var6": 48,
+      "var7": 14,
+      "var8": 84
+    },
+    {
+      "var1": 2022,
+      "var2": "Februar",
+      "var3": 103,
+      "var4": 0,
+      "var5": 16,
+      "var6": 18,
+      "var7": 8,
+      "var8": 61
+    },
+    {
+      "var1": 2022,
+      "var2": "März",
+      "var3": 115,
+      "var4": 0,
+      "var5": 16,
+      "var6": 21,
+      "var7": 11,
+      "var8": 67
+    },
+    {
+      "var1": 2022,
+      "var2": "April",
+      "var3": 96,
+      "var4": 1,
+      "var5": 13,
+      "var6": 17,
+      "var7": 6,
+      "var8": 59
+    },
+    {
+      "var1": 2022,
+      "var2": "Mai",
+      "var3": 111,
+      "var4": 1,
+      "var5": 18,
+      "var6": 18,
+      "var7": 8,
+      "var8": 66
+    },
+    {
+      "var1": 2022,
+      "var2": "Juni",
+      "var3": 131,
+      "var4": 0,
+      "var5": 20,
+      "var6": 34,
+      "var7": 6,
+      "var8": 71
+    },
+    {
+      "var1": 2022,
+      "var2": "Juli",
+      "var3": 127,
+      "var4": 2,
+      "var5": 18,
+      "var6": 26,
+      "var7": 17,
+      "var8": 64
+    },
+    {
+      "var1": 2022,
+      "var2": "August",
+      "var3": 118,
+      "var4": 0,
+      "var5": 22,
+      "var6": 25,
+      "var7": 12,
+      "var8": 59
+    },
+    {
+      "var1": 2022,
+      "var2": "September",
+      "var3": 117,
+      "var4": 2,
+      "var5": 19,
+      "var6": 22,
+      "var7": 10,
+      "var8": 64
+    },
+    {
+      "var1": 2022,
+      "var2": "Oktober",
+      "var3": 116,
+      "var4": 0,
+      "var5": 17,
+      "var6": 25,
+      "var7": 7,
+      "var8": 67
+    },
+    {
+      "var1": 2022,
+      "var2": "November",
+      "var3": 160,
+      "var4": 1,
+      "var5": 25,
+      "var6": 47,
+      "var7": 14,
+      "var8": 73
+    },
+    {
+      "var1": 2022,
+      "var2": "Dezember",
+      "var3": 158,
+      "var4": 0,
+      "var5": 33,
+      "var6": 27,
+      "var7": 8,
+      "var8": 90
+    },
+    {
+      "var1": 2023,
+      "var2": "Januar",
+      "var3": 182,
+      "var4": 2,
+      "var5": 27,
+      "var6": 39,
+      "var7": 9,
+      "var8": 105
+    },
+    {
+      "var1": 2023,
+      "var2": "Februar",
+      "var3": 78,
+      "var4": 0,
+      "var5": 7,
+      "var6": 17,
+      "var7": 10,
+      "var8": 44
+    },
+    {
+      "var1": 2023,
+      "var2": "März",
+      "var3": 128,
+      "var4": 0,
+      "var5": 16,
+      "var6": 24,
+      "var7": 11,
+      "var8": 77
+    },
+    {
+      "var1": 2023,
+      "var2": "April",
+      "var3": 94,
+      "var4": 0,
+      "var5": 14,
+      "var6": 19,
+      "var7": 9,
+      "var8": 52
+    },
+    {
+      "var1": 2023,
+      "var2": "Mai",
+      "var3": 87,
+      "var4": 0,
+      "var5": 9,
+      "var6": 22,
+      "var7": 10,
+      "var8": 46
+    },
+    {
+      "var1": 2023,
+      "var2": "Juni",
+      "var3": 90,
+      "var4": 1,
+      "var5": 10,
+      "var6": 20,
+      "var7": 15,
+      "var8": 44
+    },
+    {
+      "var1": 2023,
+      "var2": "Juli",
+      "var3": 109,
+      "var4": 2,
+      "var5": 14,
+      "var6": 16,
+      "var7": 10,
+      "var8": 67
+    },
+    {
+      "var1": 2023,
+      "var2": "August",
+      "var3": 114,
+      "var4": 1,
+      "var5": 7,
+      "var6": 30,
+      "var7": 8,
+      "var8": 68
+    },
+    {
+      "var1": 2023,
+      "var2": "September",
+      "var3": 85,
+      "var4": 0,
+      "var5": 18,
+      "var6": 10,
+      "var7": 11,
+      "var8": 46
+    },
+    {
+      "var1": 2023,
+      "var2": "Oktober",
+      "var3": 124,
+      "var4": 0,
+      "var5": 19,
+      "var6": 28,
+      "var7": 12,
+      "var8": 65
+    },
+    {
+      "var1": 2023,
+      "var2": "November",
+      "var3": 160,
+      "var4": 0,
+      "var5": 21,
+      "var6": 41,
+      "var7": 10,
+      "var8": 88
+    },
+    {
+      "var1": 2023,
+      "var2": "Dezember",
+      "var3": 147,
+      "var4": 1,
+      "var5": 26,
+      "var6": 35,
+      "var7": 11,
+      "var8": 74
+    },
+    {
+      "var1": 2024,
+      "var2": "Januar",
+      "var3": 170,
+      "var4": 1,
+      "var5": 32,
+      "var6": 44,
+      "var7": 16,
+      "var8": 77
+    },
+    {
+      "var1": 2024,
+      "var2": "Februar",
+      "var3": 96,
+      "var4": 0,
+      "var5": 5,
+      "var6": 18,
+      "var7": 11,
+      "var8": 62
+    },
+    {
+      "var1": 2024,
+      "var2": "März",
+      "var3": 107,
+      "var4": 1,
+      "var5": 19,
+      "var6": 25,
+      "var7": 7,
+      "var8": 55
+    },
+    {
+      "var1": 2024,
+      "var2": "April",
+      "var3": 110,
+      "var4": 1,
+      "var5": 8,
+      "var6": 36,
+      "var7": 11,
+      "var8": 54
+    },
+    {
+      "var1": 2024,
+      "var2": "Mai",
+      "var3": 105,
+      "var4": 0,
+      "var5": 10,
+      "var6": 21,
+      "var7": 8,
+      "var8": 66
+    },
+    {
+      "var1": 2024,
+      "var2": "Juni",
+      "var3": 87,
+      "var4": 0,
+      "var5": 10,
+      "var6": 18,
+      "var7": 7,
+      "var8": 52
+    },
+    {
+      "var1": 2024,
+      "var2": "Juli",
+      "var3": 157,
+      "var4": 3,
+      "var5": 27,
+      "var6": 33,
+      "var7": 15,
+      "var8": 79
+    },
+    {
+      "var1": 2024,
+      "var2": "August",
+      "var3": 134,
+      "var4": 3,
+      "var5": 21,
+      "var6": 34,
+      "var7": 10,
+      "var8": 66
+    },
+    {
+      "var1": 2024,
+      "var2": "September",
+      "var3": 97,
+      "var4": 1,
+      "var5": 16,
+      "var6": 17,
+      "var7": 11,
+      "var8": 52
+    },
+    {
+      "var1": 2024,
+      "var2": "Oktober",
+      "var3": 136,
+      "var4": 5,
+      "var5": 21,
+      "var6": 39,
+      "var7": 15,
+      "var8": 56
+    },
+    {
+      "var1": 2024,
+      "var2": "November",
+      "var3": 127,
+      "var4": 2,
+      "var5": 26,
+      "var6": 24,
+      "var7": 12,
+      "var8": 63
+    },
+    {
+      "var1": 2024,
+      "var2": "Dezember",
+      "var3": 118,
+      "var4": 2,
+      "var5": 17,
+      "var6": 40,
+      "var7": 7,
+      "var8": 52
+    }
+  ]
+}

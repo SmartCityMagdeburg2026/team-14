@@ -1,0 +1,466 @@
+{
+  "id": "bautaetigkeit-und-wohnen/wohnungsabgaenge-nach-anzahl-der-wohnraeume-in-wohn-und-nichtwohngebaeuden-inkl-gebaeudeteile",
+  "title": "Wohnungsabgänge nach Anzahl der Wohnräume in Wohn- und Nichtwohngebäuden (inkl. Gebäudeteile)",
+  "category": "Bautätigkeit und Wohnen",
+  "subcategory": "Abbruch von Gebäuden und Wohnraum",
+  "tableId": "K6_T27",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bautaetigkeit-und-wohnen/wohnungsabgaenge-nach-anzahl-der-wohnraeume-in-wohn-und-nichtwohngebaeuden-inkl-gebaeudeteile.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Wohnungsabgänge nach Anzahl der Wohnräume in Wohn- und Nichtwohngebäuden (inkl. Gebäudeteile).xlsx"
+  },
+  "description": "Wohnungsabgänge nach Anzahl der Wohnräume. Summe var3..var10 = var2 (Gesamtwohnungen) verifiziert. var11 enthält eine weitere Kennzahl (vermutl. Wohnfläche oder Räume gesamt), Zuordnung unsicher.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Wohnungen gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        300,
+        942,
+        929
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Wohnungen mit 1 Raum",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2,
+        28,
+        0
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Wohnungen mit 2 Räumen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        24,
+        101,
+        173
+      ]
+    },
+    {
+      "key": "var5",
+      "label": "Wohnungen mit 3 Räumen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        85,
+        346,
+        265
+      ]
+    },
+    {
+      "key": "var6",
+      "label": "Wohnungen mit 4 Räumen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        172,
+        418,
+        382
+      ]
+    },
+    {
+      "key": "var7",
+      "label": "Wohnungen mit 5 Räumen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        13,
+        36,
+        97
+      ]
+    },
+    {
+      "key": "var8",
+      "label": "Wohnungen mit 6 Räumen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        4,
+        8,
+        1
+      ]
+    },
+    {
+      "key": "var9",
+      "label": "Wohnungen mit 7 Räumen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        5,
+        11
+      ]
+    },
+    {
+      "key": "var10",
+      "label": "Wohnungen mit 8 oder mehr Räumen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        36,
+        77
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        17138,
+        52255,
+        51344
+      ]
+    }
+  ],
+  "rowCount": 24,
+  "rows": [
+    {
+      "var1": 2001,
+      "var2": 300,
+      "var3": 2,
+      "var4": 24,
+      "var5": 85,
+      "var6": 172,
+      "var7": 13,
+      "var8": 4,
+      "var9": 0,
+      "var10": 0,
+      "var11": 17138
+    },
+    {
+      "var1": 2002,
+      "var2": 942,
+      "var3": 28,
+      "var4": 101,
+      "var5": 346,
+      "var6": 418,
+      "var7": 36,
+      "var8": 8,
+      "var9": 5,
+      "var10": 36,
+      "var11": 52255
+    },
+    {
+      "var1": 2003,
+      "var2": 929,
+      "var3": 0,
+      "var4": 173,
+      "var5": 265,
+      "var6": 382,
+      "var7": 97,
+      "var8": 1,
+      "var9": 11,
+      "var10": 77,
+      "var11": 51344
+    },
+    {
+      "var1": 2004,
+      "var2": 2340,
+      "var3": 0,
+      "var4": 500,
+      "var5": 483,
+      "var6": 921,
+      "var7": 406,
+      "var8": 24,
+      "var9": 6,
+      "var10": 52,
+      "var11": 131172
+    },
+    {
+      "var1": 2005,
+      "var2": 921,
+      "var3": 0,
+      "var4": 73,
+      "var5": 293,
+      "var6": 428,
+      "var7": 124,
+      "var8": 2,
+      "var9": 1,
+      "var10": 21,
+      "var11": 55365
+    },
+    {
+      "var1": 2006,
+      "var2": 1725,
+      "var3": 0,
+      "var4": 464,
+      "var5": 486,
+      "var6": 591,
+      "var7": 165,
+      "var8": 17,
+      "var9": 2,
+      "var10": 14,
+      "var11": 91623
+    },
+    {
+      "var1": 2007,
+      "var2": 710,
+      "var3": 0,
+      "var4": 72,
+      "var5": 271,
+      "var6": 214,
+      "var7": 146,
+      "var8": 3,
+      "var9": 4,
+      "var10": 28,
+      "var11": 39539
+    },
+    {
+      "var1": 2008,
+      "var2": 804,
+      "var3": 0,
+      "var4": 170,
+      "var5": 246,
+      "var6": 311,
+      "var7": 76,
+      "var8": 1,
+      "var9": 0,
+      "var10": 0,
+      "var11": 44737
+    },
+    {
+      "var1": 2009,
+      "var2": 742,
+      "var3": 0,
+      "var4": 92,
+      "var5": 206,
+      "var6": 255,
+      "var7": 183,
+      "var8": 6,
+      "var9": 0,
+      "var10": 0,
+      "var11": 43164
+    },
+    {
+      "var1": 2010,
+      "var2": 547,
+      "var3": 0,
+      "var4": 35,
+      "var5": 152,
+      "var6": 247,
+      "var7": 106,
+      "var8": 6,
+      "var9": 1,
+      "var10": 7,
+      "var11": 35114
+    },
+    {
+      "var1": 2011,
+      "var2": 1054,
+      "var3": 0,
+      "var4": 244,
+      "var5": 193,
+      "var6": 532,
+      "var7": 82,
+      "var8": 3,
+      "var9": 0,
+      "var10": 0,
+      "var11": 58071
+    },
+    {
+      "var1": 2012,
+      "var2": 699,
+      "var3": 0,
+      "var4": 81,
+      "var5": 177,
+      "var6": 328,
+      "var7": 98,
+      "var8": 13,
+      "var9": 2,
+      "var10": 16,
+      "var11": 41466
+    },
+    {
+      "var1": 2013,
+      "var2": 784,
+      "var3": 1,
+      "var4": 90,
+      "var5": 178,
+      "var6": 470,
+      "var7": 43,
+      "var8": 1,
+      "var9": 1,
+      "var10": 7,
+      "var11": 44769
+    },
+    {
+      "var1": 2014,
+      "var2": 336,
+      "var3": 0,
+      "var4": 26,
+      "var5": 90,
+      "var6": 150,
+      "var7": 70,
+      "var8": 0,
+      "var9": 0,
+      "var10": 0,
+      "var11": 20091
+    },
+    {
+      "var1": 2015,
+      "var2": 377,
+      "var3": 0,
+      "var4": 52,
+      "var5": 131,
+      "var6": 114,
+      "var7": 74,
+      "var8": 5,
+      "var9": 1,
+      "var10": 7,
+      "var11": 21372
+    },
+    {
+      "var1": 2016,
+      "var2": 486,
+      "var3": 308,
+      "var4": 42,
+      "var5": 49,
+      "var6": 48,
+      "var7": 37,
+      "var8": 1,
+      "var9": 1,
+      "var10": 7,
+      "var11": 17795
+    },
+    {
+      "var1": 2017,
+      "var2": 530,
+      "var3": 0,
+      "var4": 52,
+      "var5": 104,
+      "var6": 278,
+      "var7": 90,
+      "var8": 3,
+      "var9": 3,
+      "var10": 21,
+      "var11": 31063
+    },
+    {
+      "var1": 2018,
+      "var2": 22,
+      "var3": 0,
+      "var4": 0,
+      "var5": 7,
+      "var6": 8,
+      "var7": 4,
+      "var8": 1,
+      "var9": 2,
+      "var10": 15,
+      "var11": 1710
+    },
+    {
+      "var1": 2019,
+      "var2": 186,
+      "var3": 0,
+      "var4": 1,
+      "var5": 39,
+      "var6": 119,
+      "var7": 24,
+      "var8": 3,
+      "var9": 0,
+      "var10": 0,
+      "var11": 11333
+    },
+    {
+      "var1": 2020,
+      "var2": 274,
+      "var3": 0,
+      "var4": 2,
+      "var5": 34,
+      "var6": 197,
+      "var7": 37,
+      "var8": 3,
+      "var9": 1,
+      "var10": 7,
+      "var11": 16736
+    },
+    {
+      "var1": 2021,
+      "var2": 42,
+      "var3": 1,
+      "var4": 10,
+      "var5": 12,
+      "var6": 8,
+      "var7": 5,
+      "var8": 3,
+      "var9": 3,
+      "var10": 21,
+      "var11": 2769
+    },
+    {
+      "var1": 2022,
+      "var2": 5,
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 1,
+      "var7": 2,
+      "var8": 0,
+      "var9": 2,
+      "var10": 16,
+      "var11": 419
+    },
+    {
+      "var1": 2023,
+      "var2": 10,
+      "var3": 0,
+      "var4": 0,
+      "var5": 3,
+      "var6": 2,
+      "var7": 4,
+      "var8": 0,
+      "var9": 1,
+      "var10": 8,
+      "var11": 1018
+    },
+    {
+      "var1": 2024,
+      "var2": 252,
+      "var3": 0,
+      "var4": 40,
+      "var5": 85,
+      "var6": 82,
+      "var7": 43,
+      "var8": 2,
+      "var9": 0,
+      "var10": 0,
+      "var11": 14983
+    }
+  ]
+}

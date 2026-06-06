@@ -1,0 +1,1058 @@
+{
+  "id": "oeffentliche-ordnung/einsaetze-der-feuerwehr",
+  "title": "Einsätze der Feuerwehr",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Feuerwehr",
+  "tableId": "K11_T15",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/einsaetze-der-feuerwehr.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Einsätze der Feuerwehr.xlsx"
+  },
+  "description": "Diese Tabelle zeigt die Anzahl der Einsätze der Feuerwehr über die Jahre.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2019,
+        2019,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Art des Einsatzes",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Ereignisse der Berufsfeuerwehr insgesamt",
+        "davon:",
+        "Rettungsdiensteinsätze insgesamt"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Einsätze",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        10431,
+        5422,
+        5045
+      ]
+    }
+  ],
+  "rowCount": 200,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": "Ereignisse der Berufsfeuerwehr insgesamt",
+      "var3": 10431
+    },
+    {
+      "var1": 2019,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Rettungsdiensteinsätze insgesamt",
+      "var3": 5422
+    },
+    {
+      "var1": 2019,
+      "var2": "Alarmierungen insgesamt",
+      "var3": 5045
+    },
+    {
+      "var1": 2019,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Brände gesamt",
+      "var3": 581
+    },
+    {
+      "var1": 2019,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Großbrände",
+      "var3": 5
+    },
+    {
+      "var1": 2019,
+      "var2": "Mittelbrände",
+      "var3": 41
+    },
+    {
+      "var1": 2019,
+      "var2": "Kleinbrände b",
+      "var3": 269
+    },
+    {
+      "var1": 2019,
+      "var2": "Kleinbrände a",
+      "var3": 170
+    },
+    {
+      "var1": 2019,
+      "var2": "vor Ankunft gelöscht",
+      "var3": 96
+    },
+    {
+      "var1": 2019,
+      "var2": "Hilfeleistungseinsätze gesamt",
+      "var3": 3102
+    },
+    {
+      "var1": 2019,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Verkehrsunfälle ohne Person in Notlage",
+      "var3": 22
+    },
+    {
+      "var1": 2019,
+      "var2": "Person in Notlage (Türöffnung und sonstige Einsätze Person in Notlage)",
+      "var3": 604
+    },
+    {
+      "var1": 2019,
+      "var2": "Tierrettung",
+      "var3": 841
+    },
+    {
+      "var1": 2019,
+      "var2": "Sturmschaden und Baumschaden",
+      "var3": 88
+    },
+    {
+      "var1": 2019,
+      "var2": "darunter: Baumschaden",
+      "var3": 31
+    },
+    {
+      "var1": 2019,
+      "var2": "Wasserschaden/Wasserrohrbruch",
+      "var3": 55
+    },
+    {
+      "var1": 2019,
+      "var2": "Bauschaden",
+      "var3": 4
+    },
+    {
+      "var1": 2019,
+      "var2": "ausgelaufene Flüssigkeit",
+      "var3": 112
+    },
+    {
+      "var1": 2019,
+      "var2": "Tauchereinsätze zur Personenrettung",
+      "var3": 4
+    },
+    {
+      "var1": 2019,
+      "var2": "sonst. Tauchereinsätze",
+      "var3": 4
+    },
+    {
+      "var1": 2019,
+      "var2": "Unwetter",
+      "var3": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Hilfeleistungseinsätze gesamt",
+      "var3": null
+    },
+    {
+      "var1": 2019,
+      "var2": "kostenfreie Hilfeleistungseinsätze",
+      "var3": 2846
+    },
+    {
+      "var1": 2019,
+      "var2": "kostenpflichtige Hilfeleistungseinsätze",
+      "var3": 256
+    },
+    {
+      "var1": 2019,
+      "var2": "sonstige Ergeignisse",
+      "var3": 1059
+    },
+    {
+      "var1": 2019,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Schutzmaßnahmen für Personen mit psychischen Erkrankungen",
+      "var3": 471
+    },
+    {
+      "var1": 2019,
+      "var2": "Tierkadaverbeseitigung",
+      "var3": 420
+    },
+    {
+      "var1": 2019,
+      "var2": "sonstige Ereignisse",
+      "var3": 168
+    },
+    {
+      "var1": 2019,
+      "var2": "Fehlalarmierungen gesamt",
+      "var3": 1326
+    },
+    {
+      "var1": 2019,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2019,
+      "var2": "blinde Alarme",
+      "var3": 1327
+    },
+    {
+      "var1": 2019,
+      "var2": "darunter: durch Brandmeldeanlagen",
+      "var3": 254
+    },
+    {
+      "var1": 2019,
+      "var2": "böswillige Alarme",
+      "var3": 35
+    },
+    {
+      "var1": 2019,
+      "var2": "sonstige Rauchmelder",
+      "var3": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Alarmeinsätze Freiwillige Feuerwehren  insgesamt",
+      "var3": 540
+    },
+    {
+      "var1": 2020,
+      "var2": "Ereignisse der Berufsfeuerwehr insgesamt",
+      "var3": 9665
+    },
+    {
+      "var1": 2020,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Rettungsdiensteinsätze insgesamt",
+      "var3": 4911
+    },
+    {
+      "var1": 2020,
+      "var2": "Alarmierungen insgesamt",
+      "var3": 4754
+    },
+    {
+      "var1": 2020,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Brände gesamt",
+      "var3": 562
+    },
+    {
+      "var1": 2020,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Großbrände",
+      "var3": 9
+    },
+    {
+      "var1": 2020,
+      "var2": "Mittelbrände",
+      "var3": 50
+    },
+    {
+      "var1": 2020,
+      "var2": "Kleinbrände b",
+      "var3": 259
+    },
+    {
+      "var1": 2020,
+      "var2": "Kleinbrände a",
+      "var3": 153
+    },
+    {
+      "var1": 2020,
+      "var2": "vor Ankunft gelöscht",
+      "var3": 91
+    },
+    {
+      "var1": 2020,
+      "var2": "Hilfeleistungseinsätze gesamt",
+      "var3": 2980
+    },
+    {
+      "var1": 2020,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Verkehrsunfälle ohne Person in Notlage",
+      "var3": 16
+    },
+    {
+      "var1": 2020,
+      "var2": "Person in Notlage (Türöffnung und sonstige Einsätze Person in Notlage)",
+      "var3": 529
+    },
+    {
+      "var1": 2020,
+      "var2": "Tierrettung",
+      "var3": 627
+    },
+    {
+      "var1": 2020,
+      "var2": "Sturmschaden und Baumschaden",
+      "var3": 152
+    },
+    {
+      "var1": 2020,
+      "var2": "darunter: Baumschaden",
+      "var3": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Wasserschaden/Wasserrohrbruch",
+      "var3": 48
+    },
+    {
+      "var1": 2020,
+      "var2": "Bauschaden",
+      "var3": 5
+    },
+    {
+      "var1": 2020,
+      "var2": "ausgelaufene Flüssigkeit",
+      "var3": 128
+    },
+    {
+      "var1": 2020,
+      "var2": "Tauchereinsätze zur Personenrettung",
+      "var3": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "sonst. Tauchereinsätze",
+      "var3": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Unwetter",
+      "var3": 36
+    },
+    {
+      "var1": 2020,
+      "var2": "Hilfeleistungseinsätze gesamt",
+      "var3": 2904
+    },
+    {
+      "var1": 2020,
+      "var2": "kostenfreie Hilfeleistungseinsätze",
+      "var3": 2707
+    },
+    {
+      "var1": 2020,
+      "var2": "kostenpflichtige Hilfeleistungseinsätze",
+      "var3": 197
+    },
+    {
+      "var1": 2020,
+      "var2": "sonstige Ergeignisse",
+      "var3": 1020
+    },
+    {
+      "var1": 2020,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Schutzmaßnahmen für Personen mit psychischen Erkrankungen",
+      "var3": 426
+    },
+    {
+      "var1": 2020,
+      "var2": "Tierkadaverbeseitigung",
+      "var3": 291
+    },
+    {
+      "var1": 2020,
+      "var2": "sonstige Ereignisse",
+      "var3": 303
+    },
+    {
+      "var1": 2020,
+      "var2": "Fehlalarmierungen gesamt",
+      "var3": 1288
+    },
+    {
+      "var1": 2020,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2020,
+      "var2": "blinde Alarme",
+      "var3": 1006
+    },
+    {
+      "var1": 2020,
+      "var2": "darunter: durch Brandmeldeanlagen",
+      "var3": 250
+    },
+    {
+      "var1": 2020,
+      "var2": "böswillige Alarme",
+      "var3": 32
+    },
+    {
+      "var1": 2020,
+      "var2": "sonstige Rauchmelder",
+      "var3": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Alarmeinsätze Freiwillige Feuerwehren  insgesamt",
+      "var3": 583
+    },
+    {
+      "var1": 2021,
+      "var2": "Ereignisse der Berufsfeuerwehr insgesamt",
+      "var3": 9850
+    },
+    {
+      "var1": 2021,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Rettungsdiensteinsätze insgesamt",
+      "var3": 5044
+    },
+    {
+      "var1": 2021,
+      "var2": "Alarmierungen insgesamt",
+      "var3": 4806
+    },
+    {
+      "var1": 2021,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Brände gesamt",
+      "var3": 521
+    },
+    {
+      "var1": 2021,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Großbrände",
+      "var3": 3
+    },
+    {
+      "var1": 2021,
+      "var2": "Mittelbrände",
+      "var3": 41
+    },
+    {
+      "var1": 2021,
+      "var2": "Kleinbrände b",
+      "var3": 202
+    },
+    {
+      "var1": 2021,
+      "var2": "Kleinbrände a",
+      "var3": 144
+    },
+    {
+      "var1": 2021,
+      "var2": "vor Ankunft gelöscht",
+      "var3": 131
+    },
+    {
+      "var1": 2021,
+      "var2": "Hilfeleistungseinsätze gesamt",
+      "var3": 2893
+    },
+    {
+      "var1": 2021,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Verkehrsunfälle ohne Person in Notlage",
+      "var3": 28
+    },
+    {
+      "var1": 2021,
+      "var2": "Person in Notlage (Türöffnung und sonstige Einsätze Person in Notlage)",
+      "var3": 885
+    },
+    {
+      "var1": 2021,
+      "var2": "Tierrettung",
+      "var3": 587
+    },
+    {
+      "var1": 2021,
+      "var2": "Sturmschaden und Baumschaden",
+      "var3": 72
+    },
+    {
+      "var1": 2021,
+      "var2": "darunter: Baumschaden",
+      "var3": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Wasserschaden/Wasserrohrbruch",
+      "var3": 60
+    },
+    {
+      "var1": 2021,
+      "var2": "Bauschaden",
+      "var3": 2
+    },
+    {
+      "var1": 2021,
+      "var2": "ausgelaufene Flüssigkeit",
+      "var3": 163
+    },
+    {
+      "var1": 2021,
+      "var2": "Tauchereinsätze zur Personenrettung",
+      "var3": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "sonst. Tauchereinsätze",
+      "var3": 8
+    },
+    {
+      "var1": 2021,
+      "var2": "Unwetter",
+      "var3": 27
+    },
+    {
+      "var1": 2021,
+      "var2": "Hilfeleistungseinsätze gesamt",
+      "var3": 2067
+    },
+    {
+      "var1": 2021,
+      "var2": "kostenfreie Hilfeleistungseinsätze",
+      "var3": 1827
+    },
+    {
+      "var1": 2021,
+      "var2": "kostenpflichtige Hilfeleistungseinsätze",
+      "var3": 240
+    },
+    {
+      "var1": 2021,
+      "var2": "sonstige Ergeignisse",
+      "var3": 826
+    },
+    {
+      "var1": 2021,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Schutzmaßnahmen für Personen mit psychischen Erkrankungen",
+      "var3": 418
+    },
+    {
+      "var1": 2021,
+      "var2": "Tierkadaverbeseitigung",
+      "var3": 308
+    },
+    {
+      "var1": 2021,
+      "var2": "sonstige Ereignisse",
+      "var3": 100
+    },
+    {
+      "var1": 2021,
+      "var2": "Fehlalarmierungen gesamt",
+      "var3": 1392
+    },
+    {
+      "var1": 2021,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2021,
+      "var2": "blinde Alarme",
+      "var3": 997
+    },
+    {
+      "var1": 2021,
+      "var2": "darunter: durch Brandmeldeanlagen",
+      "var3": 325
+    },
+    {
+      "var1": 2021,
+      "var2": "böswillige Alarme",
+      "var3": 24
+    },
+    {
+      "var1": 2021,
+      "var2": "sonstige Rauchmelder",
+      "var3": 45
+    },
+    {
+      "var1": 2021,
+      "var2": "Alarmeinsätze Freiwillige Feuerwehren  insgesamt",
+      "var3": 468
+    },
+    {
+      "var1": 2022,
+      "var2": "Ereignisse der Berufsfeuerwehr insgesamt",
+      "var3": 10884
+    },
+    {
+      "var1": 2022,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Rettungsdiensteinsätze insgesamt",
+      "var3": 5549
+    },
+    {
+      "var1": 2022,
+      "var2": "Alarmierungen insgesamt",
+      "var3": null
+    },
+    {
+      "var1": 2022,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Brände gesamt",
+      "var3": 664
+    },
+    {
+      "var1": 2022,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Großbrände",
+      "var3": 7
+    },
+    {
+      "var1": 2022,
+      "var2": "Mittelbrände",
+      "var3": 36
+    },
+    {
+      "var1": 2022,
+      "var2": "Kleinbrände b",
+      "var3": 262
+    },
+    {
+      "var1": 2022,
+      "var2": "Kleinbrände a",
+      "var3": 200
+    },
+    {
+      "var1": 2022,
+      "var2": "vor Ankunft gelöscht",
+      "var3": 159
+    },
+    {
+      "var1": 2022,
+      "var2": "Hilfeleistungseinsätze gesamt",
+      "var3": 3176
+    },
+    {
+      "var1": 2022,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Verkehrsunfälle ohne Person in Notlage",
+      "var3": 14
+    },
+    {
+      "var1": 2022,
+      "var2": "Türöffnung und sonstige Einsätze Person in Notlage",
+      "var3": 1012
+    },
+    {
+      "var1": 2022,
+      "var2": "Tierrettung",
+      "var3": 669
+    },
+    {
+      "var1": 2022,
+      "var2": "Sturmschaden und Baumschaden",
+      "var3": 211
+    },
+    {
+      "var1": 2022,
+      "var2": "darunter: Baumschaden",
+      "var3": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Wasserschaden/Wasserrohrbruch",
+      "var3": 63
+    },
+    {
+      "var1": 2022,
+      "var2": "Bauschaden",
+      "var3": 2
+    },
+    {
+      "var1": 2022,
+      "var2": "ausgelaufene Flüssigkeit",
+      "var3": 151
+    },
+    {
+      "var1": 2022,
+      "var2": "Tauchereinsätze zur Personenrettung",
+      "var3": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "sonst. Tauchereinsätze",
+      "var3": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Unwetter",
+      "var3": 4
+    },
+    {
+      "var1": 2022,
+      "var2": "Hilfeleistungseinsätze gesamt",
+      "var3": 2242
+    },
+    {
+      "var1": 2022,
+      "var2": "kostenfreie Hilfeleistungseinsätze",
+      "var3": 2017
+    },
+    {
+      "var1": 2022,
+      "var2": "kostenpflichtige Hilfeleistungseinsätze",
+      "var3": 224
+    },
+    {
+      "var1": 2022,
+      "var2": "sonstige Ergeignisse",
+      "var3": 935
+    },
+    {
+      "var1": 2022,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Schutzmaßnahmen für Personen mit psychischen Erkrankungen",
+      "var3": 428
+    },
+    {
+      "var1": 2022,
+      "var2": "Tierkadaverbeseitigung",
+      "var3": 391
+    },
+    {
+      "var1": 2022,
+      "var2": "sonstige Ereignisse",
+      "var3": 116
+    },
+    {
+      "var1": 2022,
+      "var2": "Fehlalarmierungen gesamt",
+      "var3": 1494
+    },
+    {
+      "var1": 2022,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2022,
+      "var2": "blinde Alarme",
+      "var3": 1034
+    },
+    {
+      "var1": 2022,
+      "var2": "darunter: durch Brandmeldeanlagen",
+      "var3": 338
+    },
+    {
+      "var1": 2022,
+      "var2": "böswillige Alarme",
+      "var3": 42
+    },
+    {
+      "var1": 2022,
+      "var2": "sonstige Rauchmelder",
+      "var3": 80
+    },
+    {
+      "var1": 2022,
+      "var2": "Alarmeinsätze Freiwillige Feuerwehren  insgesamt",
+      "var3": 610
+    },
+    {
+      "var1": 2023,
+      "var2": "Ereignisse der Berufsfeuerwehr insgesamt",
+      "var3": 12688
+    },
+    {
+      "var1": 2023,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Rettungsdiensteinsätze insgesamt",
+      "var3": 7713
+    },
+    {
+      "var1": 2023,
+      "var2": "Alarmierungen insgesamt",
+      "var3": null
+    },
+    {
+      "var1": 2023,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Brände gesamt",
+      "var3": 575
+    },
+    {
+      "var1": 2023,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Großbrände",
+      "var3": 2
+    },
+    {
+      "var1": 2023,
+      "var2": "Mittelbrände",
+      "var3": 24
+    },
+    {
+      "var1": 2023,
+      "var2": "Kleinbrände b",
+      "var3": 211
+    },
+    {
+      "var1": 2023,
+      "var2": "Kleinbrände a",
+      "var3": 167
+    },
+    {
+      "var1": 2023,
+      "var2": "vor Ankunft gelöscht",
+      "var3": 171
+    },
+    {
+      "var1": 2023,
+      "var2": "Hilfeleistungseinsätze gesamt",
+      "var3": null
+    },
+    {
+      "var1": 2023,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Verkehrsunfälle ohne Person in Notlage",
+      "var3": 30
+    },
+    {
+      "var1": 2023,
+      "var2": "Türöffnung und sonstige Einsätze Person in Notlage",
+      "var3": 994
+    },
+    {
+      "var1": 2023,
+      "var2": "Tierrettung",
+      "var3": 557
+    },
+    {
+      "var1": 2023,
+      "var2": "Sturmschaden und Baumschaden",
+      "var3": 178
+    },
+    {
+      "var1": 2023,
+      "var2": "darunter: Baumschaden",
+      "var3": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Wasserschaden/Wasserrohrbruch",
+      "var3": 69
+    },
+    {
+      "var1": 2023,
+      "var2": "Bauschaden",
+      "var3": 2
+    },
+    {
+      "var1": 2023,
+      "var2": "ausgelaufene Flüssigkeit",
+      "var3": 133
+    },
+    {
+      "var1": 2023,
+      "var2": "Tauchereinsätze zur Personenrettung",
+      "var3": null
+    },
+    {
+      "var1": 2023,
+      "var2": "sonst. Tauchereinsätze",
+      "var3": 4
+    },
+    {
+      "var1": 2023,
+      "var2": "Unwetter",
+      "var3": 14
+    },
+    {
+      "var1": 2023,
+      "var2": "Hilfeleistungseinsätze gesamt",
+      "var3": 2113
+    },
+    {
+      "var1": 2023,
+      "var2": "kostenfreie Hilfeleistungseinsätze",
+      "var3": 1878
+    },
+    {
+      "var1": 2023,
+      "var2": "kostenpflichtige Hilfeleistungseinsätze",
+      "var3": 235
+    },
+    {
+      "var1": 2023,
+      "var2": "sonstige Ergeignisse",
+      "var3": 971
+    },
+    {
+      "var1": 2023,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Schutzmaßnahmen für Personen mit psychischen Erkrankungen",
+      "var3": 473
+    },
+    {
+      "var1": 2023,
+      "var2": "Tierkadaverbeseitigung",
+      "var3": 351
+    },
+    {
+      "var1": 2023,
+      "var2": "sonstige Ereignisse",
+      "var3": 147
+    },
+    {
+      "var1": 2023,
+      "var2": "Fehlalarmierungen gesamt",
+      "var3": 1316
+    },
+    {
+      "var1": 2023,
+      "var2": "davon:",
+      "var3": null
+    },
+    {
+      "var1": 2023,
+      "var2": "blinde Alarme",
+      "var3": 891
+    },
+    {
+      "var1": 2023,
+      "var2": "darunter: durch Brandmeldeanlagen",
+      "var3": 358
+    },
+    {
+      "var1": 2023,
+      "var2": "böswillige Alarme",
+      "var3": 22
+    },
+    {
+      "var1": 2023,
+      "var2": "sonstige Rauchmelder",
+      "var3": 45
+    },
+    {
+      "var1": 2023,
+      "var2": "Alarmeinsätze Freiwillige Feuerwehren  insgesamt",
+      "var3": 591
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "id": "arbeitsmarkt/zwangsraeumungen-von-wohnraum",
+  "title": "Zwangsräumungen von Wohnraum",
+  "category": "Arbeitsmarkt",
+  "subcategory": "Sozialhilfe, sozialer Dienst, Betreuung von Schuldnern",
+  "tableId": "K4_T23",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/arbeitsmarkt/zwangsraeumungen-von-wohnraum.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Zwangsräumungen von Wohnraum.xlsx"
+  },
+  "description": "Zwangsräumungen von Wohnraum. Die 6 Detail-Spalten (vermutl. Anträge/Durchführungen × verschiedene Kategorien) waren nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2018,
+        2019,
+        2020
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        383,
+        321,
+        296
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        304,
+        247,
+        230
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        667,
+        482,
+        503
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        278,
+        240,
+        223
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        177,
+        113,
+        116
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        212,
+        129,
+        164
+      ]
+    }
+  ],
+  "rowCount": 7,
+  "rows": [
+    {
+      "var1": 2018,
+      "var2": 383,
+      "var3": 304,
+      "var4": 667,
+      "var5": 278,
+      "var6": 177,
+      "var7": 212
+    },
+    {
+      "var1": 2019,
+      "var2": 321,
+      "var3": 247,
+      "var4": 482,
+      "var5": 240,
+      "var6": 113,
+      "var7": 129
+    },
+    {
+      "var1": 2020,
+      "var2": 296,
+      "var3": 230,
+      "var4": 503,
+      "var5": 223,
+      "var6": 116,
+      "var7": 164
+    },
+    {
+      "var1": 2021,
+      "var2": 323,
+      "var3": 238,
+      "var4": 161,
+      "var5": 72,
+      "var6": 41,
+      "var7": 48
+    },
+    {
+      "var1": 2022,
+      "var2": 314,
+      "var3": 279,
+      "var4": 504,
+      "var5": 212,
+      "var6": 121,
+      "var7": 171
+    },
+    {
+      "var1": 2023,
+      "var2": 363,
+      "var3": 307,
+      "var4": 605,
+      "var5": 287,
+      "var6": 170,
+      "var7": 148
+    },
+    {
+      "var1": 2024,
+      "var2": 406,
+      "var3": 229,
+      "var4": 705,
+      "var5": 308,
+      "var6": 210,
+      "var7": 187
+    }
+  ]
+}

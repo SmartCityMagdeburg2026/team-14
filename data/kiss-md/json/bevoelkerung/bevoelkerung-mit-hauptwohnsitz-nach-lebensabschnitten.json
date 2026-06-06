@@ -1,0 +1,284 @@
+{
+  "id": "bevoelkerung/bevoelkerung-mit-hauptwohnsitz-nach-lebensabschnitten",
+  "title": "Bevölkerung mit Hauptwohnsitz nach Lebensabschnitten",
+  "category": "Bevölkerung",
+  "subcategory": "Bevölkerungsentwicklung",
+  "tableId": "K3_T8",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bevoelkerung/bevoelkerung-mit-hauptwohnsitz-nach-lebensabschnitten.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Bevölkerung mit Hauptwohnsitz nach Lebensabschnitten.xlsx"
+  },
+  "description": "Bevölkerung mit Hauptwohnsitz nach Lebensabschnitten. Spalten var2..var11 entsprechen verschiedenen Altersgruppen, deren Zuordnung nicht aus den Rohdaten ableitbar ist.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2281,
+        2217,
+        2160
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        13020,
+        13335,
+        13357
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        34344,
+        35377,
+        35853
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        16278,
+        16854,
+        17390
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5046,
+        5188,
+        5106
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        154288,
+        153332,
+        152757
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        206790,
+        206392,
+        206317
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        57548,
+        58248,
+        58666
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        41320,
+        41245,
+        41405
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        241134,
+        241769,
+        242170
+      ]
+    }
+  ],
+  "rowCount": 10,
+  "rows": [
+    {
+      "var1": 2016,
+      "var2": 2281,
+      "var3": 13020,
+      "var4": 34344,
+      "var5": 16278,
+      "var6": 5046,
+      "var7": 154288,
+      "var8": 206790,
+      "var9": 57548,
+      "var10": 41320,
+      "var11": 241134
+    },
+    {
+      "var1": 2017,
+      "var2": 2217,
+      "var3": 13335,
+      "var4": 35377,
+      "var5": 16854,
+      "var6": 5188,
+      "var7": 153332,
+      "var8": 206392,
+      "var9": 58248,
+      "var10": 41245,
+      "var11": 241769
+    },
+    {
+      "var1": 2018,
+      "var2": 2160,
+      "var3": 13357,
+      "var4": 35853,
+      "var5": 17390,
+      "var6": 5106,
+      "var7": 152757,
+      "var8": 206317,
+      "var9": 58666,
+      "var10": 41405,
+      "var11": 242170
+    },
+    {
+      "var1": 2019,
+      "var2": 2089,
+      "var3": 13144,
+      "var4": 35820,
+      "var5": 17496,
+      "var6": 5180,
+      "var7": 151196,
+      "var8": 205127,
+      "var9": 59111,
+      "var10": 41136,
+      "var11": 240947
+    },
+    {
+      "var1": 2020,
+      "var2": 1983,
+      "var3": 12797,
+      "var4": 35795,
+      "var5": 17707,
+      "var6": 5291,
+      "var7": 149419,
+      "var8": 203613,
+      "var9": 59485,
+      "var10": 41116,
+      "var11": 239408
+    },
+    {
+      "var1": 2021,
+      "var2": 1965,
+      "var3": 12643,
+      "var4": 36061,
+      "var5": 17960,
+      "var6": 5458,
+      "var7": 149866,
+      "var8": 203909,
+      "var9": 59501,
+      "var10": 41462,
+      "var11": 239970
+    },
+    {
+      "var1": 2022,
+      "var2": 1883,
+      "var3": 12468,
+      "var4": 37233,
+      "var5": 18969,
+      "var6": 5796,
+      "var7": 151721,
+      "var8": 205520,
+      "var9": 59595,
+      "var10": 42656,
+      "var11": 242753
+    },
+    {
+      "var1": 2023,
+      "var2": 1551,
+      "var3": 11866,
+      "var4": 37042,
+      "var5": 19089,
+      "var6": 6087,
+      "var7": 153008,
+      "var8": 206377,
+      "var9": 59456,
+      "var10": 42914,
+      "var11": 243419
+    },
+    {
+      "var1": 2024,
+      "var2": 1326,
+      "var3": 11215,
+      "var4": 36677,
+      "var5": 19339,
+      "var6": 6123,
+      "var7": 155120,
+      "var8": 208844,
+      "var9": 59847,
+      "var10": 43640,
+      "var11": 245521
+    },
+    {
+      "var1": 2025,
+      "var2": 1461,
+      "var3": 10729,
+      "var4": 36177,
+      "var5": 19236,
+      "var6": 6212,
+      "var7": 155524,
+      "var8": 209657,
+      "var9": 60345,
+      "var10": 43947,
+      "var11": 245834
+    }
+  ]
+}

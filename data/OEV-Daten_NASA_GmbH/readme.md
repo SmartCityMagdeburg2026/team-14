@@ -1,0 +1,2 @@
+Lizenz: Creative Commons Namensnennung 4.0 International (CC BY 4.0)  
+Datenquelle: Nahverkehrsservice Sachsen-Anhalt GmbH (NASA GmbH) sowie die jeweiligen Verkehrsunternehmen, die die Daten bereitstellen (z. B. Magdeburger Verkehrsbetriebe GmbH & Co. KG)

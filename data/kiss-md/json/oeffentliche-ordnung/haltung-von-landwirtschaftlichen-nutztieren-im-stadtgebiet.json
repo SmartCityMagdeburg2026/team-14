@@ -1,0 +1,310 @@
+{
+  "id": "oeffentliche-ordnung/haltung-von-landwirtschaftlichen-nutztieren-im-stadtgebiet",
+  "title": "Haltung von landwirtschaftlichen Nutztieren im Stadtgebiet",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Veterinärwesen und Lebensmittelüberwachung",
+  "tableId": "K11_T28",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/haltung-von-landwirtschaftlichen-nutztieren-im-stadtgebiet.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Haltung von landwirtschaftlichen Nutztieren im Stadtgebiet.xlsx"
+  },
+  "description": "Haltung von landwirtschaftlichen Nutztieren im Stadtgebiet. var3..var11 entsprechen verschiedenen Tierarten oder Bestandsgrößen-Klassen, deren Zuordnung nicht eindeutig war.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2019,
+        2019,
+        2020
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Tierart / Bestandsgruppe",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Bestände",
+        "gehaltene Tiere",
+        "Bestände"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        3,
+        556,
+        3
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        4,
+        18,
+        3
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        30,
+        177,
+        29
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        61,
+        2198,
+        62
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        21,
+        65,
+        23
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        542,
+        8261,
+        567
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        474,
+        5055,
+        497
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        62,
+        2158,
+        67
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        6,
+        1048,
+        3
+      ]
+    }
+  ],
+  "rowCount": 12,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": "Bestände",
+      "var3": 3,
+      "var4": 4,
+      "var5": 30,
+      "var6": 61,
+      "var7": 21,
+      "var8": 542,
+      "var9": 474,
+      "var10": 62,
+      "var11": 6
+    },
+    {
+      "var1": 2019,
+      "var2": "gehaltene Tiere",
+      "var3": 556,
+      "var4": 18,
+      "var5": 177,
+      "var6": 2198,
+      "var7": 65,
+      "var8": 8261,
+      "var9": 5055,
+      "var10": 2158,
+      "var11": 1048
+    },
+    {
+      "var1": 2020,
+      "var2": "Bestände",
+      "var3": 3,
+      "var4": 3,
+      "var5": 29,
+      "var6": 62,
+      "var7": 23,
+      "var8": 567,
+      "var9": 497,
+      "var10": 67,
+      "var11": 3
+    },
+    {
+      "var1": 2020,
+      "var2": "gehaltene Tiere",
+      "var3": 541,
+      "var4": 6,
+      "var5": 184,
+      "var6": 2199,
+      "var7": 81,
+      "var8": 8109,
+      "var9": 5225,
+      "var10": 2244,
+      "var11": 640
+    },
+    {
+      "var1": 2021,
+      "var2": "Bestände",
+      "var3": 3,
+      "var4": 4,
+      "var5": 29,
+      "var6": 62,
+      "var7": 23,
+      "var8": 605,
+      "var9": 539,
+      "var10": 63,
+      "var11": 3
+    },
+    {
+      "var1": 2021,
+      "var2": "gehaltene Tiere",
+      "var3": 497,
+      "var4": 8,
+      "var5": 211,
+      "var6": 2213,
+      "var7": 76,
+      "var8": 8398,
+      "var9": 5307,
+      "var10": 2448,
+      "var11": 643
+    },
+    {
+      "var1": 2022,
+      "var2": "Bestände",
+      "var3": 3,
+      "var4": 4,
+      "var5": 30,
+      "var6": 63,
+      "var7": 27,
+      "var8": 642,
+      "var9": 572,
+      "var10": 68,
+      "var11": 2
+    },
+    {
+      "var1": 2022,
+      "var2": "gehaltene Tiere",
+      "var3": 475,
+      "var4": 8,
+      "var5": 216,
+      "var6": 989,
+      "var7": 94,
+      "var8": 9382,
+      "var9": 5925,
+      "var10": 2911,
+      "var11": 546
+    },
+    {
+      "var1": 2023,
+      "var2": "Bestände",
+      "var3": 2,
+      "var4": 4,
+      "var5": 27,
+      "var6": 54,
+      "var7": 25,
+      "var8": 720,
+      "var9": 650,
+      "var10": 65,
+      "var11": 5
+    },
+    {
+      "var1": 2023,
+      "var2": "gehaltene Tiere",
+      "var3": 311,
+      "var4": 5,
+      "var5": 167,
+      "var6": 432,
+      "var7": 261,
+      "var8": 9175,
+      "var9": 6075,
+      "var10": 2472,
+      "var11": 628
+    },
+    {
+      "var1": 2024,
+      "var2": "Bestände",
+      "var3": 1,
+      "var4": 4,
+      "var5": 25,
+      "var6": 53,
+      "var7": 25,
+      "var8": 509,
+      "var9": 451,
+      "var10": 54,
+      "var11": 4
+    },
+    {
+      "var1": 2024,
+      "var2": "gehaltene Tiere",
+      "var3": 594,
+      "var4": 8,
+      "var5": 187,
+      "var6": 1000,
+      "var7": 194,
+      "var8": 6942,
+      "var9": 3995,
+      "var10": 2139,
+      "var11": 808
+    }
+  ]
+}

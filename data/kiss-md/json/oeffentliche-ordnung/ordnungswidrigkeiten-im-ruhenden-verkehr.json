@@ -1,0 +1,553 @@
+{
+  "id": "oeffentliche-ordnung/ordnungswidrigkeiten-im-ruhenden-verkehr",
+  "title": "Ordnungswidrigkeiten im ruhenden Verkehr",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Ordnungswidrigkeiten",
+  "tableId": "K11_T13",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/ordnungswidrigkeiten-im-ruhenden-verkehr.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Ordnungswidrigkeiten im ruhenden Verkehr.xlsx"
+  },
+  "description": "Diese Tabelle zeigt die Entwicklung der Anzahl von Ordnungswidrigkeiten im ruhenden Verkehr über die Jahre.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2021,
+        2021,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Art der Ordnungswidrigkeit",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Anzahl der erteilten Verwarnungen (Knöllchen)",
+        "Anzahl der abgeschlossenen Verwarnungsfälle - Erledigung durch Zahlung",
+        "Anzahl der erlassenen Kostenbescheide"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Vorgänge",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        72017,
+        58932,
+        17892
+      ]
+    }
+  ],
+  "rowCount": 99,
+  "rows": [
+    {
+      "var1": 2021,
+      "var2": "Anzahl der erteilten Verwarnungen (Knöllchen)",
+      "var3": 72017
+    },
+    {
+      "var1": 2021,
+      "var2": "Anzahl der abgeschlossenen Verwarnungsfälle - Erledigung durch Zahlung",
+      "var3": 58932
+    },
+    {
+      "var1": 2021,
+      "var2": "Anzahl der erlassenen Kostenbescheide",
+      "var3": 17892
+    },
+    {
+      "var1": 2021,
+      "var2": "Anzahl der eingeleiteten Bußgeldverfahren gesamt",
+      "var3": 2334
+    },
+    {
+      "var1": 2021,
+      "var2": "Anzahl der eingestellten Fälle vor Bußgeldbescheid gesamt",
+      "var3": 2200
+    },
+    {
+      "var1": 2021,
+      "var2": "Einsprüche / Anträge gegen Bescheide gesamt",
+      "var3": 165
+    },
+    {
+      "var1": 2021,
+      "var2": "davon: gegen Bußgeldbescheide",
+      "var3": 118
+    },
+    {
+      "var1": 2021,
+      "var2": "gegen Kostenbescheide",
+      "var3": 47
+    },
+    {
+      "var1": 2021,
+      "var2": "Einspruchsverwerfungen (verfristete Einsprüche)",
+      "var3": 25
+    },
+    {
+      "var1": 2021,
+      "var2": "davon: durch die Verwaltungsbehörde verworfen",
+      "var3": 10
+    },
+    {
+      "var1": 2021,
+      "var2": "durch das Gericht abgewiesene Anträge",
+      "var3": 15
+    },
+    {
+      "var1": 2021,
+      "var2": "Rücknahme der Einsprüche durch die Betroffenen",
+      "var3": 53
+    },
+    {
+      "var1": 2021,
+      "var2": "davon: Rücknahme bei der Verwaltungsbehörde",
+      "var3": 37
+    },
+    {
+      "var1": 2021,
+      "var2": "Rücknahme bei der Justizbehörde",
+      "var3": 16
+    },
+    {
+      "var1": 2021,
+      "var2": "Abgabe der Verfahren an die Staatsanwaltschaft",
+      "var3": 77
+    },
+    {
+      "var1": 2021,
+      "var2": "darunter: Einstellung durch die Staatsanwaltschaft",
+      "var3": 14
+    },
+    {
+      "var1": 2021,
+      "var2": "Anzahl der Anträge auf Anordnung der Erzwingungshaft",
+      "var3": 60
+    },
+    {
+      "var1": 2021,
+      "var2": "davon: ohne vorherige Verwarnung",
+      "var3": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "mit Verwarnung durch die eigene Behörde",
+      "var3": 2334
+    },
+    {
+      "var1": 2021,
+      "var2": "Anzahl der erlassenen Bußgeldbescheide",
+      "var3": 2334
+    },
+    {
+      "var1": 2021,
+      "var2": "gegen Kostenbescheide",
+      "var3": 47
+    },
+    {
+      "var1": 2021,
+      "var2": "davon: durch die Verwaltungsbehörde verworfen",
+      "var3": 10
+    },
+    {
+      "var1": 2021,
+      "var2": "durch das Gericht abgewiesene Anträge",
+      "var3": 15
+    },
+    {
+      "var1": 2021,
+      "var2": "Rücknahme bei der Justizbehörde",
+      "var3": 16
+    },
+    {
+      "var1": 2021,
+      "var2": "Verfahrensabschluss durch die Justizbehörden",
+      "var3": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Anzahl der erteilten Verwarnungen (Knöllchen)",
+      "var3": 68649
+    },
+    {
+      "var1": 2022,
+      "var2": "Anzahl der abgeschlossenen Verwarnungsfälle - Erledigung durch Zahlung",
+      "var3": 55264
+    },
+    {
+      "var1": 2022,
+      "var2": "Anzahl der erlassenen Kostenbescheide",
+      "var3": 9843
+    },
+    {
+      "var1": 2022,
+      "var2": "Anzahl der eingestellten Fälle vor Bußgeldbescheid gesamt",
+      "var3": 3249
+    },
+    {
+      "var1": 2022,
+      "var2": "Anzahl der erlassenen Bußgeldbescheide",
+      "var3": 2304
+    },
+    {
+      "var1": 2022,
+      "var2": "Einsprüche / Anträge gegen Bescheide gesamt",
+      "var3": 201
+    },
+    {
+      "var1": 2022,
+      "var2": "davon: gegen Bußgeldbescheide",
+      "var3": 145
+    },
+    {
+      "var1": 2022,
+      "var2": "gegen Kostenbescheide",
+      "var3": 56
+    },
+    {
+      "var1": 2022,
+      "var2": "Einspruchsverwerfungen (verfristete Einsprüche)",
+      "var3": 53
+    },
+    {
+      "var1": 2022,
+      "var2": "davon: durch die Verwaltungsbehörde verworfen",
+      "var3": 30
+    },
+    {
+      "var1": 2022,
+      "var2": "durch das Gericht abgewiesene Anträge",
+      "var3": 23
+    },
+    {
+      "var1": 2022,
+      "var2": "Rücknahme der Einsprüche durch die Betroffenen",
+      "var3": 60
+    },
+    {
+      "var1": 2022,
+      "var2": "davon: Rücknahme bei der Verwaltungsbehörde",
+      "var3": 25
+    },
+    {
+      "var1": 2022,
+      "var2": "Rücknahme bei der Justizbehörde",
+      "var3": 35
+    },
+    {
+      "var1": 2022,
+      "var2": "Abgabe der Verfahren an die Staatsanwaltschaft",
+      "var3": 107
+    },
+    {
+      "var1": 2022,
+      "var2": "darunter: Einstellung durch die Staatsanwaltschaft",
+      "var3": 12
+    },
+    {
+      "var1": 2022,
+      "var2": "Anzahl der Anträge auf Anordnung der Erzwingungshaft",
+      "var3": 44
+    },
+    {
+      "var1": 2022,
+      "var2": "Anzahl der eingeleiteten Bußgeldverfahren gesamt",
+      "var3": 2304
+    },
+    {
+      "var1": 2022,
+      "var2": "davon: ohne vorherige Verwarnung",
+      "var3": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "mit Verwarnung durch die eigene Behörde",
+      "var3": 2304
+    },
+    {
+      "var1": 2022,
+      "var2": "davon: durch die Verwaltungsbehörde verworfen",
+      "var3": 30
+    },
+    {
+      "var1": 2022,
+      "var2": "durch das Gericht abgewiesene Anträge",
+      "var3": 23
+    },
+    {
+      "var1": 2022,
+      "var2": "Rücknahme bei der Justizbehörde",
+      "var3": 35
+    },
+    {
+      "var1": 2022,
+      "var2": "Rücknahme der Bescheide durch die Verwaltungsbehörde (Einstellungen der Bußgeldbescheide)",
+      "var3": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Verfahrensabschluss durch die Justizbehörden",
+      "var3": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Anzahl der erteilten Verwarnungen (Knöllchen)",
+      "var3": 67914
+    },
+    {
+      "var1": 2023,
+      "var2": "Anzahl der abgeschlossenen Verwarnungsfälle - Erledigung durch Zahlung",
+      "var3": 53308
+    },
+    {
+      "var1": 2023,
+      "var2": "Anzahl der erlassenen Kostenbescheide",
+      "var3": 10128
+    },
+    {
+      "var1": 2023,
+      "var2": "Anzahl der eingestellten Fälle vor Bußgeldbescheid gesamt",
+      "var3": 2299
+    },
+    {
+      "var1": 2023,
+      "var2": "Einsprüche / Anträge gegen Bescheide gesamt",
+      "var3": 118
+    },
+    {
+      "var1": 2023,
+      "var2": "davon: gegen Bußgeldbescheide",
+      "var3": 87
+    },
+    {
+      "var1": 2023,
+      "var2": "gegen Kostenbescheide",
+      "var3": 31
+    },
+    {
+      "var1": 2023,
+      "var2": "Einspruchsverwerfungen (verfristete Einsprüche)",
+      "var3": 23
+    },
+    {
+      "var1": 2023,
+      "var2": "davon: durch die Verwaltungsbehörde verworfen",
+      "var3": 17
+    },
+    {
+      "var1": 2023,
+      "var2": "durch das Gericht abgewiesene Anträge",
+      "var3": 6
+    },
+    {
+      "var1": 2023,
+      "var2": "Rücknahme der Einsprüche durch die Betroffenen",
+      "var3": 19
+    },
+    {
+      "var1": 2023,
+      "var2": "davon: Rücknahme bei der Verwaltungsbehörde",
+      "var3": 10
+    },
+    {
+      "var1": 2023,
+      "var2": "Rücknahme bei der Justizbehörde",
+      "var3": 19
+    },
+    {
+      "var1": 2023,
+      "var2": "Abgabe der Verfahren an die Staatsanwaltschaft",
+      "var3": 55
+    },
+    {
+      "var1": 2023,
+      "var2": "darunter: Einstellung durch die Staatsanwaltschaft",
+      "var3": 12
+    },
+    {
+      "var1": 2023,
+      "var2": "Anzahl der Anträge auf Anordnung der Erzwingungshaft",
+      "var3": 46
+    },
+    {
+      "var1": 2023,
+      "var2": "Anzahl der eingeleiteten Bußgeldverfahren gesamt",
+      "var3": 2027
+    },
+    {
+      "var1": 2023,
+      "var2": "davon: ohne vorherige Verwarnung",
+      "var3": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "mit Verwarnung durch die eigene Behörde",
+      "var3": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Anzahl der erlassenen Bußgeldbescheide",
+      "var3": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "gegen Kostenbescheide",
+      "var3": 31
+    },
+    {
+      "var1": 2023,
+      "var2": "durch das Gericht abgewiesene Anträge",
+      "var3": 6
+    },
+    {
+      "var1": 2023,
+      "var2": "Rücknahme bei der Justizbehörde",
+      "var3": 19
+    },
+    {
+      "var1": 2023,
+      "var2": "Rücknahme der Bescheide durch die Verwaltungsbehörde (Einstellungen der Bußgeldbescheide)",
+      "var3": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Verfahrensabschluss durch die Justizbehörden",
+      "var3": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Anzahl der erteilten Verwarnungen (Knöllchen)",
+      "var3": 77834
+    },
+    {
+      "var1": 2024,
+      "var2": "Anzahl der abgeschlossenen Verwarnungsfälle - Erledigung durch Zahlung",
+      "var3": 61281
+    },
+    {
+      "var1": 2024,
+      "var2": "Anzahl der erlassenen Kostenbescheide",
+      "var3": 12876
+    },
+    {
+      "var1": 2024,
+      "var2": "Anzahl der eingestellten Fälle vor Bußgeldbescheid gesamt",
+      "var3": 4119
+    },
+    {
+      "var1": 2024,
+      "var2": "Einsprüche / Anträge gegen Bescheide gesamt",
+      "var3": 117
+    },
+    {
+      "var1": 2024,
+      "var2": "davon: gegen Bußgeldbescheide",
+      "var3": 88
+    },
+    {
+      "var1": 2024,
+      "var2": "gegen Kostenbescheide",
+      "var3": 29
+    },
+    {
+      "var1": 2024,
+      "var2": "Einspruchsverwerfungen (verfristete Einsprüche)",
+      "var3": 23
+    },
+    {
+      "var1": 2024,
+      "var2": "davon: durch die Verwaltungsbehörde verworfen",
+      "var3": 17
+    },
+    {
+      "var1": 2024,
+      "var2": "durch das Gericht abgewiesene Anträge",
+      "var3": 6
+    },
+    {
+      "var1": 2024,
+      "var2": "Rücknahme der Einsprüche durch die Betroffenen",
+      "var3": 34
+    },
+    {
+      "var1": 2024,
+      "var2": "davon: Rücknahme bei der Verwaltungsbehörde",
+      "var3": 16
+    },
+    {
+      "var1": 2024,
+      "var2": "Rücknahme bei der Justizbehörde",
+      "var3": 18
+    },
+    {
+      "var1": 2024,
+      "var2": "Abgabe der Verfahren an die Staatsanwaltschaft",
+      "var3": 51
+    },
+    {
+      "var1": 2024,
+      "var2": "darunter: Einstellung durch die Staatsanwaltschaft",
+      "var3": 12
+    },
+    {
+      "var1": 2024,
+      "var2": "Anzahl der Anträge auf Anordnung der Erzwingungshaft",
+      "var3": 56
+    },
+    {
+      "var1": 2024,
+      "var2": "Anzahl der eingeleiteten Bußgeldverfahren gesamt",
+      "var3": 2370
+    },
+    {
+      "var1": 2024,
+      "var2": "davon: ohne vorherige Verwarnung",
+      "var3": 3898
+    },
+    {
+      "var1": 2024,
+      "var2": "mit Verwarnung durch die eigene Behörde",
+      "var3": 73936
+    },
+    {
+      "var1": 2024,
+      "var2": "Anzahl der erlassenen Bußgeldbescheide",
+      "var3": 2027
+    },
+    {
+      "var1": 2024,
+      "var2": "gegen Kostenbescheide",
+      "var3": 29
+    },
+    {
+      "var1": 2024,
+      "var2": "durch das Gericht abgewiesene Anträge",
+      "var3": 6
+    },
+    {
+      "var1": 2024,
+      "var2": "Rücknahme der Bescheide durch die Verwalungsbehörde (Einstellungen der Bußgeldbescheide)",
+      "var3": 714
+    },
+    {
+      "var1": 2024,
+      "var2": "Verfahrensabschluss durch die Justizbehörden",
+      "var3": 0
+    }
+  ]
+}

@@ -1,0 +1,682 @@
+{
+  "id": "bautaetigkeit-und-wohnen/erteilte-baugenehmigungen-fuer-neubau-und-bestehende-gebaeude-nach-bauherren",
+  "title": "Erteilte Baugenehmigungen für Neubau und bestehende Gebäude nach Bauherren",
+  "category": "Bautätigkeit und Wohnen",
+  "subcategory": "Baugenehmigungen",
+  "tableId": "K6_T16",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bautaetigkeit-und-wohnen/erteilte-baugenehmigungen-fuer-neubau-und-bestehende-gebaeude-nach-bauherren.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Erteilte Baugenehmigungen für Neubau und bestehende Gebäude nach Bauherren.xlsx"
+  },
+  "description": "Erteilte Baugenehmigungen für Neubau und bestehende Gebäude, nach Bauherrentyp. Spalten var3..var10 (vermutl. Aufteilung nach Wohn-/Nichtwohn und Anzahl Gebäude/Wohnungen/Baukosten) waren nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2020,
+        2020,
+        2020
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Bauherrentyp",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Öffentlicher Bauherr",
+        "Wohnungsunternehmen",
+        "Immobilienfonds"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        10,
+        8
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        32,
+        2
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        26219,
+        2561
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        13803,
+        1225
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        8,
+        6,
+        6
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        6,
+        4,
+        1
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        21821,
+        24421,
+        50700
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        29694,
+        2098,
+        50
+      ]
+    }
+  ],
+  "rowCount": 45,
+  "rows": [
+    {
+      "var1": 2020,
+      "var2": "Öffentlicher Bauherr",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 8,
+      "var8": 6,
+      "var9": 21821,
+      "var10": 29694
+    },
+    {
+      "var1": 2020,
+      "var2": "Wohnungsunternehmen",
+      "var3": 10,
+      "var4": 32,
+      "var5": 26219,
+      "var6": 13803,
+      "var7": 6,
+      "var8": 4,
+      "var9": 24421,
+      "var10": 2098
+    },
+    {
+      "var1": 2020,
+      "var2": "Immobilienfonds",
+      "var3": 8,
+      "var4": 2,
+      "var5": 2561,
+      "var6": 1225,
+      "var7": 6,
+      "var8": 1,
+      "var9": 50700,
+      "var10": 50
+    },
+    {
+      "var1": 2020,
+      "var2": "Sonstige Unternehmen",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0,
+      "var9": 0,
+      "var10": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Produzierendes Gewerbe",
+      "var3": 3,
+      "var4": 0,
+      "var5": 5400,
+      "var6": 0,
+      "var7": 2,
+      "var8": 0,
+      "var9": 487,
+      "var10": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Handel, Kreditinstitute und Versicherungsgewerbe, Dienstleistungen sowie Verkehr u. Nachrichtenübermittlung",
+      "var3": 3,
+      "var4": 2,
+      "var5": 4965,
+      "var6": 232,
+      "var7": 15,
+      "var8": 8,
+      "var9": 167596,
+      "var10": 9362
+    },
+    {
+      "var1": 2020,
+      "var2": "Private Haushalte",
+      "var3": 212,
+      "var4": 80,
+      "var5": 62172,
+      "var6": 18511,
+      "var7": 6,
+      "var8": 5,
+      "var9": 39028,
+      "var10": 2144
+    },
+    {
+      "var1": 2020,
+      "var2": "Organisation ohne Erwerbscharakter",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 1,
+      "var8": 3,
+      "var9": 2476,
+      "var10": 568
+    },
+    {
+      "var1": 2020,
+      "var2": "Magdeburg",
+      "var3": 236,
+      "var4": 116,
+      "var5": 101317,
+      "var6": 33771,
+      "var7": 44,
+      "var8": 27,
+      "var9": 306529,
+      "var10": 43916
+    },
+    {
+      "var1": 2021,
+      "var2": "Öffentlicher Bauherr",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0,
+      "var9": 0,
+      "var10": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Wohnungsunternehmen",
+      "var3": 212,
+      "var4": 80,
+      "var5": 62172,
+      "var6": 18511,
+      "var7": 6,
+      "var8": 5,
+      "var9": 39028,
+      "var10": 2144
+    },
+    {
+      "var1": 2021,
+      "var2": "Immobilienfonds",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 1,
+      "var8": 3,
+      "var9": 2476,
+      "var10": 568
+    },
+    {
+      "var1": 2021,
+      "var2": "Sonstige Unternehmen",
+      "var3": 236,
+      "var4": 116,
+      "var5": 101317,
+      "var6": 33771,
+      "var7": 44,
+      "var8": 27,
+      "var9": 306529,
+      "var10": 43916
+    },
+    {
+      "var1": 2021,
+      "var2": "Produzierendes Gewerbe",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 4,
+      "var8": 1,
+      "var9": 908,
+      "var10": 470
+    },
+    {
+      "var1": 2021,
+      "var2": "Handel, Kreditinstitute und Versicherungsgewerbe, Dienstleistungen sowie Verkehr u. Nachrichtenübermittlung",
+      "var3": 16,
+      "var4": 4,
+      "var5": 4339,
+      "var6": 3529,
+      "var7": 10,
+      "var8": 3,
+      "var9": 20634,
+      "var10": 639
+    },
+    {
+      "var1": 2021,
+      "var2": "Private Haushalte",
+      "var3": 247,
+      "var4": 98,
+      "var5": 70074,
+      "var6": 27302,
+      "var7": 13,
+      "var8": 9,
+      "var9": 6420,
+      "var10": 2301
+    },
+    {
+      "var1": 2021,
+      "var2": "Organisation ohne Erwerbscharakter",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 2,
+      "var8": 1,
+      "var9": 463,
+      "var10": 541
+    },
+    {
+      "var1": 2021,
+      "var2": "Magdeburg",
+      "var3": 301,
+      "var4": 143,
+      "var5": 153729,
+      "var6": 38604,
+      "var7": 35,
+      "var8": 19,
+      "var9": 39454,
+      "var10": 11060
+    },
+    {
+      "var1": 2022,
+      "var2": "Öffentlicher Bauherr",
+      "var3": 0,
+      "var4": 3,
+      "var5": 0,
+      "var6": 2759,
+      "var7": 4,
+      "var8": 1,
+      "var9": 131087,
+      "var10": 6320
+    },
+    {
+      "var1": 2022,
+      "var2": "Wohnungsunternehmen",
+      "var3": 21,
+      "var4": 20,
+      "var5": 36950,
+      "var6": 4975,
+      "var7": 4,
+      "var8": 2,
+      "var9": 11451,
+      "var10": 750
+    },
+    {
+      "var1": 2022,
+      "var2": "Immobilienfonds",
+      "var3": 2,
+      "var4": 0,
+      "var5": 2100,
+      "var6": 0,
+      "var7": 1,
+      "var8": 0,
+      "var9": 377,
+      "var10": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Sonstige Unternehmen",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 1,
+      "var8": 0,
+      "var9": 260,
+      "var10": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Produzierendes Gewerbe",
+      "var3": 0,
+      "var4": 1,
+      "var5": 0,
+      "var6": 10,
+      "var7": 5,
+      "var8": 2,
+      "var9": 1678,
+      "var10": 2045
+    },
+    {
+      "var1": 2022,
+      "var2": "Handel, Kreditinstitute und Versicherungsgewerbe, Dienstleistungen sowie Verkehr u. Nachrichtenübermittlung",
+      "var3": 37,
+      "var4": 3,
+      "var5": 27624,
+      "var6": 624,
+      "var7": 10,
+      "var8": 6,
+      "var9": 23290,
+      "var10": 3426
+    },
+    {
+      "var1": 2022,
+      "var2": "Private Haushalte",
+      "var3": 221,
+      "var4": 95,
+      "var5": 73345,
+      "var6": 19347,
+      "var7": 9,
+      "var8": 11,
+      "var9": 46010,
+      "var10": 1225
+    },
+    {
+      "var1": 2022,
+      "var2": "Organisation ohne Erwerbscharakter",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 1,
+      "var8": 3,
+      "var9": 3700,
+      "var10": 4939
+    },
+    {
+      "var1": 2022,
+      "var2": "Magdeburg",
+      "var3": 281,
+      "var4": 122,
+      "var5": 140019,
+      "var6": 27715,
+      "var7": 35,
+      "var8": 25,
+      "var9": 217853,
+      "var10": 18705
+    },
+    {
+      "var1": 2023,
+      "var2": "Öffentlicher Bauherr",
+      "var3": 0,
+      "var4": 7,
+      "var5": 0,
+      "var6": 2423,
+      "var7": 3,
+      "var8": 2,
+      "var9": 3138,
+      "var10": 7507
+    },
+    {
+      "var1": 2023,
+      "var2": "Wohnungsunternehmen",
+      "var3": 11,
+      "var4": 42,
+      "var5": 27447,
+      "var6": 10873,
+      "var7": 3,
+      "var8": 2,
+      "var9": 7964,
+      "var10": 12975
+    },
+    {
+      "var1": 2023,
+      "var2": "Immobilienfonds",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 1,
+      "var8": 0,
+      "var9": 26299,
+      "var10": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Sonstige Unternehmen",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 1,
+      "var8": 1,
+      "var9": 100,
+      "var10": 109
+    },
+    {
+      "var1": 2023,
+      "var2": "Produzierendes Gewerbe",
+      "var3": 0,
+      "var4": 1,
+      "var5": 0,
+      "var6": 338,
+      "var7": 2,
+      "var8": 1,
+      "var9": 1870,
+      "var10": 1000
+    },
+    {
+      "var1": 2023,
+      "var2": "Handel, Kreditinstitute und Versicherungsgewerbe, Dienstleistungen sowie Verkehr u. Nachrichtenübermittlung",
+      "var3": 1,
+      "var4": 0,
+      "var5": 426,
+      "var6": 0,
+      "var7": 4,
+      "var8": 6,
+      "var9": 7171,
+      "var10": 4110
+    },
+    {
+      "var1": 2023,
+      "var2": "Private Haushalte",
+      "var3": 76,
+      "var4": 69,
+      "var5": 35337,
+      "var6": 16231,
+      "var7": 9,
+      "var8": 9,
+      "var9": 7116,
+      "var10": 2626
+    },
+    {
+      "var1": 2023,
+      "var2": "Organisation ohne Erwerbscharakter",
+      "var3": 0,
+      "var4": 1,
+      "var5": 0,
+      "var6": 4400,
+      "var7": 2,
+      "var8": 3,
+      "var9": 5776,
+      "var10": 92
+    },
+    {
+      "var1": 2023,
+      "var2": "Magdeburg",
+      "var3": 88,
+      "var4": 120,
+      "var5": 63210,
+      "var6": 34265,
+      "var7": 25,
+      "var8": 24,
+      "var9": 59434,
+      "var10": 28419
+    },
+    {
+      "var1": 2024,
+      "var2": "Öffentlicher Bauherr",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 4,
+      "var8": 0,
+      "var9": 4049,
+      "var10": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Wohnungsunternehmen",
+      "var3": 8,
+      "var4": 16,
+      "var5": 19540,
+      "var6": 4961,
+      "var7": 1,
+      "var8": 0,
+      "var9": 500,
+      "var10": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Immobilienfonds",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0,
+      "var9": 0,
+      "var10": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Sonstige Unternehmen",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0,
+      "var9": 0,
+      "var10": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Produzierendes Gewerbe",
+      "var3": 0,
+      "var4": 2,
+      "var5": 0,
+      "var6": 800,
+      "var7": 4,
+      "var8": 2,
+      "var9": 51590,
+      "var10": 1255
+    },
+    {
+      "var1": 2024,
+      "var2": "Handel, Kreditinstitute und Versicherungsgewerbe, Dienstleistungen sowie Verkehr u. Nachrichtenübermittlung",
+      "var3": 6,
+      "var4": 3,
+      "var5": 13568,
+      "var6": 20008,
+      "var7": 5,
+      "var8": 6,
+      "var9": 15805,
+      "var10": 8031
+    },
+    {
+      "var1": 2024,
+      "var2": "Private Haushalte",
+      "var3": 96,
+      "var4": 72,
+      "var5": 162663,
+      "var6": 12545,
+      "var7": 8,
+      "var8": 6,
+      "var9": 5854,
+      "var10": 1995
+    },
+    {
+      "var1": 2024,
+      "var2": "Organisation ohne Erwerbscharakter",
+      "var3": 0,
+      "var4": 1,
+      "var5": 0,
+      "var6": 10,
+      "var7": 2,
+      "var8": 1,
+      "var9": 3204,
+      "var10": 671
+    },
+    {
+      "var1": 2024,
+      "var2": "Magdeburg",
+      "var3": 110,
+      "var4": 94,
+      "var5": 195771,
+      "var6": 38324,
+      "var7": 24,
+      "var8": 15,
+      "var9": 81002,
+      "var10": 11952
+    }
+  ]
+}

@@ -1,0 +1,784 @@
+{
+  "id": "energie-und-umwelt/pflanzenarten-im-stadtgebiet-magdeburg",
+  "title": "Pflanzenarten im Stadtgebiet Magdeburg",
+  "category": "Energie und Umwelt",
+  "subcategory": "Schutzobjekte im Stadtkreis Magdeburg",
+  "tableId": "K9_T43",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/pflanzenarten-im-stadtgebiet-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Pflanzenarten im Stadtgebiet Magdeburg.xlsx"
+  },
+  "description": "Diese Tabelle listet verschiedene Pflanzenarten im Stadtgebiet Magdeburg auf und klassifiziert deren Schutzstatus.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2019,
+        2019,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Schutzstatus",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "ausgestorben bzw.verschollen",
+        "extrem seltene Arten mit geographischer Restriktion",
+        "vom Aussterben bedroht"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Wissenschaftlicher Name",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Gymnadenia odoratissima",
+        "Ranunculus polyanthemus",
+        "Allium scorodoprasum ssp. rotundum"
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Deutsche Bezeichnung",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Duft-Händelwurz",
+        "Vielblütiger Hahnenfuß",
+        "Runder Lauch"
+      ]
+    }
+  ],
+  "rowCount": 119,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": "ausgestorben bzw.verschollen",
+      "var3": "Gymnadenia odoratissima",
+      "var4": "Duft-Händelwurz"
+    },
+    {
+      "var1": 2019,
+      "var2": "extrem seltene Arten mit geographischer Restriktion",
+      "var3": "Ranunculus polyanthemus",
+      "var4": "Vielblütiger Hahnenfuß"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Allium scorodoprasum ssp. rotundum",
+      "var4": "Runder Lauch"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Chenopodium urbicum",
+      "var4": "Straßen-Gänsefuß"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Carex limosa",
+      "var4": "Schlamm-Segge"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Elatine triandra",
+      "var4": "Dreimänniger Tännel"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Juncus atratus",
+      "var4": "Schwarzw Binse"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Juncus tenageia",
+      "var4": "Sand-Binse"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Mimulus guttatus",
+      "var4": "Gelbe Gauklerblume"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Parietaria judaica",
+      "var4": "Ausgebreitetes Glaskraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Peucedanum ostruthium",
+      "var4": "Meisterwurz"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Artiplex pedunculata",
+      "var4": "Salzmelde"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Bromus secalinus",
+      "var4": "Roggen-Trespe"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Bupleurum tenuissimum",
+      "var4": "Salz-Hasenrohr"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Callitriche palustris",
+      "var4": "Sumpf-Wasserstern"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Carex buekii",
+      "var4": "Banater Segge"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Carex pilosa",
+      "var4": "Wimper-Segge"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Carex vulpina s.str.",
+      "var4": "Fuchs-Segge"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Catabrosa aquatica",
+      "var4": "Europäisches Quellgras"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Chenopodium vulvaria",
+      "var4": "Stinkender Gänsefuß"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Clematis recta",
+      "var4": "Aufrechte Waldrebe"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Cnidium dubium",
+      "var4": "Gewöhnliche Brenndolde"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Fumaria schleicheri",
+      "var4": "Schleichers Erdrauch"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Geranium phaeum",
+      "var4": "Brauner Storchschnabel"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Gypsophila muralis",
+      "var4": "Acker-Gipskraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Hordeum secalinum",
+      "var4": "Roggen-Gerste"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Illecebrum verticillatum",
+      "var4": "Knorpelmiere"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Isolepis setacea",
+      "var4": "Borstige Schuppensimse"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Koeleria glauca",
+      "var4": "Blaugrünes Schillergras"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Melampyrum cristatum",
+      "var4": "Kamm-Wachtelweizen"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Peucedanum officinale",
+      "var4": "Echter Haarstrang"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Plantago maritima",
+      "var4": "Strand-Wegerich"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Populus nigra",
+      "var4": "Schwarzpappel"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Ranunculus arvensis",
+      "var4": "Acker-Hahnenfuß"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Scilla bifolia",
+      "var4": "Zweiblättriger Blaustern"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Senecio paludosus",
+      "var4": "Sumpf-Greiskraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Seseli annuum",
+      "var4": "Steppen-Sesel"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Stachys annua",
+      "var4": "Einjähriger Ziest"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Stachys arvensis",
+      "var4": "Acker-Ziest"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Stipa pulcherrima",
+      "var4": "Gelbscheidiges Federgras"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Agrimonia procera",
+      "var4": "Großer Odermennig"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Aira caryophyllea",
+      "var4": "Nelken-Haferschmiele"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Allium angulosum",
+      "var4": "Kantiger Lauch"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Anagallis foemina",
+      "var4": "Blauer Gauchheil"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Apium graveolens",
+      "var4": "Wilder Sellerie"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Aristolochia clematitis",
+      "var4": "Osterluzei"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Asperugo procumbens",
+      "var4": "Schlangenäuglein"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Astragalus danicus",
+      "var4": "Dänischer Tragant"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Atriplex rosea",
+      "var4": "Rosen-Melde"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Botrychium lunaria",
+      "var4": "Mondraute"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Campanula glomerata",
+      "var4": "Knäuel-Glockenblume"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Carlina acaulis",
+      "var4": "Großer Eberwurz"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Carex melanostachya",
+      "var4": "Schwarzährige Segge"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Cerastium brachypetalum",
+      "var4": "Bärtiges Hornkraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Centaurium pulchellum",
+      "var4": "Zierliches Tausendgüldenkraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Chenopodium botroydes",
+      "var4": "Dickblättriger Gänsefuß"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Cicuta virosa",
+      "var4": "Wasserschierling"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Cyperus fuscus",
+      "var4": "Braunes Zyperngras"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Dianthus armenia",
+      "var4": "Rauhe Nelke"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Eleocharis acicularis",
+      "var4": "Nadel-Sumpfsimse"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Euphorbia palustris",
+      "var4": "Sumpf-Wolfsmilch"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Equisetum pratense",
+      "var4": "Wiesenschachtelhalm"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Filago arvensis",
+      "var4": "Acker-Filzkraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Gagea bohemica",
+      "var4": "Felsen-Gelbstern"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Genista pilosa",
+      "var4": "Haar-Ginster"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Glaux maritima",
+      "var4": "Strand-Milchkraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Hippuris vulgaris",
+      "var4": "Tannenwedel"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Hottonia palustris",
+      "var4": "Wasserfeder, Wasserprimel"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Hydrocharis morsus-ranae",
+      "var4": "Froschbiss"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Iris sibirica",
+      "var4": "Sibirische Schwertlilie"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Kickxia elatine",
+      "var4": "Spießblättriges Tännelkraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Leersia oryzoides",
+      "var4": "Wilder Reis"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Leonurus cardiaca",
+      "var4": "Herzgespann"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Limosella aquatica",
+      "var4": "Schlammling, Schlammkraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Lythrum hyssopifolia",
+      "var4": "Ysop-Blutweiderich"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Lathyrus palustris",
+      "var4": "Sumpf-Platterbs"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Malva pusilla",
+      "var4": "Kleinblütige Malve"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Mespilus germanica",
+      "var4": "Deutsche Mispel"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Myriophyllum verticillatum",
+      "var4": "Quirl-Tausendblatt"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Nepeta cataria",
+      "var4": "Echte Katzenminze"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Neslia paniculata",
+      "var4": "Finkensame"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Peplis portula",
+      "var4": "Sumpfquendel"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Petasites spurius",
+      "var4": "Filzige Pestwurz"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Peucedanum oreoselinum",
+      "var4": "Berg-Haarstrang"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Potamogeton lucens",
+      "var4": "Spiegelndes Laichkraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Potamogeton obtusifolius",
+      "var4": "Stumpblättriges Leichkraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Potamogeton pusillus",
+      "var4": "Zwerg-Laichkraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Potentilla supina",
+      "var4": "Niedriges Fingerkraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Pseudolysimachion spicatum",
+      "var4": "Ähriger Blauweiderich"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Ranunculus nemorosus",
+      "var4": "Hain-Hahnenfuß"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Ranunculus sardous",
+      "var4": "Sardischer Hahnenfuß"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Rapistrum perenne",
+      "var4": "Ausdauernder Rapsdotter"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Rhinanthus minor",
+      "var4": "Kleiner Klappertopf"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Sagina micropetala",
+      "var4": "Aufrechtes Mastkraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Salicornia europaea",
+      "var4": "Kurzähren-Queller"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Salvinia natans",
+      "var4": "Gemeiner Schwimmfarn"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Scutellaria hastifolia",
+      "var4": "Spießblättriges Helmkraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Sedum telephium",
+      "var4": "Purpur Fetthenne"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Selinum carvifolia",
+      "var4": "Kümmel-Silge"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Serratula tinctoria",
+      "var4": "Färber-Scharte"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Sherardia arvensis",
+      "var4": "Ackerröte"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Silene otites",
+      "var4": "Ohrlöffel-Leimkraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Stipa pennata",
+      "var4": "Echtes Federgras"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Stratiotes aloides",
+      "var4": "Krebsschere, Wasser-Aloe"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Suaeda maritima",
+      "var4": "Strand-Sode"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Tetragonolobus maritimus",
+      "var4": "Spargelerbse"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Thlaspi caerulescens",
+      "var4": "Gebirgs-Hellerkraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Trifolium fragiferum",
+      "var4": "Erdbeer Klee"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Trifolium striatum",
+      "var4": "Streifen-Klee"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Triglochin maritimum",
+      "var4": "Strand-Dreizack"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Utricularia vulgaris",
+      "var4": "Gemeiner Wasser-Schlauch"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Verbascum blattaria",
+      "var4": "Schaben-Königskerze"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Verbena officinalis",
+      "var4": "Eisenkraut"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Vicia lathyroides",
+      "var4": "Platterbsen-Wicke"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Viola persicifolia",
+      "var4": "Gräben-Veilchen"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Viola pumila",
+      "var4": "Niedriges Veilchen"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Viola rupestris",
+      "var4": "Sand-Veilchen"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Vulpia bromoides",
+      "var4": "Trespen-Federschwingel"
+    },
+    {
+      "var1": 2019,
+      "var2": "defizitär",
+      "var3": "Veronica opaca",
+      "var4": "Glanzloser Ehrenpreis"
+    }
+  ]
+}

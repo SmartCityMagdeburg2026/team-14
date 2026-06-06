@@ -1,0 +1,306 @@
+{
+  "id": "energie-und-umwelt/gasversorgungsnetz-und-kundenanzahl",
+  "title": "Gasversorgungsnetz und Kundenanzahl",
+  "category": "Energie und Umwelt",
+  "subcategory": "Versorgung mit Strom, Wärme, Erdgas und Wasser",
+  "tableId": "K9_T8",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/gasversorgungsnetz-und-kundenanzahl.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Gasversorgungsnetz und Kundenanzahl.xlsx"
+  },
+  "description": "Gasversorgungsnetz und Kundenanzahl. Aufteilung nach Druckstufen (Hoch-/Mittel-/Niederdruck) und Kundengruppen (var3..var9) nicht eindeutig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2009,
+        2010,
+        2011
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Gasleitungsnetz Länge",
+      "unit": "km",
+      "type": "number",
+      "role": null,
+      "sample": [
+        759,
+        754,
+        758
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        186,
+        182,
+        184
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        95,
+        95,
+        96
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        478,
+        477,
+        478
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        20772,
+        20915,
+        20947
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        34679,
+        33643,
+        33768
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        34442,
+        33418,
+        33568
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        237,
+        225,
+        200
+      ]
+    }
+  ],
+  "rowCount": 16,
+  "rows": [
+    {
+      "var1": 2009,
+      "var2": 759,
+      "var3": 186,
+      "var4": 95,
+      "var5": 478,
+      "var6": 20772,
+      "var7": 34679,
+      "var8": 34442,
+      "var9": 237
+    },
+    {
+      "var1": 2010,
+      "var2": 754,
+      "var3": 182,
+      "var4": 95,
+      "var5": 477,
+      "var6": 20915,
+      "var7": 33643,
+      "var8": 33418,
+      "var9": 225
+    },
+    {
+      "var1": 2011,
+      "var2": 758,
+      "var3": 184,
+      "var4": 96,
+      "var5": 478,
+      "var6": 20947,
+      "var7": 33768,
+      "var8": 33568,
+      "var9": 200
+    },
+    {
+      "var1": 2012,
+      "var2": 760,
+      "var3": 184,
+      "var4": 97,
+      "var5": 479,
+      "var6": 20992,
+      "var7": 33497,
+      "var8": 33367,
+      "var9": 130
+    },
+    {
+      "var1": 2013,
+      "var2": 771,
+      "var3": 186,
+      "var4": 106,
+      "var5": 479,
+      "var6": 24131,
+      "var7": 33295,
+      "var8": 33173,
+      "var9": 122
+    },
+    {
+      "var1": 2014,
+      "var2": 774,
+      "var3": 186,
+      "var4": 107,
+      "var5": 481,
+      "var6": 22162,
+      "var7": 33255,
+      "var8": 33127,
+      "var9": 128
+    },
+    {
+      "var1": 2015,
+      "var2": 777,
+      "var3": 188,
+      "var4": 107,
+      "var5": 482,
+      "var6": 22223,
+      "var7": 32633,
+      "var8": 32504,
+      "var9": 129
+    },
+    {
+      "var1": 2016,
+      "var2": 774,
+      "var3": 187,
+      "var4": 107,
+      "var5": 480,
+      "var6": 22254,
+      "var7": 32078,
+      "var8": 31948,
+      "var9": 130
+    },
+    {
+      "var1": 2017,
+      "var2": 771,
+      "var3": 180,
+      "var4": 113,
+      "var5": 478,
+      "var6": 22425,
+      "var7": 31829,
+      "var8": 31694,
+      "var9": 135
+    },
+    {
+      "var1": 2018,
+      "var2": 772,
+      "var3": 180,
+      "var4": 113,
+      "var5": 479,
+      "var6": 22524,
+      "var7": 31563,
+      "var8": 31422,
+      "var9": 141
+    },
+    {
+      "var1": 2019,
+      "var2": 778,
+      "var3": 180,
+      "var4": 115,
+      "var5": 483,
+      "var6": 22695,
+      "var7": 31487,
+      "var8": 31338,
+      "var9": 149
+    },
+    {
+      "var1": 2020,
+      "var2": 776,
+      "var3": 181,
+      "var4": 114,
+      "var5": 481,
+      "var6": 22858,
+      "var7": 31448,
+      "var8": 31300,
+      "var9": 148
+    },
+    {
+      "var1": 2021,
+      "var2": 777.4,
+      "var3": 180.6,
+      "var4": 114.4,
+      "var5": 482.4,
+      "var6": 22901,
+      "var7": 31459,
+      "var8": 31307,
+      "var9": 152
+    },
+    {
+      "var1": 2022,
+      "var2": 788.66,
+      "var3": 182.1,
+      "var4": 126.56,
+      "var5": 480,
+      "var6": 23255,
+      "var7": 31020,
+      "var8": 30876,
+      "var9": 144
+    },
+    {
+      "var1": 2023,
+      "var2": 789.2,
+      "var3": 182.2,
+      "var4": 127,
+      "var5": 480,
+      "var6": 23278,
+      "var7": 30466,
+      "var8": 30325,
+      "var9": 141
+    },
+    {
+      "var1": 2024,
+      "var2": 790,
+      "var3": 183,
+      "var4": 127,
+      "var5": 480,
+      "var6": 23206,
+      "var7": 29964,
+      "var8": 29823,
+      "var9": 141
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "id": "energie-und-umwelt/klaerwerk-gerwisch",
+  "title": "Klärwerk Gerwisch",
+  "category": "Energie und Umwelt",
+  "subcategory": "Versorgung mit Strom, Wärme, Erdgas und Wasser",
+  "tableId": "K9_T17",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/klaerwerk-gerwisch.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Klärwerk Gerwisch  .xlsx"
+  },
+  "description": "Klärwerk Gerwisch — Betriebskennzahlen (Ausbau-Kapazität, Zulauf, gereinigte Menge, Klärschlamm, etc.). Detail-Spalten var2..var8 nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2009,
+        2010,
+        2011
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        4500,
+        4500,
+        4500
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        75000,
+        75000,
+        75000
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        46768,
+        61819,
+        60542
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        269,
+        210,
+        219
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        175544,
+        185560,
+        183466
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        3927,
+        3960,
+        3597
+      ]
+    }
+  ],
+  "rowCount": 16,
+  "rows": [
+    {
+      "var1": 2009,
+      "var2": 4500,
+      "var3": 75000,
+      "var4": 46768,
+      "var5": 269,
+      "var6": 5,
+      "var7": 175544,
+      "var8": 3927
+    },
+    {
+      "var1": 2010,
+      "var2": 4500,
+      "var3": 75000,
+      "var4": 61819,
+      "var5": 210,
+      "var6": 5,
+      "var7": 185560,
+      "var8": 3960
+    },
+    {
+      "var1": 2011,
+      "var2": 4500,
+      "var3": 75000,
+      "var4": 60542,
+      "var5": 219,
+      "var6": 5,
+      "var7": 183466,
+      "var8": 3597
+    },
+    {
+      "var1": 2012,
+      "var2": 4500,
+      "var3": 75000,
+      "var4": 47914,
+      "var5": 260,
+      "var6": 5,
+      "var7": 185562,
+      "var8": 3956
+    },
+    {
+      "var1": 2013,
+      "var2": 4500,
+      "var3": 75000,
+      "var4": 58486,
+      "var5": 232,
+      "var6": 5,
+      "var7": 174137,
+      "var8": 3625
+    },
+    {
+      "var1": 2014,
+      "var2": 4500,
+      "var3": 75000,
+      "var4": 48138,
+      "var5": 262,
+      "var6": 2,
+      "var7": 174059,
+      "var8": 4003
+    },
+    {
+      "var1": 2015,
+      "var2": 4500,
+      "var3": 75000,
+      "var4": 47190,
+      "var5": 281,
+      "var6": 5,
+      "var7": 168814,
+      "var8": 4174
+    },
+    {
+      "var1": 2016,
+      "var2": 4500,
+      "var3": 75000,
+      "var4": 45920,
+      "var5": 282,
+      "var6": 5,
+      "var7": 170526,
+      "var8": 3896
+    },
+    {
+      "var1": 2017,
+      "var2": 4500,
+      "var3": 75000,
+      "var4": 46225,
+      "var5": 302,
+      "var6": 5,
+      "var7": 181606,
+      "var8": 4116
+    },
+    {
+      "var1": 2018,
+      "var2": 4500,
+      "var3": 75000,
+      "var4": 43398,
+      "var5": 262,
+      "var6": 5,
+      "var7": 188656,
+      "var8": 4238
+    },
+    {
+      "var1": 2019,
+      "var2": 4500,
+      "var3": 75000,
+      "var4": 41973,
+      "var5": 362,
+      "var6": 5,
+      "var7": 192930,
+      "var8": 4201.38
+    },
+    {
+      "var1": 2020,
+      "var2": 4500,
+      "var3": 75000,
+      "var4": 43932,
+      "var5": 583,
+      "var6": 4.9,
+      "var7": 184948,
+      "var8": 4133
+    },
+    {
+      "var1": 2021,
+      "var2": 4500,
+      "var3": 75000,
+      "var4": 45411,
+      "var5": 587,
+      "var6": 4.8,
+      "var7": 191222,
+      "var8": 4211
+    },
+    {
+      "var1": 2022,
+      "var2": 4500,
+      "var3": 75000,
+      "var4": 41653,
+      "var5": 521,
+      "var6": 4.5,
+      "var7": 198019,
+      "var8": 3968
+    },
+    {
+      "var1": 2023,
+      "var2": 4500,
+      "var3": 75000,
+      "var4": 49094,
+      "var5": 585,
+      "var6": 4.5,
+      "var7": 195649,
+      "var8": 4095
+    },
+    {
+      "var1": 2024,
+      "var2": 4500,
+      "var3": 75000,
+      "var4": 52994,
+      "var5": 474,
+      "var6": 6,
+      "var7": 197063,
+      "var8": 4196
+    }
+  ]
+}

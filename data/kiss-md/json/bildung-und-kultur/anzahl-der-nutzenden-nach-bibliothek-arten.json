@@ -1,0 +1,328 @@
+{
+  "id": "bildung-und-kultur/anzahl-der-nutzenden-nach-bibliothek-arten",
+  "title": "Anzahl der Nutzenden nach Bibliothek-Arten",
+  "category": "Bildung und Kultur",
+  "subcategory": "Stadtbibliothek",
+  "tableId": "K5_T26_01",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bildung-und-kultur/anzahl-der-nutzenden-nach-bibliothek-arten.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Anzahl der Nutzenden nach Bibliothek-Arten.xlsx"
+  },
+  "description": "Anzahl der Nutzenden nach Bibliotheksarten. var2..var8 entsprechen 7 Bibliotheksarten (Hauptbibliothek, Jugendbibliothek, Stadtteilbibliotheken etc.), deren Zuordnung nicht eindeutig war.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1998,
+        1999,
+        2000
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        16112,
+        25229,
+        14346
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        23405,
+        20447,
+        6693
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        17726,
+        16103,
+        5573
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5679,
+        4344,
+        1120
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5079,
+        3778,
+        1120
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        600,
+        566,
+        0
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        39517,
+        45676,
+        21039
+      ]
+    }
+  ],
+  "rowCount": 21,
+  "rows": [
+    {
+      "var1": 1998,
+      "var2": 16112,
+      "var3": 23405,
+      "var4": 17726,
+      "var5": 5679,
+      "var6": 5079,
+      "var7": 600,
+      "var8": 39517
+    },
+    {
+      "var1": 1999,
+      "var2": 25229,
+      "var3": 20447,
+      "var4": 16103,
+      "var5": 4344,
+      "var6": 3778,
+      "var7": 566,
+      "var8": 45676
+    },
+    {
+      "var1": 2000,
+      "var2": 14346,
+      "var3": 6693,
+      "var4": 5573,
+      "var5": 1120,
+      "var6": 1120,
+      "var7": 0,
+      "var8": 21039
+    },
+    {
+      "var1": 2001,
+      "var2": 13168,
+      "var3": 5347,
+      "var4": 4387,
+      "var5": 960,
+      "var6": 960,
+      "var7": 0,
+      "var8": 18515
+    },
+    {
+      "var1": 2002,
+      "var2": 14064,
+      "var3": 4986,
+      "var4": 3941,
+      "var5": 1045,
+      "var6": 1045,
+      "var7": 0,
+      "var8": 19050
+    },
+    {
+      "var1": 2003,
+      "var2": 13969,
+      "var3": 4483,
+      "var4": 3354,
+      "var5": 1129,
+      "var6": 1129,
+      "var7": 0,
+      "var8": 18452
+    },
+    {
+      "var1": 2004,
+      "var2": 13420,
+      "var3": 4567,
+      "var4": 3353,
+      "var5": 1214,
+      "var6": 1214,
+      "var7": 0,
+      "var8": 17987
+    },
+    {
+      "var1": 2005,
+      "var2": 12817,
+      "var3": 4592,
+      "var4": 3326,
+      "var5": 1266,
+      "var6": 1241,
+      "var7": 25,
+      "var8": 17409
+    },
+    {
+      "var1": 2006,
+      "var2": 12253,
+      "var3": 4269,
+      "var4": 3007,
+      "var5": 1262,
+      "var6": 1262,
+      "var7": null,
+      "var8": 16522
+    },
+    {
+      "var1": 2007,
+      "var2": 11636,
+      "var3": 4741,
+      "var4": 3250,
+      "var5": 1491,
+      "var6": 1491,
+      "var7": null,
+      "var8": 16377
+    },
+    {
+      "var1": 2008,
+      "var2": 11253,
+      "var3": 5661,
+      "var4": 3714,
+      "var5": 1947,
+      "var6": 1947,
+      "var7": null,
+      "var8": 16914
+    },
+    {
+      "var1": 2009,
+      "var2": 9050,
+      "var3": 4942,
+      "var4": 3012,
+      "var5": 1930,
+      "var6": 1930,
+      "var7": null,
+      "var8": 13992
+    },
+    {
+      "var1": 2010,
+      "var2": 8578,
+      "var3": 5054,
+      "var4": 3027,
+      "var5": 2027,
+      "var6": 2027,
+      "var7": null,
+      "var8": 13632
+    },
+    {
+      "var1": 2011,
+      "var2": 8252,
+      "var3": 4964,
+      "var4": 2961,
+      "var5": 2003,
+      "var6": 2003,
+      "var7": null,
+      "var8": 13216
+    },
+    {
+      "var1": 2012,
+      "var2": 7775,
+      "var3": 5623,
+      "var4": 3519,
+      "var5": 2104,
+      "var6": 2104,
+      "var7": null,
+      "var8": 13398
+    },
+    {
+      "var1": 2013,
+      "var2": 7726,
+      "var3": 6281,
+      "var4": 3876,
+      "var5": 2405,
+      "var6": 2405,
+      "var7": null,
+      "var8": 14007
+    },
+    {
+      "var1": 2014,
+      "var2": 7513,
+      "var3": 6083,
+      "var4": 3592,
+      "var5": 2491,
+      "var6": 2491,
+      "var7": null,
+      "var8": 13596
+    },
+    {
+      "var1": 2015,
+      "var2": 7383,
+      "var3": 6360,
+      "var4": 3757,
+      "var5": 2603,
+      "var6": 2603,
+      "var7": null,
+      "var8": 13743
+    },
+    {
+      "var1": 2016,
+      "var2": 7519,
+      "var3": 6027,
+      "var4": 3430,
+      "var5": 2597,
+      "var6": 2597,
+      "var7": null,
+      "var8": 13546
+    },
+    {
+      "var1": 2017,
+      "var2": 7342,
+      "var3": 6774,
+      "var4": 4038,
+      "var5": 2736,
+      "var6": 2736,
+      "var7": null,
+      "var8": 14116
+    },
+    {
+      "var1": 2018,
+      "var2": 7440,
+      "var3": 7067,
+      "var4": 4502,
+      "var5": 2565,
+      "var6": 2565,
+      "var7": null,
+      "var8": 14507
+    }
+  ]
+}

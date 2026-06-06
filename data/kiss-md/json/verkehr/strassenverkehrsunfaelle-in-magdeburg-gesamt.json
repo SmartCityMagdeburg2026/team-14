@@ -1,0 +1,504 @@
+{
+  "id": "verkehr/strassenverkehrsunfaelle-in-magdeburg-gesamt",
+  "title": "Straßenverkehrsunfälle in Magdeburg gesamt",
+  "category": "Verkehr",
+  "subcategory": "Unfallgeschehen in der Stadt Magdeburg",
+  "tableId": "K8_T6",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/verkehr/strassenverkehrsunfaelle-in-magdeburg-gesamt.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Straßenverkehrsunfälle in Magdeburg gesamt.xlsx"
+  },
+  "description": "Straßenverkehrsunfälle in Magdeburg, jährliche Gesamtzahlen. Unsicherere Spalten (Tote/Schwer-Leicht-Verletzte/Sachschaden) blieben unbenannt.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Straßenverkehrsunfälle gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        7949,
+        8340,
+        8576
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1195,
+        1173,
+        1141
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Verletzte Personen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        6754,
+        7167,
+        7435
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1206,
+        1108,
+        1119
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        103,
+        95,
+        89
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        6,
+        1,
+        2
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        98,
+        124,
+        117
+      ]
+    }
+  ],
+  "rowCount": 34,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": 7949,
+      "var3": 1195,
+      "var4": 6754,
+      "var5": 1206,
+      "var6": 103,
+      "var7": 6,
+      "var8": 0,
+      "var9": 98
+    },
+    {
+      "var1": 2018,
+      "var2": 8340,
+      "var3": 1173,
+      "var4": 7167,
+      "var5": 1108,
+      "var6": 95,
+      "var7": 1,
+      "var8": 0,
+      "var9": 124
+    },
+    {
+      "var1": 2019,
+      "var2": 8576,
+      "var3": 1141,
+      "var4": 7435,
+      "var5": 1119,
+      "var6": 89,
+      "var7": 2,
+      "var8": 0,
+      "var9": 117
+    },
+    {
+      "var1": 2020,
+      "var2": 7360,
+      "var3": 990,
+      "var4": 6366,
+      "var5": 1011,
+      "var6": 76,
+      "var7": 2,
+      "var8": 0,
+      "var9": 99
+    },
+    {
+      "var1": 2021,
+      "var2": 7461,
+      "var3": 953,
+      "var4": 6508,
+      "var5": 958,
+      "var6": 81,
+      "var7": 2,
+      "var8": 0,
+      "var9": 96
+    },
+    {
+      "var1": 2022,
+      "var2": 7718,
+      "var3": 1091,
+      "var4": 6627,
+      "var5": 1079,
+      "var6": 90,
+      "var7": 8,
+      "var8": 0,
+      "var9": 114
+    },
+    {
+      "var1": 2023,
+      "var2": 7837,
+      "var3": 1140,
+      "var4": 6697,
+      "var5": 1137,
+      "var6": 115,
+      "var7": 5,
+      "var8": 1,
+      "var9": 111
+    },
+    {
+      "var1": 2024,
+      "var2": 8068,
+      "var3": 1123,
+      "var4": 6945,
+      "var5": 1046,
+      "var6": 93,
+      "var7": 2,
+      "var8": 0,
+      "var9": 101
+    },
+    {
+      "var1": 1991,
+      "var2": 7901,
+      "var3": 1574,
+      "var4": 6327,
+      "var5": 1269,
+      "var6": 216,
+      "var7": 37,
+      "var8": 0,
+      "var9": 446
+    },
+    {
+      "var1": 1992,
+      "var2": 10908,
+      "var3": 2333,
+      "var4": 8575,
+      "var5": 1416,
+      "var6": 239,
+      "var7": 37,
+      "var8": 1,
+      "var9": 591
+    },
+    {
+      "var1": 1993,
+      "var2": 12033,
+      "var3": 2559,
+      "var4": 9474,
+      "var5": 1539,
+      "var6": 201,
+      "var7": 21,
+      "var8": 0,
+      "var9": 689
+    },
+    {
+      "var1": 1994,
+      "var2": 12500,
+      "var3": 2994,
+      "var4": 9506,
+      "var5": 1688,
+      "var6": 233,
+      "var7": 31,
+      "var8": 3,
+      "var9": 654
+    },
+    {
+      "var1": 1995,
+      "var2": 12559,
+      "var3": 2256,
+      "var4": 10303,
+      "var5": 1695,
+      "var6": 246,
+      "var7": 24,
+      "var8": 2,
+      "var9": 573
+    },
+    {
+      "var1": 1996,
+      "var2": 12403,
+      "var3": 2022,
+      "var4": 10381,
+      "var5": 1629,
+      "var6": 199,
+      "var7": 7,
+      "var8": 1,
+      "var9": 466
+    },
+    {
+      "var1": 1997,
+      "var2": 12201,
+      "var3": 1975,
+      "var4": 10226,
+      "var5": 1710,
+      "var6": 196,
+      "var7": 10,
+      "var8": 0,
+      "var9": 388
+    },
+    {
+      "var1": 1998,
+      "var2": 11809,
+      "var3": 1722,
+      "var4": 10087,
+      "var5": 1516,
+      "var6": 182,
+      "var7": 10,
+      "var8": 0,
+      "var9": 284
+    },
+    {
+      "var1": 1999,
+      "var2": 11547,
+      "var3": 1771,
+      "var4": 9776,
+      "var5": 1654,
+      "var6": 171,
+      "var7": 3,
+      "var8": 0,
+      "var9": 275
+    },
+    {
+      "var1": 2000,
+      "var2": 10290,
+      "var3": 1511,
+      "var4": 8779,
+      "var5": 1395,
+      "var6": 113,
+      "var7": 7,
+      "var8": 1,
+      "var9": 235
+    },
+    {
+      "var1": 2001,
+      "var2": 10143,
+      "var3": 1370,
+      "var4": 8773,
+      "var5": 1234,
+      "var6": 116,
+      "var7": 14,
+      "var8": 1,
+      "var9": 237
+    },
+    {
+      "var1": 2002,
+      "var2": 9618,
+      "var3": 1371,
+      "var4": 8247,
+      "var5": 1257,
+      "var6": 110,
+      "var7": 7,
+      "var8": 0,
+      "var9": 233
+    },
+    {
+      "var1": 2003,
+      "var2": 9338,
+      "var3": 1399,
+      "var4": 7939,
+      "var5": 1276,
+      "var6": 118,
+      "var7": 11,
+      "var8": 0,
+      "var9": 222
+    },
+    {
+      "var1": 2004,
+      "var2": 9133,
+      "var3": 1484,
+      "var4": 7649,
+      "var5": 1287,
+      "var6": 118,
+      "var7": 6,
+      "var8": 0,
+      "var9": 215
+    },
+    {
+      "var1": 2005,
+      "var2": 9321,
+      "var3": 1631,
+      "var4": 7690,
+      "var5": 1457,
+      "var6": 112,
+      "var7": 15,
+      "var8": 0,
+      "var9": 215
+    },
+    {
+      "var1": 2006,
+      "var2": 9089,
+      "var3": 1524,
+      "var4": 7565,
+      "var5": 1408,
+      "var6": 119,
+      "var7": 8,
+      "var8": 0,
+      "var9": 201
+    },
+    {
+      "var1": 2007,
+      "var2": 9369,
+      "var3": 1546,
+      "var4": 7823,
+      "var5": 1435,
+      "var6": 113,
+      "var7": 7,
+      "var8": 0,
+      "var9": 188
+    },
+    {
+      "var1": 2008,
+      "var2": 8869,
+      "var3": 1558,
+      "var4": 7311,
+      "var5": 1438,
+      "var6": 105,
+      "var7": 5,
+      "var8": 0,
+      "var9": 208
+    },
+    {
+      "var1": 2009,
+      "var2": 9261,
+      "var3": 1317,
+      "var4": 7944,
+      "var5": 1326,
+      "var6": 95,
+      "var7": 7,
+      "var8": 0,
+      "var9": 206
+    },
+    {
+      "var1": 2010,
+      "var2": 9455,
+      "var3": 1333,
+      "var4": 8122,
+      "var5": 1226,
+      "var6": 102,
+      "var7": 10,
+      "var8": 0,
+      "var9": 174
+    },
+    {
+      "var1": 2011,
+      "var2": 8958,
+      "var3": 1311,
+      "var4": 7647,
+      "var5": 1221,
+      "var6": 88,
+      "var7": 5,
+      "var8": 0,
+      "var9": 174
+    },
+    {
+      "var1": 2012,
+      "var2": 9001,
+      "var3": 1315,
+      "var4": 7686,
+      "var5": 1228,
+      "var6": 91,
+      "var7": 4,
+      "var8": 0,
+      "var9": 167
+    },
+    {
+      "var1": 2013,
+      "var2": 8854,
+      "var3": 1266,
+      "var4": 7588,
+      "var5": 1160,
+      "var6": 85,
+      "var7": 8,
+      "var8": 1,
+      "var9": 152
+    },
+    {
+      "var1": 2014,
+      "var2": 8221,
+      "var3": 1231,
+      "var4": 6990,
+      "var5": 1227,
+      "var6": 110,
+      "var7": 4,
+      "var8": 1,
+      "var9": 128
+    },
+    {
+      "var1": 2015,
+      "var2": 7882,
+      "var3": 1132,
+      "var4": 6750,
+      "var5": 1057,
+      "var6": 81,
+      "var7": 7,
+      "var8": 1,
+      "var9": 105
+    },
+    {
+      "var1": 2016,
+      "var2": 7997,
+      "var3": 1177,
+      "var4": 6820,
+      "var5": 1148,
+      "var6": 99,
+      "var7": 3,
+      "var8": 0,
+      "var9": 120
+    }
+  ]
+}

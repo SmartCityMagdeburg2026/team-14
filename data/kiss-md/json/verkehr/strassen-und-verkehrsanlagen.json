@@ -1,0 +1,748 @@
+{
+  "id": "verkehr/strassen-und-verkehrsanlagen",
+  "title": "Straßen- und Verkehrsanlagen",
+  "category": "Verkehr",
+  "subcategory": "Straßen- und Verkehrsanlagen",
+  "tableId": "K8_T5",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/verkehr/strassen-und-verkehrsanlagen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Straßen- und Verkehrsanlagen.xlsx"
+  },
+  "description": "Straßen- und Verkehrsanlagen Magdeburg. Die 48 Kennzahlen-Spalten beinhalten Längen, Mengen und Quoten verschiedener Anlagentypen, deren Zuordnung zu var3..var48 aus den Rohdaten nicht zuverlässig ableitbar war.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1116.6,
+        1119.2,
+        1128.9
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        50.7,
+        50.7,
+        50.7
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        25.2,
+        25.2,
+        25.2
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        35.5,
+        35.6,
+        35.6
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        718.1,
+        720.1,
+        729.8
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        70.9,
+        70.9,
+        70.9
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        161.1,
+        161.1,
+        161.1
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        486.1,
+        488.1,
+        497.8
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        84.1,
+        84.1,
+        84.1
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        203,
+        203.5,
+        203.5
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        652,
+        652,
+        652
+      ]
+    },
+    {
+      "key": "var13",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        58.39,
+        58.26,
+        57.76
+      ]
+    },
+    {
+      "key": "var14",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        22466,
+        22497,
+        22533
+      ]
+    },
+    {
+      "key": "var15",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        229.5,
+        248.8,
+        248.8
+      ]
+    },
+    {
+      "key": "var16",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        285,
+        285,
+        285
+      ]
+    },
+    {
+      "key": "var17",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        101.9,
+        101.9,
+        101.9
+      ]
+    },
+    {
+      "key": "var18",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        81.2,
+        81.2,
+        81.2
+      ]
+    },
+    {
+      "key": "var19",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        256,
+        256,
+        256
+      ]
+    },
+    {
+      "key": "var20",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        221,
+        221,
+        221
+      ]
+    },
+    {
+      "key": "var21",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        35,
+        35,
+        35
+      ]
+    },
+    {
+      "key": "var22",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        226,
+        226,
+        226
+      ]
+    },
+    {
+      "key": "var23",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        69,
+        69,
+        69
+      ]
+    },
+    {
+      "key": "var24",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": "day",
+      "sample": [
+        29,
+        29,
+        29
+      ]
+    },
+    {
+      "key": "var25",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": "day",
+      "sample": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "key": "var26",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        11.8,
+        11.8,
+        11.8
+      ]
+    },
+    {
+      "key": "var27",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": "day",
+      "sample": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "key": "var28",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        39,
+        39,
+        39
+      ]
+    },
+    {
+      "key": "var29",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": "day",
+      "sample": [
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "key": "var30",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        31,
+        31,
+        31
+      ]
+    },
+    {
+      "key": "var31",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        25,
+        25,
+        25
+      ]
+    },
+    {
+      "key": "var32",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5,
+        5,
+        5
+      ]
+    },
+    {
+      "key": "var33",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        47,
+        47,
+        47
+      ]
+    },
+    {
+      "key": "var34",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "16 280",
+        "16 320",
+        "16 320"
+      ]
+    },
+    {
+      "key": "var35",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        115,
+        119,
+        119
+      ]
+    },
+    {
+      "key": "var36",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        152,
+        116,
+        122
+      ]
+    },
+    {
+      "key": "var37",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        254,
+        228,
+        226
+      ]
+    },
+    {
+      "key": "var38",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        15,
+        15,
+        15
+      ]
+    },
+    {
+      "key": "var39",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        282,
+        286,
+        284
+      ]
+    },
+    {
+      "key": "var40",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        244,
+        246,
+        246
+      ]
+    },
+    {
+      "key": "var41",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        46,
+        47,
+        47
+      ]
+    },
+    {
+      "key": "var42",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        108,
+        110,
+        110
+      ]
+    },
+    {
+      "key": "var43",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        20242,
+        20310,
+        20321
+      ]
+    },
+    {
+      "key": "var44",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        765,
+        766,
+        766
+      ]
+    },
+    {
+      "key": "var45",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        13078,
+        13084,
+        13104
+      ]
+    },
+    {
+      "key": "var46",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2348,
+        2376,
+        2376
+      ]
+    },
+    {
+      "key": "var47",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        3985,
+        3985,
+        3985
+      ]
+    },
+    {
+      "key": "var48",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        475,
+        583,
+        607
+      ]
+    }
+  ],
+  "rowCount": 3,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": 1116.6,
+      "var3": 50.7,
+      "var4": 25.2,
+      "var5": 35.5,
+      "var6": 718.1,
+      "var7": 70.9,
+      "var8": 161.1,
+      "var9": 486.1,
+      "var10": 84.1,
+      "var11": 203,
+      "var12": 652,
+      "var13": 58.39,
+      "var14": 22466,
+      "var15": 229.5,
+      "var16": 285,
+      "var17": 101.9,
+      "var18": 81.2,
+      "var19": 256,
+      "var20": 221,
+      "var21": 35,
+      "var22": 226,
+      "var23": 69,
+      "var24": 29,
+      "var25": 2,
+      "var26": 11.8,
+      "var27": 2,
+      "var28": 39,
+      "var29": 7,
+      "var30": 31,
+      "var31": 25,
+      "var32": 5,
+      "var33": 47,
+      "var34": "16 280",
+      "var35": 115,
+      "var36": 152,
+      "var37": 254,
+      "var38": 15,
+      "var39": 282,
+      "var40": 244,
+      "var41": 46,
+      "var42": 108,
+      "var43": 20242,
+      "var44": 765,
+      "var45": 13078,
+      "var46": 2348,
+      "var47": 3985,
+      "var48": 475
+    },
+    {
+      "var1": 2018,
+      "var2": 1119.2,
+      "var3": 50.7,
+      "var4": 25.2,
+      "var5": 35.6,
+      "var6": 720.1,
+      "var7": 70.9,
+      "var8": 161.1,
+      "var9": 488.1,
+      "var10": 84.1,
+      "var11": 203.5,
+      "var12": 652,
+      "var13": 58.26,
+      "var14": 22497,
+      "var15": 248.8,
+      "var16": 285,
+      "var17": 101.9,
+      "var18": 81.2,
+      "var19": 256,
+      "var20": 221,
+      "var21": 35,
+      "var22": 226,
+      "var23": 69,
+      "var24": 29,
+      "var25": 2,
+      "var26": 11.8,
+      "var27": 2,
+      "var28": 39,
+      "var29": 7,
+      "var30": 31,
+      "var31": 25,
+      "var32": 5,
+      "var33": 47,
+      "var34": "16 320",
+      "var35": 119,
+      "var36": 116,
+      "var37": 228,
+      "var38": 15,
+      "var39": 286,
+      "var40": 246,
+      "var41": 47,
+      "var42": 110,
+      "var43": 20310,
+      "var44": 766,
+      "var45": 13084,
+      "var46": 2376,
+      "var47": 3985,
+      "var48": 583
+    },
+    {
+      "var1": 2019,
+      "var2": 1128.9,
+      "var3": 50.7,
+      "var4": 25.2,
+      "var5": 35.6,
+      "var6": 729.8,
+      "var7": 70.9,
+      "var8": 161.1,
+      "var9": 497.8,
+      "var10": 84.1,
+      "var11": 203.5,
+      "var12": 652,
+      "var13": 57.76,
+      "var14": 22533,
+      "var15": 248.8,
+      "var16": 285,
+      "var17": 101.9,
+      "var18": 81.2,
+      "var19": 256,
+      "var20": 221,
+      "var21": 35,
+      "var22": 226,
+      "var23": 69,
+      "var24": 29,
+      "var25": 2,
+      "var26": 11.8,
+      "var27": 2,
+      "var28": 39,
+      "var29": 7,
+      "var30": 31,
+      "var31": 25,
+      "var32": 5,
+      "var33": 47,
+      "var34": "16 320",
+      "var35": 119,
+      "var36": 122,
+      "var37": 226,
+      "var38": 15,
+      "var39": 284,
+      "var40": 246,
+      "var41": 47,
+      "var42": 110,
+      "var43": 20321,
+      "var44": 766,
+      "var45": 13104,
+      "var46": 2376,
+      "var47": 3985,
+      "var48": 607
+    }
+  ]
+}

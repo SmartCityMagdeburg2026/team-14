@@ -1,0 +1,118 @@
+{
+  "id": "wirtschaft/landwirtschaftliche-betriebe-mit-haltung-von-schweinen-in-magdeburg",
+  "title": "Landwirtschaftliche Betriebe mit Haltung von Schweinen in Magdeburg",
+  "category": "Wirtschaft",
+  "subcategory": "Landwirtschaft",
+  "tableId": "K7_T105b",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/landwirtschaftliche-betriebe-mit-haltung-von-schweinen-in-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Landwirtschaftliche Betriebe mit Haltung von Schweinen in Magdeburg.xlsx"
+  },
+  "description": "Landwirtschaftliche Betriebe mit Haltung von Schweinen in Magdeburg. Sehr kleine Werte (1–2 Betriebe).",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2014,
+        2015,
+        2016
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "rowCount": 8,
+  "rows": [
+    {
+      "var1": 2014,
+      "var2": 1,
+      "var3": 0,
+      "var4": 1
+    },
+    {
+      "var1": 2015,
+      "var2": 1,
+      "var3": 0,
+      "var4": 1
+    },
+    {
+      "var1": 2016,
+      "var2": 1,
+      "var3": 0,
+      "var4": 1
+    },
+    {
+      "var1": 2017,
+      "var2": 1,
+      "var3": 0,
+      "var4": 1
+    },
+    {
+      "var1": 2018,
+      "var2": 1,
+      "var3": 0,
+      "var4": 1
+    },
+    {
+      "var1": 2019,
+      "var2": 2,
+      "var3": 0,
+      "var4": 2
+    },
+    {
+      "var1": 2020,
+      "var2": 0,
+      "var3": 0,
+      "var4": 0
+    },
+    {
+      "var1": 2021,
+      "var2": null,
+      "var3": 0,
+      "var4": null
+    }
+  ]
+}

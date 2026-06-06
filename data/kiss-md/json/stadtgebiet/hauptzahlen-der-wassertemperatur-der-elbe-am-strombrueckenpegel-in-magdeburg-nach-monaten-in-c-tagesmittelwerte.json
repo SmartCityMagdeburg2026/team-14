@@ -1,0 +1,670 @@
+{
+  "id": "stadtgebiet/hauptzahlen-der-wassertemperatur-der-elbe-am-strombrueckenpegel-in-magdeburg-nach-monaten-in-c-tagesmittelwerte",
+  "title": "Hauptzahlen der Wassertemperatur der Elbe am Strombrückenpegel in Magdeburg nach Monaten in °C (Tagesmittelwerte)",
+  "category": "Stadtgebiet",
+  "subcategory": "Die Elbe im Stadtgebiet Magdeburg",
+  "tableId": "K2_T6",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/stadtgebiet/hauptzahlen-der-wassertemperatur-der-elbe-am-strombrueckenpegel-in-magdeburg-nach-monaten-in-c-tagesmittelwerte.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Hauptzahlen der Wassertemperatur der Elbe am Strombrückenpegel in Magdeburg nach Monaten in °C (Tagesmittelwerte).xlsx"
+  },
+  "description": "Elbe-Wassertemperatur am Strombrückenpegel Magdeburg, monatlich (Tagesmittelwerte). var4..var6 enthalten weitere Statistiken (Min/Max/Tage), Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2019,
+        2019,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Monat",
+      "unit": null,
+      "type": "string",
+      "role": "month_de",
+      "sample": [
+        "Januar",
+        "Februar",
+        "März"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Wassertemperatur Monatsmittel",
+      "unit": "°C",
+      "type": "number",
+      "role": null,
+      "sample": [
+        3.38387096774194,
+        4.00714285714286,
+        7.03225806451613
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1.4,
+        2.4,
+        5.6
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        5.5,
+        5.4,
+        8.9
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        5.6,
+        5.5,
+        9
+      ]
+    }
+  ],
+  "rowCount": 72,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": "Januar",
+      "var3": 3.38387096774194,
+      "var4": 1.4,
+      "var5": 5.5,
+      "var6": 5.6
+    },
+    {
+      "var1": 2019,
+      "var2": "Februar",
+      "var3": 4.00714285714286,
+      "var4": 2.4,
+      "var5": 5.4,
+      "var6": 5.5
+    },
+    {
+      "var1": 2019,
+      "var2": "März",
+      "var3": 7.03225806451613,
+      "var4": 5.6,
+      "var5": 8.9,
+      "var6": 9
+    },
+    {
+      "var1": 2019,
+      "var2": "April",
+      "var3": 11.7033333333333,
+      "var4": 8.9,
+      "var5": 15.3,
+      "var6": 15.6
+    },
+    {
+      "var1": 2019,
+      "var2": "Mai",
+      "var3": 14.8870967741935,
+      "var4": 12.9,
+      "var5": 17.8,
+      "var6": 18.1
+    },
+    {
+      "var1": 2019,
+      "var2": "Juni",
+      "var3": 22.9766666666667,
+      "var4": 18.4,
+      "var5": 25.6,
+      "var6": 26.5
+    },
+    {
+      "var1": 2019,
+      "var2": "Juli",
+      "var3": 21.3967741935484,
+      "var4": 18.7,
+      "var5": 24.7,
+      "var6": 25.9
+    },
+    {
+      "var1": 2019,
+      "var2": "August",
+      "var3": 21.9967741935484,
+      "var4": 20.2,
+      "var5": 24,
+      "var6": 24.7
+    },
+    {
+      "var1": 2019,
+      "var2": "September",
+      "var3": 17.9433333333333,
+      "var4": 15,
+      "var5": 23.7,
+      "var6": 24.3
+    },
+    {
+      "var1": 2019,
+      "var2": "Oktober",
+      "var3": 13.6161290322581,
+      "var4": 10,
+      "var5": 15.5,
+      "var6": 15.9
+    },
+    {
+      "var1": 2019,
+      "var2": "November",
+      "var3": 7.93666666666667,
+      "var4": 6.3,
+      "var5": 10.6,
+      "var6": 10.8
+    },
+    {
+      "var1": 2019,
+      "var2": "Dezember",
+      "var3": 5.00967741935484,
+      "var4": 4.1,
+      "var5": 5.7,
+      "var6": 6
+    },
+    {
+      "var1": 2020,
+      "var2": "Januar",
+      "var3": 3.9741935483871,
+      "var4": 3,
+      "var5": 5.1,
+      "var6": 5.2
+    },
+    {
+      "var1": 2020,
+      "var2": "Februar",
+      "var3": 5.75172413793104,
+      "var4": 4.9,
+      "var5": 6.5,
+      "var6": 6.5
+    },
+    {
+      "var1": 2020,
+      "var2": "März",
+      "var3": 7.29354838709677,
+      "var4": 6.3,
+      "var5": 8.4,
+      "var6": 8.4
+    },
+    {
+      "var1": 2020,
+      "var2": "April",
+      "var3": 12.1866666666667,
+      "var4": 7.2,
+      "var5": 15.1,
+      "var6": 15.3
+    },
+    {
+      "var1": 2020,
+      "var2": "Mai",
+      "var3": 15.6451612903226,
+      "var4": 13.8,
+      "var5": 17.6,
+      "var6": 17.9
+    },
+    {
+      "var1": 2020,
+      "var2": "Juni",
+      "var3": 19.7,
+      "var4": 17.6,
+      "var5": 21.6,
+      "var6": 21.7
+    },
+    {
+      "var1": 2020,
+      "var2": "Juli",
+      "var3": 20.5225806451613,
+      "var4": 19.3,
+      "var5": 21.6,
+      "var6": 22.1
+    },
+    {
+      "var1": 2020,
+      "var2": "August",
+      "var3": 22.4612903225806,
+      "var4": 19.5,
+      "var5": 24.1,
+      "var6": 24.3
+    },
+    {
+      "var1": 2020,
+      "var2": "September",
+      "var3": 18.3633333333333,
+      "var4": 16.1,
+      "var5": 19.7,
+      "var6": 20
+    },
+    {
+      "var1": 2020,
+      "var2": "Oktober",
+      "var3": 13.5258064516129,
+      "var4": 11.9,
+      "var5": 16.1,
+      "var6": 16.3
+    },
+    {
+      "var1": 2020,
+      "var2": "November",
+      "var3": 10.0566666666667,
+      "var4": 7.3,
+      "var5": 12.6,
+      "var6": 12.7
+    },
+    {
+      "var1": 2020,
+      "var2": "Dezember",
+      "var3": 5.83225806451613,
+      "var4": 4.3,
+      "var5": 7,
+      "var6": 7.1
+    },
+    {
+      "var1": 2021,
+      "var2": "Januar",
+      "var3": 3.5,
+      "var4": 2.1,
+      "var5": 4.4,
+      "var6": 4.4
+    },
+    {
+      "var1": 2021,
+      "var2": "Februar",
+      "var3": 3.2,
+      "var4": 1.3,
+      "var5": 5.4,
+      "var6": 5.4
+    },
+    {
+      "var1": 2021,
+      "var2": "März",
+      "var3": 6.1,
+      "var4": 5.2,
+      "var5": 9,
+      "var6": 9.4
+    },
+    {
+      "var1": 2021,
+      "var2": "April",
+      "var3": 9.2,
+      "var4": 7.5,
+      "var5": 11.5,
+      "var6": 11.6
+    },
+    {
+      "var1": 2021,
+      "var2": "Mai",
+      "var3": 13.5,
+      "var4": 10.9,
+      "var5": 14.8,
+      "var6": 15.2
+    },
+    {
+      "var1": 2021,
+      "var2": "Juni",
+      "var3": 20.4,
+      "var4": 15.4,
+      "var5": 23.6,
+      "var6": 23.9
+    },
+    {
+      "var1": 2021,
+      "var2": "Juli",
+      "var3": 20.7,
+      "var4": 19.3,
+      "var5": 21.4,
+      "var6": 21.8
+    },
+    {
+      "var1": 2021,
+      "var2": "August",
+      "var3": 19.8,
+      "var4": 17.6,
+      "var5": 21.6,
+      "var6": 21.7
+    },
+    {
+      "var1": 2021,
+      "var2": "September",
+      "var3": 17.5,
+      "var4": 16.2,
+      "var5": 19,
+      "var6": 19
+    },
+    {
+      "var1": 2021,
+      "var2": "Oktober",
+      "var3": 12.9,
+      "var4": 10.8,
+      "var5": 15.9,
+      "var6": 16.2
+    },
+    {
+      "var1": 2021,
+      "var2": "November",
+      "var3": 9,
+      "var4": 6.5,
+      "var5": 10.9,
+      "var6": 11
+    },
+    {
+      "var1": 2021,
+      "var2": "Dezember",
+      "var3": 4.9,
+      "var4": 3.3,
+      "var5": 6.3,
+      "var6": 6.5
+    },
+    {
+      "var1": 2022,
+      "var2": "Januar",
+      "var3": 5,
+      "var4": 4,
+      "var5": 6.5,
+      "var6": 6.7
+    },
+    {
+      "var1": 2022,
+      "var2": "Februar",
+      "var3": 5.3,
+      "var4": 4.5,
+      "var5": 5.9,
+      "var6": 6
+    },
+    {
+      "var1": 2022,
+      "var2": "März",
+      "var3": 6.6,
+      "var4": 4.9,
+      "var5": 9.8,
+      "var6": 9.9
+    },
+    {
+      "var1": 2022,
+      "var2": "April",
+      "var3": 10,
+      "var4": 7.4,
+      "var5": 13.1,
+      "var6": 13.3
+    },
+    {
+      "var1": 2022,
+      "var2": "Mai",
+      "var3": 17.1,
+      "var4": 13.2,
+      "var5": 19.5,
+      "var6": 19.8
+    },
+    {
+      "var1": 2022,
+      "var2": "Juni",
+      "var3": 20.8,
+      "var4": 17.1,
+      "var5": 23.6,
+      "var6": 24
+    },
+    {
+      "var1": 2022,
+      "var2": "Juli",
+      "var3": 21.4,
+      "var4": 19.6,
+      "var5": 23.3,
+      "var6": 23.7
+    },
+    {
+      "var1": 2022,
+      "var2": "August",
+      "var3": 22.4,
+      "var4": 20.7,
+      "var5": 23.6,
+      "var6": 23.8
+    },
+    {
+      "var1": 2022,
+      "var2": "September",
+      "var3": 17.4,
+      "var4": 14,
+      "var5": 20.4,
+      "var6": 20.7
+    },
+    {
+      "var1": 2022,
+      "var2": "Oktober",
+      "var3": 13.3,
+      "var4": 12.8,
+      "var5": 13.7,
+      "var6": 14
+    },
+    {
+      "var1": 2022,
+      "var2": "November",
+      "var3": 10.5,
+      "var4": 8,
+      "var5": 13,
+      "var6": 13.1
+    },
+    {
+      "var1": 2022,
+      "var2": "Dezember",
+      "var3": 5.3,
+      "var4": 3.9,
+      "var5": 7.8,
+      "var6": 8
+    },
+    {
+      "var1": 2023,
+      "var2": "Januar",
+      "var3": 4.7,
+      "var4": 3.5,
+      "var5": 5.5,
+      "var6": 5.7
+    },
+    {
+      "var1": 2023,
+      "var2": "Februar",
+      "var3": 6.1,
+      "var4": 3.8,
+      "var5": 7.3,
+      "var6": 7.3
+    },
+    {
+      "var1": 2023,
+      "var2": "März",
+      "var3": 7.2,
+      "var4": 6.1,
+      "var5": 8.9,
+      "var6": 8.9
+    },
+    {
+      "var1": 2023,
+      "var2": "April",
+      "var3": 9.7,
+      "var4": 8.8,
+      "var5": 10.8,
+      "var6": 10.9
+    },
+    {
+      "var1": 2023,
+      "var2": "Mai",
+      "var3": 12.8,
+      "var4": 10.8,
+      "var5": 14.5,
+      "var6": 14.7
+    },
+    {
+      "var1": 2023,
+      "var2": "Juni",
+      "var3": 16.5,
+      "var4": 14.8,
+      "var5": 18,
+      "var6": 18.2
+    },
+    {
+      "var1": 2023,
+      "var2": "Juli",
+      "var3": 18.9,
+      "var4": 18,
+      "var5": 19.8,
+      "var6": 19.8
+    },
+    {
+      "var1": 2023,
+      "var2": "August",
+      "var3": 19.3,
+      "var4": 18.5,
+      "var5": 20.5,
+      "var6": 20.7
+    },
+    {
+      "var1": 2023,
+      "var2": "September",
+      "var3": 19.8,
+      "var4": 19.4,
+      "var5": 20.3,
+      "var6": 20.5
+    },
+    {
+      "var1": 2023,
+      "var2": "Oktober",
+      "var3": 16.9,
+      "var4": 14.7,
+      "var5": 19.3,
+      "var6": 19.3
+    },
+    {
+      "var1": 2023,
+      "var2": "November",
+      "var3": 12.5,
+      "var4": 9.3,
+      "var5": 14.6,
+      "var6": 14.7
+    },
+    {
+      "var1": 2023,
+      "var2": "Dezember",
+      "var3": 7.4,
+      "var4": 6.3,
+      "var5": 8.9,
+      "var6": 9
+    },
+    {
+      "var1": 2024,
+      "var2": "Januar",
+      "var3": 5.5,
+      "var4": 4,
+      "var5": 6.7,
+      "var6": 6.8
+    },
+    {
+      "var1": 2024,
+      "var2": "Februar",
+      "var3": 7.3,
+      "var4": 6.3,
+      "var5": 8.1,
+      "var6": 8.1
+    },
+    {
+      "var1": 2024,
+      "var2": "März",
+      "var3": 9.1,
+      "var4": 8.1,
+      "var5": 10.1,
+      "var6": 10.2
+    },
+    {
+      "var1": 2024,
+      "var2": "April",
+      "var3": 11.9,
+      "var4": 10.2,
+      "var5": 12.8,
+      "var6": 12.9
+    },
+    {
+      "var1": 2024,
+      "var2": "Mai",
+      "var3": 15.5,
+      "var4": 12.9,
+      "var5": 17.2,
+      "var6": 17.3
+    },
+    {
+      "var1": 2024,
+      "var2": "Juni",
+      "var3": 16.9,
+      "var4": 16.3,
+      "var5": 18.5,
+      "var6": 18.6
+    },
+    {
+      "var1": 2024,
+      "var2": "Juli",
+      "var3": 19.1,
+      "var4": 18.1,
+      "var5": 20.2,
+      "var6": 20.2
+    },
+    {
+      "var1": 2024,
+      "var2": "August",
+      "var3": 20.8,
+      "var4": 20.1,
+      "var5": 21.3,
+      "var6": 21.4
+    },
+    {
+      "var1": 2024,
+      "var2": "September",
+      "var3": 19.4,
+      "var4": 17,
+      "var5": 21.7,
+      "var6": 21.8
+    },
+    {
+      "var1": 2024,
+      "var2": "Oktober",
+      "var3": 15.1,
+      "var4": 14.5,
+      "var5": 16.7,
+      "var6": 16.9
+    },
+    {
+      "var1": 2024,
+      "var2": "November",
+      "var3": 12.4,
+      "var4": 10,
+      "var5": 14.9,
+      "var6": 14.9
+    },
+    {
+      "var1": 2024,
+      "var2": "Dezember",
+      "var3": 8.6,
+      "var4": 7.8,
+      "var5": 10.4,
+      "var6": 10.6
+    }
+  ]
+}

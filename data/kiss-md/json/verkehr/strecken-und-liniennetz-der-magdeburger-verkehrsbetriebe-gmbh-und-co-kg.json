@@ -1,0 +1,2441 @@
+{
+  "id": "verkehr/strecken-und-liniennetz-der-magdeburger-verkehrsbetriebe-gmbh-und-co-kg",
+  "title": "Strecken- und Liniennetz der Magdeburger Verkehrsbetriebe GmbH & Co. KG",
+  "category": "Verkehr",
+  "subcategory": "Öffentlicher Personennahverkehr",
+  "tableId": "K8_T25",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/verkehr/strecken-und-liniennetz-der-magdeburger-verkehrsbetriebe-gmbh-und-co-kg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Strecken- und Liniennetz der Magdeburger Verkehrsbetriebe GmbH & Co. KG .xlsx"
+  },
+  "description": "Strecken- und Liniennetz der Magdeburger Verkehrsbetriebe. var5 (vom LLM \"Anzahl Haltestellen\" genannt) enthält Dezimalwerte — vermutlich Streckenlänge in km, nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2017,
+        2017
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Liniennummer",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Verkehrstyp und -mittel",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Tagesverkehr - Straßenbahn",
+        "Tagesverkehr - Straßenbahn",
+        "Tagesverkehr - Straßenbahn"
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Streckenverlauf",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Lerchenwuhne - Breiter Weg - Damaschkeplatz - Olvenstedter Platz / Olvenstedt",
+        "Alte Neustadt - Breiter Weg - Westerhüsen",
+        "Olvenstedter - Damaschkeplatz - Diesdorf"
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        16.79,
+        13.3,
+        9.18
+      ]
+    }
+  ],
+  "rowCount": 337,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": "1",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Lerchenwuhne - Breiter Weg - Damaschkeplatz - Olvenstedter Platz / Olvenstedt",
+      "var5": 16.79
+    },
+    {
+      "var1": 2017,
+      "var2": "2",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Alte Neustadt - Breiter Weg - Westerhüsen",
+      "var5": 13.3
+    },
+    {
+      "var1": 2017,
+      "var2": "3",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Olvenstedter - Damaschkeplatz - Diesdorf",
+      "var5": 9.18
+    },
+    {
+      "var1": 2017,
+      "var2": "4",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Olvenstedt - Europaring - Otto-von-Guericke-Straße - Cracau",
+      "var5": 13.1
+    },
+    {
+      "var1": 2017,
+      "var2": "5",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Diesdorf - Breiter Weg - Nordbrückenzug - Messegelände",
+      "var5": 10.64
+    },
+    {
+      "var1": 2017,
+      "var2": "6",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Leipziger Chaussee - Otto-von-Guericke-Straße - Herrenkrug",
+      "var5": 9.94
+    },
+    {
+      "var1": 2017,
+      "var2": "8",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Neustädter See - Otto-von-Guericke-Straße - Westerhüsen",
+      "var5": 15.4
+    },
+    {
+      "var1": 2017,
+      "var2": "9",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Neustädter See - Otto-von-Guericke-Straße - Reform",
+      "var5": 13.76
+    },
+    {
+      "var1": 2017,
+      "var2": "10",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Barleber See - Otto-von-Guericke-Straße - Sudenburg",
+      "var5": 14.96
+    },
+    {
+      "var1": 2017,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Linienlänge Tagesverkehr Straßenbahn",
+      "var5": 117.07
+    },
+    {
+      "var1": 2017,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Streckenlänge Tagesverkehr Straßenbahn",
+      "var5": 64.05
+    },
+    {
+      "var1": 2017,
+      "var2": "51",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Messegelände - Biederitz, Weidenring",
+      "var5": 6.05
+    },
+    {
+      "var1": 2017,
+      "var2": "52",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Arndtstraße - Porsestraße",
+      "var5": 11.46
+    },
+    {
+      "var1": 2017,
+      "var2": "53",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Ottersleben",
+      "var5": 5.62
+    },
+    {
+      "var1": 2017,
+      "var2": "54",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Porsestraße - (Werner-von-Siemens-Ring) - Sudenburg - Bördepark",
+      "var5": 10.71
+    },
+    {
+      "var1": 2017,
+      "var2": "55",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Ringverkehr - Sudenburg",
+      "var5": 2.45
+    },
+    {
+      "var1": 2017,
+      "var2": "56",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Cracau - Randau",
+      "var5": 13.35
+    },
+    {
+      "var1": 2017,
+      "var2": "57",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Lemsdorf - Buckau",
+      "var5": 5.98
+    },
+    {
+      "var1": 2017,
+      "var2": "58",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Reform - SKL",
+      "var5": 11.19
+    },
+    {
+      "var1": 2017,
+      "var2": "59",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "ZOB - Stadtpark",
+      "var5": 5.46
+    },
+    {
+      "var1": 2017,
+      "var2": "61",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Diesdorf -Friedenshöhe",
+      "var5": 6.27
+    },
+    {
+      "var1": 2017,
+      "var2": "61",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Diesdorf - Sudenburg",
+      "var5": 5.15
+    },
+    {
+      "var1": 2017,
+      "var2": "69",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kannenstieg - S-Bahnhof Neustadt",
+      "var5": 7.37
+    },
+    {
+      "var1": 2017,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Großer Silberberg",
+      "var5": 7.88
+    },
+    {
+      "var1": 2017,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - St.-Schütze-Platz",
+      "var5": 6.53
+    },
+    {
+      "var1": 2017,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Klusweg",
+      "var5": 5.83
+    },
+    {
+      "var1": 2017,
+      "var2": "72",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Am Stern - Diesdorf",
+      "var5": 7.7
+    },
+    {
+      "var1": 2017,
+      "var2": "72",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Am Stern - Harsdorfer Platz",
+      "var5": 5.61
+    },
+    {
+      "var1": 2017,
+      "var2": "73",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Olvenstedter Platz - Wissenschaftshafen",
+      "var5": 5.46
+    },
+    {
+      "var1": 2017,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Linienlänge Tagesverkehr Bus",
+      "var5": 130.07
+    },
+    {
+      "var1": 2017,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Streckenlänge Tagesverkehr Bus",
+      "var5": 107.22
+    },
+    {
+      "var1": 2017,
+      "var2": "N1",
+      "var3": "Nachtverkehr - Straßenbahn",
+      "var4": "Alter Markt - Cracau-Arenen - Messegelände - Herrenkrug",
+      "var5": 9.6
+    },
+    {
+      "var1": 2017,
+      "var2": "N2",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Hasselbachplatz - Buckau - Salbker Platz - Westerhüsen",
+      "var5": 10.44
+    },
+    {
+      "var1": 2017,
+      "var2": "N3",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Hasselbachplatz - Südring - Braunlager Straße - Lemsdorf - Leipziger Chaussee - Reform",
+      "var5": 10.2
+    },
+    {
+      "var1": 2017,
+      "var2": "N4",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Hauptbahnhof - Leipziger Straße - Hansapark - Am Teich - Ottersleben",
+      "var5": 10.14
+    },
+    {
+      "var1": 2017,
+      "var2": "N5",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Hauptbahnhof - Südring - Arndtstraße - Diesdorf",
+      "var5": 9.08
+    },
+    {
+      "var1": 2017,
+      "var2": "N6",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Iniversitätsplatz - Gagernstraße - Olvenstedter Platz - Drosselsteig - St.-Schütze-Platz",
+      "var5": 11.25
+    },
+    {
+      "var1": 2017,
+      "var2": "N7",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Alte Neustadt - Mittagstraße - Neustädter Feld - Lerchenwuhne - Milchweg - Neustädter Platz - Kannenstieg",
+      "var5": 10.75
+    },
+    {
+      "var1": 2017,
+      "var2": "N8",
+      "var3": "Nachtverkehr - Straßenbahn",
+      "var4": "Alter Markt - Universität - Bhf. Neustadt - Kastanienstraße - Zoo - Schule Rothensee - Enercon",
+      "var5": 9.91
+    },
+    {
+      "var1": 2017,
+      "var2": "N9",
+      "var3": "Nachtverkehr - Rufbus",
+      "var4": "Olvenstedter Platz - Lorenzweg - Nordwest - Am Stern",
+      "var5": 4.33
+    },
+    {
+      "var1": 2017,
+      "var2": "insgesamt",
+      "var3": "Nachtverkehr",
+      "var4": "Linienlänge Nachtverkehr",
+      "var5": 85.7
+    },
+    {
+      "var1": 2017,
+      "var2": "insgesamt",
+      "var3": "Nachtverkehr",
+      "var4": "Streckenlänge Nachtverkehr",
+      "var5": null
+    },
+    {
+      "var1": 2018,
+      "var2": "1",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "IKEA - Breiter Weg - Damaschkeplatz - Olvenstedter Platz / Olvenstedt",
+      "var5": 16.8
+    },
+    {
+      "var1": 2018,
+      "var2": "2",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Alte Neustadt - Breiter Weg - Westerhüsen",
+      "var5": 13.3
+    },
+    {
+      "var1": 2018,
+      "var2": "3",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Südring - Hbf - Olvenstedt - Damaschkeplatz - Diesdorf",
+      "var5": 9.19
+    },
+    {
+      "var1": 2018,
+      "var2": "4",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Olvenstedt - Europaring - Otto-von-Guericke-Straße - Anna-Ebert-Brücke - Cracau",
+      "var5": 13.1
+    },
+    {
+      "var1": 2018,
+      "var2": "5",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Diesdorf - Breiter Weg - Hasselbachplatz - Nordbrückenzug - Messegelände",
+      "var5": 10.64
+    },
+    {
+      "var1": 2018,
+      "var2": "6",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Leipziger Chaussee - Wiener Straße - Otto-von-Guericke-Straße - Herrenkrug",
+      "var5": 9.94
+    },
+    {
+      "var1": 2018,
+      "var2": "8",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Neustädter See - Otto-von-Guericke-Straße - Hasselbachplatz - Westerhüsen",
+      "var5": 15.4
+    },
+    {
+      "var1": 2018,
+      "var2": "9",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Neustädter See - Breiter Weg - Hasselbachplatz - Leipziger Straße - Reform",
+      "var5": 13.7
+    },
+    {
+      "var1": 2018,
+      "var2": "10",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Barleber See - Pettenkofer Straße - Otto-von-Guericke-Straße - Sudenburg",
+      "var5": 15.03
+    },
+    {
+      "var1": 2018,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Linienlänge Tagesverkehr Straßenbahn",
+      "var5": 117.1
+    },
+    {
+      "var1": 2018,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Streckenlänge Tagesverkehr Straßenbahn",
+      "var5": 65.051
+    },
+    {
+      "var1": 2018,
+      "var2": "51",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Messegelände - Biederitz, Weidenring",
+      "var5": 6.05
+    },
+    {
+      "var1": 2018,
+      "var2": "52",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Arndtstraße - Porsestraße (Baustellenplan)",
+      "var5": 11.65
+    },
+    {
+      "var1": 2018,
+      "var2": "53",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Sonnenanger - Ottersleben, Eichplatz",
+      "var5": 5.62
+    },
+    {
+      "var1": 2018,
+      "var2": "54",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Porsestraße - (Werner-von-Siemens-Ring) - Sudenburg - Bördepark (Baustellenplan)",
+      "var5": 12.56
+    },
+    {
+      "var1": 2018,
+      "var2": "55",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Ringverkehr Sudenburg - O.-Richter-Str. - Bhf. Sdbg. - Südring",
+      "var5": 2.45
+    },
+    {
+      "var1": 2018,
+      "var2": "56",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Cracau - Pechau - Calenberge - Randau",
+      "var5": 13.35
+    },
+    {
+      "var1": 2018,
+      "var2": "57",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Buckau, Wasserwerk - Schilfbreite - Kirschweg - Lemsdorf - Sudenburg",
+      "var5": 5.98
+    },
+    {
+      "var1": 2018,
+      "var2": "58",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Reform - Am Hopfengarten - Salbker Platz - SKL",
+      "var5": 11.19
+    },
+    {
+      "var1": 2018,
+      "var2": "59",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "ZOB - Hasselbachplatz - Stadtpark",
+      "var5": 5.46
+    },
+    {
+      "var1": 2018,
+      "var2": "61",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Diesdorf - Sudenburger Wuhne - Friedenshöhe bzw. Sudenburg",
+      "var5": 6.27
+    },
+    {
+      "var1": 2018,
+      "var2": "69",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kannenstieg - Kastanienstraße - Neustädter Friedhof - S-Bahnhof Neustadt",
+      "var5": 7.37
+    },
+    {
+      "var1": 2018,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Großer Silberberg",
+      "var5": 7.88
+    },
+    {
+      "var1": 2018,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - St.-Schütze-Platz",
+      "var5": 6.53
+    },
+    {
+      "var1": 2018,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Klusweg",
+      "var5": 5.83
+    },
+    {
+      "var1": 2018,
+      "var2": "72",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Am Stern - Nordwest - Olvenstedter Platz - Diesdorf",
+      "var5": 7.7
+    },
+    {
+      "var1": 2018,
+      "var2": "72",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Am Stern - Nordwest - Olvenstedter Platz - Harsdorfer Platz",
+      "var5": 5.61
+    },
+    {
+      "var1": 2018,
+      "var2": "73",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Olvenstedter Platz - Opernhaus - Wissenschaftshafen",
+      "var5": 5.46
+    },
+    {
+      "var1": 2018,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Linienlänge Tagesverkehr Bus",
+      "var5": 126.96
+    },
+    {
+      "var1": 2018,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Streckenlänge Tagesverkehr Bus",
+      "var5": 92.75
+    },
+    {
+      "var1": 2018,
+      "var2": "N1",
+      "var3": "Nachtverkehr - Straßenbahn",
+      "var4": "Alter Markt - Cracau-Arenen - Messegelände - Herrenkrug",
+      "var5": 9.6
+    },
+    {
+      "var1": 2018,
+      "var2": "N2",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Hasselbachplatz - Buckau - Salbker Platz - Westerhüsen",
+      "var5": 9.78
+    },
+    {
+      "var1": 2018,
+      "var2": "N3",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Breiter Weg - Halberstädter Straße - Lemsdorf - Leipziger Chaussee",
+      "var5": 10.2
+    },
+    {
+      "var1": 2018,
+      "var2": "N4",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - O.-v.-Guericke-Straße - Brenneckestraße - Ottersleben",
+      "var5": 10.14
+    },
+    {
+      "var1": 2018,
+      "var2": "N5",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - O.-v.-Guericke-Straße -Südring - Westring - Diesdorf",
+      "var5": 9.08
+    },
+    {
+      "var1": 2018,
+      "var2": "N6",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Universitätsplatz -  St.-Schütze-Platz - Olvenstedt",
+      "var5": 11.25
+    },
+    {
+      "var1": 2018,
+      "var2": "N7",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Alte Neustadt - Mittagstraße - Neustädter Feld - Neustädter See - Kannenstieg",
+      "var5": 10.75
+    },
+    {
+      "var1": 2018,
+      "var2": "N8",
+      "var3": "Nachtverkehr - Straßenbahn",
+      "var4": "Alter Markt - Uniplatz - Mittagstraße - Kastanienstraße - Zoo - Enercon - Barleber See",
+      "var5": 10.39
+    },
+    {
+      "var1": 2018,
+      "var2": "N9",
+      "var3": "Nachtverkehr - Rufbus",
+      "var4": "Olvenstedter Platz - Lorenzweg - Nordwest - Am Stern",
+      "var5": 4.33
+    },
+    {
+      "var1": 2018,
+      "var2": "insgesamt",
+      "var3": "Nachtverkehr",
+      "var4": "Linienlänge Nachtverkehr",
+      "var5": 85.52
+    },
+    {
+      "var1": 2018,
+      "var2": "insgesamt",
+      "var3": "Nachtverkehr",
+      "var4": "Streckenlänge Nachtverkehr",
+      "var5": null
+    },
+    {
+      "var1": 2019,
+      "var2": "1",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "IKEA - Breiter Weg - Hasselbachplatz - Damaschkeplatz - Olvenstedter Platz / Olvenstedt",
+      "var5": 16.8
+    },
+    {
+      "var1": 2019,
+      "var2": "2",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Alte Neustadt - Breiter Weg - Westerhüsen",
+      "var5": 13.3
+    },
+    {
+      "var1": 2019,
+      "var2": "3",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Südring - Hbf - Olvenstedt - Damaschkeplatz - Diesdorf",
+      "var5": 9.19
+    },
+    {
+      "var1": 2019,
+      "var2": "4",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Olvenstedt - Europaring - Otto-von-Guericke-Straße - Anna-Ebert-Brücke - Cracau",
+      "var5": 13.1
+    },
+    {
+      "var1": 2019,
+      "var2": "5",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Diesdorf - Breiter Weg - Hasselbachplatz - Nordbrückenzug - Messegelände",
+      "var5": 10.64
+    },
+    {
+      "var1": 2019,
+      "var2": "6",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Leipziger Chaussee - Wiener Straße - Otto-von-Guericke-Straße - Herrenkrug",
+      "var5": 10.83
+    },
+    {
+      "var1": 2019,
+      "var2": "8",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Neustädter See - Otto-von-Guericke-Straße - Hasselbachplatz - Buckau/Wasserwerk - Westerhüsen",
+      "var5": 15.4
+    },
+    {
+      "var1": 2019,
+      "var2": "9",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Neustädter See - Breiter Weg - Hasselbachplatz - Leipziger Straße - Reform",
+      "var5": 13.79
+    },
+    {
+      "var1": 2019,
+      "var2": "10",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Sudenburg - Otto-von-Guericke-Straße / Hasselbachplatz - Pettenkofer Straße bzw. Barleber See",
+      "var5": 15.06
+    },
+    {
+      "var1": 2019,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Linienlänge Tagesverkehr Straßenbahn",
+      "var5": 118.11
+    },
+    {
+      "var1": 2019,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Streckenlänge Tagesverkehr Straßenbahn",
+      "var5": 65.051
+    },
+    {
+      "var1": 2019,
+      "var2": "51",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Messegelände - Biederitz, Weidenring",
+      "var5": 6.05
+    },
+    {
+      "var1": 2019,
+      "var2": "52",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Porsestraße",
+      "var5": 11.28
+    },
+    {
+      "var1": 2019,
+      "var2": "53",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Sonnenanger - Ottersleben, Eichplatz",
+      "var5": 5.62
+    },
+    {
+      "var1": 2019,
+      "var2": "54",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Porsestraße - (Werner-von-Siemens-Ring) - Sudenburg - Bördepark",
+      "var5": 12.19
+    },
+    {
+      "var1": 2019,
+      "var2": "54",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Porsestraße - Sudenburg - Bördepark",
+      "var5": 10.57
+    },
+    {
+      "var1": 2019,
+      "var2": "55",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Ringverkehr Sudenburg - O.-Richter-Str. - Bhf. Sdbg. - Südring",
+      "var5": 2.45
+    },
+    {
+      "var1": 2019,
+      "var2": "56",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Cracau - Pechau - Calenberge - Randau",
+      "var5": 13.35
+    },
+    {
+      "var1": 2019,
+      "var2": "57",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Buckau, Wasserwerk - Schilfbreite - Kirschweg - Lemsdorf - Sudenburg",
+      "var5": 5.98
+    },
+    {
+      "var1": 2019,
+      "var2": "58",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Reform - Am Hopfengarten - Salbker Platz - SKL",
+      "var5": 11.19
+    },
+    {
+      "var1": 2019,
+      "var2": "59",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "ZOB - Hasselbachplatz - Stadtpark",
+      "var5": 5.46
+    },
+    {
+      "var1": 2019,
+      "var2": "61",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Diesdorf - Sudenburger Wuhne - Friedenshöhe bzw. Sudenburg",
+      "var5": 6.27
+    },
+    {
+      "var1": 2019,
+      "var2": "66",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Bördepark - Beyendorf-Sohlen - Westerhüsen",
+      "var5": 11.54
+    },
+    {
+      "var1": 2019,
+      "var2": "69",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kannenstieg - Kastanienstraße - Neustädter Friedhof - S-Bahnhof Neustadt",
+      "var5": 7.37
+    },
+    {
+      "var1": 2019,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Großer Silberberg",
+      "var5": 7.88
+    },
+    {
+      "var1": 2019,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - St.-Schütze-Platz",
+      "var5": 6.53
+    },
+    {
+      "var1": 2019,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Klusweg",
+      "var5": 5.83
+    },
+    {
+      "var1": 2019,
+      "var2": "72",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Am Stern - Nordwest - Olvenstedter Platz - Diesdorf",
+      "var5": 7.7
+    },
+    {
+      "var1": 2019,
+      "var2": "72",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Am Stern - Nordwest - Olvenstedter Platz - Harsdorfer Platz",
+      "var5": 5.61
+    },
+    {
+      "var1": 2019,
+      "var2": "73",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Olvenstedter Platz - Opernhaus - Wissenschaftshafen",
+      "var5": 5.47
+    },
+    {
+      "var1": 2019,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Linienlänge Tagesverkehr Bus",
+      "var5": 148.34
+    },
+    {
+      "var1": 2019,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Streckenlänge Tagesverkehr Bus",
+      "var5": 103.46
+    },
+    {
+      "var1": 2019,
+      "var2": "N1",
+      "var3": "Nachtverkehr - Straßenbahn",
+      "var4": "Alter Markt - Cracau-Arenen - Messegelände - Herrenkrug",
+      "var5": 9.6
+    },
+    {
+      "var1": 2019,
+      "var2": "N2",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Hasselbachplatz - Buckau - Salbker Platz - Westerhüsen",
+      "var5": 9.78
+    },
+    {
+      "var1": 2019,
+      "var2": "N3",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Breiter Weg - Halberstädter Straße - Lemsdorf - Leipziger Chaussee",
+      "var5": 10.2
+    },
+    {
+      "var1": 2019,
+      "var2": "N4",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - O.-v.-Guericke-Straße - Leipziger Straße - Brenneckestraße - Ottersleben",
+      "var5": 10.14
+    },
+    {
+      "var1": 2019,
+      "var2": "N5",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - O.-v.-Guericke-Straße -Südring - Westring - Diesdorf",
+      "var5": 9.08
+    },
+    {
+      "var1": 2019,
+      "var2": "N6",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Universitätsplatz -  St.-Schütze-Platz - Olvenstedt",
+      "var5": 11.25
+    },
+    {
+      "var1": 2019,
+      "var2": "N7",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Alte Neustadt - Mittagstraße - Neustädter Feld - IKEA - Neustädter See - Kannenstieg",
+      "var5": 10.75
+    },
+    {
+      "var1": 2019,
+      "var2": "N8",
+      "var3": "Nachtverkehr - Straßenbahn",
+      "var4": "Alter Markt - Universitätsplatz - Mittagstraße - Kastanienstraße - Zoo - Enercon - Barleber See",
+      "var5": 10.39
+    },
+    {
+      "var1": 2019,
+      "var2": "N9",
+      "var3": "Nachtverkehr - Rufbus",
+      "var4": "Olvenstedter Platz - Lorenzweg - Nordwest - Am Stern",
+      "var5": 4.33
+    },
+    {
+      "var1": 2019,
+      "var2": "insgesamt",
+      "var3": "Nachtverkehr",
+      "var4": "Linienlänge Nachtverkehr",
+      "var5": 85.52
+    },
+    {
+      "var1": 2019,
+      "var2": "insgesamt",
+      "var3": "Nachtverkehr",
+      "var4": "Streckenlänge Nachtverkehr",
+      "var5": null
+    },
+    {
+      "var1": 2020,
+      "var2": "1",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Sudenburg - Südring - Hauptbahnhof - Alter Markt - IKEA",
+      "var5": 12.68
+    },
+    {
+      "var1": 2020,
+      "var2": "2",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Alte Neustadt - Breiter Weg - Hasselbachplatz - Buckau - Westerhüsen",
+      "var5": 15.68
+    },
+    {
+      "var1": 2020,
+      "var2": "3",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Leipziger Chaussee - Otto-von-Guericke-Straße - Hauptbahnhof - Klinikum Olvenstedt",
+      "var5": 10.7
+    },
+    {
+      "var1": 2020,
+      "var2": "4",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Klinikum Olvenstedt - Hbf - Allee Center - Strombrückenzug - Cracau",
+      "var5": 10.39
+    },
+    {
+      "var1": 2020,
+      "var2": "5",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Klinikum Olvenstedt - Südring - Breiter Weg - Nordbrückenzug - Messegelände",
+      "var5": 12.71
+    },
+    {
+      "var1": 2020,
+      "var2": "6",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Diesdorf - Europaring - Hbf - Allee Center - Strombrückenzug - Herrenkrug",
+      "var5": 11.39
+    },
+    {
+      "var1": 2020,
+      "var2": "8",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Neustädter See - Otto-von-Guericke-Straße - Hasselbachplatz - Wiener Straße - Westerhüsen",
+      "var5": 17.71
+    },
+    {
+      "var1": 2020,
+      "var2": "9",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Neustädter See - Breiter Weg - Hasselbachplatz - Leipziger Chaussee - Reform",
+      "var5": 13.79
+    },
+    {
+      "var1": 2020,
+      "var2": "10",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Sudenburg - Hasselbachplatz - Otto-von-Guericke-Straße - Rothensee bzw. Barleber See",
+      "var5": 15.06
+    },
+    {
+      "var1": 2020,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Linienlänge Tagesverkehr Straßenbahn",
+      "var5": 120.11
+    },
+    {
+      "var1": 2020,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Streckenlänge Tagesverkehr Straßenbahn",
+      "var5": 66.15
+    },
+    {
+      "var1": 2020,
+      "var2": "51",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Messegelände - Berliner Chaussee - Biederitz, Weidenring",
+      "var5": 6.05
+    },
+    {
+      "var1": 2020,
+      "var2": "52",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Westringbrücke - Otto-Richter-Straße - Sudenburg",
+      "var5": 11.07
+    },
+    {
+      "var1": 2020,
+      "var2": "53",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Sonnenanger - Ottersleben, Eichplatz",
+      "var5": 5.53
+    },
+    {
+      "var1": 2020,
+      "var2": "54",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Werner-von-Siemens-Ring - Bördepark",
+      "var5": 8.72
+    },
+    {
+      "var1": 2020,
+      "var2": "54",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Bördepark",
+      "var5": 7.08
+    },
+    {
+      "var1": 2020,
+      "var2": "54",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Sonnenanger - Bördepark",
+      "var5": 9.64
+    },
+    {
+      "var1": 2020,
+      "var2": "56",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Cracau - Pechau - Calenberge - Randau",
+      "var5": 13.35
+    },
+    {
+      "var1": 2020,
+      "var2": "57",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Buckau, Wasserwerk - Schilfbreite - Kirschweg - Lemsdorf - Sudenburg",
+      "var5": 5.98
+    },
+    {
+      "var1": 2020,
+      "var2": "58",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Lemsdorf - Reform - Am Hopfengarten - Salbker Platz - SKL",
+      "var5": 11.09
+    },
+    {
+      "var1": 2020,
+      "var2": "59",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "ZOB - Hasselbachplatz - Stadtpark",
+      "var5": 5.46
+    },
+    {
+      "var1": 2020,
+      "var2": "61",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Diesdorf - Sudenburger Wuhne - Braunlager Straße - Friedenshöhe",
+      "var5": 6.27
+    },
+    {
+      "var1": 2020,
+      "var2": "66",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Bördepark - Beyendorf-Sohlen - Westerhüsen",
+      "var5": 11.54
+    },
+    {
+      "var1": 2020,
+      "var2": "69",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kannenstieg - Kastanienstraße - S-Bahnhof Neustadt",
+      "var5": 7.91
+    },
+    {
+      "var1": 2020,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Großer Silberberg",
+      "var5": 7.88
+    },
+    {
+      "var1": 2020,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - St.-Schütze-Platz",
+      "var5": 6.53
+    },
+    {
+      "var1": 2020,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Klusweg",
+      "var5": 5.83
+    },
+    {
+      "var1": 2020,
+      "var2": "72",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Am Stern - Nordwest - Olvenstedter Platz - Harsdorfer Platz - Diesdorf",
+      "var5": 7.7
+    },
+    {
+      "var1": 2020,
+      "var2": "73",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Olvenstedter Platz - Opernhaus - Wissenschaftshafen",
+      "var5": 7.1
+    },
+    {
+      "var1": 2020,
+      "var2": "SEV",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Hasselbachplatz - Planckstraße - Ersatzhaltestelle Porsestraße",
+      "var5": 0.9
+    },
+    {
+      "var1": 2020,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Linienlänge Tagesverkehr Bus",
+      "var5": 145.63
+    },
+    {
+      "var1": 2020,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Streckenlänge Tagesverkehr Bus",
+      "var5": 101.39
+    },
+    {
+      "var1": 2020,
+      "var2": "N1",
+      "var3": "Nachtverkehr - Straßenbahn",
+      "var4": "Alter Markt - Cracau-Arenen - Messegelände - Herrenkrug",
+      "var5": 9.6
+    },
+    {
+      "var1": 2020,
+      "var2": "N2",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Hasselbachplatz - Buckau - Salbker Platz - Westerhüsen",
+      "var5": 10.44
+    },
+    {
+      "var1": 2020,
+      "var2": "N3",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Hasselbachplatz - Südring - Braunlager Straße - Lemsdorf - Leipziger Chaussee - Reform",
+      "var5": 10.2
+    },
+    {
+      "var1": 2020,
+      "var2": "N4",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Hauptbahnhof - Leipziger Straße - Hansapark - Am Teich - Ottersleben",
+      "var5": 10.14
+    },
+    {
+      "var1": 2020,
+      "var2": "N5",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Hauptbahnhof - Südring - Arndtstraße - Diesdorf",
+      "var5": 9.08
+    },
+    {
+      "var1": 2020,
+      "var2": "N6",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Universitätsplatz - Gagernstraße - Olvenstedter Platz - Drosselsteig - St.-Schütze-Platz",
+      "var5": 11.25
+    },
+    {
+      "var1": 2020,
+      "var2": "N7",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Alte Neustadt - Mittagstraße - Neustädter Feld - Lerchenwuhne - Milchweg - Neustädter Platz - Kannenstieg",
+      "var5": 10.75
+    },
+    {
+      "var1": 2020,
+      "var2": "N8",
+      "var3": "Nachtverkehr - Straßenbahn",
+      "var4": "Alter Markt - Universität - Bhf. Neustadt - Kastanienstraße - Zoo - Schule Rothensee - Enercon",
+      "var5": 9.91
+    },
+    {
+      "var1": 2020,
+      "var2": "N9",
+      "var3": "Nachtverkehr - Rufbus",
+      "var4": "Olvenstedter Platz - Lorenzweg - Nordwest - Am Stern",
+      "var5": 4.33
+    },
+    {
+      "var1": 2020,
+      "var2": "insgesamt",
+      "var3": "Nachtverkehr",
+      "var4": "Linienlänge Nachtverkehr",
+      "var5": 85.7
+    },
+    {
+      "var1": 2020,
+      "var2": "insgesamt",
+      "var3": "Nachtverkehr",
+      "var4": "Streckenlänge Nachtverkehr",
+      "var5": null
+    },
+    {
+      "var1": 2021,
+      "var2": "1",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Sudenburg - Südring - Hauptbahnhof - Alter Markt - Kannenstieg",
+      "var5": 11.69
+    },
+    {
+      "var1": 2021,
+      "var2": "2",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Alte Neustadt - Breiter Weg - Westerhüsen",
+      "var5": 13.3
+    },
+    {
+      "var1": 2021,
+      "var2": "3",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Leipziger Chaussee - Otto-von-Guericke-Straße - Hauptbahnhof - Klinikum Olvenstedt",
+      "var5": 10.68
+    },
+    {
+      "var1": 2021,
+      "var2": "4",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Klinikum Olvenstedt - Hbf - Alter Markt - Cracau",
+      "var5": 13.04
+    },
+    {
+      "var1": 2021,
+      "var2": "5",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Klinikum Olvenstedt - Südring - Hasselbachplatz - City Carré",
+      "var5": 11.39
+    },
+    {
+      "var1": 2021,
+      "var2": "6",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Diesdorf - Westring - Hbf - Alter Markt - Herrenkrug",
+      "var5": 10.52
+    },
+    {
+      "var1": 2021,
+      "var2": "8",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Neustädter See - Alter Markt - Otto-von-Guericke-Straße - Hasselbachplatz - Westerhüsen",
+      "var5": 15.39
+    },
+    {
+      "var1": 2021,
+      "var2": "9",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Neustädter See - Otto-von-Guericke-Straße - Hasselbachplatz - Leipziger Chaussee - Reform",
+      "var5": 13.98
+    },
+    {
+      "var1": 2021,
+      "var2": "10",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Sudenburg - Hasselbachplatz - Breiter Weg - Rothensee bzw. Barleber See",
+      "var5": 14.94
+    },
+    {
+      "var1": 2021,
+      "var2": "13",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Buckau - Puppentheater - Südring - Sudenburg",
+      "var5": 5.11
+    },
+    {
+      "var1": 2021,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Linienlänge Tagesverkehr Straßenbahn",
+      "var5": 120.04
+    },
+    {
+      "var1": 2021,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Streckenlänge Tagesverkehr Straßenbahn",
+      "var5": 67.2
+    },
+    {
+      "var1": 2021,
+      "var2": "51",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Messegelände - Berliner Chaussee - Biederitz, Weidenring",
+      "var5": 6.05
+    },
+    {
+      "var1": 2021,
+      "var2": "52",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Florapark - Arndtstraße - Westringbrücke - Sudenburg",
+      "var5": 11.09
+    },
+    {
+      "var1": 2021,
+      "var2": "53",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Sonnenanger - Ottersleben, Eichplatz",
+      "var5": 5.53
+    },
+    {
+      "var1": 2021,
+      "var2": "54",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Werner-von-Siemens-Ring - Bördepark",
+      "var5": 8.72
+    },
+    {
+      "var1": 2021,
+      "var2": "54",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Bördepark",
+      "var5": 7.08
+    },
+    {
+      "var1": 2021,
+      "var2": "54",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Sonnenanger - Bördepark",
+      "var5": 9.64
+    },
+    {
+      "var1": 2021,
+      "var2": "56",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Cracau - Pechau - Calenberge - Randau",
+      "var5": 13.34
+    },
+    {
+      "var1": 2021,
+      "var2": "57",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Buckau, Wasserwerk - Hopfenbreite - Lemsdorf - Sudenburg",
+      "var5": 5.98
+    },
+    {
+      "var1": 2021,
+      "var2": "58",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Lemsdorf - Reform - Am Hopfengarten - Salbker Platz - SKL",
+      "var5": 11.09
+    },
+    {
+      "var1": 2021,
+      "var2": "59",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "ZOB - Hasselbachplatz - Stadtpark",
+      "var5": 5.46
+    },
+    {
+      "var1": 2021,
+      "var2": "61",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Diesdorf - Sudenburger Wuhne - Braunlager Straße - Friedenshöhe",
+      "var5": 6.27
+    },
+    {
+      "var1": 2021,
+      "var2": "66",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Bördepark - Beyendorf-Sohlen - Westerhüsen",
+      "var5": 11.54
+    },
+    {
+      "var1": 2021,
+      "var2": "69",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "IKEA West - Kastanienstraße - S-Bahnhof Neustadt",
+      "var5": 7.96
+    },
+    {
+      "var1": 2021,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Großer Silberberg",
+      "var5": 7.88
+    },
+    {
+      "var1": 2021,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - St.-Schütze-Platz",
+      "var5": 6.53
+    },
+    {
+      "var1": 2021,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Klusweg",
+      "var5": 5.83
+    },
+    {
+      "var1": 2021,
+      "var2": "72",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Am Stern - Olvenstedter Platz - Harsdorfer Platz - Diesdorf",
+      "var5": 7.7
+    },
+    {
+      "var1": 2021,
+      "var2": "73",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Olvenstedter Platz - Opernhaus - Wissenschaftshafen",
+      "var5": 5.47
+    },
+    {
+      "var1": 2021,
+      "var2": "SEV 46",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Allee Center - Heumarkt",
+      "var5": 1.35
+    },
+    {
+      "var1": 2021,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Linienlänge Tagesverkehr Bus",
+      "var5": 144.51
+    },
+    {
+      "var1": 2021,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Streckenlänge Tagesverkehr Bus",
+      "var5": 99.6
+    },
+    {
+      "var1": 2021,
+      "var2": "N1",
+      "var3": "Nachtverkehr - Straßenbahn",
+      "var4": "Alter Markt - Zollhaus - Cracau - Arenen - Messegelände",
+      "var5": 9.23
+    },
+    {
+      "var1": 2021,
+      "var2": "N2",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Breiter Weg - Hasselbachplatz - Buckau - Westerhüsen",
+      "var5": 10.53
+    },
+    {
+      "var1": 2021,
+      "var2": "N3",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Breiter Weg - Halberstädter Straße - Lemsdorf - Leipziger Chaussee - Reform",
+      "var5": 10.11
+    },
+    {
+      "var1": 2021,
+      "var2": "N4",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Otto-von-Guericke-Straße - Leipziger Straße - Brenneckestraße - Ottersleben",
+      "var5": 10.18
+    },
+    {
+      "var1": 2021,
+      "var2": "N5",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Otto-von-Guericke-Straße - Südring - Westring",
+      "var5": 9.21
+    },
+    {
+      "var1": 2021,
+      "var2": "N6",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Universitätsplatz - St.-Schütze-Platz - Olvenstedt",
+      "var5": 11.25
+    },
+    {
+      "var1": 2021,
+      "var2": "N7",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Alte Neustadt - Mittagstraße - Neustädter Feld - IKEA - Neustädter See - Kannenstieg",
+      "var5": 10.86
+    },
+    {
+      "var1": 2021,
+      "var2": "N8",
+      "var3": "Nachtverkehr - Straßenbahn",
+      "var4": "Alter Markt - Universitätsplatz - Mittagstraße - Kastanienstraße - Zoo - Barleber See",
+      "var5": 10.39
+    },
+    {
+      "var1": 2021,
+      "var2": "N9",
+      "var3": "Nachtverkehr - Rufbus",
+      "var4": "Olvenstedter Platz - Lorenzweg - Nordwest - Am Stern",
+      "var5": 4.33
+    },
+    {
+      "var1": 2021,
+      "var2": "insgesamt",
+      "var3": "Nachtverkehr",
+      "var4": "Linienlänge Nachtverkehr",
+      "var5": 86.09
+    },
+    {
+      "var1": 2021,
+      "var2": "insgesamt",
+      "var3": "Nachtverkehr",
+      "var4": "Streckenlänge Nachtverkehr",
+      "var5": 86.09
+    },
+    {
+      "var1": 2022,
+      "var2": "1",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Sudenburg - Südring - Hauptbahnhof - Alter Markt - Kannenstieg",
+      "var5": 11.13
+    },
+    {
+      "var1": 2022,
+      "var2": "2",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Alte Neustadt - Alter Markt - Leiterstraße - Hasselbachplatz - Westerhüsen",
+      "var5": 13.3
+    },
+    {
+      "var1": 2022,
+      "var2": "3",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Klinikum Olvenstedt - Hauptbahnhof - Leipziger Chaussee",
+      "var5": 10.68
+    },
+    {
+      "var1": 2022,
+      "var2": "4",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Klinikum Olvenstedt - Hbf Nord - Alter Markt - Cracau",
+      "var5": 12.4
+    },
+    {
+      "var1": 2022,
+      "var2": "5",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Klinikum Olvenstedt - Südring - Hasselbachplatz - City Carré",
+      "var5": 11.39
+    },
+    {
+      "var1": 2022,
+      "var2": "6",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Diesdorf - Westring - Hbf Nord - Alter Markt - Herrenkrug",
+      "var5": 9.96
+    },
+    {
+      "var1": 2022,
+      "var2": "8",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Neustädter See - Alter Markt - Hbf Ost - Hasselbachplatz - Westerhüsen",
+      "var5": 15.73
+    },
+    {
+      "var1": 2022,
+      "var2": "9",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Neustädter See - Universität - Hbf Ost - Hasselbachplatz - Leipziger Chaussee - Reform",
+      "var5": 14.32
+    },
+    {
+      "var1": 2022,
+      "var2": "10",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Sudenburg - Hasselbachplatz - Breiter Weg - Rothensee bzw. Barleber See",
+      "var5": 14.94
+    },
+    {
+      "var1": 2022,
+      "var2": "13",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Buckau - S-Bahnhof Buckau - Südring - Sudenburg",
+      "var5": 5.11
+    },
+    {
+      "var1": 2022,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Linienlänge Tagesverkehr Straßenbahn",
+      "var5": 118.96
+    },
+    {
+      "var1": 2022,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Streckenlänge Tagesverkehr Straßenbahn",
+      "var5": 67.2
+    },
+    {
+      "var1": 2022,
+      "var2": "51",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Messegelände - Berliner Chaussee - Biederitz, Weidenring",
+      "var5": 6.05
+    },
+    {
+      "var1": 2022,
+      "var2": "52",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Florapark - Arndtstraße - Westringbrücke - Sudenburg",
+      "var5": 11.57
+    },
+    {
+      "var1": 2022,
+      "var2": "53",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Sonnenanger - Ottersleben, Eichplatz",
+      "var5": 5.53
+    },
+    {
+      "var1": 2022,
+      "var2": "54",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Goethe-Park - Ottersleben, Eichplatz",
+      "var5": 2.97
+    },
+    {
+      "var1": 2022,
+      "var2": "54",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Bördepark West - Werner-von-Siemens-Ring",
+      "var5": 3.19
+    },
+    {
+      "var1": 2022,
+      "var2": "56",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Cracau - Pechau - Calenberge - Randau",
+      "var5": 13.34
+    },
+    {
+      "var1": 2022,
+      "var2": "57",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Kirchweg - Freibad Süd - Buckau, Wasserwerk",
+      "var5": 5.98
+    },
+    {
+      "var1": 2022,
+      "var2": "58",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Kirchweg - Salbker Platz - SKL",
+      "var5": 11.09
+    },
+    {
+      "var1": 2022,
+      "var2": "59",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "ZOB - Hasselbachplatz - Stadtparkstraße",
+      "var5": 5.46
+    },
+    {
+      "var1": 2022,
+      "var2": "61",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Diesdorf - Sudenburger Wuhne - Braunlager Straße - Friedenshöhe",
+      "var5": 6.27
+    },
+    {
+      "var1": 2022,
+      "var2": "66",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Bördepark - Beyendorf-Sohlen - Westerhüsen",
+      "var5": 11.54
+    },
+    {
+      "var1": 2022,
+      "var2": "69",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "IKEA West - Kastanienstraße - S-Bahnhof Neustadt",
+      "var5": 8.21
+    },
+    {
+      "var1": 2022,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Großer Silberberg",
+      "var5": 7.88
+    },
+    {
+      "var1": 2022,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - St.-Schütze-Platz",
+      "var5": 6.53
+    },
+    {
+      "var1": 2022,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Klusweg",
+      "var5": 5.83
+    },
+    {
+      "var1": 2022,
+      "var2": "72",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Am Stern - Olvenstedter Platz - Harsdorfer Platz - Diesdorf",
+      "var5": 7.38
+    },
+    {
+      "var1": 2022,
+      "var2": "73",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Olvenstedter Platz - Opernhaus - Wissenschaftshafen",
+      "var5": 5.47
+    },
+    {
+      "var1": 2022,
+      "var2": "SEV 46",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Hasselbachplatz - Heumarkt",
+      "var5": 3.5
+    },
+    {
+      "var1": 2022,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Linienlänge Tagesverkehr Bus",
+      "var5": 127.79
+    },
+    {
+      "var1": 2022,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Streckenlänge Tagesverkehr Bus",
+      "var5": 98.03
+    },
+    {
+      "var1": 2022,
+      "var2": "N1",
+      "var3": "Nachtverkehr - Straßenbahn",
+      "var4": "Alter Markt - Gartenstraße - Messegelände - Herrenkrug - Arenen - Cracau",
+      "var5": 11.95
+    },
+    {
+      "var1": 2022,
+      "var2": "N2",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Breiter Weg - Hasselbachplatz - Buckau - Westerhüsen",
+      "var5": 9.78
+    },
+    {
+      "var1": 2022,
+      "var2": "N3",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Breiter Weg - Hasselbachplatz - Südring - Braunlager Str. - Kirchweg - Reform",
+      "var5": 10.11
+    },
+    {
+      "var1": 2022,
+      "var2": "N4",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Hbf Ost - Haselbachplatz - Raiffeisenstr. - Goethe-Park - Ottersleben",
+      "var5": 10.18
+    },
+    {
+      "var1": 2022,
+      "var2": "N5",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Hbf Ost - Haselbachplatz - Südring - Westring - Westfriedhof - Diesdorf",
+      "var5": 9.21
+    },
+    {
+      "var1": 2022,
+      "var2": "N6",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Universitätsplatz - Olvenstedter-Platz - Am Stern - Olvenstedt",
+      "var5": 11.25
+    },
+    {
+      "var1": 2022,
+      "var2": "N7",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Universitätsbibliothek - Agnetenstr. - Mittagstr. - Kitzmannstr. - Florapark - IKEA - Neustädter See - Kannenstieg",
+      "var5": 10.78
+    },
+    {
+      "var1": 2022,
+      "var2": "N8",
+      "var3": "Nachtverkehr - Straßenbahn",
+      "var4": "Alter Markt - Universitätsplatz - Mittagstraße - Kastanienstraße - Zoo - Barleber See",
+      "var5": 10.39
+    },
+    {
+      "var1": 2022,
+      "var2": "N9",
+      "var3": "Nachtverkehr - Rufbus",
+      "var4": "Olvenstedter Platz - Stromstr. - Nordwest - Am Stern",
+      "var5": 4.01
+    },
+    {
+      "var1": 2022,
+      "var2": "insgesamt",
+      "var3": "Nachtverkehr",
+      "var4": "Linienlänge Nachtverkehr",
+      "var5": 87.66
+    },
+    {
+      "var1": 2022,
+      "var2": "insgesamt",
+      "var3": "Nachtverkehr",
+      "var4": "Streckenlänge Nachtverkehr",
+      "var5": 87.66
+    },
+    {
+      "var1": 2023,
+      "var2": "1",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Sudenburg - Südring - Hauptbahnhof - Alter Markt - Kannenstieg",
+      "var5": 11.13
+    },
+    {
+      "var1": 2023,
+      "var2": "2",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Alte Neustadt - Alter Markt - Leiterstraße - Hasselbachplatz - Westerhüsen",
+      "var5": 13.3
+    },
+    {
+      "var1": 2023,
+      "var2": "3",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Klinikum Olvenstedt - Hauptbahnhof - Leipziger Chaussee",
+      "var5": 10.68
+    },
+    {
+      "var1": 2023,
+      "var2": "4",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Klinikum Olvenstedt - Hbf Nord - Alter Markt - Cracau",
+      "var5": 9.94
+    },
+    {
+      "var1": 2023,
+      "var2": "5",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Klinikum Olvenstedt - Südring - Hasselbachplatz - City Carré",
+      "var5": 14.55
+    },
+    {
+      "var1": 2023,
+      "var2": "6",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Diesdorf - Westring - Hbf Nord - Alter Markt - Herrenkrug",
+      "var5": 9.83
+    },
+    {
+      "var1": 2023,
+      "var2": "8",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Neustädter See - Alter Markt - Hbf Ost - Hasselbachplatz - Westerhüsen",
+      "var5": 15.73
+    },
+    {
+      "var1": 2023,
+      "var2": "9",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Neustädter See - Universität - Hbf  Ost - Hasselbachplatz - Leipziger Chaussee - Reform",
+      "var5": 14.32
+    },
+    {
+      "var1": 2023,
+      "var2": "10",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Sudenburg - Hasselbachplatz - Breiter Weg - Rothensee / Barleber See",
+      "var5": 14.94
+    },
+    {
+      "var1": 2023,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Linienlänge Tagesverkehr Straßenbahn",
+      "var5": 114.42
+    },
+    {
+      "var1": 2023,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Streckenlänge Tagesverkehr Straßenbahn",
+      "var5": 65.96
+    },
+    {
+      "var1": 2023,
+      "var2": "51",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Messegelände - Berliner Chaussee - Biederitz, Weidenring",
+      "var5": 6.05
+    },
+    {
+      "var1": 2023,
+      "var2": "52",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Braunlager Straße - Kastanienstraße",
+      "var5": 11.09
+    },
+    {
+      "var1": 2023,
+      "var2": "53",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Braunlager Straße - Ottersleben, Eichplatz",
+      "var5": 5.53
+    },
+    {
+      "var1": 2023,
+      "var2": "54",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Braunlager Straße - Bördepark West",
+      "var5": 8.72
+    },
+    {
+      "var1": 2023,
+      "var2": "56",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Cracau - Pechau - Müllerbreite - Randau",
+      "var5": 13.35
+    },
+    {
+      "var1": 2023,
+      "var2": "57",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Braunlager Straße - Buckau, Wasserwerk",
+      "var5": 5.98
+    },
+    {
+      "var1": 2023,
+      "var2": "58",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Braunlager Straße - Ottweiler Straße",
+      "var5": 9.01
+    },
+    {
+      "var1": 2023,
+      "var2": "59",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "ZOB - Hasselbachplatz - Heumarkt",
+      "var5": 6.53
+    },
+    {
+      "var1": 2023,
+      "var2": "61",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Diesdorf - Friedenshöhe",
+      "var5": 6.27
+    },
+    {
+      "var1": 2023,
+      "var2": "66",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Bördepark West - Westerhüsen",
+      "var5": 11.54
+    },
+    {
+      "var1": 2023,
+      "var2": "69",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "IKEA West - S-Bahnhof Neustadt",
+      "var5": 7.68
+    },
+    {
+      "var1": 2023,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - St.-Schütze-Platz",
+      "var5": 6.53
+    },
+    {
+      "var1": 2023,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Klusweg",
+      "var5": 5.83
+    },
+    {
+      "var1": 2023,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Großer Silberberg",
+      "var5": 7.88
+    },
+    {
+      "var1": 2023,
+      "var2": "72",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Am Stern - Olvenstedter Platz - Harsdorfer Platz - Diesdorf",
+      "var5": 7.7
+    },
+    {
+      "var1": 2023,
+      "var2": "73",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Olvenstedter Platz - Opernhaus - Wissenschaftshafen",
+      "var5": 5.43
+    },
+    {
+      "var1": 2023,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Linienlänge Tagesverkehr Bus",
+      "var5": 125.12
+    },
+    {
+      "var1": 2023,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Streckenlänge Tagesverkehr Bus",
+      "var5": 99.69
+    },
+    {
+      "var1": 2023,
+      "var2": "N1",
+      "var3": "Nachtverkehr - Straßenbahn",
+      "var4": "Alter Markt - Gartenstraße - Messegelände - Herrenkrug",
+      "var5": 9.84
+    },
+    {
+      "var1": 2023,
+      "var2": "N2",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Breiter Weg - Hasselbachplatz - Buckau - Westerhüsen",
+      "var5": 9.78
+    },
+    {
+      "var1": 2023,
+      "var2": "N3",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Leiterstr. - Haselbachplatz - Südring - Reform",
+      "var5": 10.11
+    },
+    {
+      "var1": 2023,
+      "var2": "N4",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Hbf Ost - Haselbachplatz - Raiffeisenstr. - Goethe-Park - Ottersleben",
+      "var5": 10.18
+    },
+    {
+      "var1": 2023,
+      "var2": "N5",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Hbf Ost - Haselbachplatz - Südring - Westring - Westfriedhof - Diesdorf",
+      "var5": 9.21
+    },
+    {
+      "var1": 2023,
+      "var2": "N6",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Universitätsplatz - Olvenstedter-Platz - Am Stern - Olvenstedt",
+      "var5": 11.25
+    },
+    {
+      "var1": 2023,
+      "var2": "N7",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Universitätsbibliothek - Agnetenstr. - Mittagstr. - Kitzmannstr. - Florapark - IKEA - Neustädter See - Kannenstieg",
+      "var5": 10.78
+    },
+    {
+      "var1": 2023,
+      "var2": "N8",
+      "var3": "Nachtverkehr - Straßenbahn",
+      "var4": "Alter Markt - Universitätsplatz - Mittagstraße - Kastanienstraße - Zoo - Barleber See",
+      "var5": 10.39
+    },
+    {
+      "var1": 2023,
+      "var2": "N9",
+      "var3": "Nachtverkehr - Rufbus",
+      "var4": "Olvenstedter Platz - Stromstr. - Nordwest - Am Stern",
+      "var5": 4.34
+    },
+    {
+      "var1": 2023,
+      "var2": "insgesamt",
+      "var3": "Nachtverkehr",
+      "var4": "Linienlänge Nachtverkehr",
+      "var5": 85.88
+    },
+    {
+      "var1": 2023,
+      "var2": "insgesamt",
+      "var3": "Nachtverkehr",
+      "var4": "Streckenlänge Nachtverkehr",
+      "var5": 85.88
+    },
+    {
+      "var1": 2024,
+      "var2": "1",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Sudenburg - Südring - Hauptbahnhof - Alter Markt - Kannenstieg",
+      "var5": 11.13
+    },
+    {
+      "var1": 2024,
+      "var2": "2",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Alte Neustadt - Alter Markt - Leiterstraße - Hasselbachplatz - Westerhüsen",
+      "var5": 13.3
+    },
+    {
+      "var1": 2024,
+      "var2": "3",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Sudenburg - Südring - Leipziger Chaussee",
+      "var5": 5.33
+    },
+    {
+      "var1": 2024,
+      "var2": "4",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Klinikum Olvenstedt - Hbf Nord - Alter Markt - Cracau",
+      "var5": 9.94
+    },
+    {
+      "var1": 2024,
+      "var2": "5",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Klinikum Olvenstedt - Südring - Hasselbachplatz - Messegelände",
+      "var5": 14.55
+    },
+    {
+      "var1": 2024,
+      "var2": "6",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Diesdorf - Westring - Hbf Nord - Alter Markt - Herrenkrug",
+      "var5": 9.83
+    },
+    {
+      "var1": 2024,
+      "var2": "8",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Neustädter See - Alter Markt - Hbf Ost - Hasselbachplatz - Westerhüsen",
+      "var5": 15.73
+    },
+    {
+      "var1": 2024,
+      "var2": "9",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Neustädter See - Universität - Hbf  Ost - Hasselbachplatz - Leipziger Chaussee - Reform",
+      "var5": 14.32
+    },
+    {
+      "var1": 2024,
+      "var2": "10",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Sudenburg - Hasselbachplatz - Breiter Weg - Rothensee / Barleber See",
+      "var5": 14.76
+    },
+    {
+      "var1": 2024,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Linienlänge Tagesverkehr Straßenbahn",
+      "var5": 108.89
+    },
+    {
+      "var1": 2024,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Straßenbahn",
+      "var4": "Streckenlänge Tagesverkehr Straßenbahn",
+      "var5": 66.23
+    },
+    {
+      "var1": 2024,
+      "var2": "51",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Messegelände -  Biederitz, Weidenring",
+      "var5": 6.05
+    },
+    {
+      "var1": 2024,
+      "var2": "52",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Braunlager Straße - Kastanienstraße",
+      "var5": 11.09
+    },
+    {
+      "var1": 2024,
+      "var2": "53",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Braunlager Straße - Ottersleben, Eichplatz",
+      "var5": 5.53
+    },
+    {
+      "var1": 2024,
+      "var2": "54",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Braunlager Straße - Bördepark West",
+      "var5": 8.72
+    },
+    {
+      "var1": 2024,
+      "var2": "56",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Cracau - Pechau - Müllerbreite - Randau",
+      "var5": 13.35
+    },
+    {
+      "var1": 2024,
+      "var2": "57",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Braunlager Straße - Buckau, Wasserwerk",
+      "var5": 5.98
+    },
+    {
+      "var1": 2024,
+      "var2": "58",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Sudenburg - Braunlager Straße - Ottweiler Straße",
+      "var5": 9.01
+    },
+    {
+      "var1": 2024,
+      "var2": "59",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "ZOB - Hasselbachplatz - Stadtparkstraße",
+      "var5": 5.46
+    },
+    {
+      "var1": 2024,
+      "var2": "61",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Diesdorf - Friedenshöhe",
+      "var5": 6.27
+    },
+    {
+      "var1": 2024,
+      "var2": "66",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Bördepark West - Westerhüsen",
+      "var5": 11.54
+    },
+    {
+      "var1": 2024,
+      "var2": "69",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "IKEA West - S-Bahnhof Neustadt",
+      "var5": 7.97
+    },
+    {
+      "var1": 2024,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - St.-Schütze-Platz",
+      "var5": 6.53
+    },
+    {
+      "var1": 2024,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Klusweg",
+      "var5": 5.83
+    },
+    {
+      "var1": 2024,
+      "var2": "71",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Kastanienstraße - Großer Silberberg",
+      "var5": 7.88
+    },
+    {
+      "var1": 2024,
+      "var2": "72",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Am Stern - Olvenstedter Platz - Harsdorfer Platz - Diesdorf",
+      "var5": 7.7
+    },
+    {
+      "var1": 2024,
+      "var2": "73",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Olvenstedter Platz - Opernhaus - Wissenschaftshafen",
+      "var5": 5.41
+    },
+    {
+      "var1": 2024,
+      "var2": "47",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Hasselbachplatz - AMO/Steubenallee - Südring",
+      "var5": 4.48
+    },
+    {
+      "var1": 2024,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Linienlänge Tagesverkehr Straßenbahn",
+      "var5": 128.8
+    },
+    {
+      "var1": 2024,
+      "var2": "insgesamt",
+      "var3": "Tagesverkehr - Bus",
+      "var4": "Streckenlänge Tagesverkehr Straßenbahn",
+      "var5": 102.32
+    },
+    {
+      "var1": 2024,
+      "var2": "N1",
+      "var3": "Nachtverkehr - Straßenbahn",
+      "var4": "Alter Markt - Gartenstraße - Messegelände - Herrenkrug",
+      "var5": 9.84
+    },
+    {
+      "var1": 2024,
+      "var2": "N2",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Breiter Weg - Hasselbachplatz - Buckau - Westerhüsen",
+      "var5": 9.78
+    },
+    {
+      "var1": 2024,
+      "var2": "N3",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Leiterstr. - Haselbachplatz - Südring - Reform",
+      "var5": 10.11
+    },
+    {
+      "var1": 2024,
+      "var2": "N4",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Hbf Ost - Haselbachplatz - Raiffeisenstr. - Goethe-Park - Ottersleben",
+      "var5": 10.01
+    },
+    {
+      "var1": 2024,
+      "var2": "N5",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Hbf Ost - Haselbachplatz - Südring - Westring - Westfriedhof - Diesdorf",
+      "var5": 9.21
+    },
+    {
+      "var1": 2024,
+      "var2": "N6",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Universitätsplatz - Olvenstedter-Platz - Am Stern - Olvenstedt",
+      "var5": 11.25
+    },
+    {
+      "var1": 2024,
+      "var2": "N7",
+      "var3": "Nachtverkehr - Bus",
+      "var4": "Alter Markt - Universitätsbibliothek - Agnetenstr. - Mittagstr. - Kitzmannstr. - Florapark - IKEA - Neustädter See - Kannenstieg",
+      "var5": 10.73
+    },
+    {
+      "var1": 2024,
+      "var2": "N8",
+      "var3": "Nachtverkehr - Straßenbahn",
+      "var4": "Alter Markt - Universitätsplatz - Mittagstraße - Kastanienstraße - Zoo - Barleber See",
+      "var5": 10.39
+    },
+    {
+      "var1": 2024,
+      "var2": "N9",
+      "var3": "Nachtverkehr - Rufbus",
+      "var4": "Olvenstedter Platz - Stromstr. - Nordwest - Am Stern",
+      "var5": 4.34
+    },
+    {
+      "var1": 2024,
+      "var2": "insgesamt",
+      "var3": "Nachtverkehr",
+      "var4": "Linienlänge Nachtverkehr",
+      "var5": 85.66
+    },
+    {
+      "var1": 2024,
+      "var2": "insgesamt",
+      "var3": "Nachtverkehr",
+      "var4": "Streckenlänge Nachtverkehr",
+      "var5": 84.1
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "energie-und-umwelt/waermeerzeugungsanlagen",
+  "title": "Wärmeerzeugungsanlagen",
+  "category": "Energie und Umwelt",
+  "subcategory": "Versorgung mit Strom, Wärme, Erdgas und Wasser",
+  "tableId": "K9_T6",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/waermeerzeugungsanlagen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Wärmeerzeugungsanlagen .xlsx"
+  },
+  "description": "Wärmeerzeugungsanlagen Magdeburg — Anzahl und Kapazitäten. var2..var9 nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2022,
+        2023,
+        2024
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": "day",
+      "sample": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1149,
+        1186,
+        1250
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        649,
+        609,
+        650
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        30,
+        29,
+        31
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5,
+        4,
+        6
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5,
+        5,
+        6
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "rowCount": 3,
+  "rows": [
+    {
+      "var1": 2022,
+      "var2": 2,
+      "var3": 1,
+      "var4": 1149,
+      "var5": 649,
+      "var6": 30,
+      "var7": 5,
+      "var8": 5,
+      "var9": 1
+    },
+    {
+      "var1": 2023,
+      "var2": 2,
+      "var3": 1,
+      "var4": 1186,
+      "var5": 609,
+      "var6": 29,
+      "var7": 4,
+      "var8": 5,
+      "var9": 1
+    },
+    {
+      "var1": 2024,
+      "var2": 2,
+      "var3": 1,
+      "var4": 1250,
+      "var5": 650,
+      "var6": 31,
+      "var7": 6,
+      "var8": 6,
+      "var9": 1
+    }
+  ]
+}

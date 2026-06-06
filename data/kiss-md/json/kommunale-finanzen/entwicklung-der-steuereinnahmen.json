@@ -1,0 +1,550 @@
+{
+  "id": "kommunale-finanzen/entwicklung-der-steuereinnahmen",
+  "title": "Entwicklung der Steuereinnahmen",
+  "category": "Kommunale Finanzen",
+  "subcategory": "Steuereinnahmen",
+  "tableId": "K12_T3",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/kommunale-finanzen/entwicklung-der-steuereinnahmen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Entwicklung der Steuereinnahmen.xlsx"
+  },
+  "description": "Entwicklung der Steuereinnahmen. var10 ist die Gesamtsumme (entspricht etwa der Summe der Einzelsteuern in var2..var9), die einzelnen Steuerarten (Gewerbe, Grund-, Einkommen-, Umsatzsteueranteil etc.) waren aber nicht eindeutig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        113,
+        141,
+        104
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        3465,
+        15354,
+        10728
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        7252,
+        11627,
+        14417
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        7298,
+        21908,
+        35038
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        451,
+        751,
+        983
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        141,
+        425,
+        652
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        310,
+        330,
+        350
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        102,
+        349,
+        358
+      ]
+    },
+    {
+      "key": "var10",
+      "label": "Steuereinnahmen gesamt",
+      "unit": "1.000 EUR",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        18597,
+        49781,
+        61270
+      ]
+    }
+  ],
+  "rowCount": 34,
+  "rows": [
+    {
+      "var1": 1991,
+      "var2": 113,
+      "var3": 3465,
+      "var4": 7252,
+      "var5": 7298,
+      "var6": 451,
+      "var7": 141,
+      "var8": 310,
+      "var9": null,
+      "var10": 18597
+    },
+    {
+      "var1": 1992,
+      "var2": 141,
+      "var3": 15354,
+      "var4": 11627,
+      "var5": 21908,
+      "var6": 751,
+      "var7": 425,
+      "var8": 330,
+      "var9": null,
+      "var10": 49781
+    },
+    {
+      "var1": 1993,
+      "var2": 104,
+      "var3": 10728,
+      "var4": 14417,
+      "var5": 35038,
+      "var6": 983,
+      "var7": 652,
+      "var8": 350,
+      "var9": null,
+      "var10": 61270
+    },
+    {
+      "var1": 1994,
+      "var2": 126,
+      "var3": 13213,
+      "var4": 34746,
+      "var5": 33075,
+      "var6": 1087,
+      "var7": 737,
+      "var8": 379,
+      "var9": null,
+      "var10": 82247
+    },
+    {
+      "var1": 1995,
+      "var2": 135,
+      "var3": 11276,
+      "var4": 25603,
+      "var5": 38338,
+      "var6": 1339,
+      "var7": 956,
+      "var8": 398,
+      "var9": null,
+      "var10": 76691
+    },
+    {
+      "var1": 1996,
+      "var2": 146,
+      "var3": 18007,
+      "var4": 38304,
+      "var5": 26223,
+      "var6": 1744,
+      "var7": 1345,
+      "var8": 429,
+      "var9": null,
+      "var10": 84424
+    },
+    {
+      "var1": 1997,
+      "var2": 140,
+      "var3": 14497,
+      "var4": 52324,
+      "var5": 30605,
+      "var6": 1786,
+      "var7": 1356,
+      "var8": 464,
+      "var9": null,
+      "var10": 102352
+    },
+    {
+      "var1": 1998,
+      "var2": 106,
+      "var3": 22484,
+      "var4": 50252,
+      "var5": 40161,
+      "var6": 1873,
+      "var7": 1409,
+      "var8": 528,
+      "var9": null,
+      "var10": 114876
+    },
+    {
+      "var1": 1999,
+      "var2": 149,
+      "var3": 26537,
+      "var4": 44647,
+      "var5": 47041,
+      "var6": 1895,
+      "var7": 1367,
+      "var8": 59,
+      "var9": null,
+      "var10": 120269
+    },
+    {
+      "var1": 2000,
+      "var2": 151,
+      "var3": 24651,
+      "var4": 54880,
+      "var5": 41510,
+      "var6": 1782,
+      "var7": 1211,
+      "var8": 600,
+      "var9": null,
+      "var10": 122974
+    },
+    {
+      "var1": 2001,
+      "var2": 187,
+      "var3": 26573,
+      "var4": 44570,
+      "var5": 41123,
+      "var6": 1696,
+      "var7": 1096,
+      "var8": 657,
+      "var9": null,
+      "var10": 114149
+    },
+    {
+      "var1": 2002,
+      "var2": 157,
+      "var3": 26569,
+      "var4": 40035,
+      "var5": 43620,
+      "var6": 1756,
+      "var7": 1099,
+      "var8": 678,
+      "var9": null,
+      "var10": 112137
+    },
+    {
+      "var1": 2003,
+      "var2": 180,
+      "var3": 26882,
+      "var4": 36134,
+      "var5": 40800,
+      "var6": 1857,
+      "var7": 1179,
+      "var8": 680,
+      "var9": null,
+      "var10": 105853
+    },
+    {
+      "var1": 2004,
+      "var2": 157,
+      "var3": 24922,
+      "var4": 50999,
+      "var5": 42533,
+      "var6": 1679,
+      "var7": 999,
+      "var8": 680,
+      "var9": null,
+      "var10": 120290
+    },
+    {
+      "var1": 2005,
+      "var2": 157,
+      "var3": 25337,
+      "var4": 54199,
+      "var5": 42636,
+      "var6": 1726,
+      "var7": 945,
+      "var8": 692,
+      "var9": 102,
+      "var10": 124056
+    },
+    {
+      "var1": 2006,
+      "var2": 233,
+      "var3": 26047,
+      "var4": 61103,
+      "var5": 47170,
+      "var6": 1856,
+      "var7": 815,
+      "var8": 692,
+      "var9": 349,
+      "var10": 136409
+    },
+    {
+      "var1": 2007,
+      "var2": 165,
+      "var3": 26704,
+      "var4": 71267,
+      "var5": 46776,
+      "var6": 1271,
+      "var7": 237,
+      "var8": 676,
+      "var9": 358,
+      "var10": 146183
+    },
+    {
+      "var1": 2008,
+      "var2": 199,
+      "var3": 26142,
+      "var4": 84434,
+      "var5": 56396,
+      "var6": 2012,
+      "var7": 680,
+      "var8": 950,
+      "var9": 382,
+      "var10": 169183
+    },
+    {
+      "var1": 2009,
+      "var2": 174,
+      "var3": 26782,
+      "var4": 78225,
+      "var5": 52819,
+      "var6": 1990,
+      "var7": 758,
+      "var8": 907,
+      "var9": 325,
+      "var10": 159990
+    },
+    {
+      "var1": 2010,
+      "var2": 187,
+      "var3": 26432,
+      "var4": 78143,
+      "var5": 51541,
+      "var6": 1888,
+      "var7": 684,
+      "var8": 926,
+      "var9": 279,
+      "var10": 158191
+    },
+    {
+      "var1": 2011,
+      "var2": 187,
+      "var3": 27006,
+      "var4": 84664,
+      "var5": 56924,
+      "var6": 2170,
+      "var7": 935,
+      "var8": 946,
+      "var9": 288,
+      "var10": 170951
+    },
+    {
+      "var1": 2012,
+      "var2": 166,
+      "var3": 29312,
+      "var4": 86195,
+      "var5": 60629,
+      "var6": 2460,
+      "var7": 1159,
+      "var8": 959,
+      "var9": 341,
+      "var10": 178762
+    },
+    {
+      "var1": 2013,
+      "var2": 170,
+      "var3": 30490,
+      "var4": 104188,
+      "var5": 66320,
+      "var6": 2799,
+      "var7": 1523,
+      "var8": 944,
+      "var9": 331,
+      "var10": 203968
+    },
+    {
+      "var1": 2014,
+      "var2": 164,
+      "var3": 30657,
+      "var4": 87686,
+      "var5": 70257,
+      "var6": 3055,
+      "var7": 1802,
+      "var8": 985,
+      "var9": 268,
+      "var10": 191819
+    },
+    {
+      "var1": 2015,
+      "var2": 162,
+      "var3": 30819,
+      "var4": 82122,
+      "var5": 77493,
+      "var6": 3302,
+      "var7": 1999,
+      "var8": 1013,
+      "var9": 290,
+      "var10": 193898
+    },
+    {
+      "var1": 2016,
+      "var2": 168,
+      "var3": 31234,
+      "var4": 92387,
+      "var5": 78437,
+      "var6": 3550,
+      "var7": 2165,
+      "var8": 1035,
+      "var9": 350,
+      "var10": 205777
+    },
+    {
+      "var1": 2017,
+      "var2": 159,
+      "var3": 31146,
+      "var4": 108158,
+      "var5": 87163,
+      "var6": 3652,
+      "var7": 2233,
+      "var8": 1061,
+      "var9": 258,
+      "var10": 230278
+    },
+    {
+      "var1": 2018,
+      "var2": 169,
+      "var3": 31287,
+      "var4": 111475,
+      "var5": 95345,
+      "var6": 3486,
+      "var7": 2076,
+      "var8": 1085,
+      "var9": 325,
+      "var10": 241761
+    },
+    {
+      "var1": 2019,
+      "var2": 158,
+      "var3": 32127,
+      "var4": 104846,
+      "var5": 101270,
+      "var6": 3439,
+      "var7": 1936,
+      "var8": 1116,
+      "var9": 387,
+      "var10": 241842
+    },
+    {
+      "var1": 2020,
+      "var2": 164,
+      "var3": 31694,
+      "var4": 93351,
+      "var5": 103151,
+      "var6": 2651,
+      "var7": 1144,
+      "var8": 1125,
+      "var9": 382,
+      "var10": 231020
+    },
+    {
+      "var1": 2021,
+      "var2": 160,
+      "var3": 31880,
+      "var4": 112395,
+      "var5": 104576,
+      "var6": 2711,
+      "var7": 1105,
+      "var8": 1224,
+      "var9": 382,
+      "var10": 251721
+    },
+    {
+      "var1": 2022,
+      "var2": 158,
+      "var3": 32240,
+      "var4": 127970,
+      "var5": 103529,
+      "var6": 3436,
+      "var7": 1745,
+      "var8": 1257,
+      "var9": 434,
+      "var10": 267333
+    },
+    {
+      "var1": 2023,
+      "var2": 158,
+      "var3": 32104,
+      "var4": 143706,
+      "var5": 113169,
+      "var6": 3416,
+      "var7": 1689,
+      "var8": 1293,
+      "var9": 434,
+      "var10": 292553
+    },
+    {
+      "var1": 2024,
+      "var2": 147,
+      "var3": 38628,
+      "var4": 142289,
+      "var5": 114391,
+      "var6": 3535,
+      "var7": 1816,
+      "var8": 1355,
+      "var9": 364,
+      "var10": 298987
+    }
+  ]
+}

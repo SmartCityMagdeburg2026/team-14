@@ -1,0 +1,418 @@
+{
+  "id": "bautaetigkeit-und-wohnen/bauueberhang-im-bau-befindliche-und-geplante-gebaeude-einschliesslich-baumassnahmen-an-bestehenden-gebaeuden",
+  "title": "Bauüberhang - im Bau befindliche und geplante Gebäude einschließlich Baumaßnahmen an bestehenden Gebäuden",
+  "category": "Bautätigkeit und Wohnen",
+  "subcategory": "Bauüberhang",
+  "tableId": "K6_T23",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bautaetigkeit-und-wohnen/bauueberhang-im-bau-befindliche-und-geplante-gebaeude-einschliesslich-baumassnahmen-an-bestehenden-gebaeuden.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Bauüberhang - im Bau befindliche und geplante Gebäude einschließlich Baumaßnahmen an bestehenden Gebäuden.xlsx"
+  },
+  "description": "Bauüberhang — im Bau befindliche und geplante Gebäude (inkl. Baumaßnahmen an bestehenden Gebäuden). Aufteilung nach Gebäudeart in var5..var10 nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Bauüberhang Wohnungen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        225,
+        225,
+        492
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Bauüberhang Baumaßnahmen an bestehenden Gebäuden",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        25,
+        24,
+        46
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Bauüberhang gesamt (Gebäude)",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        250,
+        249,
+        538
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        132,
+        73,
+        108
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        15,
+        10,
+        15
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        147,
+        83,
+        123
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        212,
+        185,
+        183
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        18,
+        11,
+        14
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        230,
+        196,
+        197
+      ]
+    }
+  ],
+  "rowCount": 23,
+  "rows": [
+    {
+      "var1": 2002,
+      "var2": 225,
+      "var3": 25,
+      "var4": 250,
+      "var5": 132,
+      "var6": 15,
+      "var7": 147,
+      "var8": 212,
+      "var9": 18,
+      "var10": 230
+    },
+    {
+      "var1": 2003,
+      "var2": 225,
+      "var3": 24,
+      "var4": 249,
+      "var5": 73,
+      "var6": 10,
+      "var7": 83,
+      "var8": 185,
+      "var9": 11,
+      "var10": 196
+    },
+    {
+      "var1": 2004,
+      "var2": 492,
+      "var3": 46,
+      "var4": 538,
+      "var5": 108,
+      "var6": 15,
+      "var7": 123,
+      "var8": 183,
+      "var9": 14,
+      "var10": 197
+    },
+    {
+      "var1": 2005,
+      "var2": 403,
+      "var3": 40,
+      "var4": 443,
+      "var5": 80,
+      "var6": 12,
+      "var7": 92,
+      "var8": 133,
+      "var9": 16,
+      "var10": 149
+    },
+    {
+      "var1": 2006,
+      "var2": 269,
+      "var3": 63,
+      "var4": 332,
+      "var5": 89,
+      "var6": 16,
+      "var7": 105,
+      "var8": 138,
+      "var9": 17,
+      "var10": 155
+    },
+    {
+      "var1": 2007,
+      "var2": 319,
+      "var3": 49,
+      "var4": 368,
+      "var5": 53,
+      "var6": 7,
+      "var7": 60,
+      "var8": 113,
+      "var9": 15,
+      "var10": 128
+    },
+    {
+      "var1": 2008,
+      "var2": 249,
+      "var3": 51,
+      "var4": 300,
+      "var5": 57,
+      "var6": 27,
+      "var7": 84,
+      "var8": 113,
+      "var9": 13,
+      "var10": 126
+    },
+    {
+      "var1": 2009,
+      "var2": 255,
+      "var3": 66,
+      "var4": 321,
+      "var5": 57,
+      "var6": 16,
+      "var7": 73,
+      "var8": 122,
+      "var9": 16,
+      "var10": 138
+    },
+    {
+      "var1": 2010,
+      "var2": 263,
+      "var3": 46,
+      "var4": 309,
+      "var5": 39,
+      "var6": 7,
+      "var7": 46,
+      "var8": 95,
+      "var9": 21,
+      "var10": 116
+    },
+    {
+      "var1": 2011,
+      "var2": 276,
+      "var3": 50,
+      "var4": 326,
+      "var5": 87,
+      "var6": 12,
+      "var7": 99,
+      "var8": 81,
+      "var9": 8,
+      "var10": 89
+    },
+    {
+      "var1": 2012,
+      "var2": 122,
+      "var3": 29,
+      "var4": 151,
+      "var5": 90,
+      "var6": 13,
+      "var7": 103,
+      "var8": 83,
+      "var9": 12,
+      "var10": 95
+    },
+    {
+      "var1": 2013,
+      "var2": 218,
+      "var3": 35,
+      "var4": 253,
+      "var5": 69,
+      "var6": 4,
+      "var7": 73,
+      "var8": 130,
+      "var9": 10,
+      "var10": 140
+    },
+    {
+      "var1": 2014,
+      "var2": 206,
+      "var3": 39,
+      "var4": 245,
+      "var5": 44,
+      "var6": 9,
+      "var7": 53,
+      "var8": 94,
+      "var9": 8,
+      "var10": 102
+    },
+    {
+      "var1": 2015,
+      "var2": 266,
+      "var3": 45,
+      "var4": 311,
+      "var5": 136,
+      "var6": 10,
+      "var7": 146,
+      "var8": 103,
+      "var9": 16,
+      "var10": 119
+    },
+    {
+      "var1": 2016,
+      "var2": 352,
+      "var3": 61,
+      "var4": 413,
+      "var5": 119,
+      "var6": 19,
+      "var7": 138,
+      "var8": 65,
+      "var9": 10,
+      "var10": 75
+    },
+    {
+      "var1": 2017,
+      "var2": 260,
+      "var3": 55,
+      "var4": 315,
+      "var5": 214,
+      "var6": 26,
+      "var7": 240,
+      "var8": 94,
+      "var9": 13,
+      "var10": 107
+    },
+    {
+      "var1": 2018,
+      "var2": 314,
+      "var3": 65,
+      "var4": 379,
+      "var5": 124,
+      "var6": 20,
+      "var7": 144,
+      "var8": 168,
+      "var9": 20,
+      "var10": 188
+    },
+    {
+      "var1": 2019,
+      "var2": 430,
+      "var3": 72,
+      "var4": 502,
+      "var5": 183,
+      "var6": 28,
+      "var7": 211,
+      "var8": 82,
+      "var9": 17,
+      "var10": 99
+    },
+    {
+      "var1": 2020,
+      "var2": 333,
+      "var3": 69,
+      "var4": 402,
+      "var5": 246,
+      "var6": 40,
+      "var7": 286,
+      "var8": 133,
+      "var9": 14,
+      "var10": 147
+    },
+    {
+      "var1": 2021,
+      "var2": 394,
+      "var3": 62,
+      "var4": 456,
+      "var5": 160,
+      "var6": 28,
+      "var7": 188,
+      "var8": 247,
+      "var9": 29,
+      "var10": 276
+    },
+    {
+      "var1": 2022,
+      "var2": 338,
+      "var3": 56,
+      "var4": 394,
+      "var5": 184,
+      "var6": 35,
+      "var7": 219,
+      "var8": 199,
+      "var9": 16,
+      "var10": 215
+    },
+    {
+      "var1": 2023,
+      "var2": 306,
+      "var3": 51,
+      "var4": 357,
+      "var5": 128,
+      "var6": 36,
+      "var7": 164,
+      "var8": 143,
+      "var9": 24,
+      "var10": 167
+    },
+    {
+      "var1": 2024,
+      "var2": 304,
+      "var3": 54,
+      "var4": 358,
+      "var5": 156,
+      "var6": 37,
+      "var7": 193,
+      "var8": 81,
+      "var9": 20,
+      "var10": 101
+    }
+  ]
+}

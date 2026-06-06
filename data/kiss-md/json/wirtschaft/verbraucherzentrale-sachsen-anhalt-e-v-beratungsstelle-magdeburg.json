@@ -1,0 +1,250 @@
+{
+  "id": "wirtschaft/verbraucherzentrale-sachsen-anhalt-e-v-beratungsstelle-magdeburg",
+  "title": "Verbraucherzentrale Sachsen-Anhalt e.V., Beratungsstelle Magdeburg",
+  "category": "Wirtschaft",
+  "subcategory": "Verbraucherzentrale",
+  "tableId": "K7_T106",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/verbraucherzentrale-sachsen-anhalt-e-v-beratungsstelle-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Verbraucherzentrale Sachsen-Anhalt e.V., Beratungsstelle Magdeburg.xlsx"
+  },
+  "description": "Verbraucherzentrale Sachsen-Anhalt e.V., Beratungsstelle Magdeburg — Tätigkeitskennzahlen. Die 9 Detail-Spalten (Beratungsfälle, Kontakte, Themen) waren mit den LLM-Labels nicht konsistent.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        13010,
+        10648,
+        8323
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5163,
+        5431,
+        4765
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        7835,
+        5204,
+        3548
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        12,
+        13,
+        10
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        53,
+        39,
+        21
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        51,
+        29,
+        31
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        875,
+        441,
+        513
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        65,
+        67,
+        52
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        24586,
+        25716,
+        20514
+      ]
+    }
+  ],
+  "rowCount": 9,
+  "rows": [
+    {
+      "var1": 2013,
+      "var2": 13010,
+      "var3": 5163,
+      "var4": 7835,
+      "var5": 12,
+      "var6": 53,
+      "var7": 51,
+      "var8": 875,
+      "var9": 65,
+      "var10": 24586
+    },
+    {
+      "var1": 2014,
+      "var2": 10648,
+      "var3": 5431,
+      "var4": 5204,
+      "var5": 13,
+      "var6": 39,
+      "var7": 29,
+      "var8": 441,
+      "var9": 67,
+      "var10": 25716
+    },
+    {
+      "var1": 2015,
+      "var2": 8323,
+      "var3": 4765,
+      "var4": 3548,
+      "var5": 10,
+      "var6": 21,
+      "var7": 31,
+      "var8": 513,
+      "var9": 52,
+      "var10": 20514
+    },
+    {
+      "var1": 2016,
+      "var2": 7220,
+      "var3": 4188,
+      "var4": 3009,
+      "var5": 23,
+      "var6": 18,
+      "var7": 94,
+      "var8": 788,
+      "var9": 116,
+      "var10": 17848
+    },
+    {
+      "var1": 2017,
+      "var2": 6548,
+      "var3": 3543,
+      "var4": 3002,
+      "var5": 3,
+      "var6": 25,
+      "var7": 50,
+      "var8": 786,
+      "var9": 58,
+      "var10": 7091
+    },
+    {
+      "var1": 2018,
+      "var2": 6295,
+      "var3": 3179,
+      "var4": 2881,
+      "var5": 235,
+      "var6": 23,
+      "var7": 28,
+      "var8": 452,
+      "var9": 55,
+      "var10": 3069
+    },
+    {
+      "var1": 2019,
+      "var2": 7791,
+      "var3": 3104,
+      "var4": 4397,
+      "var5": 290,
+      "var6": 23,
+      "var7": 33,
+      "var8": 474,
+      "var9": 78,
+      "var10": 3692
+    },
+    {
+      "var1": 2020,
+      "var2": 12599,
+      "var3": 2285,
+      "var4": 8187,
+      "var5": 2127,
+      "var6": 21,
+      "var7": 9,
+      "var8": 155,
+      "var9": 29,
+      "var10": 1102
+    },
+    {
+      "var1": 2021,
+      "var2": 9949,
+      "var3": 1909,
+      "var4": 6954,
+      "var5": 1086,
+      "var6": 21,
+      "var7": 9,
+      "var8": 169,
+      "var9": 33,
+      "var10": 1267
+    }
+  ]
+}

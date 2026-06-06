@@ -1,0 +1,169 @@
+{
+  "id": "arbeitsmarkt/vom-sozial-und-wohnungsamt-betreute-mietschuldner",
+  "title": "Vom Sozial- und Wohnungsamt betreute Mietschuldner",
+  "category": "Arbeitsmarkt",
+  "subcategory": "Sozialhilfe, sozialer Dienst, Betreuung von Schuldnern",
+  "tableId": "K4_T22a",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/arbeitsmarkt/vom-sozial-und-wohnungsamt-betreute-mietschuldner.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Vom Sozial- und Wohnungsamt betreute Mietschuldner.xlsx"
+  },
+  "description": "Vom Sozial- und Wohnungsamt betreute Mietschuldner. var3 (Durchschnittsschuld) und var5 (Gesamtschuld) waren mit den Stichproben rechnerisch nicht konsistent.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2018,
+        2019,
+        2020
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Mietschuldner",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1136,
+        963,
+        925
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1861,
+        1802,
+        1729.12
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        28,
+        33,
+        28
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        63178,
+        57451,
+        53162.17
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        1759
+      ]
+    }
+  ],
+  "rowCount": 7,
+  "rows": [
+    {
+      "var1": 2018,
+      "var2": 1136,
+      "var3": 1861,
+      "var4": 28,
+      "var5": 63178,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2019,
+      "var2": 963,
+      "var3": 1802,
+      "var4": 33,
+      "var5": 57451,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2020,
+      "var2": 925,
+      "var3": 1729.12,
+      "var4": 28,
+      "var5": 53162.17,
+      "var6": 1,
+      "var7": 1759
+    },
+    {
+      "var1": 2021,
+      "var2": 875,
+      "var3": 2062.08,
+      "var4": 23,
+      "var5": 45911.48,
+      "var6": 2,
+      "var7": 7215.51
+    },
+    {
+      "var1": 2022,
+      "var2": 916,
+      "var3": 2296,
+      "var4": 25,
+      "var5": 60417,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2023,
+      "var2": 1038,
+      "var3": 2499,
+      "var4": 24,
+      "var5": 79501,
+      "var6": 0,
+      "var7": 0
+    },
+    {
+      "var1": 2024,
+      "var2": 1136,
+      "var3": 2582,
+      "var4": 29,
+      "var5": 74106,
+      "var6": 0,
+      "var7": 0
+    }
+  ]
+}

@@ -1,0 +1,5220 @@
+{
+  "id": "bildung-und-kultur/schulen-in-der-stadt-magdeburg-nach-stadtteilen",
+  "title": "Schulen in der Stadt Magdeburg nach Stadtteilen",
+  "category": "Bildung und Kultur",
+  "subcategory": "Schulwesen",
+  "tableId": "K5_T3",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bildung-und-kultur/schulen-in-der-stadt-magdeburg-nach-stadtteilen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Schulen in der Stadt Magdeburg nach Stadtteilen .xlsx"
+  },
+  "description": "Schulen in der Stadt Magdeburg nach Stadtteilen. var3..var5 entsprechen Anzahl Schulen/Klassen/Schüler je Stadtteil, deren genaue Zuordnung nicht eindeutig war.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2008,
+        2008,
+        2008
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Stadtteil",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Alt Olvenstedt",
+        "Alte Neustadt",
+        "Altstadt"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1,
+        3,
+        7
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        8,
+        38,
+        163
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        155,
+        801,
+        3710
+      ]
+    }
+  ],
+  "rowCount": 734,
+  "rows": [
+    {
+      "var1": 2008,
+      "var2": "Alt Olvenstedt",
+      "var3": 1,
+      "var4": 8,
+      "var5": 155
+    },
+    {
+      "var1": 2008,
+      "var2": "Alte Neustadt",
+      "var3": 3,
+      "var4": 38,
+      "var5": 801
+    },
+    {
+      "var1": 2008,
+      "var2": "Altstadt",
+      "var3": 7,
+      "var4": 163,
+      "var5": 3710
+    },
+    {
+      "var1": 2008,
+      "var2": "Buckau",
+      "var3": 3,
+      "var4": 33,
+      "var5": 523
+    },
+    {
+      "var1": 2008,
+      "var2": "Cracau",
+      "var3": 7,
+      "var4": 88,
+      "var5": 1551
+    },
+    {
+      "var1": 2008,
+      "var2": "Diesdorf",
+      "var3": 1,
+      "var4": 7,
+      "var5": 106
+    },
+    {
+      "var1": 2008,
+      "var2": "Fermersleben",
+      "var3": 1,
+      "var4": 5,
+      "var5": 73
+    },
+    {
+      "var1": 2008,
+      "var2": "Hopfengarten",
+      "var3": 1,
+      "var4": 8,
+      "var5": 157
+    },
+    {
+      "var1": 2008,
+      "var2": "Kannenstieg",
+      "var3": 2,
+      "var4": 19,
+      "var5": 339
+    },
+    {
+      "var1": 2008,
+      "var2": "Leipziger Straße",
+      "var3": 5,
+      "var4": 101,
+      "var5": 1906
+    },
+    {
+      "var1": 2008,
+      "var2": "Neu Olvenstedt",
+      "var3": 7,
+      "var4": 102,
+      "var5": 1715
+    },
+    {
+      "var1": 2008,
+      "var2": "Neue Neustadt",
+      "var3": 5,
+      "var4": 72,
+      "var5": 1588
+    },
+    {
+      "var1": 2008,
+      "var2": "Neustädter Feld",
+      "var3": 2,
+      "var4": 19,
+      "var5": 260
+    },
+    {
+      "var1": 2008,
+      "var2": "Neustädter See",
+      "var3": 3,
+      "var4": 60,
+      "var5": 1266
+    },
+    {
+      "var1": 2008,
+      "var2": "Nordwest",
+      "var3": 3,
+      "var4": 111,
+      "var5": 2497
+    },
+    {
+      "var1": 2008,
+      "var2": "Ottersleben",
+      "var3": 2,
+      "var4": 29,
+      "var5": 617
+    },
+    {
+      "var1": 2008,
+      "var2": "Reform",
+      "var3": 4,
+      "var4": 72,
+      "var5": 1404
+    },
+    {
+      "var1": 2008,
+      "var2": "Rothensee",
+      "var3": 1,
+      "var4": 5,
+      "var5": 81
+    },
+    {
+      "var1": 2008,
+      "var2": "Salbke",
+      "var3": 1,
+      "var4": 4,
+      "var5": 68
+    },
+    {
+      "var1": 2008,
+      "var2": "Stadtfeld Ost",
+      "var3": 13,
+      "var4": 211,
+      "var5": 3885
+    },
+    {
+      "var1": 2008,
+      "var2": "Stadtfeld West",
+      "var3": 5,
+      "var4": 61,
+      "var5": 1325
+    },
+    {
+      "var1": 2008,
+      "var2": "Sudenburg",
+      "var3": 5,
+      "var4": 65,
+      "var5": 1131
+    },
+    {
+      "var1": 2008,
+      "var2": "Westerhüsen",
+      "var3": 2,
+      "var4": 65,
+      "var5": 1408
+    },
+    {
+      "var1": 2009,
+      "var2": "Alt Olvenstedt",
+      "var3": 1,
+      "var4": 8,
+      "var5": 145
+    },
+    {
+      "var1": 2009,
+      "var2": "Alte Neustadt",
+      "var3": 3,
+      "var4": 38,
+      "var5": 770
+    },
+    {
+      "var1": 2009,
+      "var2": "Altstadt",
+      "var3": 6,
+      "var4": 247,
+      "var5": 5351
+    },
+    {
+      "var1": 2009,
+      "var2": "Buckau",
+      "var3": 3,
+      "var4": 32,
+      "var5": 502
+    },
+    {
+      "var1": 2009,
+      "var2": "Cracau",
+      "var3": 7,
+      "var4": 92,
+      "var5": 1625
+    },
+    {
+      "var1": 2009,
+      "var2": "Diesdorf",
+      "var3": 1,
+      "var4": 7,
+      "var5": 111
+    },
+    {
+      "var1": 2009,
+      "var2": "Fermersleben",
+      "var3": 1,
+      "var4": 5,
+      "var5": 88
+    },
+    {
+      "var1": 2009,
+      "var2": "Hopfengarten",
+      "var3": 1,
+      "var4": 8,
+      "var5": 160
+    },
+    {
+      "var1": 2009,
+      "var2": "Kannenstieg",
+      "var3": 2,
+      "var4": 16,
+      "var5": 300
+    },
+    {
+      "var1": 2009,
+      "var2": "Leipziger Straße",
+      "var3": 6,
+      "var4": 93,
+      "var5": 1771
+    },
+    {
+      "var1": 2009,
+      "var2": "Neu Olvenstedt",
+      "var3": 7,
+      "var4": 97,
+      "var5": 1609
+    },
+    {
+      "var1": 2009,
+      "var2": "Neue Neustadt",
+      "var3": 5,
+      "var4": 72,
+      "var5": 1573
+    },
+    {
+      "var1": 2009,
+      "var2": "Neustädter Feld",
+      "var3": 2,
+      "var4": 20,
+      "var5": 257
+    },
+    {
+      "var1": 2009,
+      "var2": "Neustädter See",
+      "var3": 3,
+      "var4": 60,
+      "var5": 1276
+    },
+    {
+      "var1": 2009,
+      "var2": "Nordwest",
+      "var3": 3,
+      "var4": 69,
+      "var5": 1369
+    },
+    {
+      "var1": 2009,
+      "var2": "Ottersleben",
+      "var3": 2,
+      "var4": 29,
+      "var5": 621
+    },
+    {
+      "var1": 2009,
+      "var2": "Reform",
+      "var3": 4,
+      "var4": 68,
+      "var5": 1322
+    },
+    {
+      "var1": 2009,
+      "var2": "Rothensee",
+      "var3": 1,
+      "var4": 4,
+      "var5": 72
+    },
+    {
+      "var1": 2009,
+      "var2": "Salbke",
+      "var3": 1,
+      "var4": 4,
+      "var5": 64
+    },
+    {
+      "var1": 2009,
+      "var2": "Stadtfeld Ost",
+      "var3": 10,
+      "var4": 165,
+      "var5": 2972
+    },
+    {
+      "var1": 2009,
+      "var2": "Stadtfeld West",
+      "var3": 5,
+      "var4": 63,
+      "var5": 1373
+    },
+    {
+      "var1": 2009,
+      "var2": "Sudenburg",
+      "var3": 5,
+      "var4": 65,
+      "var5": 1124
+    },
+    {
+      "var1": 2009,
+      "var2": "Westerhüsen",
+      "var3": 2,
+      "var4": 63,
+      "var5": 1383
+    },
+    {
+      "var1": 2010,
+      "var2": "Alt Olvenstedt",
+      "var3": 1,
+      "var4": 8,
+      "var5": 138
+    },
+    {
+      "var1": 2010,
+      "var2": "Alte Neustadt",
+      "var3": 3,
+      "var4": 38,
+      "var5": 815
+    },
+    {
+      "var1": 2010,
+      "var2": "Altstadt",
+      "var3": 6,
+      "var4": 229,
+      "var5": 5033
+    },
+    {
+      "var1": 2010,
+      "var2": "Buckau",
+      "var3": 3,
+      "var4": 30,
+      "var5": 498
+    },
+    {
+      "var1": 2010,
+      "var2": "Cracau",
+      "var3": 7,
+      "var4": 91,
+      "var5": 1634
+    },
+    {
+      "var1": 2010,
+      "var2": "Diesdorf",
+      "var3": 1,
+      "var4": 7,
+      "var5": 126
+    },
+    {
+      "var1": 2010,
+      "var2": "Fermersleben",
+      "var3": 1,
+      "var4": 6,
+      "var5": 99
+    },
+    {
+      "var1": 2010,
+      "var2": "Hopfengarten",
+      "var3": 1,
+      "var4": 8,
+      "var5": 149
+    },
+    {
+      "var1": 2010,
+      "var2": "Kannenstieg",
+      "var3": 1,
+      "var4": 10,
+      "var5": 192
+    },
+    {
+      "var1": 2010,
+      "var2": "Leipziger Straße",
+      "var3": 6,
+      "var4": 92,
+      "var5": 1648
+    },
+    {
+      "var1": 2010,
+      "var2": "Neu Olvenstedt",
+      "var3": 7,
+      "var4": 97,
+      "var5": 1638
+    },
+    {
+      "var1": 2010,
+      "var2": "Neue Neustadt",
+      "var3": 5,
+      "var4": 80,
+      "var5": 1681
+    },
+    {
+      "var1": 2010,
+      "var2": "Neustädter Feld",
+      "var3": 2,
+      "var4": 21,
+      "var5": 268
+    },
+    {
+      "var1": 2010,
+      "var2": "Neustädter See",
+      "var3": 3,
+      "var4": 61,
+      "var5": 1333
+    },
+    {
+      "var1": 2010,
+      "var2": "Nordwest",
+      "var3": 3,
+      "var4": 64,
+      "var5": 1225
+    },
+    {
+      "var1": 2010,
+      "var2": "Ottersleben",
+      "var3": 2,
+      "var4": 29,
+      "var5": 626
+    },
+    {
+      "var1": 2010,
+      "var2": "Reform",
+      "var3": 4,
+      "var4": 68,
+      "var5": 1318
+    },
+    {
+      "var1": 2010,
+      "var2": "Rothensee",
+      "var3": 1,
+      "var4": 5,
+      "var5": 82
+    },
+    {
+      "var1": 2010,
+      "var2": "Salbke",
+      "var3": 1,
+      "var4": 4,
+      "var5": 67
+    },
+    {
+      "var1": 2010,
+      "var2": "Stadtfeld Ost",
+      "var3": 9,
+      "var4": 158,
+      "var5": 2744
+    },
+    {
+      "var1": 2010,
+      "var2": "Stadtfeld West",
+      "var3": 5,
+      "var4": 63,
+      "var5": 1451
+    },
+    {
+      "var1": 2010,
+      "var2": "Sudenburg",
+      "var3": 5,
+      "var4": 69,
+      "var5": 1123
+    },
+    {
+      "var1": 2010,
+      "var2": "Westerhüsen",
+      "var3": 2,
+      "var4": 60,
+      "var5": 1256
+    },
+    {
+      "var1": 2011,
+      "var2": "Alt Olvenstedt",
+      "var3": 1,
+      "var4": 8,
+      "var5": 141
+    },
+    {
+      "var1": 2011,
+      "var2": "Alte Neustadt",
+      "var3": 3,
+      "var4": 39,
+      "var5": 864
+    },
+    {
+      "var1": 2011,
+      "var2": "Altstadt",
+      "var3": 8,
+      "var4": 246,
+      "var5": 5045
+    },
+    {
+      "var1": 2011,
+      "var2": "Buckau",
+      "var3": 3,
+      "var4": 30,
+      "var5": 497
+    },
+    {
+      "var1": 2011,
+      "var2": "Cracau",
+      "var3": 7,
+      "var4": 92,
+      "var5": 1654
+    },
+    {
+      "var1": 2011,
+      "var2": "Diesdorf",
+      "var3": 1,
+      "var4": 8,
+      "var5": 149
+    },
+    {
+      "var1": 2011,
+      "var2": "Hopfengarten",
+      "var3": 1,
+      "var4": 8,
+      "var5": 151
+    },
+    {
+      "var1": 2011,
+      "var2": "Kannenstieg",
+      "var3": 1,
+      "var4": 10,
+      "var5": 204
+    },
+    {
+      "var1": 2011,
+      "var2": "Leipziger Straße",
+      "var3": 6,
+      "var4": 90,
+      "var5": 1555
+    },
+    {
+      "var1": 2011,
+      "var2": "Neu Olvenstedt",
+      "var3": 7,
+      "var4": 98,
+      "var5": 1681
+    },
+    {
+      "var1": 2011,
+      "var2": "Neue Neustadt",
+      "var3": 5,
+      "var4": 79,
+      "var5": 1685
+    },
+    {
+      "var1": 2011,
+      "var2": "Neustädter Feld",
+      "var3": 2,
+      "var4": 20,
+      "var5": 269
+    },
+    {
+      "var1": 2011,
+      "var2": "Neustädter See",
+      "var3": 3,
+      "var4": 63,
+      "var5": 1400
+    },
+    {
+      "var1": 2011,
+      "var2": "Nordwest",
+      "var3": 3,
+      "var4": 66,
+      "var5": 1208
+    },
+    {
+      "var1": 2011,
+      "var2": "Ottersleben",
+      "var3": 2,
+      "var4": 29,
+      "var5": 632
+    },
+    {
+      "var1": 2011,
+      "var2": "Reform",
+      "var3": 4,
+      "var4": 72,
+      "var5": 1412
+    },
+    {
+      "var1": 2011,
+      "var2": "Rothensee",
+      "var3": 1,
+      "var4": 5,
+      "var5": 85
+    },
+    {
+      "var1": 2011,
+      "var2": "Salbke",
+      "var3": 1,
+      "var4": 11,
+      "var5": 175
+    },
+    {
+      "var1": 2011,
+      "var2": "Stadtfeld Ost",
+      "var3": 9,
+      "var4": 149,
+      "var5": 2585
+    },
+    {
+      "var1": 2011,
+      "var2": "Stadtfeld West",
+      "var3": 6,
+      "var4": 67,
+      "var5": 1535
+    },
+    {
+      "var1": 2011,
+      "var2": "Sudenburg",
+      "var3": 6,
+      "var4": 89,
+      "var5": 1532
+    },
+    {
+      "var1": 2011,
+      "var2": "Westerhüsen",
+      "var3": 2,
+      "var4": 59,
+      "var5": 1216
+    },
+    {
+      "var1": 2012,
+      "var2": "Alt Olvenstedt",
+      "var3": 1,
+      "var4": 8,
+      "var5": 139
+    },
+    {
+      "var1": 2012,
+      "var2": "Alte Neustadt",
+      "var3": 3,
+      "var4": 40,
+      "var5": 893
+    },
+    {
+      "var1": 2012,
+      "var2": "Altstadt",
+      "var3": 9,
+      "var4": 236,
+      "var5": 4862
+    },
+    {
+      "var1": 2012,
+      "var2": "Buckau",
+      "var3": 3,
+      "var4": 32,
+      "var5": 527
+    },
+    {
+      "var1": 2012,
+      "var2": "Cracau",
+      "var3": 7,
+      "var4": 93,
+      "var5": 1694
+    },
+    {
+      "var1": 2012,
+      "var2": "Diesdorf",
+      "var3": 1,
+      "var4": 9,
+      "var5": 161
+    },
+    {
+      "var1": 2012,
+      "var2": "Hopfengarten",
+      "var3": 1,
+      "var4": 8,
+      "var5": 167
+    },
+    {
+      "var1": 2012,
+      "var2": "Kannenstieg",
+      "var3": 1,
+      "var4": 10,
+      "var5": 203
+    },
+    {
+      "var1": 2012,
+      "var2": "Leipziger Straße",
+      "var3": 6,
+      "var4": 89,
+      "var5": 1525
+    },
+    {
+      "var1": 2012,
+      "var2": "Neu Olvenstedt",
+      "var3": 7,
+      "var4": 100,
+      "var5": 1701
+    },
+    {
+      "var1": 2012,
+      "var2": "Neue Neustadt",
+      "var3": 6,
+      "var4": 77,
+      "var5": 1714
+    },
+    {
+      "var1": 2012,
+      "var2": "Neustädter Feld",
+      "var3": 2,
+      "var4": 20,
+      "var5": 283
+    },
+    {
+      "var1": 2012,
+      "var2": "Neustädter See",
+      "var3": 3,
+      "var4": 66,
+      "var5": 1450
+    },
+    {
+      "var1": 2012,
+      "var2": "Nordwest",
+      "var3": 3,
+      "var4": 60,
+      "var5": 1160
+    },
+    {
+      "var1": 2012,
+      "var2": "Ottersleben",
+      "var3": 2,
+      "var4": 29,
+      "var5": 636
+    },
+    {
+      "var1": 2012,
+      "var2": "Reform",
+      "var3": 4,
+      "var4": 76,
+      "var5": 1510
+    },
+    {
+      "var1": 2012,
+      "var2": "Rothensee",
+      "var3": 1,
+      "var4": 5,
+      "var5": 85
+    },
+    {
+      "var1": 2012,
+      "var2": "Salbke",
+      "var3": 1,
+      "var4": 10,
+      "var5": 191
+    },
+    {
+      "var1": 2012,
+      "var2": "Stadtfeld Ost",
+      "var3": 9,
+      "var4": 143,
+      "var5": 2508
+    },
+    {
+      "var1": 2012,
+      "var2": "Stadtfeld West",
+      "var3": 6,
+      "var4": 64,
+      "var5": 1471
+    },
+    {
+      "var1": 2012,
+      "var2": "Sudenburg",
+      "var3": 6,
+      "var4": 87,
+      "var5": 1497
+    },
+    {
+      "var1": 2012,
+      "var2": "Westerhüsen",
+      "var3": 2,
+      "var4": 60,
+      "var5": 1175
+    },
+    {
+      "var1": 2013,
+      "var2": "Alt Olvenstedt",
+      "var3": 1,
+      "var4": 8,
+      "var5": 139
+    },
+    {
+      "var1": 2013,
+      "var2": "Alte Neustadt",
+      "var3": 3,
+      "var4": 41,
+      "var5": 899
+    },
+    {
+      "var1": 2013,
+      "var2": "Altstadt",
+      "var3": 9,
+      "var4": 239,
+      "var5": 5022
+    },
+    {
+      "var1": 2013,
+      "var2": "Buckau",
+      "var3": 3,
+      "var4": 32,
+      "var5": 537
+    },
+    {
+      "var1": 2013,
+      "var2": "Cracau",
+      "var3": 7,
+      "var4": 92,
+      "var5": 1720
+    },
+    {
+      "var1": 2013,
+      "var2": "Diesdorf",
+      "var3": 1,
+      "var4": 9,
+      "var5": 173
+    },
+    {
+      "var1": 2013,
+      "var2": "Hopfengarten",
+      "var3": 1,
+      "var4": 8,
+      "var5": 178
+    },
+    {
+      "var1": 2013,
+      "var2": "Kannenstieg",
+      "var3": 1,
+      "var4": 11,
+      "var5": 218
+    },
+    {
+      "var1": 2013,
+      "var2": "Leipziger Straße",
+      "var3": 6,
+      "var4": 91,
+      "var5": 1471
+    },
+    {
+      "var1": 2013,
+      "var2": "Neu Olvenstedt",
+      "var3": 8,
+      "var4": 104,
+      "var5": 1803
+    },
+    {
+      "var1": 2013,
+      "var2": "Neue Neustadt",
+      "var3": 6,
+      "var4": 78,
+      "var5": 1737
+    },
+    {
+      "var1": 2013,
+      "var2": "Neustädter Feld",
+      "var3": 2,
+      "var4": 19,
+      "var5": 271
+    },
+    {
+      "var1": 2013,
+      "var2": "Neustädter See",
+      "var3": 3,
+      "var4": 69,
+      "var5": 1503
+    },
+    {
+      "var1": 2013,
+      "var2": "Nordwest",
+      "var3": 1,
+      "var4": 9,
+      "var5": 191
+    },
+    {
+      "var1": 2013,
+      "var2": "Ottersleben",
+      "var3": 2,
+      "var4": 30,
+      "var5": 648
+    },
+    {
+      "var1": 2013,
+      "var2": "Reform",
+      "var3": 4,
+      "var4": 83,
+      "var5": 1554
+    },
+    {
+      "var1": 2013,
+      "var2": "Rothensee",
+      "var3": 1,
+      "var4": 6,
+      "var5": 93
+    },
+    {
+      "var1": 2013,
+      "var2": "Salbke",
+      "var3": 1,
+      "var4": 10,
+      "var5": 177
+    },
+    {
+      "var1": 2013,
+      "var2": "Stadtfeld Ost",
+      "var3": 10,
+      "var4": 187,
+      "var5": 3366
+    },
+    {
+      "var1": 2013,
+      "var2": "Stadtfeld West",
+      "var3": 6,
+      "var4": 65,
+      "var5": 1478
+    },
+    {
+      "var1": 2013,
+      "var2": "Sudenburg",
+      "var3": 6,
+      "var4": 86,
+      "var5": 1529
+    },
+    {
+      "var1": 2013,
+      "var2": "Westerhüsen",
+      "var3": 2,
+      "var4": 61,
+      "var5": 1198
+    },
+    {
+      "var1": 2014,
+      "var2": "Alt Olvenstedt",
+      "var3": 1,
+      "var4": 8,
+      "var5": 140
+    },
+    {
+      "var1": 2014,
+      "var2": "Alte Neustadt",
+      "var3": 3,
+      "var4": 41,
+      "var5": 917
+    },
+    {
+      "var1": 2014,
+      "var2": "Altstadt",
+      "var3": 9,
+      "var4": 241,
+      "var5": 5076
+    },
+    {
+      "var1": 2014,
+      "var2": "Buckau",
+      "var3": 4,
+      "var4": 34,
+      "var5": 569
+    },
+    {
+      "var1": 2014,
+      "var2": "Cracau",
+      "var3": 8,
+      "var4": 94,
+      "var5": 1735
+    },
+    {
+      "var1": 2014,
+      "var2": "Diesdorf",
+      "var3": 1,
+      "var4": 9,
+      "var5": 173
+    },
+    {
+      "var1": 2014,
+      "var2": "Hopfengarten",
+      "var3": 1,
+      "var4": 8,
+      "var5": 185
+    },
+    {
+      "var1": 2014,
+      "var2": "Kannenstieg",
+      "var3": 1,
+      "var4": 11,
+      "var5": 221
+    },
+    {
+      "var1": 2014,
+      "var2": "Leipziger Straße",
+      "var3": 6,
+      "var4": 93,
+      "var5": 1524
+    },
+    {
+      "var1": 2014,
+      "var2": "Neu Olvenstedt",
+      "var3": 8,
+      "var4": 100,
+      "var5": 1766
+    },
+    {
+      "var1": 2014,
+      "var2": "Neue Neustadt",
+      "var3": 6,
+      "var4": 70,
+      "var5": 1554
+    },
+    {
+      "var1": 2014,
+      "var2": "Neustädter Feld",
+      "var3": 2,
+      "var4": 24,
+      "var5": 327
+    },
+    {
+      "var1": 2014,
+      "var2": "Neustädter See",
+      "var3": 4,
+      "var4": 71,
+      "var5": 1582
+    },
+    {
+      "var1": 2014,
+      "var2": "Nordwest",
+      "var3": 1,
+      "var4": 10,
+      "var5": 196
+    },
+    {
+      "var1": 2014,
+      "var2": "Ottersleben",
+      "var3": 3,
+      "var4": 32,
+      "var5": 704
+    },
+    {
+      "var1": 2014,
+      "var2": "Reform",
+      "var3": 5,
+      "var4": 80,
+      "var5": 1585
+    },
+    {
+      "var1": 2014,
+      "var2": "Rothensee",
+      "var3": 1,
+      "var4": 5,
+      "var5": 92
+    },
+    {
+      "var1": 2014,
+      "var2": "Salbke",
+      "var3": 1,
+      "var4": 10,
+      "var5": 189
+    },
+    {
+      "var1": 2014,
+      "var2": "Stadtfeld Ost",
+      "var3": 9,
+      "var4": 177,
+      "var5": 3211
+    },
+    {
+      "var1": 2014,
+      "var2": "Stadtfeld West",
+      "var3": 7,
+      "var4": 66,
+      "var5": 1543
+    },
+    {
+      "var1": 2014,
+      "var2": "Sudenburg",
+      "var3": 7,
+      "var4": 79,
+      "var5": 1340
+    },
+    {
+      "var1": 2014,
+      "var2": "Westerhüsen",
+      "var3": 2,
+      "var4": 59,
+      "var5": 1187
+    },
+    {
+      "var1": 2015,
+      "var2": "Alt Olvenstedt",
+      "var3": 1,
+      "var4": 6,
+      "var5": 130
+    },
+    {
+      "var1": 2015,
+      "var2": "Alte Neustadt",
+      "var3": 3,
+      "var4": 41,
+      "var5": 946
+    },
+    {
+      "var1": 2015,
+      "var2": "Altstadt",
+      "var3": 9,
+      "var4": 246,
+      "var5": 5094
+    },
+    {
+      "var1": 2015,
+      "var2": "Buckau",
+      "var3": 4,
+      "var4": 37,
+      "var5": 663
+    },
+    {
+      "var1": 2015,
+      "var2": "Cracau",
+      "var3": 8,
+      "var4": 95,
+      "var5": 1767
+    },
+    {
+      "var1": 2015,
+      "var2": "Diesdorf",
+      "var3": 1,
+      "var4": 8,
+      "var5": 187
+    },
+    {
+      "var1": 2015,
+      "var2": "Hopfengarten",
+      "var3": 1,
+      "var4": 8,
+      "var5": 186
+    },
+    {
+      "var1": 2015,
+      "var2": "Kannenstieg",
+      "var3": 1,
+      "var4": 13,
+      "var5": 244
+    },
+    {
+      "var1": 2015,
+      "var2": "Leipziger Straße",
+      "var3": 6,
+      "var4": 95,
+      "var5": 1522
+    },
+    {
+      "var1": 2015,
+      "var2": "Neu Olvenstedt",
+      "var3": 7,
+      "var4": 91,
+      "var5": 1624
+    },
+    {
+      "var1": 2015,
+      "var2": "Neue Neustadt",
+      "var3": 7,
+      "var4": 90,
+      "var5": 1938
+    },
+    {
+      "var1": 2015,
+      "var2": "Neustädter Feld",
+      "var3": 2,
+      "var4": 22,
+      "var5": 329
+    },
+    {
+      "var1": 2015,
+      "var2": "Neustädter See",
+      "var3": 4,
+      "var4": 73,
+      "var5": 1668
+    },
+    {
+      "var1": 2015,
+      "var2": "Nordwest",
+      "var3": 2,
+      "var4": 19,
+      "var5": 393
+    },
+    {
+      "var1": 2015,
+      "var2": "Ottersleben",
+      "var3": 3,
+      "var4": 33,
+      "var5": 742
+    },
+    {
+      "var1": 2015,
+      "var2": "Reform",
+      "var3": 5,
+      "var4": 76,
+      "var5": 1572
+    },
+    {
+      "var1": 2015,
+      "var2": "Rothensee",
+      "var3": 1,
+      "var4": 4,
+      "var5": 84
+    },
+    {
+      "var1": 2015,
+      "var2": "Salbke",
+      "var3": 1,
+      "var4": 10,
+      "var5": 193
+    },
+    {
+      "var1": 2015,
+      "var2": "Stadtfeld Ost",
+      "var3": 9,
+      "var4": 176,
+      "var5": 3186
+    },
+    {
+      "var1": 2015,
+      "var2": "Stadtfeld West",
+      "var3": 7,
+      "var4": 68,
+      "var5": 1551
+    },
+    {
+      "var1": 2015,
+      "var2": "Sudenburg",
+      "var3": 7,
+      "var4": 80,
+      "var5": 1396
+    },
+    {
+      "var1": 2015,
+      "var2": "Westerhüsen",
+      "var3": 2,
+      "var4": 65,
+      "var5": 1327
+    },
+    {
+      "var1": 2016,
+      "var2": "Alt Olvenstedt",
+      "var3": 1,
+      "var4": 140,
+      "var5": 64
+    },
+    {
+      "var1": 2016,
+      "var2": "Alte Neustadt",
+      "var3": 3,
+      "var4": 389,
+      "var5": 759
+    },
+    {
+      "var1": 2016,
+      "var2": "Altstadt",
+      "var3": 9,
+      "var4": 676,
+      "var5": 4858
+    },
+    {
+      "var1": 2016,
+      "var2": "Buckau",
+      "var3": 4,
+      "var4": 216,
+      "var5": 544
+    },
+    {
+      "var1": 2016,
+      "var2": "Cracau",
+      "var3": 8,
+      "var4": 639,
+      "var5": 1503
+    },
+    {
+      "var1": 2016,
+      "var2": "Diesdorf",
+      "var3": 1,
+      "var4": 191,
+      "var5": 109
+    },
+    {
+      "var1": 2016,
+      "var2": "Hopfengarten",
+      "var3": 1,
+      "var4": 194,
+      "var5": 86
+    },
+    {
+      "var1": 2016,
+      "var2": "Kannenstieg",
+      "var3": 1,
+      "var4": 254,
+      "var5": 131
+    },
+    {
+      "var1": 2016,
+      "var2": "Leipziger Straße",
+      "var3": 6,
+      "var4": 585,
+      "var5": 1388
+    },
+    {
+      "var1": 2016,
+      "var2": "Neu Olvenstedt",
+      "var3": 7,
+      "var4": 478,
+      "var5": 1491
+    },
+    {
+      "var1": 2016,
+      "var2": "Neue Neustadt",
+      "var3": 7,
+      "var4": 672,
+      "var5": 1717
+    },
+    {
+      "var1": 2016,
+      "var2": "Neustädter Feld",
+      "var3": 2,
+      "var4": 230,
+      "var5": 225
+    },
+    {
+      "var1": 2016,
+      "var2": "Neustädter See",
+      "var3": 4,
+      "var4": 397,
+      "var5": 1630
+    },
+    {
+      "var1": 2016,
+      "var2": "Nordwest",
+      "var3": 2,
+      "var4": 207,
+      "var5": 375
+    },
+    {
+      "var1": 2016,
+      "var2": "Ottersleben",
+      "var3": 3,
+      "var4": 448,
+      "var5": 537
+    },
+    {
+      "var1": 2016,
+      "var2": "Reform",
+      "var3": 5,
+      "var4": 385,
+      "var5": 1486
+    },
+    {
+      "var1": 2016,
+      "var2": "Rothensee",
+      "var3": 1,
+      "var4": 98,
+      "var5": 41
+    },
+    {
+      "var1": 2016,
+      "var2": "Salbke",
+      "var3": 1,
+      "var4": 205,
+      "var5": 98
+    },
+    {
+      "var1": 2016,
+      "var2": "Stadtfeld Ost",
+      "var3": 9,
+      "var4": 1125,
+      "var5": 2567
+    },
+    {
+      "var1": 2016,
+      "var2": "Stadtfeld West",
+      "var3": 7,
+      "var4": 237,
+      "var5": 1514
+    },
+    {
+      "var1": 2016,
+      "var2": "Sudenburg",
+      "var3": 6,
+      "var4": 471,
+      "var5": 1210
+    },
+    {
+      "var1": 2016,
+      "var2": "Westerhüsen",
+      "var3": 2,
+      "var4": 67,
+      "var5": 1350
+    },
+    {
+      "var1": 2017,
+      "var2": "Alt Olvenstedt",
+      "var3": 1,
+      "var4": 139,
+      "var5": 60
+    },
+    {
+      "var1": 2017,
+      "var2": "Alte Neustadt",
+      "var3": 3,
+      "var4": 402,
+      "var5": 758
+    },
+    {
+      "var1": 2017,
+      "var2": "Altstadt",
+      "var3": 9,
+      "var4": 714,
+      "var5": 4858
+    },
+    {
+      "var1": 2017,
+      "var2": "Buckau",
+      "var3": 4,
+      "var4": 241,
+      "var5": 582
+    },
+    {
+      "var1": 2017,
+      "var2": "Cracau",
+      "var3": 8,
+      "var4": 665,
+      "var5": 1565
+    },
+    {
+      "var1": 2017,
+      "var2": "Diesdorf",
+      "var3": 1,
+      "var4": 214,
+      "var5": 119
+    },
+    {
+      "var1": 2017,
+      "var2": "Hopfengarten",
+      "var3": 1,
+      "var4": 194,
+      "var5": 84
+    },
+    {
+      "var1": 2017,
+      "var2": "Kannenstieg",
+      "var3": 1,
+      "var4": 268,
+      "var5": 137
+    },
+    {
+      "var1": 2017,
+      "var2": "Leipziger Straße",
+      "var3": 6,
+      "var4": 612,
+      "var5": 1538
+    },
+    {
+      "var1": 2017,
+      "var2": "Neu Olvenstedt",
+      "var3": 7,
+      "var4": 511,
+      "var5": 1528
+    },
+    {
+      "var1": 2017,
+      "var2": "Neue Neustadt",
+      "var3": 7,
+      "var4": 707,
+      "var5": 1755
+    },
+    {
+      "var1": 2017,
+      "var2": "Neustädter Feld",
+      "var3": 2,
+      "var4": 275,
+      "var5": 242
+    },
+    {
+      "var1": 2017,
+      "var2": "Neustädter See",
+      "var3": 4,
+      "var4": 408,
+      "var5": 1634
+    },
+    {
+      "var1": 2017,
+      "var2": "Nordwest",
+      "var3": 2,
+      "var4": 213,
+      "var5": 480
+    },
+    {
+      "var1": 2017,
+      "var2": "Ottersleben",
+      "var3": 3,
+      "var4": 447,
+      "var5": 569
+    },
+    {
+      "var1": 2017,
+      "var2": "Reform",
+      "var3": 5,
+      "var4": 433,
+      "var5": 1533
+    },
+    {
+      "var1": 2017,
+      "var2": "Rothensee",
+      "var3": 1,
+      "var4": 106,
+      "var5": 45
+    },
+    {
+      "var1": 2017,
+      "var2": "Salbke",
+      "var3": 1,
+      "var4": 206,
+      "var5": 96
+    },
+    {
+      "var1": 2017,
+      "var2": "Stadtfeld Ost",
+      "var3": 9,
+      "var4": 1180,
+      "var5": 2597
+    },
+    {
+      "var1": 2017,
+      "var2": "Stadtfeld West",
+      "var3": 7,
+      "var4": 251,
+      "var5": 1532
+    },
+    {
+      "var1": 2017,
+      "var2": "Sudenburg",
+      "var3": 7,
+      "var4": 545,
+      "var5": 1553
+    },
+    {
+      "var1": 2017,
+      "var2": "Westerhüsen",
+      "var3": 2,
+      "var4": 66,
+      "var5": 1364
+    },
+    {
+      "var1": 2018,
+      "var2": "Alt Olvenstedt",
+      "var3": 1,
+      "var4": 146,
+      "var5": 62
+    },
+    {
+      "var1": 2018,
+      "var2": "Alte Neustadt",
+      "var3": 4,
+      "var4": 448,
+      "var5": 834
+    },
+    {
+      "var1": 2018,
+      "var2": "Altstadt",
+      "var3": 9,
+      "var4": 731,
+      "var5": 4961
+    },
+    {
+      "var1": 2018,
+      "var2": "Buckau",
+      "var3": 3,
+      "var4": 243,
+      "var5": 602
+    },
+    {
+      "var1": 2018,
+      "var2": "Cracau",
+      "var3": 8,
+      "var4": 669,
+      "var5": 1574
+    },
+    {
+      "var1": 2018,
+      "var2": "Diesdorf",
+      "var3": 1,
+      "var4": 194,
+      "var5": 100
+    },
+    {
+      "var1": 2018,
+      "var2": "Hopfengarten",
+      "var3": 1,
+      "var4": 198,
+      "var5": 90
+    },
+    {
+      "var1": 2018,
+      "var2": "Kannenstieg",
+      "var3": 1,
+      "var4": 256,
+      "var5": 131
+    },
+    {
+      "var1": 2018,
+      "var2": "Leipziger Straße",
+      "var3": 7,
+      "var4": 639,
+      "var5": 1482
+    },
+    {
+      "var1": 2018,
+      "var2": "Neu Olvenstedt",
+      "var3": 7,
+      "var4": 549,
+      "var5": 1488
+    },
+    {
+      "var1": 2018,
+      "var2": "Neue Neustadt",
+      "var3": 7,
+      "var4": 717,
+      "var5": 1757
+    },
+    {
+      "var1": 2018,
+      "var2": "Neustädter Feld",
+      "var3": 2,
+      "var4": 279,
+      "var5": 268
+    },
+    {
+      "var1": 2018,
+      "var2": "Neustädter See",
+      "var3": 4,
+      "var4": 431,
+      "var5": 1652
+    },
+    {
+      "var1": 2018,
+      "var2": "Nordwest",
+      "var3": 2,
+      "var4": 210,
+      "var5": 531
+    },
+    {
+      "var1": 2018,
+      "var2": "Ottersleben",
+      "var3": 3,
+      "var4": 425,
+      "var5": 555
+    },
+    {
+      "var1": 2018,
+      "var2": "Reform",
+      "var3": 5,
+      "var4": 456,
+      "var5": 1566
+    },
+    {
+      "var1": 2018,
+      "var2": "Rothensee",
+      "var3": 1,
+      "var4": 108,
+      "var5": 52
+    },
+    {
+      "var1": 2018,
+      "var2": "Salbke",
+      "var3": 1,
+      "var4": 231,
+      "var5": 108
+    },
+    {
+      "var1": 2018,
+      "var2": "Stadtfeld Ost",
+      "var3": 9,
+      "var4": 1199,
+      "var5": 2621
+    },
+    {
+      "var1": 2018,
+      "var2": "Stadtfeld West",
+      "var3": 7,
+      "var4": 276,
+      "var5": 1560
+    },
+    {
+      "var1": 2018,
+      "var2": "Sudenburg",
+      "var3": 7,
+      "var4": 590,
+      "var5": 1629
+    },
+    {
+      "var1": 2018,
+      "var2": "Westerhüsen",
+      "var3": 2,
+      "var4": 67,
+      "var5": 1416
+    },
+    {
+      "var1": 2019,
+      "var2": "Alt Olvenstedt",
+      "var3": 1,
+      "var4": 8,
+      "var5": 177
+    },
+    {
+      "var1": 2019,
+      "var2": "Alte Neustadt",
+      "var3": 4,
+      "var4": 51,
+      "var5": 1170
+    },
+    {
+      "var1": 2019,
+      "var2": "Altstadt",
+      "var3": 9,
+      "var4": 248,
+      "var5": 5280
+    },
+    {
+      "var1": 2019,
+      "var2": "Buckau",
+      "var3": 3,
+      "var4": 35,
+      "var5": 683
+    },
+    {
+      "var1": 2019,
+      "var2": "Cracau",
+      "var3": 7,
+      "var4": 95,
+      "var5": 1849
+    },
+    {
+      "var1": 2019,
+      "var2": "Diesdorf",
+      "var3": 1,
+      "var4": 10,
+      "var5": 199
+    },
+    {
+      "var1": 2019,
+      "var2": "Hopfengarten",
+      "var3": 1,
+      "var4": 9,
+      "var5": 193
+    },
+    {
+      "var1": 2019,
+      "var2": "Kannenstieg",
+      "var3": 1,
+      "var4": 12,
+      "var5": 246
+    },
+    {
+      "var1": 2019,
+      "var2": "Leipziger Straße",
+      "var3": 8,
+      "var4": 101,
+      "var5": 1797
+    },
+    {
+      "var1": 2019,
+      "var2": "Neu Olvenstedt",
+      "var3": 6,
+      "var4": 101,
+      "var5": 1740
+    },
+    {
+      "var1": 2019,
+      "var2": "Neue Neustadt",
+      "var3": 6,
+      "var4": 89,
+      "var5": 2053
+    },
+    {
+      "var1": 2019,
+      "var2": "Neustädter Feld",
+      "var3": 2,
+      "var4": 28,
+      "var5": 432
+    },
+    {
+      "var1": 2019,
+      "var2": "Neustädter See",
+      "var3": 3,
+      "var4": 77,
+      "var5": 1801
+    },
+    {
+      "var1": 2019,
+      "var2": "Nordwest",
+      "var3": 2,
+      "var4": 31,
+      "var5": 712
+    },
+    {
+      "var1": 2019,
+      "var2": "Ottersleben",
+      "var3": 2,
+      "var4": 32,
+      "var5": 753
+    },
+    {
+      "var1": 2019,
+      "var2": "Reform",
+      "var3": 4,
+      "var4": 87,
+      "var5": 1850
+    },
+    {
+      "var1": 2019,
+      "var2": "Rothensee",
+      "var3": 1,
+      "var4": 6,
+      "var5": 103
+    },
+    {
+      "var1": 2019,
+      "var2": "Salbke",
+      "var3": 1,
+      "var4": 10,
+      "var5": 201
+    },
+    {
+      "var1": 2019,
+      "var2": "Stadtfeld Ost",
+      "var3": 9,
+      "var4": 171,
+      "var5": 3132
+    },
+    {
+      "var1": 2019,
+      "var2": "Stadtfeld West",
+      "var3": 6,
+      "var4": 69,
+      "var5": 1629
+    },
+    {
+      "var1": 2019,
+      "var2": "Sudenburg",
+      "var3": 6,
+      "var4": 102,
+      "var5": 1990
+    },
+    {
+      "var1": 2019,
+      "var2": "Westerhüsen",
+      "var3": 2,
+      "var4": 71,
+      "var5": 1460
+    },
+    {
+      "var1": 2020,
+      "var2": "Alt Olvenstedt",
+      "var3": 1,
+      "var4": 8,
+      "var5": 173
+    },
+    {
+      "var1": 2020,
+      "var2": "Alte Neustadt",
+      "var3": 5,
+      "var4": 58,
+      "var5": 1321
+    },
+    {
+      "var1": 2020,
+      "var2": "Altstadt",
+      "var3": 9,
+      "var4": 241,
+      "var5": 5235
+    },
+    {
+      "var1": 2020,
+      "var2": "Buckau",
+      "var3": 3,
+      "var4": 37,
+      "var5": 699
+    },
+    {
+      "var1": 2020,
+      "var2": "Cracau",
+      "var3": 7,
+      "var4": 93,
+      "var5": 1823
+    },
+    {
+      "var1": 2020,
+      "var2": "Diesdorf",
+      "var3": 1,
+      "var4": 11,
+      "var5": 214
+    },
+    {
+      "var1": 2020,
+      "var2": "Hopfengarten",
+      "var3": 1,
+      "var4": 8,
+      "var5": 195
+    },
+    {
+      "var1": 2020,
+      "var2": "Kannenstieg",
+      "var3": 1,
+      "var4": 12,
+      "var5": 229
+    },
+    {
+      "var1": 2020,
+      "var2": "Leipziger Straße",
+      "var3": 5,
+      "var4": 44,
+      "var5": 868
+    },
+    {
+      "var1": 2020,
+      "var2": "Lemsdorf",
+      "var3": 2,
+      "var4": 45,
+      "var5": 768
+    },
+    {
+      "var1": 2020,
+      "var2": "Neu Olvenstedt",
+      "var3": 7,
+      "var4": 116,
+      "var5": 1869
+    },
+    {
+      "var1": 2020,
+      "var2": "Neue Neustadt",
+      "var3": 6,
+      "var4": 89,
+      "var5": 2081
+    },
+    {
+      "var1": 2020,
+      "var2": "Neustädter Feld",
+      "var3": 2,
+      "var4": 29,
+      "var5": 448
+    },
+    {
+      "var1": 2020,
+      "var2": "Neustädter See",
+      "var3": 3,
+      "var4": 75,
+      "var5": 1783
+    },
+    {
+      "var1": 2020,
+      "var2": "Nordwest",
+      "var3": 2,
+      "var4": 36,
+      "var5": 821
+    },
+    {
+      "var1": 2020,
+      "var2": "Ottersleben",
+      "var3": 2,
+      "var4": 32,
+      "var5": 761
+    },
+    {
+      "var1": 2020,
+      "var2": "Reform",
+      "var3": 4,
+      "var4": 87,
+      "var5": 1862
+    },
+    {
+      "var1": 2020,
+      "var2": "Rothensee",
+      "var3": 1,
+      "var4": 6,
+      "var5": 113
+    },
+    {
+      "var1": 2020,
+      "var2": "Salbke",
+      "var3": 1,
+      "var4": 10,
+      "var5": 218
+    },
+    {
+      "var1": 2020,
+      "var2": "Stadtfeld Ost",
+      "var3": 9,
+      "var4": 169,
+      "var5": 3077
+    },
+    {
+      "var1": 2020,
+      "var2": "Stadtfeld West",
+      "var3": 6,
+      "var4": 67,
+      "var5": 1575
+    },
+    {
+      "var1": 2020,
+      "var2": "Sudenburg",
+      "var3": 6,
+      "var4": 106,
+      "var5": 2043
+    },
+    {
+      "var1": 2020,
+      "var2": "Westerhüsen",
+      "var3": 2,
+      "var4": 66,
+      "var5": 1343
+    },
+    {
+      "var1": 2021,
+      "var2": "Alt Olvenstedt",
+      "var3": 1,
+      "var4": 8,
+      "var5": 174
+    },
+    {
+      "var1": 2021,
+      "var2": "Alte Neustadt",
+      "var3": 5,
+      "var4": 66,
+      "var5": 1496
+    },
+    {
+      "var1": 2021,
+      "var2": "Altstadt",
+      "var3": 9,
+      "var4": 249,
+      "var5": 5218
+    },
+    {
+      "var1": 2021,
+      "var2": "Buckau",
+      "var3": 3,
+      "var4": 40,
+      "var5": 702
+    },
+    {
+      "var1": 2021,
+      "var2": "Cracau",
+      "var3": 7,
+      "var4": 93,
+      "var5": 1822
+    },
+    {
+      "var1": 2021,
+      "var2": "Diesdorf",
+      "var3": 1,
+      "var4": 12,
+      "var5": 252
+    },
+    {
+      "var1": 2021,
+      "var2": "Hopfengarten",
+      "var3": 1,
+      "var4": 8,
+      "var5": 184
+    },
+    {
+      "var1": 2021,
+      "var2": "Kannenstieg",
+      "var3": 1,
+      "var4": 13,
+      "var5": 259
+    },
+    {
+      "var1": 2021,
+      "var2": "Leipziger Straße",
+      "var3": 5,
+      "var4": 48,
+      "var5": 913
+    },
+    {
+      "var1": 2021,
+      "var2": "Lemsdorf",
+      "var3": 2,
+      "var4": 47,
+      "var5": 803
+    },
+    {
+      "var1": 2021,
+      "var2": "Neu Olvenstedt",
+      "var3": 7,
+      "var4": 121,
+      "var5": 1941
+    },
+    {
+      "var1": 2021,
+      "var2": "Neue Neustadt",
+      "var3": 6,
+      "var4": 88,
+      "var5": 2077
+    },
+    {
+      "var1": 2021,
+      "var2": "Neustädter Feld",
+      "var3": 2,
+      "var4": 29,
+      "var5": 442
+    },
+    {
+      "var1": 2021,
+      "var2": "Neustädter See",
+      "var3": 3,
+      "var4": 76,
+      "var5": 1764
+    },
+    {
+      "var1": 2021,
+      "var2": "Nordwest",
+      "var3": 2,
+      "var4": 39,
+      "var5": 878
+    },
+    {
+      "var1": 2021,
+      "var2": "Ottersleben",
+      "var3": 2,
+      "var4": 33,
+      "var5": 800
+    },
+    {
+      "var1": 2021,
+      "var2": "Reform",
+      "var3": 4,
+      "var4": 88,
+      "var5": 1895
+    },
+    {
+      "var1": 2021,
+      "var2": "Rothensee",
+      "var3": 1,
+      "var4": 5,
+      "var5": 118
+    },
+    {
+      "var1": 2021,
+      "var2": "Salbke",
+      "var3": 1,
+      "var4": 11,
+      "var5": 207
+    },
+    {
+      "var1": 2021,
+      "var2": "Stadtfeld Ost",
+      "var3": 9,
+      "var4": 166,
+      "var5": 3021
+    },
+    {
+      "var1": 2021,
+      "var2": "Stadtfeld West",
+      "var3": 6,
+      "var4": 70,
+      "var5": 1580
+    },
+    {
+      "var1": 2021,
+      "var2": "Sudenburg",
+      "var3": 7,
+      "var4": 112,
+      "var5": 2179
+    },
+    {
+      "var1": 2021,
+      "var2": "Westerhüsen",
+      "var3": 2,
+      "var4": 73,
+      "var5": 1408
+    },
+    {
+      "var1": 2022,
+      "var2": "Alt Olvenstedt",
+      "var3": 1,
+      "var4": 8,
+      "var5": 185
+    },
+    {
+      "var1": 2022,
+      "var2": "Alte Neustadt",
+      "var3": 5,
+      "var4": 73,
+      "var5": 1664
+    },
+    {
+      "var1": 2022,
+      "var2": "Altstadt",
+      "var3": 9,
+      "var4": 249,
+      "var5": 5317
+    },
+    {
+      "var1": 2022,
+      "var2": "Buckau",
+      "var3": 3,
+      "var4": 39,
+      "var5": 715
+    },
+    {
+      "var1": 2022,
+      "var2": "Cracau",
+      "var3": 7,
+      "var4": 95,
+      "var5": 1892
+    },
+    {
+      "var1": 2022,
+      "var2": "Diesdorf",
+      "var3": 1,
+      "var4": 14,
+      "var5": 292
+    },
+    {
+      "var1": 2022,
+      "var2": "Hopfengarten",
+      "var3": 1,
+      "var4": 8,
+      "var5": 183
+    },
+    {
+      "var1": 2022,
+      "var2": "Kannenstieg",
+      "var3": 1,
+      "var4": 13,
+      "var5": 287
+    },
+    {
+      "var1": 2022,
+      "var2": "Leipziger Straße",
+      "var3": 5,
+      "var4": 52,
+      "var5": 992
+    },
+    {
+      "var1": 2022,
+      "var2": "Lemsdorf",
+      "var3": 2,
+      "var4": 49,
+      "var5": 875
+    },
+    {
+      "var1": 2022,
+      "var2": "Neu Olvenstedt",
+      "var3": 7,
+      "var4": 124,
+      "var5": 2062
+    },
+    {
+      "var1": 2022,
+      "var2": "Neue Neustadt",
+      "var3": 6,
+      "var4": 87,
+      "var5": 2098
+    },
+    {
+      "var1": 2022,
+      "var2": "Neustädter Feld",
+      "var3": 2,
+      "var4": 29,
+      "var5": 452
+    },
+    {
+      "var1": 2022,
+      "var2": "Neustädter See",
+      "var3": 3,
+      "var4": 77,
+      "var5": 1802
+    },
+    {
+      "var1": 2022,
+      "var2": "Nordwest",
+      "var3": 2,
+      "var4": 43,
+      "var5": 951
+    },
+    {
+      "var1": 2022,
+      "var2": "Ottersleben",
+      "var3": 2,
+      "var4": 34,
+      "var5": 824
+    },
+    {
+      "var1": 2022,
+      "var2": "Reform",
+      "var3": 4,
+      "var4": 90,
+      "var5": 1929
+    },
+    {
+      "var1": 2022,
+      "var2": "Rothensee",
+      "var3": 1,
+      "var4": 6,
+      "var5": 122
+    },
+    {
+      "var1": 2022,
+      "var2": "Salbke",
+      "var3": 1,
+      "var4": 11,
+      "var5": 222
+    },
+    {
+      "var1": 2022,
+      "var2": "Stadtfeld Ost",
+      "var3": 9,
+      "var4": 166,
+      "var5": 2991
+    },
+    {
+      "var1": 2022,
+      "var2": "Stadtfeld West",
+      "var3": 6,
+      "var4": 71,
+      "var5": 1633
+    },
+    {
+      "var1": 2022,
+      "var2": "Sudenburg",
+      "var3": 6,
+      "var4": 108,
+      "var5": 2063
+    },
+    {
+      "var1": 2022,
+      "var2": "Westerhüsen",
+      "var3": 3,
+      "var4": 119,
+      "var5": 1407
+    },
+    {
+      "var1": 2023,
+      "var2": "Alt Olvenstedt",
+      "var3": 1,
+      "var4": 8,
+      "var5": 180
+    },
+    {
+      "var1": 2023,
+      "var2": "Alte Neustadt",
+      "var3": 5,
+      "var4": 76,
+      "var5": 1764
+    },
+    {
+      "var1": 2023,
+      "var2": "Altstadt",
+      "var3": 9,
+      "var4": 256,
+      "var5": 5344
+    },
+    {
+      "var1": 2023,
+      "var2": "Buckau",
+      "var3": 3,
+      "var4": 41,
+      "var5": 762
+    },
+    {
+      "var1": 2023,
+      "var2": "Cracau",
+      "var3": 7,
+      "var4": 97,
+      "var5": 1908
+    },
+    {
+      "var1": 2023,
+      "var2": "Diesdorf",
+      "var3": 1,
+      "var4": 15,
+      "var5": 338
+    },
+    {
+      "var1": 2023,
+      "var2": "Hopfengarten",
+      "var3": 1,
+      "var4": 8,
+      "var5": 179
+    },
+    {
+      "var1": 2023,
+      "var2": "Kannenstieg",
+      "var3": 1,
+      "var4": 13,
+      "var5": 294
+    },
+    {
+      "var1": 2023,
+      "var2": "Leipziger Straße",
+      "var3": 5,
+      "var4": 56,
+      "var5": 1045
+    },
+    {
+      "var1": 2023,
+      "var2": "Lemsdorf",
+      "var3": 2,
+      "var4": 48,
+      "var5": 856
+    },
+    {
+      "var1": 2023,
+      "var2": "Neu Olvenstedt",
+      "var3": 7,
+      "var4": 126,
+      "var5": 2088
+    },
+    {
+      "var1": 2023,
+      "var2": "Neue Neustadt",
+      "var3": 6,
+      "var4": 89,
+      "var5": 2172
+    },
+    {
+      "var1": 2023,
+      "var2": "Neustädter Feld",
+      "var3": 2,
+      "var4": 30,
+      "var5": 478
+    },
+    {
+      "var1": 2023,
+      "var2": "Neustädter See",
+      "var3": 3,
+      "var4": 79,
+      "var5": 1854
+    },
+    {
+      "var1": 2023,
+      "var2": "Nordwest",
+      "var3": 2,
+      "var4": 45,
+      "var5": 1022
+    },
+    {
+      "var1": 2023,
+      "var2": "Ottersleben",
+      "var3": 2,
+      "var4": 36,
+      "var5": 851
+    },
+    {
+      "var1": 2023,
+      "var2": "Reform",
+      "var3": 4,
+      "var4": 89,
+      "var5": 1987
+    },
+    {
+      "var1": 2023,
+      "var2": "Rothensee",
+      "var3": 1,
+      "var4": 7,
+      "var5": 130
+    },
+    {
+      "var1": 2023,
+      "var2": "Salbke",
+      "var3": 1,
+      "var4": 10,
+      "var5": 202
+    },
+    {
+      "var1": 2023,
+      "var2": "Stadtfeld Ost",
+      "var3": 9,
+      "var4": 172,
+      "var5": 3033
+    },
+    {
+      "var1": 2023,
+      "var2": "Stadtfeld West",
+      "var3": 6,
+      "var4": 69,
+      "var5": 1664
+    },
+    {
+      "var1": 2023,
+      "var2": "Sudenburg",
+      "var3": 6,
+      "var4": 110,
+      "var5": 2087
+    },
+    {
+      "var1": 2023,
+      "var2": "Westerhüsen",
+      "var3": 3,
+      "var4": 102,
+      "var5": 1340
+    },
+    {
+      "var1": 2008,
+      "var2": "01",
+      "var3": 7,
+      "var4": 163,
+      "var5": 3710
+    },
+    {
+      "var1": 2008,
+      "var2": "04",
+      "var3": 3,
+      "var4": 38,
+      "var5": 801
+    },
+    {
+      "var1": 2008,
+      "var2": "06",
+      "var3": 5,
+      "var4": 72,
+      "var5": 1588
+    },
+    {
+      "var1": 2008,
+      "var2": "08",
+      "var3": 3,
+      "var4": 60,
+      "var5": 1266
+    },
+    {
+      "var1": 2008,
+      "var2": "10",
+      "var3": 2,
+      "var4": 19,
+      "var5": 339
+    },
+    {
+      "var1": 2008,
+      "var2": "12",
+      "var3": 2,
+      "var4": 19,
+      "var5": 260
+    },
+    {
+      "var1": 2008,
+      "var2": "18",
+      "var3": 3,
+      "var4": 111,
+      "var5": 2497
+    },
+    {
+      "var1": 2008,
+      "var2": "20",
+      "var3": 1,
+      "var4": 8,
+      "var5": 155
+    },
+    {
+      "var1": 2008,
+      "var2": "22",
+      "var3": 7,
+      "var4": 102,
+      "var5": 1715
+    },
+    {
+      "var1": 2008,
+      "var2": "24",
+      "var3": 13,
+      "var4": 211,
+      "var5": 3885
+    },
+    {
+      "var1": 2008,
+      "var2": "26",
+      "var3": 5,
+      "var4": 61,
+      "var5": 1325
+    },
+    {
+      "var1": 2008,
+      "var2": "28",
+      "var3": 1,
+      "var4": 7,
+      "var5": 106
+    },
+    {
+      "var1": 2008,
+      "var2": "30",
+      "var3": 5,
+      "var4": 65,
+      "var5": 1131
+    },
+    {
+      "var1": 2008,
+      "var2": "32",
+      "var3": 2,
+      "var4": 29,
+      "var5": 617
+    },
+    {
+      "var1": 2008,
+      "var2": "36",
+      "var3": 5,
+      "var4": 101,
+      "var5": 1906
+    },
+    {
+      "var1": 2008,
+      "var2": "38",
+      "var3": 4,
+      "var4": 72,
+      "var5": 1404
+    },
+    {
+      "var1": 2008,
+      "var2": "40",
+      "var3": 1,
+      "var4": 8,
+      "var5": 157
+    },
+    {
+      "var1": 2008,
+      "var2": "44",
+      "var3": 3,
+      "var4": 33,
+      "var5": 523
+    },
+    {
+      "var1": 2008,
+      "var2": "46",
+      "var3": 1,
+      "var4": 5,
+      "var5": 73
+    },
+    {
+      "var1": 2008,
+      "var2": "48",
+      "var3": 1,
+      "var4": 4,
+      "var5": 68
+    },
+    {
+      "var1": 2008,
+      "var2": "50",
+      "var3": 2,
+      "var4": 65,
+      "var5": 1408
+    },
+    {
+      "var1": 2008,
+      "var2": "56",
+      "var3": 7,
+      "var4": 88,
+      "var5": 1551
+    },
+    {
+      "var1": 2008,
+      "var2": "66",
+      "var3": 1,
+      "var4": 5,
+      "var5": 81
+    },
+    {
+      "var1": 2009,
+      "var2": "01",
+      "var3": 6,
+      "var4": 247,
+      "var5": 5351
+    },
+    {
+      "var1": 2009,
+      "var2": "04",
+      "var3": 3,
+      "var4": 38,
+      "var5": 770
+    },
+    {
+      "var1": 2009,
+      "var2": "06",
+      "var3": 5,
+      "var4": 72,
+      "var5": 1573
+    },
+    {
+      "var1": 2009,
+      "var2": "08",
+      "var3": 3,
+      "var4": 60,
+      "var5": 1276
+    },
+    {
+      "var1": 2009,
+      "var2": "10",
+      "var3": 2,
+      "var4": 16,
+      "var5": 300
+    },
+    {
+      "var1": 2009,
+      "var2": "12",
+      "var3": 2,
+      "var4": 20,
+      "var5": 257
+    },
+    {
+      "var1": 2009,
+      "var2": "18",
+      "var3": 3,
+      "var4": 69,
+      "var5": 1369
+    },
+    {
+      "var1": 2009,
+      "var2": "20",
+      "var3": 1,
+      "var4": 8,
+      "var5": 145
+    },
+    {
+      "var1": 2009,
+      "var2": "22",
+      "var3": 7,
+      "var4": 97,
+      "var5": 1609
+    },
+    {
+      "var1": 2009,
+      "var2": "24",
+      "var3": 10,
+      "var4": 165,
+      "var5": 2972
+    },
+    {
+      "var1": 2009,
+      "var2": "26",
+      "var3": 5,
+      "var4": 63,
+      "var5": 1373
+    },
+    {
+      "var1": 2009,
+      "var2": "28",
+      "var3": 1,
+      "var4": 7,
+      "var5": 111
+    },
+    {
+      "var1": 2009,
+      "var2": "30",
+      "var3": 5,
+      "var4": 65,
+      "var5": 1124
+    },
+    {
+      "var1": 2009,
+      "var2": "32",
+      "var3": 2,
+      "var4": 29,
+      "var5": 621
+    },
+    {
+      "var1": 2009,
+      "var2": "36",
+      "var3": 6,
+      "var4": 93,
+      "var5": 1771
+    },
+    {
+      "var1": 2009,
+      "var2": "38",
+      "var3": 4,
+      "var4": 68,
+      "var5": 1322
+    },
+    {
+      "var1": 2009,
+      "var2": "40",
+      "var3": 1,
+      "var4": 8,
+      "var5": 160
+    },
+    {
+      "var1": 2009,
+      "var2": "44",
+      "var3": 3,
+      "var4": 32,
+      "var5": 502
+    },
+    {
+      "var1": 2009,
+      "var2": "46",
+      "var3": 1,
+      "var4": 5,
+      "var5": 88
+    },
+    {
+      "var1": 2009,
+      "var2": "48",
+      "var3": 1,
+      "var4": 4,
+      "var5": 64
+    },
+    {
+      "var1": 2009,
+      "var2": "50",
+      "var3": 2,
+      "var4": 63,
+      "var5": 1383
+    },
+    {
+      "var1": 2009,
+      "var2": "56",
+      "var3": 7,
+      "var4": 92,
+      "var5": 1625
+    },
+    {
+      "var1": 2009,
+      "var2": "66",
+      "var3": 1,
+      "var4": 4,
+      "var5": 72
+    },
+    {
+      "var1": 2010,
+      "var2": "01",
+      "var3": 6,
+      "var4": 229,
+      "var5": 5033
+    },
+    {
+      "var1": 2010,
+      "var2": "04",
+      "var3": 3,
+      "var4": 38,
+      "var5": 815
+    },
+    {
+      "var1": 2010,
+      "var2": "06",
+      "var3": 5,
+      "var4": 80,
+      "var5": 1681
+    },
+    {
+      "var1": 2010,
+      "var2": "08",
+      "var3": 3,
+      "var4": 61,
+      "var5": 1333
+    },
+    {
+      "var1": 2010,
+      "var2": "10",
+      "var3": 1,
+      "var4": 10,
+      "var5": 192
+    },
+    {
+      "var1": 2010,
+      "var2": "12",
+      "var3": 2,
+      "var4": 21,
+      "var5": 268
+    },
+    {
+      "var1": 2010,
+      "var2": "18",
+      "var3": 3,
+      "var4": 64,
+      "var5": 1225
+    },
+    {
+      "var1": 2010,
+      "var2": "20",
+      "var3": 1,
+      "var4": 8,
+      "var5": 138
+    },
+    {
+      "var1": 2010,
+      "var2": "22",
+      "var3": 7,
+      "var4": 97,
+      "var5": 1638
+    },
+    {
+      "var1": 2010,
+      "var2": "24",
+      "var3": 9,
+      "var4": 158,
+      "var5": 2744
+    },
+    {
+      "var1": 2010,
+      "var2": "26",
+      "var3": 5,
+      "var4": 63,
+      "var5": 1451
+    },
+    {
+      "var1": 2010,
+      "var2": "28",
+      "var3": 1,
+      "var4": 7,
+      "var5": 126
+    },
+    {
+      "var1": 2010,
+      "var2": "30",
+      "var3": 5,
+      "var4": 69,
+      "var5": 1123
+    },
+    {
+      "var1": 2010,
+      "var2": "32",
+      "var3": 2,
+      "var4": 29,
+      "var5": 626
+    },
+    {
+      "var1": 2010,
+      "var2": "36",
+      "var3": 6,
+      "var4": 92,
+      "var5": 1648
+    },
+    {
+      "var1": 2010,
+      "var2": "38",
+      "var3": 4,
+      "var4": 68,
+      "var5": 1318
+    },
+    {
+      "var1": 2010,
+      "var2": "40",
+      "var3": 1,
+      "var4": 8,
+      "var5": 149
+    },
+    {
+      "var1": 2010,
+      "var2": "44",
+      "var3": 3,
+      "var4": 30,
+      "var5": 498
+    },
+    {
+      "var1": 2010,
+      "var2": "46",
+      "var3": 1,
+      "var4": 6,
+      "var5": 99
+    },
+    {
+      "var1": 2010,
+      "var2": "48",
+      "var3": 1,
+      "var4": 4,
+      "var5": 67
+    },
+    {
+      "var1": 2010,
+      "var2": "50",
+      "var3": 2,
+      "var4": 60,
+      "var5": 1256
+    },
+    {
+      "var1": 2010,
+      "var2": "56",
+      "var3": 7,
+      "var4": 91,
+      "var5": 1634
+    },
+    {
+      "var1": 2010,
+      "var2": "66",
+      "var3": 1,
+      "var4": 5,
+      "var5": 82
+    },
+    {
+      "var1": 2011,
+      "var2": "01",
+      "var3": 8,
+      "var4": 246,
+      "var5": 5045
+    },
+    {
+      "var1": 2011,
+      "var2": "04",
+      "var3": 3,
+      "var4": 39,
+      "var5": 864
+    },
+    {
+      "var1": 2011,
+      "var2": "06",
+      "var3": 5,
+      "var4": 79,
+      "var5": 1685
+    },
+    {
+      "var1": 2011,
+      "var2": "08",
+      "var3": 3,
+      "var4": 63,
+      "var5": 1400
+    },
+    {
+      "var1": 2011,
+      "var2": "10",
+      "var3": 1,
+      "var4": 10,
+      "var5": 204
+    },
+    {
+      "var1": 2011,
+      "var2": "12",
+      "var3": 2,
+      "var4": 20,
+      "var5": 269
+    },
+    {
+      "var1": 2011,
+      "var2": "18",
+      "var3": 3,
+      "var4": 66,
+      "var5": 1208
+    },
+    {
+      "var1": 2011,
+      "var2": "20",
+      "var3": 1,
+      "var4": 8,
+      "var5": 141
+    },
+    {
+      "var1": 2011,
+      "var2": "22",
+      "var3": 7,
+      "var4": 98,
+      "var5": 1681
+    },
+    {
+      "var1": 2011,
+      "var2": "24",
+      "var3": 9,
+      "var4": 149,
+      "var5": 2585
+    },
+    {
+      "var1": 2011,
+      "var2": "26",
+      "var3": 6,
+      "var4": 67,
+      "var5": 1535
+    },
+    {
+      "var1": 2011,
+      "var2": "28",
+      "var3": 1,
+      "var4": 8,
+      "var5": 149
+    },
+    {
+      "var1": 2011,
+      "var2": "30",
+      "var3": 6,
+      "var4": 89,
+      "var5": 1532
+    },
+    {
+      "var1": 2011,
+      "var2": "32",
+      "var3": 2,
+      "var4": 29,
+      "var5": 632
+    },
+    {
+      "var1": 2011,
+      "var2": "36",
+      "var3": 6,
+      "var4": 90,
+      "var5": 1555
+    },
+    {
+      "var1": 2011,
+      "var2": "38",
+      "var3": 4,
+      "var4": 72,
+      "var5": 1412
+    },
+    {
+      "var1": 2011,
+      "var2": "40",
+      "var3": 1,
+      "var4": 8,
+      "var5": 151
+    },
+    {
+      "var1": 2011,
+      "var2": "44",
+      "var3": 3,
+      "var4": 30,
+      "var5": 497
+    },
+    {
+      "var1": 2011,
+      "var2": "48",
+      "var3": 1,
+      "var4": 11,
+      "var5": 175
+    },
+    {
+      "var1": 2011,
+      "var2": "50",
+      "var3": 2,
+      "var4": 59,
+      "var5": 1216
+    },
+    {
+      "var1": 2011,
+      "var2": "56",
+      "var3": 7,
+      "var4": 92,
+      "var5": 1654
+    },
+    {
+      "var1": 2011,
+      "var2": "66",
+      "var3": 1,
+      "var4": 5,
+      "var5": 85
+    },
+    {
+      "var1": 2012,
+      "var2": "01",
+      "var3": 9,
+      "var4": 236,
+      "var5": 4862
+    },
+    {
+      "var1": 2012,
+      "var2": "04",
+      "var3": 3,
+      "var4": 40,
+      "var5": 893
+    },
+    {
+      "var1": 2012,
+      "var2": "06",
+      "var3": 6,
+      "var4": 77,
+      "var5": 1714
+    },
+    {
+      "var1": 2012,
+      "var2": "08",
+      "var3": 3,
+      "var4": 66,
+      "var5": 1450
+    },
+    {
+      "var1": 2012,
+      "var2": "10",
+      "var3": 1,
+      "var4": 10,
+      "var5": 203
+    },
+    {
+      "var1": 2012,
+      "var2": "12",
+      "var3": 2,
+      "var4": 20,
+      "var5": 283
+    },
+    {
+      "var1": 2012,
+      "var2": "18",
+      "var3": 3,
+      "var4": 60,
+      "var5": 1160
+    },
+    {
+      "var1": 2012,
+      "var2": "20",
+      "var3": 1,
+      "var4": 8,
+      "var5": 139
+    },
+    {
+      "var1": 2012,
+      "var2": "22",
+      "var3": 7,
+      "var4": 100,
+      "var5": 1701
+    },
+    {
+      "var1": 2012,
+      "var2": "24",
+      "var3": 9,
+      "var4": 143,
+      "var5": 2508
+    },
+    {
+      "var1": 2012,
+      "var2": "26",
+      "var3": 6,
+      "var4": 64,
+      "var5": 1471
+    },
+    {
+      "var1": 2012,
+      "var2": "28",
+      "var3": 1,
+      "var4": 9,
+      "var5": 161
+    },
+    {
+      "var1": 2012,
+      "var2": "30",
+      "var3": 6,
+      "var4": 87,
+      "var5": 1497
+    },
+    {
+      "var1": 2012,
+      "var2": "32",
+      "var3": 2,
+      "var4": 29,
+      "var5": 636
+    },
+    {
+      "var1": 2012,
+      "var2": "36",
+      "var3": 6,
+      "var4": 89,
+      "var5": 1525
+    },
+    {
+      "var1": 2012,
+      "var2": "38",
+      "var3": 4,
+      "var4": 76,
+      "var5": 1510
+    },
+    {
+      "var1": 2012,
+      "var2": "40",
+      "var3": 1,
+      "var4": 8,
+      "var5": 167
+    },
+    {
+      "var1": 2012,
+      "var2": "44",
+      "var3": 3,
+      "var4": 32,
+      "var5": 527
+    },
+    {
+      "var1": 2012,
+      "var2": "48",
+      "var3": 1,
+      "var4": 10,
+      "var5": 191
+    },
+    {
+      "var1": 2012,
+      "var2": "50",
+      "var3": 2,
+      "var4": 60,
+      "var5": 1175
+    },
+    {
+      "var1": 2012,
+      "var2": "56",
+      "var3": 7,
+      "var4": 93,
+      "var5": 1694
+    },
+    {
+      "var1": 2012,
+      "var2": "66",
+      "var3": 1,
+      "var4": 5,
+      "var5": 85
+    },
+    {
+      "var1": 2013,
+      "var2": "01",
+      "var3": 9,
+      "var4": 239,
+      "var5": 5022
+    },
+    {
+      "var1": 2013,
+      "var2": "04",
+      "var3": 3,
+      "var4": 41,
+      "var5": 899
+    },
+    {
+      "var1": 2013,
+      "var2": "06",
+      "var3": 6,
+      "var4": 78,
+      "var5": 1737
+    },
+    {
+      "var1": 2013,
+      "var2": "08",
+      "var3": 3,
+      "var4": 69,
+      "var5": 1503
+    },
+    {
+      "var1": 2013,
+      "var2": "10",
+      "var3": 1,
+      "var4": 11,
+      "var5": 218
+    },
+    {
+      "var1": 2013,
+      "var2": "12",
+      "var3": 2,
+      "var4": 19,
+      "var5": 271
+    },
+    {
+      "var1": 2013,
+      "var2": "18",
+      "var3": 1,
+      "var4": 9,
+      "var5": 191
+    },
+    {
+      "var1": 2013,
+      "var2": "20",
+      "var3": 1,
+      "var4": 8,
+      "var5": 139
+    },
+    {
+      "var1": 2013,
+      "var2": "22",
+      "var3": 8,
+      "var4": 104,
+      "var5": 1803
+    },
+    {
+      "var1": 2013,
+      "var2": "24",
+      "var3": 10,
+      "var4": 187,
+      "var5": 3366
+    },
+    {
+      "var1": 2013,
+      "var2": "26",
+      "var3": 6,
+      "var4": 65,
+      "var5": 1478
+    },
+    {
+      "var1": 2013,
+      "var2": "28",
+      "var3": 1,
+      "var4": 9,
+      "var5": 173
+    },
+    {
+      "var1": 2013,
+      "var2": "30",
+      "var3": 6,
+      "var4": 86,
+      "var5": 1529
+    },
+    {
+      "var1": 2013,
+      "var2": "32",
+      "var3": 2,
+      "var4": 30,
+      "var5": 648
+    },
+    {
+      "var1": 2013,
+      "var2": "36",
+      "var3": 6,
+      "var4": 91,
+      "var5": 1471
+    },
+    {
+      "var1": 2013,
+      "var2": "38",
+      "var3": 4,
+      "var4": 83,
+      "var5": 1554
+    },
+    {
+      "var1": 2013,
+      "var2": "40",
+      "var3": 1,
+      "var4": 8,
+      "var5": 178
+    },
+    {
+      "var1": 2013,
+      "var2": "44",
+      "var3": 3,
+      "var4": 32,
+      "var5": 537
+    },
+    {
+      "var1": 2013,
+      "var2": "48",
+      "var3": 1,
+      "var4": 10,
+      "var5": 177
+    },
+    {
+      "var1": 2013,
+      "var2": "50",
+      "var3": 2,
+      "var4": 61,
+      "var5": 1198
+    },
+    {
+      "var1": 2013,
+      "var2": "56",
+      "var3": 7,
+      "var4": 92,
+      "var5": 1720
+    },
+    {
+      "var1": 2013,
+      "var2": "66",
+      "var3": 1,
+      "var4": 6,
+      "var5": 93
+    },
+    {
+      "var1": 2014,
+      "var2": "01",
+      "var3": 9,
+      "var4": 241,
+      "var5": 5076
+    },
+    {
+      "var1": 2014,
+      "var2": "04",
+      "var3": 3,
+      "var4": 41,
+      "var5": 917
+    },
+    {
+      "var1": 2014,
+      "var2": "06",
+      "var3": 6,
+      "var4": 70,
+      "var5": 1554
+    },
+    {
+      "var1": 2014,
+      "var2": "08",
+      "var3": 4,
+      "var4": 71,
+      "var5": 1582
+    },
+    {
+      "var1": 2014,
+      "var2": "10",
+      "var3": 1,
+      "var4": 11,
+      "var5": 221
+    },
+    {
+      "var1": 2014,
+      "var2": "12",
+      "var3": 2,
+      "var4": 24,
+      "var5": 327
+    },
+    {
+      "var1": 2014,
+      "var2": "18",
+      "var3": 1,
+      "var4": 10,
+      "var5": 196
+    },
+    {
+      "var1": 2014,
+      "var2": "20",
+      "var3": 1,
+      "var4": 8,
+      "var5": 140
+    },
+    {
+      "var1": 2014,
+      "var2": "22",
+      "var3": 8,
+      "var4": 100,
+      "var5": 1766
+    },
+    {
+      "var1": 2014,
+      "var2": "24",
+      "var3": 9,
+      "var4": 177,
+      "var5": 3211
+    },
+    {
+      "var1": 2014,
+      "var2": "26",
+      "var3": 7,
+      "var4": 66,
+      "var5": 1543
+    },
+    {
+      "var1": 2014,
+      "var2": "28",
+      "var3": 1,
+      "var4": 9,
+      "var5": 173
+    },
+    {
+      "var1": 2014,
+      "var2": "30",
+      "var3": 7,
+      "var4": 79,
+      "var5": 1340
+    },
+    {
+      "var1": 2014,
+      "var2": "32",
+      "var3": 3,
+      "var4": 32,
+      "var5": 704
+    },
+    {
+      "var1": 2014,
+      "var2": "36",
+      "var3": 6,
+      "var4": 93,
+      "var5": 1524
+    },
+    {
+      "var1": 2014,
+      "var2": "38",
+      "var3": 5,
+      "var4": 80,
+      "var5": 1585
+    },
+    {
+      "var1": 2014,
+      "var2": "40",
+      "var3": 1,
+      "var4": 8,
+      "var5": 185
+    },
+    {
+      "var1": 2014,
+      "var2": "44",
+      "var3": 4,
+      "var4": 34,
+      "var5": 569
+    },
+    {
+      "var1": 2014,
+      "var2": "48",
+      "var3": 1,
+      "var4": 10,
+      "var5": 189
+    },
+    {
+      "var1": 2014,
+      "var2": "50",
+      "var3": 2,
+      "var4": 59,
+      "var5": 1187
+    },
+    {
+      "var1": 2014,
+      "var2": "56",
+      "var3": 8,
+      "var4": 94,
+      "var5": 1735
+    },
+    {
+      "var1": 2014,
+      "var2": "66",
+      "var3": 1,
+      "var4": 5,
+      "var5": 92
+    },
+    {
+      "var1": 2015,
+      "var2": "01",
+      "var3": 9,
+      "var4": 246,
+      "var5": 5094
+    },
+    {
+      "var1": 2015,
+      "var2": "04",
+      "var3": 3,
+      "var4": 41,
+      "var5": 946
+    },
+    {
+      "var1": 2015,
+      "var2": "06",
+      "var3": 7,
+      "var4": 90,
+      "var5": 1938
+    },
+    {
+      "var1": 2015,
+      "var2": "08",
+      "var3": 4,
+      "var4": 73,
+      "var5": 1668
+    },
+    {
+      "var1": 2015,
+      "var2": "10",
+      "var3": 1,
+      "var4": 13,
+      "var5": 244
+    },
+    {
+      "var1": 2015,
+      "var2": "12",
+      "var3": 2,
+      "var4": 22,
+      "var5": 329
+    },
+    {
+      "var1": 2015,
+      "var2": "18",
+      "var3": 2,
+      "var4": 19,
+      "var5": 393
+    },
+    {
+      "var1": 2015,
+      "var2": "20",
+      "var3": 1,
+      "var4": 6,
+      "var5": 130
+    },
+    {
+      "var1": 2015,
+      "var2": "22",
+      "var3": 7,
+      "var4": 91,
+      "var5": 1624
+    },
+    {
+      "var1": 2015,
+      "var2": "24",
+      "var3": 9,
+      "var4": 176,
+      "var5": 3186
+    },
+    {
+      "var1": 2015,
+      "var2": "26",
+      "var3": 7,
+      "var4": 68,
+      "var5": 1551
+    },
+    {
+      "var1": 2015,
+      "var2": "28",
+      "var3": 1,
+      "var4": 8,
+      "var5": 187
+    },
+    {
+      "var1": 2015,
+      "var2": "30",
+      "var3": 7,
+      "var4": 80,
+      "var5": 1396
+    },
+    {
+      "var1": 2015,
+      "var2": "32",
+      "var3": 3,
+      "var4": 33,
+      "var5": 742
+    },
+    {
+      "var1": 2015,
+      "var2": "36",
+      "var3": 6,
+      "var4": 95,
+      "var5": 1522
+    },
+    {
+      "var1": 2015,
+      "var2": "38",
+      "var3": 5,
+      "var4": 76,
+      "var5": 1572
+    },
+    {
+      "var1": 2015,
+      "var2": "40",
+      "var3": 1,
+      "var4": 8,
+      "var5": 186
+    },
+    {
+      "var1": 2015,
+      "var2": "44",
+      "var3": 4,
+      "var4": 37,
+      "var5": 663
+    },
+    {
+      "var1": 2015,
+      "var2": "48",
+      "var3": 1,
+      "var4": 10,
+      "var5": 193
+    },
+    {
+      "var1": 2015,
+      "var2": "50",
+      "var3": 2,
+      "var4": 65,
+      "var5": 1327
+    },
+    {
+      "var1": 2015,
+      "var2": "56",
+      "var3": 8,
+      "var4": 95,
+      "var5": 1767
+    },
+    {
+      "var1": 2015,
+      "var2": "66",
+      "var3": 1,
+      "var4": 4,
+      "var5": 84
+    },
+    {
+      "var1": 2016,
+      "var2": "01",
+      "var3": 9,
+      "var4": 676,
+      "var5": 4858
+    },
+    {
+      "var1": 2016,
+      "var2": "04",
+      "var3": 3,
+      "var4": 389,
+      "var5": 759
+    },
+    {
+      "var1": 2016,
+      "var2": "06",
+      "var3": 7,
+      "var4": 672,
+      "var5": 1717
+    },
+    {
+      "var1": 2016,
+      "var2": "08",
+      "var3": 4,
+      "var4": 397,
+      "var5": 1630
+    },
+    {
+      "var1": 2016,
+      "var2": "10",
+      "var3": 1,
+      "var4": 254,
+      "var5": 131
+    },
+    {
+      "var1": 2016,
+      "var2": "12",
+      "var3": 2,
+      "var4": 230,
+      "var5": 225
+    },
+    {
+      "var1": 2016,
+      "var2": "18",
+      "var3": 2,
+      "var4": 207,
+      "var5": 375
+    },
+    {
+      "var1": 2016,
+      "var2": "20",
+      "var3": 1,
+      "var4": 140,
+      "var5": 64
+    },
+    {
+      "var1": 2016,
+      "var2": "22",
+      "var3": 7,
+      "var4": 478,
+      "var5": 1491
+    },
+    {
+      "var1": 2016,
+      "var2": "24",
+      "var3": 9,
+      "var4": 1125,
+      "var5": 2567
+    },
+    {
+      "var1": 2016,
+      "var2": "26",
+      "var3": 7,
+      "var4": 237,
+      "var5": 1514
+    },
+    {
+      "var1": 2016,
+      "var2": "28",
+      "var3": 1,
+      "var4": 191,
+      "var5": 109
+    },
+    {
+      "var1": 2016,
+      "var2": "30",
+      "var3": 6,
+      "var4": 471,
+      "var5": 1210
+    },
+    {
+      "var1": 2016,
+      "var2": "32",
+      "var3": 3,
+      "var4": 448,
+      "var5": 537
+    },
+    {
+      "var1": 2016,
+      "var2": "36",
+      "var3": 6,
+      "var4": 585,
+      "var5": 1388
+    },
+    {
+      "var1": 2016,
+      "var2": "38",
+      "var3": 5,
+      "var4": 385,
+      "var5": 1486
+    },
+    {
+      "var1": 2016,
+      "var2": "40",
+      "var3": 1,
+      "var4": 194,
+      "var5": 86
+    },
+    {
+      "var1": 2016,
+      "var2": "44",
+      "var3": 4,
+      "var4": 216,
+      "var5": 544
+    },
+    {
+      "var1": 2016,
+      "var2": "48",
+      "var3": 1,
+      "var4": 205,
+      "var5": 98
+    },
+    {
+      "var1": 2016,
+      "var2": "50",
+      "var3": 2,
+      "var4": 67,
+      "var5": 1350
+    },
+    {
+      "var1": 2016,
+      "var2": "56",
+      "var3": 8,
+      "var4": 639,
+      "var5": 1503
+    },
+    {
+      "var1": 2016,
+      "var2": "66",
+      "var3": 1,
+      "var4": 98,
+      "var5": 41
+    },
+    {
+      "var1": 2017,
+      "var2": "01",
+      "var3": 9,
+      "var4": 714,
+      "var5": 4858
+    },
+    {
+      "var1": 2017,
+      "var2": "04",
+      "var3": 3,
+      "var4": 402,
+      "var5": 758
+    },
+    {
+      "var1": 2017,
+      "var2": "06",
+      "var3": 7,
+      "var4": 707,
+      "var5": 1755
+    },
+    {
+      "var1": 2017,
+      "var2": "08",
+      "var3": 4,
+      "var4": 408,
+      "var5": 1634
+    },
+    {
+      "var1": 2017,
+      "var2": "10",
+      "var3": 1,
+      "var4": 268,
+      "var5": 137
+    },
+    {
+      "var1": 2017,
+      "var2": "12",
+      "var3": 2,
+      "var4": 275,
+      "var5": 242
+    },
+    {
+      "var1": 2017,
+      "var2": "18",
+      "var3": 2,
+      "var4": 213,
+      "var5": 480
+    },
+    {
+      "var1": 2017,
+      "var2": "20",
+      "var3": 1,
+      "var4": 139,
+      "var5": 60
+    },
+    {
+      "var1": 2017,
+      "var2": "22",
+      "var3": 7,
+      "var4": 511,
+      "var5": 1528
+    },
+    {
+      "var1": 2017,
+      "var2": "24",
+      "var3": 9,
+      "var4": 1180,
+      "var5": 2597
+    },
+    {
+      "var1": 2017,
+      "var2": "26",
+      "var3": 7,
+      "var4": 251,
+      "var5": 1532
+    },
+    {
+      "var1": 2017,
+      "var2": "28",
+      "var3": 1,
+      "var4": 214,
+      "var5": 119
+    },
+    {
+      "var1": 2017,
+      "var2": "30",
+      "var3": 7,
+      "var4": 545,
+      "var5": 1553
+    },
+    {
+      "var1": 2017,
+      "var2": "32",
+      "var3": 3,
+      "var4": 447,
+      "var5": 569
+    },
+    {
+      "var1": 2017,
+      "var2": "36",
+      "var3": 6,
+      "var4": 612,
+      "var5": 1538
+    },
+    {
+      "var1": 2017,
+      "var2": "38",
+      "var3": 5,
+      "var4": 433,
+      "var5": 1533
+    },
+    {
+      "var1": 2017,
+      "var2": "40",
+      "var3": 1,
+      "var4": 194,
+      "var5": 84
+    },
+    {
+      "var1": 2017,
+      "var2": "44",
+      "var3": 4,
+      "var4": 241,
+      "var5": 582
+    },
+    {
+      "var1": 2017,
+      "var2": "48",
+      "var3": 1,
+      "var4": 206,
+      "var5": 96
+    },
+    {
+      "var1": 2017,
+      "var2": "50",
+      "var3": 2,
+      "var4": 66,
+      "var5": 1364
+    },
+    {
+      "var1": 2017,
+      "var2": "56",
+      "var3": 8,
+      "var4": 665,
+      "var5": 1565
+    },
+    {
+      "var1": 2017,
+      "var2": "66",
+      "var3": 1,
+      "var4": 106,
+      "var5": 45
+    },
+    {
+      "var1": 2018,
+      "var2": "01",
+      "var3": 9,
+      "var4": 731,
+      "var5": 4961
+    },
+    {
+      "var1": 2018,
+      "var2": "04",
+      "var3": 4,
+      "var4": 448,
+      "var5": 834
+    },
+    {
+      "var1": 2018,
+      "var2": "06",
+      "var3": 7,
+      "var4": 717,
+      "var5": 1757
+    },
+    {
+      "var1": 2018,
+      "var2": "08",
+      "var3": 4,
+      "var4": 431,
+      "var5": 1652
+    },
+    {
+      "var1": 2018,
+      "var2": "10",
+      "var3": 1,
+      "var4": 256,
+      "var5": 131
+    },
+    {
+      "var1": 2018,
+      "var2": "12",
+      "var3": 2,
+      "var4": 279,
+      "var5": 268
+    },
+    {
+      "var1": 2018,
+      "var2": "18",
+      "var3": 2,
+      "var4": 210,
+      "var5": 531
+    },
+    {
+      "var1": 2018,
+      "var2": "20",
+      "var3": 1,
+      "var4": 146,
+      "var5": 62
+    },
+    {
+      "var1": 2018,
+      "var2": "22",
+      "var3": 7,
+      "var4": 549,
+      "var5": 1488
+    },
+    {
+      "var1": 2018,
+      "var2": "24",
+      "var3": 9,
+      "var4": 1199,
+      "var5": 2621
+    },
+    {
+      "var1": 2018,
+      "var2": "26",
+      "var3": 7,
+      "var4": 276,
+      "var5": 1560
+    },
+    {
+      "var1": 2018,
+      "var2": "28",
+      "var3": 1,
+      "var4": 194,
+      "var5": 100
+    },
+    {
+      "var1": 2018,
+      "var2": "30",
+      "var3": 7,
+      "var4": 590,
+      "var5": 1629
+    },
+    {
+      "var1": 2018,
+      "var2": "32",
+      "var3": 3,
+      "var4": 425,
+      "var5": 555
+    },
+    {
+      "var1": 2018,
+      "var2": "36",
+      "var3": 7,
+      "var4": 639,
+      "var5": 1482
+    },
+    {
+      "var1": 2018,
+      "var2": "38",
+      "var3": 5,
+      "var4": 456,
+      "var5": 1566
+    },
+    {
+      "var1": 2018,
+      "var2": "40",
+      "var3": 1,
+      "var4": 198,
+      "var5": 90
+    },
+    {
+      "var1": 2018,
+      "var2": "44",
+      "var3": 3,
+      "var4": 243,
+      "var5": 602
+    },
+    {
+      "var1": 2018,
+      "var2": "48",
+      "var3": 1,
+      "var4": 231,
+      "var5": 108
+    },
+    {
+      "var1": 2018,
+      "var2": "50",
+      "var3": 2,
+      "var4": 67,
+      "var5": 1416
+    },
+    {
+      "var1": 2018,
+      "var2": "56",
+      "var3": 8,
+      "var4": 669,
+      "var5": 1574
+    },
+    {
+      "var1": 2018,
+      "var2": "66",
+      "var3": 1,
+      "var4": 108,
+      "var5": 52
+    },
+    {
+      "var1": 2019,
+      "var2": "01",
+      "var3": 9,
+      "var4": 248,
+      "var5": 5280
+    },
+    {
+      "var1": 2019,
+      "var2": "04",
+      "var3": 4,
+      "var4": 51,
+      "var5": 1170
+    },
+    {
+      "var1": 2019,
+      "var2": "06",
+      "var3": 6,
+      "var4": 89,
+      "var5": 2053
+    },
+    {
+      "var1": 2019,
+      "var2": "08",
+      "var3": 3,
+      "var4": 77,
+      "var5": 1801
+    },
+    {
+      "var1": 2019,
+      "var2": "10",
+      "var3": 1,
+      "var4": 12,
+      "var5": 246
+    },
+    {
+      "var1": 2019,
+      "var2": "12",
+      "var3": 2,
+      "var4": 28,
+      "var5": 432
+    },
+    {
+      "var1": 2019,
+      "var2": "18",
+      "var3": 2,
+      "var4": 31,
+      "var5": 712
+    },
+    {
+      "var1": 2019,
+      "var2": "20",
+      "var3": 1,
+      "var4": 8,
+      "var5": 177
+    },
+    {
+      "var1": 2019,
+      "var2": "22",
+      "var3": 6,
+      "var4": 101,
+      "var5": 1740
+    },
+    {
+      "var1": 2019,
+      "var2": "24",
+      "var3": 9,
+      "var4": 171,
+      "var5": 3132
+    },
+    {
+      "var1": 2019,
+      "var2": "26",
+      "var3": 6,
+      "var4": 69,
+      "var5": 1629
+    },
+    {
+      "var1": 2019,
+      "var2": "28",
+      "var3": 1,
+      "var4": 10,
+      "var5": 199
+    },
+    {
+      "var1": 2019,
+      "var2": "30",
+      "var3": 6,
+      "var4": 102,
+      "var5": 1990
+    },
+    {
+      "var1": 2019,
+      "var2": "32",
+      "var3": 2,
+      "var4": 32,
+      "var5": 753
+    },
+    {
+      "var1": 2019,
+      "var2": "36",
+      "var3": 8,
+      "var4": 101,
+      "var5": 1797
+    },
+    {
+      "var1": 2019,
+      "var2": "38",
+      "var3": 4,
+      "var4": 87,
+      "var5": 1850
+    },
+    {
+      "var1": 2019,
+      "var2": "40",
+      "var3": 1,
+      "var4": 9,
+      "var5": 193
+    },
+    {
+      "var1": 2019,
+      "var2": "44",
+      "var3": 3,
+      "var4": 35,
+      "var5": 683
+    },
+    {
+      "var1": 2019,
+      "var2": "48",
+      "var3": 1,
+      "var4": 10,
+      "var5": 201
+    },
+    {
+      "var1": 2019,
+      "var2": "50",
+      "var3": 2,
+      "var4": 71,
+      "var5": 1460
+    },
+    {
+      "var1": 2019,
+      "var2": "56",
+      "var3": 7,
+      "var4": 95,
+      "var5": 1849
+    },
+    {
+      "var1": 2019,
+      "var2": "66",
+      "var3": 1,
+      "var4": 6,
+      "var5": 103
+    },
+    {
+      "var1": 2020,
+      "var2": "01",
+      "var3": 9,
+      "var4": 241,
+      "var5": 5235
+    },
+    {
+      "var1": 2020,
+      "var2": "04",
+      "var3": 5,
+      "var4": 58,
+      "var5": 1321
+    },
+    {
+      "var1": 2020,
+      "var2": "06",
+      "var3": 6,
+      "var4": 89,
+      "var5": 2081
+    },
+    {
+      "var1": 2020,
+      "var2": "08",
+      "var3": 3,
+      "var4": 75,
+      "var5": 1783
+    },
+    {
+      "var1": 2020,
+      "var2": "10",
+      "var3": 1,
+      "var4": 12,
+      "var5": 229
+    },
+    {
+      "var1": 2020,
+      "var2": "12",
+      "var3": 2,
+      "var4": 29,
+      "var5": 448
+    },
+    {
+      "var1": 2020,
+      "var2": "18",
+      "var3": 2,
+      "var4": 36,
+      "var5": 821
+    },
+    {
+      "var1": 2020,
+      "var2": "20",
+      "var3": 1,
+      "var4": 8,
+      "var5": 173
+    },
+    {
+      "var1": 2020,
+      "var2": "22",
+      "var3": 7,
+      "var4": 116,
+      "var5": 1869
+    },
+    {
+      "var1": 2020,
+      "var2": "24",
+      "var3": 9,
+      "var4": 169,
+      "var5": 3077
+    },
+    {
+      "var1": 2020,
+      "var2": "26",
+      "var3": 6,
+      "var4": 67,
+      "var5": 1575
+    },
+    {
+      "var1": 2020,
+      "var2": "28",
+      "var3": 1,
+      "var4": 11,
+      "var5": 214
+    },
+    {
+      "var1": 2020,
+      "var2": "30",
+      "var3": 6,
+      "var4": 106,
+      "var5": 2043
+    },
+    {
+      "var1": 2020,
+      "var2": "32",
+      "var3": 2,
+      "var4": 32,
+      "var5": 761
+    },
+    {
+      "var1": 2020,
+      "var2": "34",
+      "var3": 2,
+      "var4": 45,
+      "var5": 768
+    },
+    {
+      "var1": 2020,
+      "var2": "36",
+      "var3": 5,
+      "var4": 44,
+      "var5": 868
+    },
+    {
+      "var1": 2020,
+      "var2": "38",
+      "var3": 4,
+      "var4": 87,
+      "var5": 1862
+    },
+    {
+      "var1": 2020,
+      "var2": "40",
+      "var3": 1,
+      "var4": 8,
+      "var5": 195
+    },
+    {
+      "var1": 2020,
+      "var2": "44",
+      "var3": 3,
+      "var4": 37,
+      "var5": 699
+    },
+    {
+      "var1": 2020,
+      "var2": "48",
+      "var3": 1,
+      "var4": 10,
+      "var5": 218
+    },
+    {
+      "var1": 2020,
+      "var2": "50",
+      "var3": 2,
+      "var4": 66,
+      "var5": 1343
+    },
+    {
+      "var1": 2020,
+      "var2": "56",
+      "var3": 7,
+      "var4": 93,
+      "var5": 1823
+    },
+    {
+      "var1": 2020,
+      "var2": "66",
+      "var3": 1,
+      "var4": 6,
+      "var5": 113
+    },
+    {
+      "var1": 2021,
+      "var2": "01",
+      "var3": 9,
+      "var4": 249,
+      "var5": 5218
+    },
+    {
+      "var1": 2021,
+      "var2": "04",
+      "var3": 5,
+      "var4": 66,
+      "var5": 1496
+    },
+    {
+      "var1": 2021,
+      "var2": "06",
+      "var3": 6,
+      "var4": 88,
+      "var5": 2077
+    },
+    {
+      "var1": 2021,
+      "var2": "08",
+      "var3": 3,
+      "var4": 76,
+      "var5": 1764
+    },
+    {
+      "var1": 2021,
+      "var2": "10",
+      "var3": 1,
+      "var4": 13,
+      "var5": 259
+    },
+    {
+      "var1": 2021,
+      "var2": "12",
+      "var3": 2,
+      "var4": 29,
+      "var5": 442
+    },
+    {
+      "var1": 2021,
+      "var2": "18",
+      "var3": 2,
+      "var4": 39,
+      "var5": 878
+    },
+    {
+      "var1": 2021,
+      "var2": "20",
+      "var3": 1,
+      "var4": 8,
+      "var5": 174
+    },
+    {
+      "var1": 2021,
+      "var2": "22",
+      "var3": 7,
+      "var4": 121,
+      "var5": 1941
+    },
+    {
+      "var1": 2021,
+      "var2": "24",
+      "var3": 9,
+      "var4": 166,
+      "var5": 3021
+    },
+    {
+      "var1": 2021,
+      "var2": "26",
+      "var3": 6,
+      "var4": 70,
+      "var5": 1580
+    },
+    {
+      "var1": 2021,
+      "var2": "28",
+      "var3": 1,
+      "var4": 12,
+      "var5": 252
+    },
+    {
+      "var1": 2021,
+      "var2": "30",
+      "var3": 7,
+      "var4": 112,
+      "var5": 2179
+    },
+    {
+      "var1": 2021,
+      "var2": "32",
+      "var3": 2,
+      "var4": 33,
+      "var5": 800
+    },
+    {
+      "var1": 2021,
+      "var2": "34",
+      "var3": 2,
+      "var4": 47,
+      "var5": 803
+    },
+    {
+      "var1": 2021,
+      "var2": "36",
+      "var3": 5,
+      "var4": 48,
+      "var5": 913
+    },
+    {
+      "var1": 2021,
+      "var2": "38",
+      "var3": 4,
+      "var4": 88,
+      "var5": 1895
+    },
+    {
+      "var1": 2021,
+      "var2": "40",
+      "var3": 1,
+      "var4": 8,
+      "var5": 184
+    },
+    {
+      "var1": 2021,
+      "var2": "44",
+      "var3": 3,
+      "var4": 40,
+      "var5": 702
+    },
+    {
+      "var1": 2021,
+      "var2": "48",
+      "var3": 1,
+      "var4": 11,
+      "var5": 207
+    },
+    {
+      "var1": 2021,
+      "var2": "50",
+      "var3": 2,
+      "var4": 73,
+      "var5": 1408
+    },
+    {
+      "var1": 2021,
+      "var2": "56",
+      "var3": 7,
+      "var4": 93,
+      "var5": 1822
+    },
+    {
+      "var1": 2021,
+      "var2": "66",
+      "var3": 1,
+      "var4": 5,
+      "var5": 118
+    },
+    {
+      "var1": 2022,
+      "var2": "01",
+      "var3": 9,
+      "var4": 249,
+      "var5": 5317
+    },
+    {
+      "var1": 2022,
+      "var2": "04",
+      "var3": 5,
+      "var4": 73,
+      "var5": 1664
+    },
+    {
+      "var1": 2022,
+      "var2": "06",
+      "var3": 6,
+      "var4": 87,
+      "var5": 2098
+    },
+    {
+      "var1": 2022,
+      "var2": "08",
+      "var3": 3,
+      "var4": 77,
+      "var5": 1802
+    },
+    {
+      "var1": 2022,
+      "var2": "10",
+      "var3": 1,
+      "var4": 13,
+      "var5": 287
+    },
+    {
+      "var1": 2022,
+      "var2": "12",
+      "var3": 2,
+      "var4": 29,
+      "var5": 452
+    },
+    {
+      "var1": 2022,
+      "var2": "18",
+      "var3": 2,
+      "var4": 43,
+      "var5": 951
+    },
+    {
+      "var1": 2022,
+      "var2": "20",
+      "var3": 1,
+      "var4": 8,
+      "var5": 185
+    },
+    {
+      "var1": 2022,
+      "var2": "22",
+      "var3": 7,
+      "var4": 124,
+      "var5": 2062
+    },
+    {
+      "var1": 2022,
+      "var2": "24",
+      "var3": 9,
+      "var4": 166,
+      "var5": 2991
+    },
+    {
+      "var1": 2022,
+      "var2": "26",
+      "var3": 6,
+      "var4": 71,
+      "var5": 1633
+    },
+    {
+      "var1": 2022,
+      "var2": "28",
+      "var3": 1,
+      "var4": 14,
+      "var5": 292
+    },
+    {
+      "var1": 2022,
+      "var2": "30",
+      "var3": 6,
+      "var4": 108,
+      "var5": 2063
+    },
+    {
+      "var1": 2022,
+      "var2": "32",
+      "var3": 2,
+      "var4": 34,
+      "var5": 824
+    },
+    {
+      "var1": 2022,
+      "var2": "34",
+      "var3": 2,
+      "var4": 49,
+      "var5": 875
+    },
+    {
+      "var1": 2022,
+      "var2": "36",
+      "var3": 5,
+      "var4": 52,
+      "var5": 992
+    },
+    {
+      "var1": 2022,
+      "var2": "38",
+      "var3": 4,
+      "var4": 90,
+      "var5": 1929
+    },
+    {
+      "var1": 2022,
+      "var2": "40",
+      "var3": 1,
+      "var4": 8,
+      "var5": 183
+    },
+    {
+      "var1": 2022,
+      "var2": "44",
+      "var3": 3,
+      "var4": 39,
+      "var5": 715
+    },
+    {
+      "var1": 2022,
+      "var2": "48",
+      "var3": 1,
+      "var4": 11,
+      "var5": 222
+    },
+    {
+      "var1": 2022,
+      "var2": "50",
+      "var3": 3,
+      "var4": 119,
+      "var5": 1407
+    },
+    {
+      "var1": 2022,
+      "var2": "56",
+      "var3": 7,
+      "var4": 95,
+      "var5": 1892
+    },
+    {
+      "var1": 2022,
+      "var2": "66",
+      "var3": 1,
+      "var4": 6,
+      "var5": 122
+    },
+    {
+      "var1": 2023,
+      "var2": "01",
+      "var3": 9,
+      "var4": 256,
+      "var5": 5344
+    },
+    {
+      "var1": 2023,
+      "var2": "04",
+      "var3": 5,
+      "var4": 76,
+      "var5": 1764
+    },
+    {
+      "var1": 2023,
+      "var2": "06",
+      "var3": 6,
+      "var4": 89,
+      "var5": 2172
+    },
+    {
+      "var1": 2023,
+      "var2": "08",
+      "var3": 3,
+      "var4": 79,
+      "var5": 1854
+    },
+    {
+      "var1": 2023,
+      "var2": "10",
+      "var3": 1,
+      "var4": 13,
+      "var5": 294
+    },
+    {
+      "var1": 2023,
+      "var2": "12",
+      "var3": 2,
+      "var4": 30,
+      "var5": 478
+    },
+    {
+      "var1": 2023,
+      "var2": "18",
+      "var3": 2,
+      "var4": 45,
+      "var5": 1022
+    },
+    {
+      "var1": 2023,
+      "var2": "20",
+      "var3": 1,
+      "var4": 8,
+      "var5": 180
+    },
+    {
+      "var1": 2023,
+      "var2": "22",
+      "var3": 7,
+      "var4": 126,
+      "var5": 2088
+    },
+    {
+      "var1": 2023,
+      "var2": "24",
+      "var3": 9,
+      "var4": 172,
+      "var5": 3033
+    },
+    {
+      "var1": 2023,
+      "var2": "26",
+      "var3": 6,
+      "var4": 69,
+      "var5": 1664
+    },
+    {
+      "var1": 2023,
+      "var2": "28",
+      "var3": 1,
+      "var4": 15,
+      "var5": 338
+    },
+    {
+      "var1": 2023,
+      "var2": "30",
+      "var3": 6,
+      "var4": 110,
+      "var5": 2087
+    },
+    {
+      "var1": 2023,
+      "var2": "32",
+      "var3": 2,
+      "var4": 36,
+      "var5": 851
+    },
+    {
+      "var1": 2023,
+      "var2": "34",
+      "var3": 2,
+      "var4": 48,
+      "var5": 856
+    },
+    {
+      "var1": 2023,
+      "var2": "36",
+      "var3": 5,
+      "var4": 56,
+      "var5": 1045
+    },
+    {
+      "var1": 2023,
+      "var2": "38",
+      "var3": 4,
+      "var4": 89,
+      "var5": 1987
+    },
+    {
+      "var1": 2023,
+      "var2": "40",
+      "var3": 1,
+      "var4": 8,
+      "var5": 179
+    },
+    {
+      "var1": 2023,
+      "var2": "44",
+      "var3": 3,
+      "var4": 41,
+      "var5": 762
+    },
+    {
+      "var1": 2023,
+      "var2": "48",
+      "var3": 1,
+      "var4": 10,
+      "var5": 202
+    },
+    {
+      "var1": 2023,
+      "var2": "50",
+      "var3": 3,
+      "var4": 102,
+      "var5": 1340
+    },
+    {
+      "var1": 2023,
+      "var2": "56",
+      "var3": 7,
+      "var4": 97,
+      "var5": 1908
+    },
+    {
+      "var1": 2023,
+      "var2": "66",
+      "var3": 1,
+      "var4": 7,
+      "var5": 130
+    },
+    {
+      "var1": 2008,
+      "var2": "15003",
+      "var3": 84,
+      "var4": 1346,
+      "var5": 26566
+    },
+    {
+      "var1": 2009,
+      "var2": "15003",
+      "var3": 81,
+      "var4": 1325,
+      "var5": 25838
+    },
+    {
+      "var1": 2010,
+      "var2": "15003",
+      "var3": 79,
+      "var4": 1298,
+      "var5": 25144
+    },
+    {
+      "var1": 2011,
+      "var2": "15003",
+      "var3": 82,
+      "var4": 1338,
+      "var5": 25675
+    },
+    {
+      "var1": 2012,
+      "var2": "15003",
+      "var3": 84,
+      "var4": 1322,
+      "var5": 25552
+    },
+    {
+      "var1": 2013,
+      "var2": "15003",
+      "var3": 84,
+      "var4": 1338,
+      "var5": 25905
+    },
+    {
+      "var1": 2014,
+      "var2": "15003",
+      "var3": 90,
+      "var4": 1322,
+      "var5": 25816
+    },
+    {
+      "var1": 2015,
+      "var2": "15003",
+      "var3": 91,
+      "var4": 1356,
+      "var5": 26742
+    },
+    {
+      "var1": 2016,
+      "var2": "15003",
+      "var3": 90,
+      "var4": 8304,
+      "var5": 23683
+    },
+    {
+      "var1": 2017,
+      "var2": "15003",
+      "var3": 91,
+      "var4": 8797,
+      "var5": 24629
+    },
+    {
+      "var1": 2018,
+      "var2": "15003",
+      "var3": 92,
+      "var4": 9062,
+      "var5": 25039
+    },
+    {
+      "var1": 2019,
+      "var2": "15003",
+      "var3": 85,
+      "var4": 1443,
+      "var5": 29450
+    },
+    {
+      "var1": 2020,
+      "var2": "15003",
+      "var3": 86,
+      "var4": 1445,
+      "var5": 29519
+    },
+    {
+      "var1": 2021,
+      "var2": "15003",
+      "var3": 87,
+      "var4": 1495,
+      "var5": 30133
+    },
+    {
+      "var1": 2022,
+      "var2": "15003",
+      "var3": 87,
+      "var4": 1565,
+      "var5": 30958
+    },
+    {
+      "var1": 2023,
+      "var2": "15003",
+      "var3": 87,
+      "var4": 1582,
+      "var5": 31578
+    }
+  ]
+}

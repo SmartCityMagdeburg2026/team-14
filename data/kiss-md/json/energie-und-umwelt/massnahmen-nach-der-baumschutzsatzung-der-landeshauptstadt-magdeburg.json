@@ -1,0 +1,478 @@
+{
+  "id": "energie-und-umwelt/massnahmen-nach-der-baumschutzsatzung-der-landeshauptstadt-magdeburg",
+  "title": "Maßnahmen nach der Baumschutzsatzung der Landeshauptstadt Magdeburg",
+  "category": "Energie und Umwelt",
+  "subcategory": "Öffentliches Grün",
+  "tableId": "K9_T37",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/massnahmen-nach-der-baumschutzsatzung-der-landeshauptstadt-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Maßnahmen nach der Baumschutzsatzung der Landeshauptstadt Magdeburg.xlsx"
+  },
+  "description": "Maßnahmen nach der Baumschutzsatzung der Landeshauptstadt Magdeburg. 21 Spalten (Anträge/Bewilligungen × Maßnahmenart × Baumzahlen) ohne zuverlässige Zuordnung.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2019,
+        2020,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        529,
+        473,
+        373
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1716,
+        1920,
+        1294
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1440,
+        1542,
+        1178
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        3,
+        9,
+        9
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1437,
+        1533,
+        1169
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        605,
+        775,
+        457
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        566,
+        594,
+        446
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        145,
+        101,
+        118
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        73,
+        27,
+        10
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        14,
+        6,
+        95
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        34,
+        30,
+        43
+      ]
+    },
+    {
+      "key": "var13",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1003,
+        992,
+        749
+      ]
+    },
+    {
+      "key": "var14",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        276,
+        378,
+        116
+      ]
+    },
+    {
+      "key": "var15",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "key": "var16",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        276,
+        378,
+        116
+      ]
+    },
+    {
+      "key": "var17",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        172,
+        200,
+        36
+      ]
+    },
+    {
+      "key": "var18",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        92,
+        149,
+        56
+      ]
+    },
+    {
+      "key": "var19",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        4,
+        3,
+        2
+      ]
+    },
+    {
+      "key": "var20",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        4,
+        1,
+        0
+      ]
+    },
+    {
+      "key": "var21",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2,
+        0,
+        21
+      ]
+    },
+    {
+      "key": "var22",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2,
+        25,
+        1
+      ]
+    }
+  ],
+  "rowCount": 8,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": 529,
+      "var3": 1716,
+      "var4": 1440,
+      "var5": 3,
+      "var6": 1437,
+      "var7": 605,
+      "var8": 566,
+      "var9": 145,
+      "var10": 73,
+      "var11": 14,
+      "var12": 34,
+      "var13": 1003,
+      "var14": 276,
+      "var15": 0,
+      "var16": 276,
+      "var17": 172,
+      "var18": 92,
+      "var19": 4,
+      "var20": 4,
+      "var21": 2,
+      "var22": 2
+    },
+    {
+      "var1": 2020,
+      "var2": 473,
+      "var3": 1920,
+      "var4": 1542,
+      "var5": 9,
+      "var6": 1533,
+      "var7": 775,
+      "var8": 594,
+      "var9": 101,
+      "var10": 27,
+      "var11": 6,
+      "var12": 30,
+      "var13": 992,
+      "var14": 378,
+      "var15": 0,
+      "var16": 378,
+      "var17": 200,
+      "var18": 149,
+      "var19": 3,
+      "var20": 1,
+      "var21": 0,
+      "var22": 25
+    },
+    {
+      "var1": 2021,
+      "var2": 373,
+      "var3": 1294,
+      "var4": 1178,
+      "var5": 9,
+      "var6": 1169,
+      "var7": 457,
+      "var8": 446,
+      "var9": 118,
+      "var10": 10,
+      "var11": 95,
+      "var12": 43,
+      "var13": 749,
+      "var14": 116,
+      "var15": 0,
+      "var16": 116,
+      "var17": 36,
+      "var18": 56,
+      "var19": 2,
+      "var20": 0,
+      "var21": 21,
+      "var22": 1
+    },
+    {
+      "var1": 2015,
+      "var2": 620,
+      "var3": 2254,
+      "var4": 1904,
+      "var5": 48,
+      "var6": 1856,
+      "var7": 673,
+      "var8": 1038,
+      "var9": 56,
+      "var10": 15,
+      "var11": 28,
+      "var12": 46,
+      "var13": 964,
+      "var14": 350,
+      "var15": 6,
+      "var16": 344,
+      "var17": 17,
+      "var18": 195,
+      "var19": 25,
+      "var20": 106,
+      "var21": 1,
+      "var22": 0
+    },
+    {
+      "var1": 2016,
+      "var2": 535,
+      "var3": 2151,
+      "var4": 1979,
+      "var5": 48,
+      "var6": 1931,
+      "var7": 874,
+      "var8": 833,
+      "var9": 59,
+      "var10": 20,
+      "var11": 62,
+      "var12": 832,
+      "var13": 1134,
+      "var14": 172,
+      "var15": 6,
+      "var16": 166,
+      "var17": 23,
+      "var18": 136,
+      "var19": 5,
+      "var20": 0,
+      "var21": 0,
+      "var22": 2
+    },
+    {
+      "var1": 2017,
+      "var2": 881,
+      "var3": 1806,
+      "var4": 1566,
+      "var5": 11,
+      "var6": 1555,
+      "var7": 469,
+      "var8": 904,
+      "var9": 88,
+      "var10": 69,
+      "var11": 8,
+      "var12": 17,
+      "var13": 967,
+      "var14": 240,
+      "var15": 0,
+      "var16": 240,
+      "var17": 87,
+      "var18": 143,
+      "var19": 0,
+      "var20": 4,
+      "var21": 0,
+      "var22": 6
+    },
+    {
+      "var1": 2018,
+      "var2": 492,
+      "var3": 1928,
+      "var4": 1500,
+      "var5": 22,
+      "var6": 1478,
+      "var7": 688,
+      "var8": 612,
+      "var9": 121,
+      "var10": 15,
+      "var11": 11,
+      "var12": 31,
+      "var13": 1017,
+      "var14": 428,
+      "var15": 1,
+      "var16": 427,
+      "var17": 249,
+      "var18": 152,
+      "var19": 0,
+      "var20": 15,
+      "var21": 0,
+      "var22": 11
+    },
+    {
+      "var1": 2022,
+      "var2": 296,
+      "var3": 814,
+      "var4": 708,
+      "var5": 10,
+      "var6": 698,
+      "var7": 191,
+      "var8": 282,
+      "var9": 209,
+      "var10": 4,
+      "var11": 11,
+      "var12": 1,
+      "var13": 353,
+      "var14": 106,
+      "var15": 1,
+      "var16": 105,
+      "var17": 48,
+      "var18": 53,
+      "var19": 3,
+      "var20": 0,
+      "var21": 0,
+      "var22": 1
+    }
+  ]
+}

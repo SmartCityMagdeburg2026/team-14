@@ -1,0 +1,223 @@
+{
+  "id": "bevoelkerung/jugend-und-altenquote-der-hauptwohnsitzbevoelkerung",
+  "title": "Jugend- und Altenquote der Hauptwohnsitzbevölkerung",
+  "category": "Bevölkerung",
+  "subcategory": "Bevölkerungsentwicklung",
+  "tableId": "K3_D3",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bevoelkerung/jugend-und-altenquote-der-hauptwohnsitzbevoelkerung.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Jugend- und Altenquote der Hauptwohnsitzbevölkerung .xlsx"
+  },
+  "description": "Jugend- und Altenquote der Hauptwohnsitzbevölkerung (in %). Spalten var2/var3 enthalten die zwei Quoten, deren Zuordnung (Jugend vs. Alten) nicht aus den Werten allein gesichert war.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1993,
+        1994,
+        1995
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        30.7064914199005,
+        29.5594163402033,
+        28.333625782301
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        20.930868274831,
+        21.5306875603248,
+        22.4384394923086
+      ]
+    }
+  ],
+  "rowCount": 33,
+  "rows": [
+    {
+      "var1": 1993,
+      "var2": 30.7064914199005,
+      "var3": 20.930868274831
+    },
+    {
+      "var1": 1994,
+      "var2": 29.5594163402033,
+      "var3": 21.5306875603248
+    },
+    {
+      "var1": 1995,
+      "var2": 28.333625782301,
+      "var3": 22.4384394923086
+    },
+    {
+      "var1": 1996,
+      "var2": 27.1715280593384,
+      "var3": 23.0246368861647
+    },
+    {
+      "var1": 1997,
+      "var2": 26.0652256166774,
+      "var3": 23.7614578120614
+    },
+    {
+      "var1": 1998,
+      "var2": 25.0141881567869,
+      "var3": 24.3393931834482
+    },
+    {
+      "var1": 1999,
+      "var2": 24.1713947313122,
+      "var3": 25.516903229093
+    },
+    {
+      "var1": 2000,
+      "var2": 23.2065841272724,
+      "var3": 26.8514615180071
+    },
+    {
+      "var1": 2001,
+      "var2": 22.3435116003431,
+      "var3": 28.0804919095546
+    },
+    {
+      "var1": 2002,
+      "var2": 21.5103746512028,
+      "var3": 29.242762870783
+    },
+    {
+      "var1": 2003,
+      "var2": 20.9535574772128,
+      "var3": 30.7134987145671
+    },
+    {
+      "var1": 2004,
+      "var2": 20.4461692909937,
+      "var3": 32.2364387308902
+    },
+    {
+      "var1": 2005,
+      "var2": 19.5260897731295,
+      "var3": 33.2625406557005
+    },
+    {
+      "var1": 2006,
+      "var2": 18.7590909697479,
+      "var3": 34.4969774610673
+    },
+    {
+      "var1": 2007,
+      "var2": 18.4736210790128,
+      "var3": 35.4046465499333
+    },
+    {
+      "var1": 2008,
+      "var2": 18.2547338455623,
+      "var3": 36.3806234442563
+    },
+    {
+      "var1": 2009,
+      "var2": 18.4870418564303,
+      "var3": 37.2505963999132
+    },
+    {
+      "var1": 2010,
+      "var2": 18.9233719579721,
+      "var3": 37.0465656483807
+    },
+    {
+      "var1": 2011,
+      "var2": 19.4166689187363,
+      "var3": 37.0706429208443
+    },
+    {
+      "var1": 2012,
+      "var2": 20.0516141268272,
+      "var3": 37.5408103824322
+    },
+    {
+      "var1": 2013,
+      "var2": 20.6973022095026,
+      "var3": 37.7717796736609
+    },
+    {
+      "var1": 2014,
+      "var2": 21.1984378813766,
+      "var3": 38.0359612724758
+    },
+    {
+      "var1": 2015,
+      "var2": 21.926381027923,
+      "var3": 38.1989164190743
+    },
+    {
+      "var1": 2016,
+      "var2": 23.012288765897,
+      "var3": 38.5601908309993
+    },
+    {
+      "var1": 2017,
+      "var2": 23.880143644022,
+      "var3": 39.3185009180257
+    },
+    {
+      "var1": 2018,
+      "var2": 24.2822601946482,
+      "var3": 39.732883624222
+    },
+    {
+      "var1": 2019,
+      "var2": 24.5315581854043,
+      "var3": 40.4825498575499
+    },
+    {
+      "var1": 2020,
+      "var2": 24.8355628330373,
+      "var3": 41.2723412522202
+    },
+    {
+      "var1": 2021,
+      "var2": 24.9716082211512,
+      "var3": 41.2033959337433
+    },
+    {
+      "var1": 2022,
+      "var2": 25.52,
+      "var3": 40.84
+    },
+    {
+      "var1": 2023,
+      "var2": 25.21,
+      "var3": 40.47
+    },
+    {
+      "var1": 2024,
+      "var2": 24.62,
+      "var3": 40.17
+    },
+    {
+      "var1": 2025,
+      "var2": 24.23,
+      "var3": 40.42
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "id": "wirtschaft/energieverbrauch-in-den-betrieben-des-verarbeitenden-gewerbes-nach-ausgewaehlten-energietraegern-in-gigajoule",
+  "title": "Energieverbrauch in den Betrieben des Verarbeitenden Gewerbes nach ausgewählten Energieträgern (in Gigajoule)",
+  "category": "Wirtschaft",
+  "subcategory": "Verarbeitendes Gewerbe",
+  "tableId": "K7_T18",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/energieverbrauch-in-den-betrieben-des-verarbeitenden-gewerbes-nach-ausgewaehlten-energietraegern-in-gigajoule.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Energieverbrauch in den Betrieben des Verarbeitenden Gewerbes nach ausgewählten Energieträgern (in Gigajoule).xlsx"
+  },
+  "description": "Energieverbrauch in Betrieben des Verarbeitenden Gewerbes nach Energieträgern (Gigajoule). var2..var12 entsprechen Energieträgern (Erdgas, Strom, Heizöl, Kohle, Holz, Solar etc.), Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2009,
+        2010,
+        2011
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1763928,
+        2665292,
+        1980784
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "empty",
+      "role": null,
+      "sample": []
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        107776,
+        112455,
+        118477
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        88096,
+        94890,
+        98405
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        635137,
+        567402,
+        549603
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        82271,
+        286302,
+        495370
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        86267,
+        498714,
+        407463
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        840925,
+        859417,
+        697681
+      ]
+    }
+  ],
+  "rowCount": 13,
+  "rows": [
+    {
+      "var1": 2009,
+      "var2": 1763928,
+      "var3": 0,
+      "var4": null,
+      "var5": 107776,
+      "var6": 88096,
+      "var7": 0,
+      "var8": 0,
+      "var9": 635137,
+      "var10": 82271,
+      "var11": null,
+      "var12": 840925
+    },
+    {
+      "var1": 2010,
+      "var2": 2665292,
+      "var3": 0,
+      "var4": null,
+      "var5": 112455,
+      "var6": 94890,
+      "var7": 0,
+      "var8": 0,
+      "var9": 567402,
+      "var10": null,
+      "var11": 86267,
+      "var12": 859417
+    },
+    {
+      "var1": 2011,
+      "var2": 1980784,
+      "var3": 0,
+      "var4": null,
+      "var5": 118477,
+      "var6": 98405,
+      "var7": 0,
+      "var8": 0,
+      "var9": 549603,
+      "var10": null,
+      "var11": 498714,
+      "var12": 697681
+    },
+    {
+      "var1": 2012,
+      "var2": 1715347,
+      "var3": 0,
+      "var4": null,
+      "var5": 79466,
+      "var6": 61331,
+      "var7": 0,
+      "var8": 0,
+      "var9": 423584,
+      "var10": null,
+      "var11": 407463,
+      "var12": 735230
+    },
+    {
+      "var1": 2013,
+      "var2": 1919545,
+      "var3": 0,
+      "var4": null,
+      "var5": 64722,
+      "var6": 47700,
+      "var7": 0,
+      "var8": 0,
+      "var9": 452899,
+      "var10": 286302,
+      "var11": null,
+      "var12": 710065
+    },
+    {
+      "var1": 2014,
+      "var2": 2399309,
+      "var3": 0,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": 0,
+      "var8": 0,
+      "var9": 391683,
+      "var10": 495370,
+      "var11": 761378,
+      "var12": 686057
+    },
+    {
+      "var1": 2015,
+      "var2": 2589654,
+      "var3": 0,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": 0,
+      "var8": 0,
+      "var9": 393283,
+      "var10": 771680,
+      "var11": 606795,
+      "var12": 743673
+    },
+    {
+      "var1": 2016,
+      "var2": 2238756,
+      "var3": 0,
+      "var4": null,
+      "var5": null,
+      "var6": 22443,
+      "var7": 0,
+      "var8": 0,
+      "var9": 332025,
+      "var10": 543614,
+      "var11": 581691,
+      "var12": 720132
+    },
+    {
+      "var1": 2017,
+      "var2": 2275439,
+      "var3": 0,
+      "var4": null,
+      "var5": null,
+      "var6": 18399,
+      "var7": 0,
+      "var8": 0,
+      "var9": 330333,
+      "var10": 611857,
+      "var11": 558685,
+      "var12": 709390
+    },
+    {
+      "var1": 2018,
+      "var2": 2065344,
+      "var3": 0,
+      "var4": null,
+      "var5": null,
+      "var6": 17595,
+      "var7": 0,
+      "var8": 0,
+      "var9": 338571,
+      "var10": 516394,
+      "var11": 514856,
+      "var12": 634347
+    },
+    {
+      "var1": 2019,
+      "var2": 2140301,
+      "var3": 0,
+      "var4": null,
+      "var5": null,
+      "var6": 15936,
+      "var7": 0,
+      "var8": 0,
+      "var9": 315499,
+      "var10": 517214,
+      "var11": 597215,
+      "var12": 646520
+    },
+    {
+      "var1": 2020,
+      "var2": 2122807,
+      "var3": 0,
+      "var4": null,
+      "var5": null,
+      "var6": 20370,
+      "var7": 0,
+      "var8": 0,
+      "var9": 452847,
+      "var10": 471374,
+      "var11": 541491,
+      "var12": 601513
+    },
+    {
+      "var1": 2021,
+      "var2": 2281997,
+      "var3": 0,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": 0,
+      "var8": 0,
+      "var9": 537864,
+      "var10": 513360,
+      "var11": 575881,
+      "var12": 583520
+    }
+  ]
+}

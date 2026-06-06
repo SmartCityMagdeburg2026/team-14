@@ -1,0 +1,678 @@
+{
+  "id": "oeffentliche-ordnung/ausgewaehlte-angaben-aus-der-taetigkeit-des-veterinaerwesens-und-der-lebensmittelueberwachung",
+  "title": "Ausgewählte Angaben aus der Tätigkeit des Veterinärwesens und der Lebensmittelüberwachung",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Veterinärwesen und Lebensmittelüberwachung",
+  "tableId": "K11_T20",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/ausgewaehlte-angaben-aus-der-taetigkeit-des-veterinaerwesens-und-der-lebensmittelueberwachung.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Ausgewählte Angaben aus der Tätigkeit des Veterinärwesens und der Lebensmittelüberwachung.xlsx"
+  },
+  "description": "Ausgewählte Angaben aus der Tätigkeit des Veterinärwesens und der Lebensmittelüberwachung. var4..var8 enthalten Kennzahlen je Betriebsart (Kontrollen, Beanstandungen, Proben), Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2021,
+        2021,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Betriebsart",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Erzeuger (Urproduktion)",
+        "Hersteller",
+        "Vertriebsunternehmer und Transporteure"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Betriebe",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1,
+        4,
+        47
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        3,
+        25
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        8,
+        93
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        3
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        3
+      ]
+    }
+  ],
+  "rowCount": 56,
+  "rows": [
+    {
+      "var1": 2021,
+      "var2": "Erzeuger (Urproduktion)",
+      "var3": 1,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Hersteller",
+      "var3": 4,
+      "var4": 3,
+      "var5": 8,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Vertriebsunternehmer und Transporteure",
+      "var3": 47,
+      "var4": 25,
+      "var5": 93,
+      "var6": 3,
+      "var7": 3,
+      "var8": 3
+    },
+    {
+      "var1": 2021,
+      "var2": "Einzelhändler",
+      "var3": 653,
+      "var4": 387,
+      "var5": 961,
+      "var6": 17,
+      "var7": 16,
+      "var8": 15
+    },
+    {
+      "var1": 2021,
+      "var2": "Gaststätten, Betriebsküchen, Imbisseinrichtungen u.ä.",
+      "var3": 1326,
+      "var4": 662,
+      "var5": 1005,
+      "var6": 83,
+      "var7": 82,
+      "var8": 64
+    },
+    {
+      "var1": 2021,
+      "var2": "handwerkl. Fleischer, Bäcker, Eishersteller und Imker",
+      "var3": 80,
+      "var4": 35,
+      "var5": 70,
+      "var6": 4,
+      "var7": 4,
+      "var8": 2
+    },
+    {
+      "var1": 2021,
+      "var2": "Kontrollen gesamt",
+      "var3": 2113,
+      "var4": 1114,
+      "var5": 2138,
+      "var6": 107,
+      "var7": 105,
+      "var8": 84
+    },
+    {
+      "var1": 2022,
+      "var2": "Erzeuger (Urproduktion)",
+      "var3": 1,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Hersteller",
+      "var3": 5,
+      "var4": 4,
+      "var5": 12,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Vertriebsunternehmer und Transporteure",
+      "var3": 58,
+      "var4": 21,
+      "var5": 51,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Einzelhändler",
+      "var3": 682,
+      "var4": 489,
+      "var5": 1388,
+      "var6": 30,
+      "var7": 5,
+      "var8": 27
+    },
+    {
+      "var1": 2022,
+      "var2": "Gaststätten, Betriebsküchen, Imbisseinrichtungen u.ä.",
+      "var3": 1400,
+      "var4": 530,
+      "var5": 1035,
+      "var6": 32,
+      "var7": 21,
+      "var8": 25
+    },
+    {
+      "var1": 2022,
+      "var2": "handwerkl. Fleischer, Bäcker, Eishersteller und Imker",
+      "var3": 98,
+      "var4": 18,
+      "var5": 33,
+      "var6": 1,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2022,
+      "var2": "Kontrollen gesamt",
+      "var3": 2244,
+      "var4": 1062,
+      "var5": 2519,
+      "var6": 63,
+      "var7": 27,
+      "var8": 53
+    },
+    {
+      "var1": 2023,
+      "var2": "Erzeuger (Urproduktion)",
+      "var3": 1,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Hersteller",
+      "var3": 7,
+      "var4": 4,
+      "var5": 8,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Vertriebsunternehmer und Transporteure",
+      "var3": 57,
+      "var4": 20,
+      "var5": 59,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Einzelhändler",
+      "var3": 669,
+      "var4": 350,
+      "var5": 822,
+      "var6": 9,
+      "var7": 5,
+      "var8": 8
+    },
+    {
+      "var1": 2023,
+      "var2": "Gaststätten, Betriebsküchen, Imbisseinrichtungen u.ä.",
+      "var3": 1457,
+      "var4": 566,
+      "var5": 1062,
+      "var6": 31,
+      "var7": 15,
+      "var8": 17
+    },
+    {
+      "var1": 2023,
+      "var2": "handwerkl. Fleischer, Bäcker, Eishersteller und Imker",
+      "var3": 81,
+      "var4": 29,
+      "var5": 42,
+      "var6": 41,
+      "var7": 15,
+      "var8": 26
+    },
+    {
+      "var1": 2023,
+      "var2": "Kontrollen gesamt",
+      "var3": 2272,
+      "var4": 969,
+      "var5": 1993,
+      "var6": 41,
+      "var7": 15,
+      "var8": 26
+    },
+    {
+      "var1": 2017,
+      "var2": "Erzeuger (Urproduktion)",
+      "var3": 1,
+      "var4": 1,
+      "var5": 1,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Hersteller",
+      "var3": 7,
+      "var4": 7,
+      "var5": 18,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Vertriebsunternehmer und Transporteure",
+      "var3": 39,
+      "var4": 29,
+      "var5": 78,
+      "var6": 2,
+      "var7": 2,
+      "var8": 1
+    },
+    {
+      "var1": 2017,
+      "var2": "Einzelhändler",
+      "var3": 692,
+      "var4": 491,
+      "var5": 1222,
+      "var6": 35,
+      "var7": 33,
+      "var8": 12
+    },
+    {
+      "var1": 2017,
+      "var2": "Gaststätten, Betriebsküchen, Imbisseinrichtungen u.ä.",
+      "var3": 1248,
+      "var4": 854,
+      "var5": 1234,
+      "var6": 83,
+      "var7": 80,
+      "var8": 55
+    },
+    {
+      "var1": 2017,
+      "var2": "handwerkl. Fleischer, Bäcker, Eishersteller und Imker",
+      "var3": 78,
+      "var4": 39,
+      "var5": 88,
+      "var6": 4,
+      "var7": 2,
+      "var8": 3
+    },
+    {
+      "var1": 2017,
+      "var2": "Kontrollen gesamt",
+      "var3": 2065,
+      "var4": 1418,
+      "var5": 2640,
+      "var6": 124,
+      "var7": 117,
+      "var8": 71
+    },
+    {
+      "var1": 2018,
+      "var2": "Erzeuger (Urproduktion)",
+      "var3": 1,
+      "var4": 1,
+      "var5": 1,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Hersteller",
+      "var3": 8,
+      "var4": 8,
+      "var5": 20,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Vertriebsunternehmer und Transporteure",
+      "var3": 40,
+      "var4": 24,
+      "var5": 84,
+      "var6": 3,
+      "var7": 2,
+      "var8": 1
+    },
+    {
+      "var1": 2018,
+      "var2": "Einzelhändler",
+      "var3": 677,
+      "var4": 492,
+      "var5": 1359,
+      "var6": 44,
+      "var7": 41,
+      "var8": 34
+    },
+    {
+      "var1": 2018,
+      "var2": "Gaststätten, Betriebsküchen, Imbisseinrichtungen u.ä.",
+      "var3": 1242,
+      "var4": 667,
+      "var5": 1458,
+      "var6": 104,
+      "var7": 80,
+      "var8": 94
+    },
+    {
+      "var1": 2018,
+      "var2": "handwerkl. Fleischer, Bäcker, Eishersteller und Imker",
+      "var3": 80,
+      "var4": 44,
+      "var5": 89,
+      "var6": 5,
+      "var7": 5,
+      "var8": 5
+    },
+    {
+      "var1": 2018,
+      "var2": "Kontrollen gesamt",
+      "var3": 2048,
+      "var4": 1236,
+      "var5": 3011,
+      "var6": 157,
+      "var7": 153,
+      "var8": 133
+    },
+    {
+      "var1": 2019,
+      "var2": "Erzeuger (Urproduktion)",
+      "var3": 1,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Hersteller",
+      "var3": 6,
+      "var4": 4,
+      "var5": 8,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Vertriebsunternehmer und Transporteure",
+      "var3": 39,
+      "var4": 27,
+      "var5": 95,
+      "var6": 2,
+      "var7": 1,
+      "var8": 2
+    },
+    {
+      "var1": 2019,
+      "var2": "Einzelhändler",
+      "var3": 652,
+      "var4": 549,
+      "var5": 1369,
+      "var6": 33,
+      "var7": 8,
+      "var8": 32
+    },
+    {
+      "var1": 2019,
+      "var2": "Gaststätten, Betriebsküchen, Imbisseinrichtungen u.ä.",
+      "var3": 1267,
+      "var4": 936,
+      "var5": 1695,
+      "var6": 170,
+      "var7": 166,
+      "var8": 148
+    },
+    {
+      "var1": 2019,
+      "var2": "handwerkl. Fleischer, Bäcker, Eishersteller und Imker",
+      "var3": 78,
+      "var4": 40,
+      "var5": 64,
+      "var6": 5,
+      "var7": 5,
+      "var8": 5
+    },
+    {
+      "var1": 2019,
+      "var2": "Kontrollen gesamt",
+      "var3": 2043,
+      "var4": 1556,
+      "var5": 3231,
+      "var6": 216,
+      "var7": 210,
+      "var8": 185
+    },
+    {
+      "var1": 2020,
+      "var2": "Erzeuger (Urproduktion)",
+      "var3": 1,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Hersteller",
+      "var3": 6,
+      "var4": 5,
+      "var5": 9,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Vertriebsunternehmer und Transporteure",
+      "var3": 47,
+      "var4": 25,
+      "var5": 93,
+      "var6": 3,
+      "var7": 3,
+      "var8": 3
+    },
+    {
+      "var1": 2020,
+      "var2": "Einzelhändler",
+      "var3": 653,
+      "var4": 387,
+      "var5": 961,
+      "var6": 17,
+      "var7": 16,
+      "var8": 15
+    },
+    {
+      "var1": 2020,
+      "var2": "Gaststätten, Betriebsküchen, Imbisseinrichtungen u.ä.",
+      "var3": 1326,
+      "var4": 662,
+      "var5": 1005,
+      "var6": 83,
+      "var7": 82,
+      "var8": 64
+    },
+    {
+      "var1": 2020,
+      "var2": "handwerkl. Fleischer, Bäcker, Eishersteller und Imker",
+      "var3": 80,
+      "var4": 35,
+      "var5": 70,
+      "var6": 4,
+      "var7": 4,
+      "var8": 2
+    },
+    {
+      "var1": 2020,
+      "var2": "Kontrollen gesamt",
+      "var3": 2113,
+      "var4": 1114,
+      "var5": 2138,
+      "var6": 107,
+      "var7": 105,
+      "var8": 84
+    },
+    {
+      "var1": 2024,
+      "var2": "Erzeuger (Urproduktion)",
+      "var3": 1,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Hersteller",
+      "var3": 8,
+      "var4": 5,
+      "var5": 7,
+      "var6": 1,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2024,
+      "var2": "Vertriebsunternehmer und Transporteure",
+      "var3": 51,
+      "var4": 30,
+      "var5": 37,
+      "var6": 9,
+      "var7": 9,
+      "var8": 8
+    },
+    {
+      "var1": 2024,
+      "var2": "Einzelhändler",
+      "var3": 704,
+      "var4": 232,
+      "var5": 638,
+      "var6": 50,
+      "var7": 50,
+      "var8": 22
+    },
+    {
+      "var1": 2024,
+      "var2": "Gaststätten, Betriebsküchen, Imbisseinrichtungen u.ä.",
+      "var3": 1307,
+      "var4": 453,
+      "var5": 496,
+      "var6": 276,
+      "var7": 265,
+      "var8": 125
+    },
+    {
+      "var1": 2024,
+      "var2": "handwerkl. Fleischer, Bäcker, Eishersteller und Imker",
+      "var3": 122,
+      "var4": 31,
+      "var5": 127,
+      "var6": 24,
+      "var7": 22,
+      "var8": 9
+    },
+    {
+      "var1": 2024,
+      "var2": "Kontrollen gesamt",
+      "var3": 2230,
+      "var4": 912,
+      "var5": 1497,
+      "var6": 389,
+      "var7": 328,
+      "var8": 177
+    }
+  ]
+}

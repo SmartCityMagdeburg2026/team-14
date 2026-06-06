@@ -1,0 +1,295 @@
+{
+  "id": "bildung-und-kultur/nutzende-nach-altersgruppe",
+  "title": "Nutzende nach Altersgruppe",
+  "category": "Bildung und Kultur",
+  "subcategory": "Stadtbibliothek",
+  "tableId": "K5_T26_02",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bildung-und-kultur/nutzende-nach-altersgruppe.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Nutzende nach Altersgruppe.xlsx"
+  },
+  "description": "Stadtbibliothek — Nutzende nach Altersgruppe. var2..var6 entsprechen 5 Altersgruppen mit Summe = var7 (verifiziert), die LLM-Labels (\"Kinder 0–14\" etc.) waren aber mit den Wertgrößen nicht plausibel (Magdeburger Nutzerprofil zeigt anders verteilte Gruppen).",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1998,
+        1999,
+        2000
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        3843,
+        4512,
+        5015
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        554,
+        539,
+        514
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1138,
+        898,
+        783
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        7507,
+        7294,
+        7512
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        174,
+        155,
+        183
+      ]
+    },
+    {
+      "key": "var7",
+      "label": "Nutzende gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        13216,
+        13398,
+        14007
+      ]
+    }
+  ],
+  "rowCount": 21,
+  "rows": [
+    {
+      "var1": 1998,
+      "var2": null,
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 1999,
+      "var2": null,
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2000,
+      "var2": null,
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2001,
+      "var2": null,
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2002,
+      "var2": null,
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2003,
+      "var2": null,
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2004,
+      "var2": null,
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2005,
+      "var2": null,
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2006,
+      "var2": null,
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2007,
+      "var2": null,
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2008,
+      "var2": null,
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2009,
+      "var2": null,
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2010,
+      "var2": null,
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2011,
+      "var2": 3843,
+      "var3": 554,
+      "var4": 1138,
+      "var5": 7507,
+      "var6": 174,
+      "var7": 13216
+    },
+    {
+      "var1": 2012,
+      "var2": 4512,
+      "var3": 539,
+      "var4": 898,
+      "var5": 7294,
+      "var6": 155,
+      "var7": 13398
+    },
+    {
+      "var1": 2013,
+      "var2": 5015,
+      "var3": 514,
+      "var4": 783,
+      "var5": 7512,
+      "var6": 183,
+      "var7": 14007
+    },
+    {
+      "var1": 2014,
+      "var2": 4924,
+      "var3": 491,
+      "var4": 680,
+      "var5": 7302,
+      "var6": 199,
+      "var7": 13596
+    },
+    {
+      "var1": 2015,
+      "var2": 5289,
+      "var3": 502,
+      "var4": 601,
+      "var5": 7147,
+      "var6": 204,
+      "var7": 13743
+    },
+    {
+      "var1": 2016,
+      "var2": 5363,
+      "var3": 478,
+      "var4": 593,
+      "var5": 6911,
+      "var6": 201,
+      "var7": 13546
+    },
+    {
+      "var1": 2017,
+      "var2": 5979,
+      "var3": 486,
+      "var4": 547,
+      "var5": 6903,
+      "var6": 201,
+      "var7": 14116
+    },
+    {
+      "var1": 2018,
+      "var2": 6368,
+      "var3": 441,
+      "var4": 536,
+      "var5": 6960,
+      "var6": 202,
+      "var7": 14507
+    }
+  ]
+}

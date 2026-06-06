@@ -1,0 +1,118 @@
+{
+  "id": "arbeitsmarkt/auszubildende-am-arbeitsort-nach-geschlecht",
+  "title": "Auszubildende am Arbeitsort nach Geschlecht",
+  "category": "Arbeitsmarkt",
+  "subcategory": "Sozialversicherungspflichtig Beschäftigte am Arbeitsort",
+  "tableId": "K7_T57",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/arbeitsmarkt/auszubildende-am-arbeitsort-nach-geschlecht.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Auszubildende am Arbeitsort nach Geschlecht.xlsx"
+  },
+  "description": "Auszubildende am Arbeitsort Magdeburg, nach Geschlecht. var4 (LLM-Wert: weitere Aufschlüsselung) war nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Männliche Auszubildende",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        4090,
+        4025,
+        4110
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Weibliche Auszubildende",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2308,
+        2275,
+        2355
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1782,
+        1750,
+        1755
+      ]
+    }
+  ],
+  "rowCount": 8,
+  "rows": [
+    {
+      "var1": 2016,
+      "var2": 4090,
+      "var3": 2308,
+      "var4": 1782
+    },
+    {
+      "var1": 2017,
+      "var2": 4025,
+      "var3": 2275,
+      "var4": 1750
+    },
+    {
+      "var1": 2018,
+      "var2": 4110,
+      "var3": 2355,
+      "var4": 1755
+    },
+    {
+      "var1": 2019,
+      "var2": 4137,
+      "var3": 2369,
+      "var4": 1768
+    },
+    {
+      "var1": 2020,
+      "var2": 4248,
+      "var3": 2382,
+      "var4": 1866
+    },
+    {
+      "var1": 2021,
+      "var2": 4410,
+      "var3": 2452,
+      "var4": 1958
+    },
+    {
+      "var1": 2022,
+      "var2": 4446,
+      "var3": 2453,
+      "var4": 1993
+    },
+    {
+      "var1": 2023,
+      "var2": 4684,
+      "var3": 2607,
+      "var4": 2077
+    }
+  ]
+}

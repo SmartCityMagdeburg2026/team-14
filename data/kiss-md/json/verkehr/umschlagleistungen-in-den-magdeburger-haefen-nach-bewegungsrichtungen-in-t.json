@@ -1,0 +1,658 @@
+{
+  "id": "verkehr/umschlagleistungen-in-den-magdeburger-haefen-nach-bewegungsrichtungen-in-t",
+  "title": "Umschlagleistungen in den Magdeburger Häfen nach Bewegungsrichtungen in t",
+  "category": "Verkehr",
+  "subcategory": "Magdeburger Häfen",
+  "tableId": "K8_T36",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/verkehr/umschlagleistungen-in-den-magdeburger-haefen-nach-bewegungsrichtungen-in-t.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Umschlagleistungen in den Magdeburger Häfen nach Bewegungsrichtungen in t.xlsx"
+  },
+  "description": "Umschlagleistungen in den Magdeburger Häfen nach Bewegungsrichtungen (Empfang/Versand). Konkrete Zuordnung der Spalten var3..var8 zu Richtungen/Hafenbereichen war nicht aus den Rohdaten ableitbar.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2021,
+        2021,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Monat",
+      "unit": null,
+      "type": "string",
+      "role": "month_de",
+      "sample": [
+        "Januar",
+        "Februar",
+        "März"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        242885,
+        176596,
+        346909
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        101410,
+        70187,
+        138674
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        122626,
+        84338,
+        155681
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        3327
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        18849,
+        22071,
+        49227
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        79444,
+        91414,
+        116352
+      ]
+    }
+  ],
+  "rowCount": 54,
+  "rows": [
+    {
+      "var1": 2021,
+      "var2": "Januar",
+      "var3": 242885,
+      "var4": 101410,
+      "var5": 122626,
+      "var6": 0,
+      "var7": 18849,
+      "var8": 79444
+    },
+    {
+      "var1": 2021,
+      "var2": "Februar",
+      "var3": 176596,
+      "var4": 70187,
+      "var5": 84338,
+      "var6": 0,
+      "var7": 22071,
+      "var8": 91414
+    },
+    {
+      "var1": 2021,
+      "var2": "März",
+      "var3": 346909,
+      "var4": 138674,
+      "var5": 155681,
+      "var6": 3327,
+      "var7": 49227,
+      "var8": 116352
+    },
+    {
+      "var1": 2021,
+      "var2": "April",
+      "var3": 293051,
+      "var4": 107375,
+      "var5": 147259,
+      "var6": 0,
+      "var7": 38776,
+      "var8": 139482
+    },
+    {
+      "var1": 2021,
+      "var2": "Mai",
+      "var3": 277833,
+      "var4": 103372,
+      "var5": 134464,
+      "var6": 0,
+      "var7": 39997,
+      "var8": 114504
+    },
+    {
+      "var1": 2021,
+      "var2": "Juni",
+      "var3": 59043,
+      "var4": 14713,
+      "var5": 6513,
+      "var6": 0,
+      "var7": 37817,
+      "var8": 118923
+    },
+    {
+      "var1": 2021,
+      "var2": "Juli",
+      "var3": 215033,
+      "var4": 76482,
+      "var5": 122261,
+      "var6": 0,
+      "var7": 16290,
+      "var8": 103710
+    },
+    {
+      "var1": 2021,
+      "var2": "August",
+      "var3": 246937,
+      "var4": 105918,
+      "var5": 124733,
+      "var6": 64,
+      "var7": 16222,
+      "var8": 103978
+    },
+    {
+      "var1": 2021,
+      "var2": "September",
+      "var3": 254981,
+      "var4": 103002,
+      "var5": 135716,
+      "var6": 0,
+      "var7": 16263,
+      "var8": 104191
+    },
+    {
+      "var1": 2021,
+      "var2": "Oktober",
+      "var3": 292976,
+      "var4": 117596,
+      "var5": 153846,
+      "var6": 43,
+      "var7": 21491,
+      "var8": 97966
+    },
+    {
+      "var1": 2021,
+      "var2": "November",
+      "var3": 255625,
+      "var4": 101279,
+      "var5": 130237,
+      "var6": 0,
+      "var7": 24109,
+      "var8": 101500
+    },
+    {
+      "var1": 2021,
+      "var2": "Dezember",
+      "var3": 230206,
+      "var4": 81174,
+      "var5": 127241,
+      "var6": 0,
+      "var7": 21791,
+      "var8": 110517
+    },
+    {
+      "var1": 2022,
+      "var2": "Januar",
+      "var3": 260880,
+      "var4": 78710,
+      "var5": 239456,
+      "var6": 66,
+      "var7": 52648,
+      "var8": 86207
+    },
+    {
+      "var1": 2022,
+      "var2": "Februar",
+      "var3": 214988,
+      "var4": 64836,
+      "var5": 107149,
+      "var6": 0,
+      "var7": 43003,
+      "var8": 97667
+    },
+    {
+      "var1": 2022,
+      "var2": "März",
+      "var3": 253171,
+      "var4": 80723,
+      "var5": 110459,
+      "var6": 0,
+      "var7": 61989,
+      "var8": 116310
+    },
+    {
+      "var1": 2022,
+      "var2": "April",
+      "var3": 210870,
+      "var4": 70654,
+      "var5": 106270,
+      "var6": 0,
+      "var7": 33946,
+      "var8": 93228
+    },
+    {
+      "var1": 2022,
+      "var2": "Mai",
+      "var3": 212173,
+      "var4": 76302,
+      "var5": 88896,
+      "var6": 0,
+      "var7": 46975,
+      "var8": 127519
+    },
+    {
+      "var1": 2022,
+      "var2": "Juni",
+      "var3": 197999,
+      "var4": 70411,
+      "var5": 78550,
+      "var6": 0,
+      "var7": 49038,
+      "var8": 85203
+    },
+    {
+      "var1": 2022,
+      "var2": "Juli",
+      "var3": 274998,
+      "var4": 101003,
+      "var5": 117240,
+      "var6": 0,
+      "var7": 56755,
+      "var8": 119418
+    },
+    {
+      "var1": 2022,
+      "var2": "August",
+      "var3": 314852,
+      "var4": 137152,
+      "var5": 118678,
+      "var6": 0,
+      "var7": 59022,
+      "var8": 109407
+    },
+    {
+      "var1": 2022,
+      "var2": "September",
+      "var3": 318920,
+      "var4": 118165,
+      "var5": 138010,
+      "var6": 1099,
+      "var7": 61646,
+      "var8": 128393
+    },
+    {
+      "var1": 2022,
+      "var2": "Oktober",
+      "var3": 305070,
+      "var4": 142536,
+      "var5": 115620,
+      "var6": 0,
+      "var7": 46914,
+      "var8": 110753
+    },
+    {
+      "var1": 2022,
+      "var2": "November",
+      "var3": 324747,
+      "var4": 125728,
+      "var5": 132002,
+      "var6": 0,
+      "var7": 67017,
+      "var8": 138896
+    },
+    {
+      "var1": 2022,
+      "var2": "Dezember",
+      "var3": 244988,
+      "var4": 86229,
+      "var5": 105352,
+      "var6": 679,
+      "var7": 52728,
+      "var8": 123281
+    },
+    {
+      "var1": 2023,
+      "var2": "Januar",
+      "var3": 323596,
+      "var4": 130368,
+      "var5": 133904,
+      "var6": 529,
+      "var7": 58795,
+      "var8": 93331
+    },
+    {
+      "var1": 2023,
+      "var2": "Februar",
+      "var3": 330330,
+      "var4": 125982,
+      "var5": 126329,
+      "var6": 0,
+      "var7": 78019,
+      "var8": 131056
+    },
+    {
+      "var1": 2023,
+      "var2": "März",
+      "var3": 282716,
+      "var4": 105469,
+      "var5": 125180,
+      "var6": 0,
+      "var7": 52067,
+      "var8": 112885
+    },
+    {
+      "var1": 2023,
+      "var2": "April",
+      "var3": 284111,
+      "var4": 106497,
+      "var5": 116345,
+      "var6": 0,
+      "var7": 61269,
+      "var8": 124380
+    },
+    {
+      "var1": 2023,
+      "var2": "Mai",
+      "var3": 301735,
+      "var4": 132989,
+      "var5": 118410,
+      "var6": 0,
+      "var7": 50336,
+      "var8": 109272
+    },
+    {
+      "var1": 2023,
+      "var2": "Juni",
+      "var3": 264418,
+      "var4": 108863,
+      "var5": 112978,
+      "var6": 0,
+      "var7": 42577,
+      "var8": 108235
+    },
+    {
+      "var1": 2023,
+      "var2": "Juli",
+      "var3": 247122,
+      "var4": 74856,
+      "var5": 108229,
+      "var6": 0,
+      "var7": 64037,
+      "var8": 141767
+    },
+    {
+      "var1": 2023,
+      "var2": "August",
+      "var3": 359590,
+      "var4": 94963,
+      "var5": 172872,
+      "var6": 0,
+      "var7": 91755,
+      "var8": 173088
+    },
+    {
+      "var1": 2023,
+      "var2": "September",
+      "var3": 300698,
+      "var4": 77809,
+      "var5": 155137,
+      "var6": 0,
+      "var7": 67752,
+      "var8": 16205
+    },
+    {
+      "var1": 2023,
+      "var2": "Oktober",
+      "var3": 289938,
+      "var4": 72666,
+      "var5": 150760,
+      "var6": 0,
+      "var7": 66512,
+      "var8": 150020
+    },
+    {
+      "var1": 2023,
+      "var2": "November",
+      "var3": 357232,
+      "var4": 85868,
+      "var5": 187391,
+      "var6": 80,
+      "var7": 83893,
+      "var8": 21011
+    },
+    {
+      "var1": 2023,
+      "var2": "Dezember",
+      "var3": 285949,
+      "var4": 78046,
+      "var5": 132766,
+      "var6": 0,
+      "var7": 75137,
+      "var8": 148960
+    },
+    {
+      "var1": 2024,
+      "var2": "Januar",
+      "var3": 302871,
+      "var4": 84364,
+      "var5": 150872,
+      "var6": 0,
+      "var7": 67635,
+      "var8": 107681
+    },
+    {
+      "var1": 2024,
+      "var2": "Februar",
+      "var3": 341558,
+      "var4": 94418,
+      "var5": 154836,
+      "var6": 0,
+      "var7": 92304,
+      "var8": 155275
+    },
+    {
+      "var1": 2024,
+      "var2": "März",
+      "var3": 280184,
+      "var4": 97372,
+      "var5": 102881,
+      "var6": 0,
+      "var7": 79931,
+      "var8": 140527
+    },
+    {
+      "var1": 2024,
+      "var2": "April",
+      "var3": 201033,
+      "var4": 62083,
+      "var5": 75670,
+      "var6": 38,
+      "var7": 63242,
+      "var8": 165378
+    },
+    {
+      "var1": 2024,
+      "var2": "Mai",
+      "var3": 354159,
+      "var4": 114130,
+      "var5": 170146,
+      "var6": 0,
+      "var7": 69883,
+      "var8": 117937
+    },
+    {
+      "var1": 2024,
+      "var2": "Juni",
+      "var3": 253278,
+      "var4": 76916,
+      "var5": 111478,
+      "var6": 0,
+      "var7": 64884,
+      "var8": 125378
+    },
+    {
+      "var1": 2024,
+      "var2": "Juli",
+      "var3": 291088,
+      "var4": 90498,
+      "var5": 131515,
+      "var6": 0,
+      "var7": 69075,
+      "var8": 129466
+    },
+    {
+      "var1": 2024,
+      "var2": "August",
+      "var3": 305790,
+      "var4": 98477,
+      "var5": 131366,
+      "var6": 0,
+      "var7": 75947,
+      "var8": 142528
+    },
+    {
+      "var1": 2024,
+      "var2": "September",
+      "var3": 300482,
+      "var4": 110059,
+      "var5": 127123,
+      "var6": 0,
+      "var7": 63300,
+      "var8": 118323
+    },
+    {
+      "var1": 2024,
+      "var2": "Oktober",
+      "var3": 284630,
+      "var4": 103717,
+      "var5": 120507,
+      "var6": 0,
+      "var7": 60406,
+      "var8": 103192
+    },
+    {
+      "var1": 2024,
+      "var2": "November",
+      "var3": 301672,
+      "var4": 124087,
+      "var5": 115552,
+      "var6": 0,
+      "var7": 62033,
+      "var8": 107209
+    },
+    {
+      "var1": 2024,
+      "var2": "Dezember",
+      "var3": 258574,
+      "var4": 95589,
+      "var5": 118360,
+      "var6": 0,
+      "var7": 44625,
+      "var8": 98834
+    },
+    {
+      "var1": 2025,
+      "var2": "Januar",
+      "var3": 297863,
+      "var4": 115325,
+      "var5": 130678,
+      "var6": 0,
+      "var7": 51860,
+      "var8": 107298
+    },
+    {
+      "var1": 2025,
+      "var2": "Februar",
+      "var3": 216663,
+      "var4": 90634,
+      "var5": 80406,
+      "var6": 0,
+      "var7": 45623,
+      "var8": 106416
+    },
+    {
+      "var1": 2025,
+      "var2": "März",
+      "var3": 239531,
+      "var4": 94502,
+      "var5": 102833,
+      "var6": 0,
+      "var7": 42197,
+      "var8": 98904
+    },
+    {
+      "var1": 2025,
+      "var2": "April",
+      "var3": 320073,
+      "var4": 158483,
+      "var5": 115125,
+      "var6": 0,
+      "var7": 46464,
+      "var8": 101156
+    },
+    {
+      "var1": 2025,
+      "var2": "Mai",
+      "var3": 203475,
+      "var4": 101506,
+      "var5": 64519,
+      "var6": 0,
+      "var7": 37450,
+      "var8": 90352
+    },
+    {
+      "var1": 2025,
+      "var2": "Juni",
+      "var3": 196258,
+      "var4": 86637,
+      "var5": 69327,
+      "var6": 0,
+      "var7": 40295,
+      "var8": 109539
+    }
+  ]
+}

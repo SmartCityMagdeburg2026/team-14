@@ -1,0 +1,170 @@
+{
+  "id": "bevoelkerung/ehescheidungen",
+  "title": "Ehescheidungen",
+  "category": "Bevölkerung",
+  "subcategory": "Bevölkerungsbewegung",
+  "tableId": "K3_T19",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bevoelkerung/ehescheidungen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Ehescheidungen.xlsx"
+  },
+  "description": "Diese Tabelle zeigt die Anzahl der Ehescheidungen in den Jahren 1994 bis 1996.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Ehescheidungen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        581,
+        380,
+        304
+      ]
+    }
+  ],
+  "rowCount": 31,
+  "rows": [
+    {
+      "var1": 1994,
+      "var2": 581
+    },
+    {
+      "var1": 1995,
+      "var2": 380
+    },
+    {
+      "var1": 1996,
+      "var2": 304
+    },
+    {
+      "var1": 1997,
+      "var2": 556
+    },
+    {
+      "var1": 1998,
+      "var2": 648
+    },
+    {
+      "var1": 1999,
+      "var2": 648
+    },
+    {
+      "var1": 2000,
+      "var2": 711
+    },
+    {
+      "var1": 2001,
+      "var2": 574
+    },
+    {
+      "var1": 2002,
+      "var2": 632
+    },
+    {
+      "var1": 2003,
+      "var2": 632
+    },
+    {
+      "var1": 2004,
+      "var2": 609
+    },
+    {
+      "var1": 2005,
+      "var2": 579
+    },
+    {
+      "var1": 2006,
+      "var2": 483
+    },
+    {
+      "var1": 2007,
+      "var2": 467
+    },
+    {
+      "var1": 2008,
+      "var2": 541
+    },
+    {
+      "var1": 2009,
+      "var2": 438
+    },
+    {
+      "var1": 2010,
+      "var2": 448
+    },
+    {
+      "var1": 2011,
+      "var2": 464
+    },
+    {
+      "var1": 2012,
+      "var2": 432
+    },
+    {
+      "var1": 2013,
+      "var2": 423
+    },
+    {
+      "var1": 2014,
+      "var2": 433
+    },
+    {
+      "var1": 2015,
+      "var2": 411
+    },
+    {
+      "var1": 2016,
+      "var2": 391
+    },
+    {
+      "var1": 2017,
+      "var2": 317
+    },
+    {
+      "var1": 2018,
+      "var2": 378
+    },
+    {
+      "var1": 2019,
+      "var2": 357
+    },
+    {
+      "var1": 2020,
+      "var2": 310
+    },
+    {
+      "var1": 2021,
+      "var2": 338
+    },
+    {
+      "var1": 2022,
+      "var2": 312
+    },
+    {
+      "var1": 2023,
+      "var2": 331
+    },
+    {
+      "var1": 2024,
+      "var2": 324
+    }
+  ]
+}

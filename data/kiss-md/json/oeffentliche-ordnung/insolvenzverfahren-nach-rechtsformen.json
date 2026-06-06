@@ -1,0 +1,298 @@
+{
+  "id": "oeffentliche-ordnung/insolvenzverfahren-nach-rechtsformen",
+  "title": "Insolvenzverfahren nach Rechtsformen",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Insolvenzen",
+  "tableId": "K11_T10",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/insolvenzverfahren-nach-rechtsformen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Insolvenzverfahren nach Rechtsformen.xlsx"
+  },
+  "description": "Insolvenzverfahren nach Rechtsformen (Einzelunternehmen, Personengesellschaften, Kapitalgesellschaften etc.). var3/var4 enthalten Werte für Sachsen-Anhalt bzw. Magdeburg, Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2021,
+        2021,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Rechtsform",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Unternehmen gesamt",
+        "Einzelunternehmen",
+        "Personengesellschaften (OHG, KG, GbR)"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        285,
+        128,
+        18
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        39,
+        7,
+        4
+      ]
+    }
+  ],
+  "rowCount": 38,
+  "rows": [
+    {
+      "var1": 2021,
+      "var2": "Unternehmen gesamt",
+      "var3": 285,
+      "var4": 39
+    },
+    {
+      "var1": 2021,
+      "var2": "Einzelunternehmen",
+      "var3": 128,
+      "var4": 7
+    },
+    {
+      "var1": 2021,
+      "var2": "Personengesellschaften (OHG, KG, GbR)",
+      "var3": 18,
+      "var4": 4
+    },
+    {
+      "var1": 2021,
+      "var2": "Gesellschaften mit beschränkter Haftung",
+      "var3": 134,
+      "var4": 28
+    },
+    {
+      "var1": 2021,
+      "var2": "Übrige Schuldner",
+      "var3": 2752,
+      "var4": 295
+    },
+    {
+      "var1": 2021,
+      "var2": "Ehemals selbständig Tätige",
+      "var3": 538,
+      "var4": 55
+    },
+    {
+      "var1": 2021,
+      "var2": "Verbraucher",
+      "var3": 2175,
+      "var4": 236
+    },
+    {
+      "var1": 2021,
+      "var2": "Andere Schuldner",
+      "var3": 39,
+      "var4": 4
+    },
+    {
+      "var1": 2021,
+      "var2": "Insgesamt",
+      "var3": 3037,
+      "var4": 334
+    },
+    {
+      "var1": 2021,
+      "var2": "Personengesellschaften (OHG, KG, GbR)",
+      "var3": 18,
+      "var4": 4
+    },
+    {
+      "var1": 2021,
+      "var2": "Verbraucher/-innen",
+      "var3": 2175,
+      "var4": 236
+    },
+    {
+      "var1": 2022,
+      "var2": "Unternehmen gesamt",
+      "var3": 298,
+      "var4": 48
+    },
+    {
+      "var1": 2022,
+      "var2": "Einzelunternehmen",
+      "var3": 128,
+      "var4": 16
+    },
+    {
+      "var1": 2022,
+      "var2": "Personengesellschaften (OHG, KG, GbR)",
+      "var3": 13,
+      "var4": 2
+    },
+    {
+      "var1": 2022,
+      "var2": "Gesellschaften mit beschränkter Haftung",
+      "var3": 105,
+      "var4": 21
+    },
+    {
+      "var1": 2022,
+      "var2": "Übrige Schuldner",
+      "var3": 2646,
+      "var4": 291
+    },
+    {
+      "var1": 2022,
+      "var2": "Ehemals selbständig Tätige",
+      "var3": 477,
+      "var4": 67
+    },
+    {
+      "var1": 2022,
+      "var2": "Verbraucher/-innen",
+      "var3": 2138,
+      "var4": 222
+    },
+    {
+      "var1": 2022,
+      "var2": "Andere Schuldner",
+      "var3": 31,
+      "var4": 2
+    },
+    {
+      "var1": 2022,
+      "var2": "Insgesamt",
+      "var3": 2944,
+      "var4": 339
+    },
+    {
+      "var1": 2023,
+      "var2": "Unternehmen gesamt",
+      "var3": 323,
+      "var4": 43
+    },
+    {
+      "var1": 2023,
+      "var2": "Einzelunternehmen",
+      "var3": 100,
+      "var4": 9
+    },
+    {
+      "var1": 2023,
+      "var2": "Personengesellschaften (OHG, KG, GbR)",
+      "var3": 19,
+      "var4": 3
+    },
+    {
+      "var1": 2023,
+      "var2": "Gesellschaften mit beschränkter Haftung",
+      "var3": 137,
+      "var4": 25
+    },
+    {
+      "var1": 2023,
+      "var2": "Übrige Schuldner",
+      "var3": 2697,
+      "var4": 302
+    },
+    {
+      "var1": 2023,
+      "var2": "Ehemals selbständig Tätige",
+      "var3": 511,
+      "var4": 65
+    },
+    {
+      "var1": 2023,
+      "var2": "Verbraucher/-innen",
+      "var3": 2147,
+      "var4": 233
+    },
+    {
+      "var1": 2023,
+      "var2": "Andere Schuldner",
+      "var3": 39,
+      "var4": 4
+    },
+    {
+      "var1": 2023,
+      "var2": "Insgesamt",
+      "var3": 3020,
+      "var4": 345
+    },
+    {
+      "var1": 2024,
+      "var2": "Unternehmen gesamt",
+      "var3": 352,
+      "var4": 47
+    },
+    {
+      "var1": 2024,
+      "var2": "Einzelunternehmen",
+      "var3": 121,
+      "var4": 14
+    },
+    {
+      "var1": 2024,
+      "var2": "Personengesellschaften (OHG, KG, GbR)",
+      "var3": 20,
+      "var4": 4
+    },
+    {
+      "var1": 2024,
+      "var2": "Gesellschaften mit beschränkter Haftung",
+      "var3": 167,
+      "var4": 24
+    },
+    {
+      "var1": 2024,
+      "var2": "Übrige Schuldner",
+      "var3": 2868,
+      "var4": 330
+    },
+    {
+      "var1": 2024,
+      "var2": "Ehemals selbständig Tätige",
+      "var3": 0,
+      "var4": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Verbraucher/-innen",
+      "var3": 0,
+      "var4": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Andere Schuldner",
+      "var3": 0,
+      "var4": 0
+    },
+    {
+      "var1": 2024,
+      "var2": "Insgesamt",
+      "var3": 3220,
+      "var4": 377
+    }
+  ]
+}

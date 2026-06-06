@@ -1,0 +1,154 @@
+{
+  "id": "energie-und-umwelt/saeugetiere-im-stadtgebiet-magdeburg",
+  "title": "Säugetiere im Stadtgebiet Magdeburg",
+  "category": "Energie und Umwelt",
+  "subcategory": "Schutzobjekte im Stadtkreis Magdeburg",
+  "tableId": "K9_T44",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/saeugetiere-im-stadtgebiet-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Säugetiere im Stadtgebiet Magdeburg.xlsx"
+  },
+  "description": "Diese Tabelle listet Säugetierarten, die im Stadtgebiet Magdeburg vorkommen, und deren Schutzstatus.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2019,
+        2019,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Schutzstatus",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "extrem seltene Arten mit geographischer Restriktion",
+        "extrem seltene Arten mit geographischer Restriktion",
+        "vom Aussterben bedroht"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Wissenschaftlicher Name",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Crocidura suaveolens",
+        "Microtus oeconomus",
+        "Cricetus cricetus"
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Deutsche Bezeichnung",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Gartenspitzmaus",
+        "Nordische Wühlmaus",
+        "Feldhamster"
+      ]
+    }
+  ],
+  "rowCount": 14,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": "extrem seltene Arten mit geographischer Restriktion",
+      "var3": "Crocidura suaveolens",
+      "var4": "Gartenspitzmaus"
+    },
+    {
+      "var1": 2019,
+      "var2": "extrem seltene Arten mit geographischer Restriktion",
+      "var3": "Microtus oeconomus",
+      "var4": "Nordische Wühlmaus"
+    },
+    {
+      "var1": 2019,
+      "var2": "vom Aussterben bedroht",
+      "var3": "Cricetus cricetus",
+      "var4": "Feldhamster"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Castor fiber",
+      "var4": "Elbebiber"
+    },
+    {
+      "var1": 2019,
+      "var2": "stark gefährdet",
+      "var3": "Lepus europaeus",
+      "var4": "Feldhase"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Crocidura russula",
+      "var4": "Hausspitzmaus"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Micromys minutus",
+      "var4": "Zwergmaus"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Neomys fodiens",
+      "var4": "Wasserspitzmaus"
+    },
+    {
+      "var1": 2019,
+      "var2": "gefährdet",
+      "var3": "Sorex minutus",
+      "var4": "Zwergspitzmaus"
+    },
+    {
+      "var1": 2019,
+      "var2": "Vorkommen defizitär",
+      "var3": "Mus musculus",
+      "var4": "Östliche Hausmaus"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Apodemus agrarius",
+      "var4": "Brandmaus"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Crocidura leucodon",
+      "var4": "Feldspitzmaus"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Oryctolagus cuniculus",
+      "var4": "Wildkaninchen"
+    },
+    {
+      "var1": 2019,
+      "var2": "Arten der Vorwarnliste",
+      "var3": "Talpa europaea",
+      "var4": "Maulwurf"
+    }
+  ]
+}

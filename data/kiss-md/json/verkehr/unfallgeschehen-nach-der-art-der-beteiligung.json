@@ -1,0 +1,550 @@
+{
+  "id": "verkehr/unfallgeschehen-nach-der-art-der-beteiligung",
+  "title": "Unfallgeschehen nach der Art der Beteiligung",
+  "category": "Verkehr",
+  "subcategory": "Unfallgeschehen in der Stadt Magdeburg",
+  "tableId": "K8_T7",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/verkehr/unfallgeschehen-nach-der-art-der-beteiligung.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Unfallgeschehen nach der Art der Beteiligung.xlsx"
+  },
+  "description": "Unfälle nach Art der Beteiligung. Die LLM-vermuteten Aufteilungen (Fußgänger/Radfahrer/etc., var3..var10) waren mit den Stichproben nicht konsistent zu validieren.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Straßenverkehrsunfälle gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        12659,
+        13278,
+        13450
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        990,
+        1024,
+        1063
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        101,
+        98,
+        107
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        80,
+        73,
+        67
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        38,
+        52,
+        61
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        565,
+        591,
+        610
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        40,
+        45,
+        54
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        190,
+        142,
+        157
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        46,
+        23,
+        24
+      ]
+    }
+  ],
+  "rowCount": 34,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": 12659,
+      "var3": 990,
+      "var4": 101,
+      "var5": 80,
+      "var6": 38,
+      "var7": 565,
+      "var8": 40,
+      "var9": 190,
+      "var10": 46
+    },
+    {
+      "var1": 2018,
+      "var2": 13278,
+      "var3": 1024,
+      "var4": 98,
+      "var5": 73,
+      "var6": 52,
+      "var7": 591,
+      "var8": 45,
+      "var9": 142,
+      "var10": 23
+    },
+    {
+      "var1": 2019,
+      "var2": 13450,
+      "var3": 1063,
+      "var4": 107,
+      "var5": 67,
+      "var6": 61,
+      "var7": 610,
+      "var8": 54,
+      "var9": 157,
+      "var10": 24
+    },
+    {
+      "var1": 2020,
+      "var2": 11307,
+      "var3": 1000,
+      "var4": 49,
+      "var5": 73,
+      "var6": 45,
+      "var7": 622,
+      "var8": 49,
+      "var9": 157,
+      "var10": 33
+    },
+    {
+      "var1": 2021,
+      "var2": 11442,
+      "var3": 1089,
+      "var4": 95,
+      "var5": 66,
+      "var6": 39,
+      "var7": 530,
+      "var8": 39,
+      "var9": 170,
+      "var10": 34
+    },
+    {
+      "var1": 2022,
+      "var2": 11791,
+      "var3": 1064,
+      "var4": 87,
+      "var5": 46,
+      "var6": 46,
+      "var7": 575,
+      "var8": 36,
+      "var9": 181,
+      "var10": 32
+    },
+    {
+      "var1": 2023,
+      "var2": 11930,
+      "var3": 1092,
+      "var4": 85,
+      "var5": 49,
+      "var6": 49,
+      "var7": 585,
+      "var8": 43,
+      "var9": 176,
+      "var10": 39
+    },
+    {
+      "var1": 2024,
+      "var2": 12033,
+      "var3": 1402,
+      "var4": 90,
+      "var5": 65,
+      "var6": 51,
+      "var7": 541,
+      "var8": 45,
+      "var9": 172,
+      "var10": 35
+    },
+    {
+      "var1": 1991,
+      "var2": 12458,
+      "var3": 1239,
+      "var4": 222,
+      "var5": 162,
+      "var6": 170,
+      "var7": 246,
+      "var8": 66,
+      "var9": 327,
+      "var10": 129
+    },
+    {
+      "var1": 1992,
+      "var2": 16880,
+      "var3": 1544,
+      "var4": 269,
+      "var5": 125,
+      "var6": 133,
+      "var7": 346,
+      "var8": 76,
+      "var9": 328,
+      "var10": 118
+    },
+    {
+      "var1": 1993,
+      "var2": 18562,
+      "var3": 1479,
+      "var4": 233,
+      "var5": 99,
+      "var6": 117,
+      "var7": 428,
+      "var8": 93,
+      "var9": 308,
+      "var10": 102
+    },
+    {
+      "var1": 1994,
+      "var2": 19115,
+      "var3": 2012,
+      "var4": 222,
+      "var5": 106,
+      "var6": 124,
+      "var7": 502,
+      "var8": 109,
+      "var9": 310,
+      "var10": 114
+    },
+    {
+      "var1": 1995,
+      "var2": 18710,
+      "var3": 2114,
+      "var4": 224,
+      "var5": 126,
+      "var6": 112,
+      "var7": 535,
+      "var8": 131,
+      "var9": 323,
+      "var10": 115
+    },
+    {
+      "var1": 1996,
+      "var2": 18445,
+      "var3": 2101,
+      "var4": 206,
+      "var5": 131,
+      "var6": 75,
+      "var7": 563,
+      "var8": 117,
+      "var9": 267,
+      "var10": 81
+    },
+    {
+      "var1": 1997,
+      "var2": 28243,
+      "var3": 2093,
+      "var4": 176,
+      "var5": 127,
+      "var6": 86,
+      "var7": 639,
+      "var8": 113,
+      "var9": 265,
+      "var10": 82
+    },
+    {
+      "var1": 1998,
+      "var2": 17976,
+      "var3": 1833,
+      "var4": 164,
+      "var5": 137,
+      "var6": 53,
+      "var7": 527,
+      "var8": 91,
+      "var9": 270,
+      "var10": 90
+    },
+    {
+      "var1": 1999,
+      "var2": 17341,
+      "var3": 1766,
+      "var4": 202,
+      "var5": 160,
+      "var6": 58,
+      "var7": 699,
+      "var8": 104,
+      "var9": 227,
+      "var10": 67
+    },
+    {
+      "var1": 2000,
+      "var2": 15681,
+      "var3": 1459,
+      "var4": 149,
+      "var5": 138,
+      "var6": 38,
+      "var7": 549,
+      "var8": 78,
+      "var9": 200,
+      "var10": 45
+    },
+    {
+      "var1": 2001,
+      "var2": 15629,
+      "var3": 1384,
+      "var4": 157,
+      "var5": 127,
+      "var6": 37,
+      "var7": 491,
+      "var8": 45,
+      "var9": 200,
+      "var10": 56
+    },
+    {
+      "var1": 2002,
+      "var2": 14830,
+      "var3": 1246,
+      "var4": 128,
+      "var5": 134,
+      "var6": 45,
+      "var7": 496,
+      "var8": 58,
+      "var9": 216,
+      "var10": 54
+    },
+    {
+      "var1": 2003,
+      "var2": 14181,
+      "var3": 1279,
+      "var4": 128,
+      "var5": 131,
+      "var6": 36,
+      "var7": 649,
+      "var8": 63,
+      "var9": 170,
+      "var10": 44
+    },
+    {
+      "var1": 2004,
+      "var2": null,
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null,
+      "var9": null,
+      "var10": null
+    },
+    {
+      "var1": 2005,
+      "var2": null,
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null,
+      "var9": null,
+      "var10": null
+    },
+    {
+      "var1": 2006,
+      "var2": 14117,
+      "var3": 1398,
+      "var4": 129,
+      "var5": 147,
+      "var6": 60,
+      "var7": 729,
+      "var8": 65,
+      "var9": 216,
+      "var10": 46
+    },
+    {
+      "var1": 2007,
+      "var2": 14312,
+      "var3": 1405,
+      "var4": 109,
+      "var5": 125,
+      "var6": 72,
+      "var7": 698,
+      "var8": 49,
+      "var9": 185,
+      "var10": 38
+    },
+    {
+      "var1": 2008,
+      "var2": 13662,
+      "var3": 1356,
+      "var4": 121,
+      "var5": 116,
+      "var6": 88,
+      "var7": 735,
+      "var8": 46,
+      "var9": 203,
+      "var10": 34
+    },
+    {
+      "var1": 2009,
+      "var2": 14318,
+      "var3": 1379,
+      "var4": 127,
+      "var5": 90,
+      "var6": 86,
+      "var7": 706,
+      "var8": 51,
+      "var9": 178,
+      "var10": 35
+    },
+    {
+      "var1": 2010,
+      "var2": 14695,
+      "var3": 1537,
+      "var4": 171,
+      "var5": 93,
+      "var6": 75,
+      "var7": 585,
+      "var8": 46,
+      "var9": 174,
+      "var10": 49
+    },
+    {
+      "var1": 2011,
+      "var2": 13945,
+      "var3": 1362,
+      "var4": 143,
+      "var5": 88,
+      "var6": 65,
+      "var7": 633,
+      "var8": 42,
+      "var9": 184,
+      "var10": 37
+    },
+    {
+      "var1": 2012,
+      "var2": 14063,
+      "var3": 1282,
+      "var4": 117,
+      "var5": 91,
+      "var6": 87,
+      "var7": 584,
+      "var8": 43,
+      "var9": 171,
+      "var10": 38
+    },
+    {
+      "var1": 2013,
+      "var2": 13836,
+      "var3": 1363,
+      "var4": 112,
+      "var5": 96,
+      "var6": 58,
+      "var7": 545,
+      "var8": 30,
+      "var9": 204,
+      "var10": 38
+    },
+    {
+      "var1": 2014,
+      "var2": 12805,
+      "var3": 1212,
+      "var4": 114,
+      "var5": 74,
+      "var6": 66,
+      "var7": 559,
+      "var8": 36,
+      "var9": 205,
+      "var10": 45
+    },
+    {
+      "var1": 2015,
+      "var2": 12388,
+      "var3": 1107,
+      "var4": 83,
+      "var5": 88,
+      "var6": 64,
+      "var7": 495,
+      "var8": 32,
+      "var9": 150,
+      "var10": 29
+    },
+    {
+      "var1": 2016,
+      "var2": 12650,
+      "var3": 1091,
+      "var4": 105,
+      "var5": 87,
+      "var6": 53,
+      "var7": 566,
+      "var8": 37,
+      "var9": 168,
+      "var10": 38
+    }
+  ]
+}

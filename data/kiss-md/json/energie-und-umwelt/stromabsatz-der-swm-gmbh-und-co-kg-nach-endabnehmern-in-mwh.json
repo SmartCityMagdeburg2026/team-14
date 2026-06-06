@@ -1,0 +1,432 @@
+{
+  "id": "energie-und-umwelt/stromabsatz-der-swm-gmbh-und-co-kg-nach-endabnehmern-in-mwh",
+  "title": "Stromabsatz der SWM GmbH & Co. KG nach Endabnehmern in MWh",
+  "category": "Energie und Umwelt",
+  "subcategory": "Versorgung mit Strom, Wärme, Erdgas und Wasser",
+  "tableId": "K9_T2",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/stromabsatz-der-swm-gmbh-und-co-kg-nach-endabnehmern-in-mwh.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Stromabsatz der SWM GmbH & Co. KG nach Endabnehmern in MWh.xlsx"
+  },
+  "description": "Stromabsatz der SWM GmbH & Co. KG nach Endabnehmer-Gruppen in MWh. Die 11 Abnehmer-Gruppen (var2..var12) sind nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2006,
+        2007,
+        2008
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        907781,
+        969757,
+        955564
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        894261,
+        957418,
+        939058
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        516330,
+        588694,
+        566803
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        426417,
+        492407,
+        442630
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        89913,
+        96287,
+        124173
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        377931,
+        368724,
+        372255
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        455179,
+        487326,
+        633191
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        28220,
+        25488,
+        25288
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        380061,
+        406902,
+        243019
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        59021,
+        63190,
+        62849
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        13519,
+        12339,
+        16506
+      ]
+    }
+  ],
+  "rowCount": 19,
+  "rows": [
+    {
+      "var1": 2006,
+      "var2": 907781,
+      "var3": 894261,
+      "var4": 516330,
+      "var5": 426417,
+      "var6": 89913,
+      "var7": 377931,
+      "var8": 455179,
+      "var9": null,
+      "var10": 380061,
+      "var11": 59021,
+      "var12": 13519
+    },
+    {
+      "var1": 2007,
+      "var2": 969757,
+      "var3": 957418,
+      "var4": 588694,
+      "var5": 492407,
+      "var6": 96287,
+      "var7": 368724,
+      "var8": 487326,
+      "var9": null,
+      "var10": 406902,
+      "var11": 63190,
+      "var12": 12339
+    },
+    {
+      "var1": 2008,
+      "var2": 955564,
+      "var3": 939058,
+      "var4": 566803,
+      "var5": 442630,
+      "var6": 124173,
+      "var7": 372255,
+      "var8": 633191,
+      "var9": null,
+      "var10": 243019,
+      "var11": 62849,
+      "var12": 16506
+    },
+    {
+      "var1": 2009,
+      "var2": 987385,
+      "var3": 970955,
+      "var4": 591187,
+      "var5": 438030,
+      "var6": 153157,
+      "var7": 379768,
+      "var8": 601300,
+      "var9": null,
+      "var10": 249582,
+      "var11": 120073,
+      "var12": 16430
+    },
+    {
+      "var1": 2010,
+      "var2": 1169261,
+      "var3": 1152006,
+      "var4": 754306,
+      "var5": 655180,
+      "var6": 99126,
+      "var7": 397700,
+      "var8": 554633,
+      "var9": 28220,
+      "var10": 250315,
+      "var11": 318838,
+      "var12": 17255
+    },
+    {
+      "var1": 2011,
+      "var2": 1172512,
+      "var3": 1159031,
+      "var4": 769009,
+      "var5": 636939,
+      "var6": 132070,
+      "var7": 390022,
+      "var8": 646777,
+      "var9": 25488,
+      "var10": 236839,
+      "var11": 249927,
+      "var12": 13481
+    },
+    {
+      "var1": 2012,
+      "var2": 1163266,
+      "var3": 1150759,
+      "var4": 755624,
+      "var5": 646811,
+      "var6": 108813,
+      "var7": 395135,
+      "var8": 561784,
+      "var9": 25288,
+      "var10": 264355,
+      "var11": 299352,
+      "var12": 12507
+    },
+    {
+      "var1": 2013,
+      "var2": 1371485,
+      "var3": 1357645,
+      "var4": 967384,
+      "var5": 736651,
+      "var6": 230733,
+      "var7": 390261,
+      "var8": 808581,
+      "var9": 24768,
+      "var10": 237060,
+      "var11": 287236,
+      "var12": 13840
+    },
+    {
+      "var1": 2014,
+      "var2": 1486623,
+      "var3": 1472189,
+      "var4": 1096252,
+      "var5": 985779,
+      "var6": 110473,
+      "var7": 375937,
+      "var8": 882770,
+      "var9": 23225,
+      "var10": 225215,
+      "var11": 340979,
+      "var12": 14434
+    },
+    {
+      "var1": 2015,
+      "var2": 1553604,
+      "var3": 1538379,
+      "var4": 1157686,
+      "var5": 1057692,
+      "var6": 99997,
+      "var7": 380690,
+      "var8": 856908,
+      "var9": 23364,
+      "var10": 229252,
+      "var11": 428855,
+      "var12": 15225
+    },
+    {
+      "var1": 2016,
+      "var2": 1515145,
+      "var3": 1499173,
+      "var4": 1113632,
+      "var5": 1018426,
+      "var6": 95205,
+      "var7": 385542,
+      "var8": 876818,
+      "var9": 23876,
+      "var10": 228785,
+      "var11": 369694,
+      "var12": 15972
+    },
+    {
+      "var1": 2017,
+      "var2": 1498536,
+      "var3": 1480607,
+      "var4": 1086896,
+      "var5": 1002950,
+      "var6": 83946,
+      "var7": 393711,
+      "var8": 895140,
+      "var9": 23592,
+      "var10": 223340,
+      "var11": 338535,
+      "var12": 17929
+    },
+    {
+      "var1": 2018,
+      "var2": 1493161,
+      "var3": 1475490,
+      "var4": 1053925,
+      "var5": 948428,
+      "var6": 105497,
+      "var7": 421565,
+      "var8": 835137,
+      "var9": 23643,
+      "var10": 246462,
+      "var11": 370248,
+      "var12": 17671
+    },
+    {
+      "var1": 2019,
+      "var2": 1460883.13006899,
+      "var3": 1445335.38927932,
+      "var4": 1024163.645,
+      "var5": 898798.656566115,
+      "var6": 125364.988433885,
+      "var7": 421171.744279319,
+      "var8": 833799.707226814,
+      "var9": 24177.362384,
+      "var10": 221323.221075751,
+      "var11": 366035.098592755,
+      "var12": 15547.7407896667
+    },
+    {
+      "var1": 2020,
+      "var2": 1411390.2842571,
+      "var3": 1395865.0200321,
+      "var4": 957294.001955,
+      "var5": 838813.552333027,
+      "var6": 118480.449621973,
+      "var7": 438571.018077104,
+      "var8": 780668.26844697,
+      "var9": 24047.864289999998,
+      "var10": 214537.445443349,
+      "var11": 376611.441851784,
+      "var12": 15525.264225
+    },
+    {
+      "var1": 2021,
+      "var2": 1473850.512614,
+      "var3": 1457593.351303,
+      "var4": 1013056.563,
+      "var5": 876385.882084196,
+      "var6": 136670.680915803,
+      "var7": 444536.788303,
+      "var8": 850929.596270149,
+      "var9": 26869.493408,
+      "var10": 225249.341322058,
+      "var11": 354544.920302794,
+      "var12": 16257.161311
+    },
+    {
+      "var1": 2022,
+      "var2": 1483087.59826363,
+      "var3": 1468515.10902263,
+      "var4": 1029522.55002,
+      "var5": 888423.713700055,
+      "var6": 141098.836319946,
+      "var7": 438992.559002629,
+      "var8": 830021.652630736,
+      "var9": 25215.334081,
+      "var10": 217487.321796749,
+      "var11": 395790.800514143,
+      "var12": 14572.489241
+    },
+    {
+      "var1": 2023,
+      "var2": 1730395.10750563,
+      "var3": 1715931.89777863,
+      "var4": 1324798.028478,
+      "var5": 1186865.80688751,
+      "var6": 137932.22159049,
+      "var7": 391133.869300635,
+      "var8": 1088455.30998827,
+      "var9": 23147.330912,
+      "var10": 214957.048331521,
+      "var11": 389372.20854684,
+      "var12": 14463.209727
+    },
+    {
+      "var1": 2024,
+      "var2": 1783392.93072496,
+      "var3": 1768847.10147696,
+      "var4": 1414075.060973,
+      "var5": 1253729.11693058,
+      "var6": 160345.944042418,
+      "var7": 354772.040503955,
+      "var8": 1156537.76317947,
+      "var9": 21870.155075,
+      "var10": 188530.603912347,
+      "var11": 401908.579310142,
+      "var12": 14545.829248
+    }
+  ]
+}

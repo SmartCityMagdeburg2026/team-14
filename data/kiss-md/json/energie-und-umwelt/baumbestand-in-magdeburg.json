@@ -1,0 +1,143 @@
+{
+  "id": "energie-und-umwelt/baumbestand-in-magdeburg",
+  "title": "Baumbestand in Magdeburg",
+  "category": "Energie und Umwelt",
+  "subcategory": "Öffentliches Grün",
+  "tableId": "K9_T36",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/baumbestand-in-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Baumbestand in Magdeburg.xlsx"
+  },
+  "description": "Baumbestand in Magdeburg, aufgeschlüsselt nach Standorten/Pflegeklassen. Spalten var2..var9 entsprechen verschiedenen Baumkategorien, ohne herleitbare Zuordnung.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2020,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        8638,
+        8613
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        54474,
+        54596
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1362,
+        1350
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        33326,
+        33016
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        8531,
+        8482
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        52106,
+        52107
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1298,
+        1290
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        30955,
+        30863
+      ]
+    }
+  ],
+  "rowCount": 2,
+  "rows": [
+    {
+      "var1": 2020,
+      "var2": 8638,
+      "var3": 54474,
+      "var4": 1362,
+      "var5": 33326,
+      "var6": 8531,
+      "var7": 52106,
+      "var8": 1298,
+      "var9": 30955
+    },
+    {
+      "var1": 2021,
+      "var2": 8613,
+      "var3": 54596,
+      "var4": 1350,
+      "var5": 33016,
+      "var6": 8482,
+      "var7": 52107,
+      "var8": 1290,
+      "var9": 30863
+    }
+  ]
+}

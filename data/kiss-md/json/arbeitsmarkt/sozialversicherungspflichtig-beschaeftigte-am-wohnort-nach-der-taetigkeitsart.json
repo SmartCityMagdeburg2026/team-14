@@ -1,0 +1,158 @@
+{
+  "id": "arbeitsmarkt/sozialversicherungspflichtig-beschaeftigte-am-wohnort-nach-der-taetigkeitsart",
+  "title": "Sozialversicherungspflichtig Beschäftigte am Wohnort nach der Tätigkeitsart",
+  "category": "Arbeitsmarkt",
+  "subcategory": "Sozialversicherungspflichtig Beschäftigte am Wohnort",
+  "tableId": "K7_T55b",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/arbeitsmarkt/sozialversicherungspflichtig-beschaeftigte-am-wohnort-nach-der-taetigkeitsart.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Sozialversicherungspflichtig Beschäftigte am Wohnort nach der Tätigkeitsart.xlsx"
+  },
+  "description": "Sozialversicherungspflichtig Beschäftigte am Wohnort nach Tätigkeitsart. var3..var6 entsprechen 4 Tätigkeitsarten, deren Zuordnung nicht eindeutig war.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Beschäftigte gesamt am Wohnort",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        90272,
+        92345,
+        93818
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        64159,
+        64878,
+        64940
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        24671,
+        24510,
+        24262
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        26113,
+        27467,
+        28878
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        19817,
+        20239,
+        20610
+      ]
+    }
+  ],
+  "rowCount": 8,
+  "rows": [
+    {
+      "var1": 2016,
+      "var2": 90272,
+      "var3": 64159,
+      "var4": null,
+      "var5": 26113,
+      "var6": null
+    },
+    {
+      "var1": 2017,
+      "var2": 92345,
+      "var3": 64878,
+      "var4": 24671,
+      "var5": 27467,
+      "var6": 19817
+    },
+    {
+      "var1": 2018,
+      "var2": 93818,
+      "var3": 64940,
+      "var4": 24510,
+      "var5": 28878,
+      "var6": 20239
+    },
+    {
+      "var1": 2019,
+      "var2": 94376,
+      "var3": 65046,
+      "var4": 24262,
+      "var5": 29330,
+      "var6": 20610
+    },
+    {
+      "var1": 2020,
+      "var2": 94768,
+      "var3": 65406,
+      "var4": 24330,
+      "var5": 29362,
+      "var6": 20495
+    },
+    {
+      "var1": 2021,
+      "var2": 96217,
+      "var3": 65609,
+      "var4": 24281,
+      "var5": 30608,
+      "var6": 21062
+    },
+    {
+      "var1": 2022,
+      "var2": 96617,
+      "var3": 65707,
+      "var4": 24224,
+      "var5": 30910,
+      "var6": 21264
+    },
+    {
+      "var1": 2023,
+      "var2": 97455,
+      "var3": 66444,
+      "var4": 24344,
+      "var5": 31011,
+      "var6": 21124
+    }
+  ]
+}

@@ -1,0 +1,1034 @@
+{
+  "id": "oeffentliche-ordnung/polizeiliche-kriminalstatistik-im-vergleich-der-bundeslaender",
+  "title": "Polizeiliche Kriminalstatistik im Vergleich der Bundesländer",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Kriminalitätsstatistik",
+  "tableId": "K11_T5",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/polizeiliche-kriminalstatistik-im-vergleich-der-bundeslaender.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Polizeiliche Kriminalstatistik im Vergleich der Bundesländer.xlsx"
+  },
+  "description": "Polizeiliche Kriminalstatistik im Vergleich der Bundesländer. var4/var5 enthalten Aufklärungsquoten und Tatverdächtige, die LLM-Werte waren aber teilweise unplausibel.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2017,
+        2017
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Bundesland",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Schleswig-Holstein",
+        "Hamburg",
+        "Niedersachsen"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Straftaten gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        188979,
+        225947,
+        526120
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        53.9,
+        44.4,
+        62.3
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        6557,
+        12480,
+        6621
+      ]
+    }
+  ],
+  "rowCount": 136,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": "Schleswig-Holstein",
+      "var3": 188979,
+      "var4": 53.9,
+      "var5": 6557
+    },
+    {
+      "var1": 2017,
+      "var2": "Hamburg",
+      "var3": 225947,
+      "var4": 44.4,
+      "var5": 12480
+    },
+    {
+      "var1": 2017,
+      "var2": "Niedersachsen",
+      "var3": 526120,
+      "var4": 62.3,
+      "var5": 6621
+    },
+    {
+      "var1": 2017,
+      "var2": "Bremen",
+      "var3": 81176,
+      "var4": 48.5,
+      "var5": 11960
+    },
+    {
+      "var1": 2017,
+      "var2": "Nordrhein-Westfalen",
+      "var3": 1373390,
+      "var4": 52.3,
+      "var5": 7677
+    },
+    {
+      "var1": 2017,
+      "var2": "Hessen",
+      "var3": 375632,
+      "var4": 62.8,
+      "var5": 6046
+    },
+    {
+      "var1": 2017,
+      "var2": "Rheinland-Pfalz",
+      "var3": 251713,
+      "var4": 64.4,
+      "var5": 6191
+    },
+    {
+      "var1": 2017,
+      "var2": "Baden-Würtemberg",
+      "var3": 579953,
+      "var4": 62.4,
+      "var5": 5295
+    },
+    {
+      "var1": 2017,
+      "var2": "Bayern",
+      "var3": 629512,
+      "var4": 66.8,
+      "var5": 4868
+    },
+    {
+      "var1": 2017,
+      "var2": "Saarland",
+      "var3": 70860,
+      "var4": 56.3,
+      "var5": 7110
+    },
+    {
+      "var1": 2017,
+      "var2": "Berlin",
+      "var3": 520437,
+      "var4": 44.2,
+      "var5": 14558
+    },
+    {
+      "var1": 2017,
+      "var2": "Brandenburg",
+      "var3": 175003,
+      "var4": 55.3,
+      "var5": 7015
+    },
+    {
+      "var1": 2017,
+      "var2": "Mecklenburg-Vorpommern",
+      "var3": 110337,
+      "var4": 62,
+      "var5": 6850
+    },
+    {
+      "var1": 2017,
+      "var2": "Sachsen",
+      "var3": 323136,
+      "var4": 59.2,
+      "var5": 7917
+    },
+    {
+      "var1": 2017,
+      "var2": "Sachsen-Anhalt",
+      "var3": 186552,
+      "var4": 55.7,
+      "var5": 8342
+    },
+    {
+      "var1": 2017,
+      "var2": "Thüringen",
+      "var3": 143237,
+      "var4": 64.5,
+      "var5": 6637
+    },
+    {
+      "var1": 2017,
+      "var2": "Bundesgebiet",
+      "var3": 5761984,
+      "var4": 57.1,
+      "var5": 6982
+    },
+    {
+      "var1": 2018,
+      "var2": "Schleswig-Holstein",
+      "var3": 186894,
+      "var4": 54.5,
+      "var5": 6467
+    },
+    {
+      "var1": 2018,
+      "var2": "Hamburg",
+      "var3": 218594,
+      "var4": 45.8,
+      "var5": 11941
+    },
+    {
+      "var1": 2018,
+      "var2": "Niedersachsen",
+      "var3": 506585,
+      "var4": 62.8,
+      "var5": 6362
+    },
+    {
+      "var1": 2018,
+      "var2": "Bremen",
+      "var3": 74524,
+      "var4": 49.2,
+      "var5": 10943
+    },
+    {
+      "var1": 2018,
+      "var2": "Nordrhein-Westfalen",
+      "var3": 1282441,
+      "var4": 53.7,
+      "var5": 7160
+    },
+    {
+      "var1": 2018,
+      "var2": "Hessen",
+      "var3": 372798,
+      "var4": 64.2,
+      "var5": 5971
+    },
+    {
+      "var1": 2018,
+      "var2": "Rheinland-Pfalz",
+      "var3": 244468,
+      "var4": 64.5,
+      "var5": 6001
+    },
+    {
+      "var1": 2018,
+      "var2": "Baden-Würtemberg",
+      "var3": 572173,
+      "var4": 62.7,
+      "var5": 5191
+    },
+    {
+      "var1": 2018,
+      "var2": "Bayern",
+      "var3": 635421,
+      "var4": 66.7,
+      "var5": 4889
+    },
+    {
+      "var1": 2018,
+      "var2": "Saarland",
+      "var3": 70873,
+      "var4": 56.1,
+      "var5": 7129
+    },
+    {
+      "var1": 2018,
+      "var2": "Berlin",
+      "var3": 511677,
+      "var4": 44.4,
+      "var5": 14160
+    },
+    {
+      "var1": 2018,
+      "var2": "Brandenburg",
+      "var3": 172828,
+      "var4": 56,
+      "var5": 6902
+    },
+    {
+      "var1": 2018,
+      "var2": "Mecklenburg-Vorpommern",
+      "var3": 108665,
+      "var4": 62.2,
+      "var5": 6745
+    },
+    {
+      "var1": 2018,
+      "var2": "Sachsen",
+      "var3": 278796,
+      "var4": 56.6,
+      "var5": 6831
+    },
+    {
+      "var1": 2018,
+      "var2": "Sachsen-Anhalt",
+      "var3": 175625,
+      "var4": 55.6,
+      "var5": 7900
+    },
+    {
+      "var1": 2018,
+      "var2": "Thüringen",
+      "var3": 143158,
+      "var4": 66.0999999999999,
+      "var5": 6655
+    },
+    {
+      "var1": 2018,
+      "var2": "Bundesgebiet",
+      "var3": 5555520,
+      "var4": 57.7,
+      "var5": 6710
+    },
+    {
+      "var1": 2019,
+      "var2": "Schleswig-Holstein",
+      "var3": 183445,
+      "var4": 54.7395677178446,
+      "var5": 6333
+    },
+    {
+      "var1": 2019,
+      "var2": "Hamburg",
+      "var3": 210832,
+      "var4": 46.6888328147529,
+      "var5": 11451
+    },
+    {
+      "var1": 2019,
+      "var2": "Niedersachsen",
+      "var3": 506582,
+      "var4": 63.4390878475744,
+      "var5": 6346
+    },
+    {
+      "var1": 2019,
+      "var2": "Bremen",
+      "var3": 78228,
+      "var4": 48.7267985887406,
+      "var5": 11454
+    },
+    {
+      "var1": 2019,
+      "var2": "Nordrhein-Westfalen",
+      "var3": 1227929,
+      "var4": 53.3253958494343,
+      "var5": 6847
+    },
+    {
+      "var1": 2019,
+      "var2": "Hessen",
+      "var3": 364833,
+      "var4": 65.162964973015,
+      "var5": 5823
+    },
+    {
+      "var1": 2019,
+      "var2": "Rheinland-Pfalz",
+      "var3": 241529,
+      "var4": 64.8878602569463,
+      "var5": 5913
+    },
+    {
+      "var1": 2019,
+      "var2": "Baden-Würtemberg",
+      "var3": 573813,
+      "var4": 60.7626526411915,
+      "var5": 5184
+    },
+    {
+      "var1": 2019,
+      "var2": "Bayern",
+      "var3": 603464,
+      "var4": 66.9708549308657,
+      "var5": 4615
+    },
+    {
+      "var1": 2019,
+      "var2": "Saarland",
+      "var3": 74719,
+      "var4": 54.0050054203081,
+      "var5": 7543
+    },
+    {
+      "var1": 2019,
+      "var2": "Berlin",
+      "var3": 513426,
+      "var4": 44.7059556781307,
+      "var5": 14086
+    },
+    {
+      "var1": 2019,
+      "var2": "Brandenburg",
+      "var3": 171828,
+      "var4": 56.2713876667365,
+      "var5": 6841
+    },
+    {
+      "var1": 2019,
+      "var2": "Mecklenburg-Vorpommern",
+      "var3": 111329,
+      "var4": 62.7734013599332,
+      "var5": 6916
+    },
+    {
+      "var1": 2019,
+      "var2": "Sachsen",
+      "var3": 271796,
+      "var4": 56.2425495592282,
+      "var5": 6665
+    },
+    {
+      "var1": 2019,
+      "var2": "Sachsen-Anhalt",
+      "var3": 173347,
+      "var4": 55.0248922681096,
+      "var5": 7850
+    },
+    {
+      "var1": 2019,
+      "var2": "Thüringen",
+      "var3": 129301,
+      "var4": 61.1333245682555,
+      "var5": 6033
+    },
+    {
+      "var1": 2019,
+      "var2": "Bundesgebiet",
+      "var3": 5436401,
+      "var4": 57.4674495130142,
+      "var5": 6548
+    },
+    {
+      "var1": 2020,
+      "var2": "Schleswig-Holstein",
+      "var3": 173929,
+      "var4": 55.8,
+      "var5": 5990
+    },
+    {
+      "var1": 2020,
+      "var2": "Hamburg",
+      "var3": 203526,
+      "var4": 47.7,
+      "var5": 11018
+    },
+    {
+      "var1": 2020,
+      "var2": "Niedersachsen",
+      "var3": 497158,
+      "var4": 64.3,
+      "var5": 6219
+    },
+    {
+      "var1": 2020,
+      "var2": "Bremen",
+      "var3": 80869,
+      "var4": 51.5,
+      "var5": 11872
+    },
+    {
+      "var1": 2020,
+      "var2": "Nordrhein-Westfalen",
+      "var3": 1215763,
+      "var4": 52.8,
+      "var5": 6774
+    },
+    {
+      "var1": 2020,
+      "var2": "Hessen",
+      "var3": 342423,
+      "var4": 65.5,
+      "var5": 5446
+    },
+    {
+      "var1": 2020,
+      "var2": "Rheinland-Pfalz",
+      "var3": 230304,
+      "var4": 66.2,
+      "var5": 5626
+    },
+    {
+      "var1": 2020,
+      "var2": "Baden-Würtemberg",
+      "var3": 538566,
+      "var4": 64,
+      "var5": 4852
+    },
+    {
+      "var1": 2020,
+      "var2": "Bayern",
+      "var3": 594243,
+      "var4": 68.0999999999999,
+      "var5": 4528
+    },
+    {
+      "var1": 2020,
+      "var2": "Saarland",
+      "var3": 68400,
+      "var4": 57.8,
+      "var5": 6931
+    },
+    {
+      "var1": 2020,
+      "var2": "Berlin",
+      "var3": 504142,
+      "var4": 46.1,
+      "var5": 13739
+    },
+    {
+      "var1": 2020,
+      "var2": "Brandenburg",
+      "var3": 162941,
+      "var4": 56.4,
+      "var5": 6461
+    },
+    {
+      "var1": 2020,
+      "var2": "Mecklenburg-Vorpommern",
+      "var3": 105932,
+      "var4": 62.9,
+      "var5": 6587
+    },
+    {
+      "var1": 2020,
+      "var2": "Sachsen",
+      "var3": 272588,
+      "var4": 58.7,
+      "var5": 6694
+    },
+    {
+      "var1": 2020,
+      "var2": "Sachsen-Anhalt",
+      "var3": 177904,
+      "var4": 54.1,
+      "var5": 8106
+    },
+    {
+      "var1": 2020,
+      "var2": "Thüringen",
+      "var3": 141933,
+      "var4": 63.5,
+      "var5": 6653
+    },
+    {
+      "var1": 2020,
+      "var2": "Bundesgebiet",
+      "var3": 5310621,
+      "var4": 58.4,
+      "var5": 6386
+    },
+    {
+      "var1": 2021,
+      "var2": "Schleswig-Holstein",
+      "var3": 176893,
+      "var4": 57.6,
+      "var5": 6077
+    },
+    {
+      "var1": 2021,
+      "var2": "Hamburg",
+      "var3": 186403,
+      "var4": 47.6,
+      "var5": 10062
+    },
+    {
+      "var1": 2021,
+      "var2": "Niedersachsen",
+      "var3": 472096,
+      "var4": 64.0999999999999,
+      "var5": 5899
+    },
+    {
+      "var1": 2021,
+      "var2": "Bremen",
+      "var3": 75966,
+      "var4": 48.9,
+      "var5": 11169
+    },
+    {
+      "var1": 2021,
+      "var2": "Nordrhien-Westfalen",
+      "var3": 1201472,
+      "var4": 53.6,
+      "var5": 6703
+    },
+    {
+      "var1": 2021,
+      "var2": "Hessen",
+      "var3": 336030,
+      "var4": 65.5999999999999,
+      "var5": 5340
+    },
+    {
+      "var1": 2021,
+      "var2": "Rheinland-Pfalz",
+      "var3": 217305,
+      "var4": 66.7,
+      "var5": 5302
+    },
+    {
+      "var1": 2021,
+      "var2": "Baden-Würtemberg",
+      "var3": 486331,
+      "var4": 65.3,
+      "var5": 4380
+    },
+    {
+      "var1": 2021,
+      "var2": "Bayern",
+      "var3": 543680,
+      "var4": 69,
+      "var5": 4138
+    },
+    {
+      "var1": 2021,
+      "var2": "Saarland",
+      "var3": 58651,
+      "var4": 59.3,
+      "var5": 5961
+    },
+    {
+      "var1": 2021,
+      "var2": "Berlin",
+      "var3": 482127,
+      "var4": 45.3,
+      "var5": 13158
+    },
+    {
+      "var1": 2021,
+      "var2": "Brandenburg",
+      "var3": 158964,
+      "var4": 55.7,
+      "var5": 6281
+    },
+    {
+      "var1": 2021,
+      "var2": "Mecklenburg-Vorpommern",
+      "var3": 104452,
+      "var4": 62.8,
+      "var5": 6485
+    },
+    {
+      "var1": 2021,
+      "var2": "Sachsen",
+      "var3": 246615,
+      "var4": 59.6,
+      "var5": 6079
+    },
+    {
+      "var1": 2021,
+      "var2": "Sachsen-Anhalt",
+      "var3": 170464,
+      "var4": 55.5,
+      "var5": 7817
+    },
+    {
+      "var1": 2021,
+      "var2": "Thüringen",
+      "var3": 130411,
+      "var4": 63.8,
+      "var5": 6151
+    },
+    {
+      "var1": 2021,
+      "var2": "Bundesgebiet",
+      "var3": 5047860,
+      "var4": 58.7,
+      "var5": 6070
+    },
+    {
+      "var1": 2022,
+      "var2": "Schleswig-Holstein",
+      "var3": 221183,
+      "var4": 61.1,
+      "var5": 6612
+    },
+    {
+      "var1": 2022,
+      "var2": "Hamburg",
+      "var3": 211239,
+      "var4": 46.2,
+      "var5": 11394
+    },
+    {
+      "var1": 2022,
+      "var2": "Niedersachsen",
+      "var3": 523996,
+      "var4": 61.7,
+      "var5": 6528
+    },
+    {
+      "var1": 2022,
+      "var2": "Bremen",
+      "var3": 79713,
+      "var4": 45.5,
+      "var5": 11784
+    },
+    {
+      "var1": 2022,
+      "var2": "Nordrhein-Westfalen",
+      "var3": 1366601,
+      "var4": 52,
+      "var5": 7624
+    },
+    {
+      "var1": 2022,
+      "var2": "Hessen",
+      "var3": 368579,
+      "var4": 63.7,
+      "var5": 5855
+    },
+    {
+      "var1": 2022,
+      "var2": "Rheinland-Pfalz",
+      "var3": 241779,
+      "var4": 64.5,
+      "var5": 5888
+    },
+    {
+      "var1": 2022,
+      "var2": "Baden-Würtemberg",
+      "var3": 550008,
+      "var4": 61.4,
+      "var5": 4944
+    },
+    {
+      "var1": 2022,
+      "var2": "Bayern",
+      "var3": 619089,
+      "var4": 67.7,
+      "var5": 4698
+    },
+    {
+      "var1": 2022,
+      "var2": "Saarland",
+      "var3": 68139,
+      "var4": 59.8,
+      "var5": 6936
+    },
+    {
+      "var1": 2022,
+      "var2": "Berlin",
+      "var3": 519822,
+      "var4": 44.9,
+      "var5": 14135
+    },
+    {
+      "var1": 2022,
+      "var2": "Brandenburg",
+      "var3": 170204,
+      "var4": 56.5,
+      "var5": 6707
+    },
+    {
+      "var1": 2022,
+      "var2": "Mecklenburg-Vorpommern",
+      "var3": 106559,
+      "var4": 62.5,
+      "var5": 6614
+    },
+    {
+      "var1": 2022,
+      "var2": "Sachsen",
+      "var3": 267312,
+      "var4": 58.4,
+      "var5": 6612
+    },
+    {
+      "var1": 2022,
+      "var2": "Sachsen-Anhalt",
+      "var3": 178450,
+      "var4": 54.6,
+      "var5": 8226
+    },
+    {
+      "var1": 2022,
+      "var2": "Thüringen",
+      "var3": 135911,
+      "var4": 63.2,
+      "var5": 6445
+    },
+    {
+      "var1": 2022,
+      "var2": "Bundesgebiet",
+      "var3": 5628584,
+      "var4": 57.3,
+      "var5": 6762
+    },
+    {
+      "var1": 2023,
+      "var2": "Schleswig-Holstein",
+      "var3": 196289,
+      "var4": 61.9,
+      "var5": 7074
+    },
+    {
+      "var1": 2023,
+      "var2": "Hamburg",
+      "var3": 234241,
+      "var4": 48.2,
+      "var5": 12380
+    },
+    {
+      "var1": 2023,
+      "var2": "Niedersachsen",
+      "var3": 553202,
+      "var4": 62.5,
+      "var5": 6796
+    },
+    {
+      "var1": 2023,
+      "var2": "Bremen",
+      "var3": 97112,
+      "var4": 47.8,
+      "var5": 14180
+    },
+    {
+      "var1": 2023,
+      "var2": "Nordrhein-Westfalen",
+      "var3": 14212806,
+      "var4": 54.2,
+      "var5": 7789
+    },
+    {
+      "var1": 2023,
+      "var2": "Hessen",
+      "var3": 397512,
+      "var4": 63.2,
+      "var5": 6220
+    },
+    {
+      "var1": 2023,
+      "var2": "Rheinland-Pfalz",
+      "var3": 255972,
+      "var4": 64.5,
+      "var5": 6154
+    },
+    {
+      "var1": 2023,
+      "var2": "Baden-Würtemberg",
+      "var3": 594657,
+      "var4": 63.5,
+      "var5": 5272
+    },
+    {
+      "var1": 2023,
+      "var2": "Bayern",
+      "var3": 651519,
+      "var4": 68.7,
+      "var5": 4873
+    },
+    {
+      "var1": 2023,
+      "var2": "Saarland",
+      "var3": 72155,
+      "var4": 60.4,
+      "var5": 7269
+    },
+    {
+      "var1": 2023,
+      "var2": "Berlin",
+      "var3": 536697,
+      "var4": 45.5,
+      "var5": 14292
+    },
+    {
+      "var1": 2023,
+      "var2": "Brandenburg",
+      "var3": 186242,
+      "var4": 57.8,
+      "var5": 7238
+    },
+    {
+      "var1": 2023,
+      "var2": "Mecklenburg-Vorpommern",
+      "var3": 111571,
+      "var4": 62.8,
+      "var5": 6852
+    },
+    {
+      "var1": 2023,
+      "var2": "Sachsen",
+      "var3": 296421,
+      "var4": 60.9,
+      "var5": 7254
+    },
+    {
+      "var1": 2023,
+      "var2": "Sachsen-Anhalt",
+      "var3": 193814,
+      "var4": 55.9,
+      "var5": 8864
+    },
+    {
+      "var1": 2023,
+      "var2": "Thüringen",
+      "var3": 150457,
+      "var4": 61.9,
+      "var5": 7074
+    },
+    {
+      "var1": 2023,
+      "var2": "Bundesgebiet",
+      "var3": 5940667,
+      "var4": 58.4,
+      "var5": 7042
+    },
+    {
+      "var1": 2024,
+      "var2": "Schleswig-Holstein",
+      "var3": 213417,
+      "var4": 53.9,
+      "var5": 6557
+    },
+    {
+      "var1": 2024,
+      "var2": "Hamburg",
+      "var3": 224913,
+      "var4": 47.9,
+      "var5": 12147
+    },
+    {
+      "var1": 2024,
+      "var2": "Niedersachsen",
+      "var3": 529264,
+      "var4": 62.8,
+      "var5": 6609
+    },
+    {
+      "var1": 2024,
+      "var2": "Bremen",
+      "var3": 105384,
+      "var4": 45.5,
+      "var5": 14998
+    },
+    {
+      "var1": 2024,
+      "var2": "Nordrhein-Westfalen",
+      "var3": 1398652,
+      "var4": 53.5,
+      "var5": 7763
+    },
+    {
+      "var1": 2024,
+      "var2": "Hessen",
+      "var3": 388226,
+      "var4": 61.9,
+      "var5": 6194
+    },
+    {
+      "var1": 2024,
+      "var2": "Rheinland-Pfalz",
+      "var3": 239388,
+      "var4": 64.3,
+      "var5": 5803
+    },
+    {
+      "var1": 2024,
+      "var2": "Baden-Würtemberg",
+      "var3": 587330,
+      "var4": 62.6,
+      "var5": 36359
+    },
+    {
+      "var1": 2024,
+      "var2": "Bayern",
+      "var3": 622762,
+      "var4": 67.9,
+      "var5": 4726
+    },
+    {
+      "var1": 2024,
+      "var2": "Saarland",
+      "var3": 65607,
+      "var4": 61.2,
+      "var5": 6470
+    },
+    {
+      "var1": 2024,
+      "var2": "Berlin",
+      "var3": 539049,
+      "var4": 45.5,
+      "var5": 14719
+    },
+    {
+      "var1": 2024,
+      "var2": "Brandenburg",
+      "var3": 176641,
+      "var4": 58.4,
+      "var5": 6915
+    },
+    {
+      "var1": 2024,
+      "var2": "Mecklenburg-Vorpommern",
+      "var3": 108544,
+      "var4": 64.4,
+      "var5": 6878
+    },
+    {
+      "var1": 2024,
+      "var2": "Sachsen",
+      "var3": 297985,
+      "var4": 60.5,
+      "var5": 7349
+    },
+    {
+      "var1": 2024,
+      "var2": "Sachsen-Anhalt",
+      "var3": 184183,
+      "var4": 55.3,
+      "var5": 8588
+    },
+    {
+      "var1": 2024,
+      "var2": "Thüringen",
+      "var3": 156100,
+      "var4": 60.9,
+      "var5": 7381
+    },
+    {
+      "var1": 2024,
+      "var2": "Bundesgebiet",
+      "var3": 5837445,
+      "var4": 58,
+      "var5": 6995
+    }
+  ]
+}

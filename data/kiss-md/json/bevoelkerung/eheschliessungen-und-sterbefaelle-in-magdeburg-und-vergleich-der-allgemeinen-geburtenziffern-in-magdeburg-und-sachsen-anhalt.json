@@ -1,0 +1,362 @@
+{
+  "id": "bevoelkerung/eheschliessungen-und-sterbefaelle-in-magdeburg-und-vergleich-der-allgemeinen-geburtenziffern-in-magdeburg-und-sachsen-anhalt",
+  "title": "Eheschließungen und Sterbefälle in Magdeburg und Vergleich der Allgemeinen Geburtenziffern in Magdeburg und Sachsen-Anhalt",
+  "category": "Bevölkerung",
+  "subcategory": "Bevölkerungsbewegung",
+  "tableId": "K3_T16",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bevoelkerung/eheschliessungen-und-sterbefaelle-in-magdeburg-und-vergleich-der-allgemeinen-geburtenziffern-in-magdeburg-und-sachsen-anhalt.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Eheschließungen und Sterbefälle in Magdeburg und Vergleich der Allgemeinen Geburtenziffern in Magdeburg und Sachsen-Anhalt.xlsx"
+  },
+  "description": "Eheschließungen und Sterbefälle in Magdeburg sowie Vergleich der Allgemeinen Geburtenziffern Magdeburg vs. Sachsen-Anhalt. Die einzelnen Spalten (var2..var5) waren nicht eindeutig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        8.3,
+        3.3,
+        9.7
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        13.1,
+        12.7,
+        12.1
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        12.9,
+        13.2,
+        12.7
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        13.3,
+        13.1,
+        13.3
+      ]
+    }
+  ],
+  "rowCount": 40,
+  "rows": [
+    {
+      "var1": 1985,
+      "var2": 8.3,
+      "var3": 13.1,
+      "var4": 12.9,
+      "var5": 13.3
+    },
+    {
+      "var1": 1986,
+      "var2": 3.3,
+      "var3": 12.7,
+      "var4": 13.2,
+      "var5": 13.1
+    },
+    {
+      "var1": 1987,
+      "var2": 9.7,
+      "var3": 12.1,
+      "var4": 12.7,
+      "var5": 13.3
+    },
+    {
+      "var1": 1988,
+      "var2": 8.7,
+      "var3": 11.9,
+      "var4": 13,
+      "var5": 12.8
+    },
+    {
+      "var1": 1989,
+      "var2": 8.6,
+      "var3": 11.9,
+      "var4": 12,
+      "var5": 11.8
+    },
+    {
+      "var1": 1990,
+      "var2": 7.3,
+      "var3": 12.5,
+      "var4": 11.1,
+      "var5": 11.1
+    },
+    {
+      "var1": 1991,
+      "var2": 3.2,
+      "var3": 12.1,
+      "var4": 6.9,
+      "var5": 6.9
+    },
+    {
+      "var1": 1992,
+      "var2": 3.2,
+      "var3": 11.8,
+      "var4": 5.8,
+      "var5": 5.8
+    },
+    {
+      "var1": 1993,
+      "var2": 3.5,
+      "var3": 11.8,
+      "var4": 5.1,
+      "var5": 5.3
+    },
+    {
+      "var1": 1994,
+      "var2": 3.7,
+      "var3": 11.6,
+      "var4": 5.2,
+      "var5": 5.2
+    },
+    {
+      "var1": 1995,
+      "var2": 3.8,
+      "var3": 11.1,
+      "var4": 5.2,
+      "var5": 5.3
+    },
+    {
+      "var1": 1996,
+      "var2": 4.1,
+      "var3": 11.3,
+      "var4": 6,
+      "var5": 5.9
+    },
+    {
+      "var1": 1997,
+      "var2": 3.9,
+      "var3": 10.9,
+      "var4": 6.5,
+      "var5": 6.4
+    },
+    {
+      "var1": 1998,
+      "var2": 4.1,
+      "var3": 11.2,
+      "var4": 6.6,
+      "var5": 6.5
+    },
+    {
+      "var1": 1999,
+      "var2": 4.3,
+      "var3": 11,
+      "var4": 6.7,
+      "var5": 6.8
+    },
+    {
+      "var1": 2000,
+      "var2": 4.5,
+      "var3": 11.5,
+      "var4": 7.3,
+      "var5": 7.3
+    },
+    {
+      "var1": 2001,
+      "var2": 3.9,
+      "var3": 11.4,
+      "var4": 7.1,
+      "var5": 7
+    },
+    {
+      "var1": 2002,
+      "var2": 4,
+      "var3": 11.7,
+      "var4": 7.2,
+      "var5": 6.9
+    },
+    {
+      "var1": 2003,
+      "var2": 3.8,
+      "var3": 11.2,
+      "var4": 7,
+      "var5": 6.7
+    },
+    {
+      "var1": 2004,
+      "var2": 4.1,
+      "var3": 11.4,
+      "var4": 7.6,
+      "var5": 6.9
+    },
+    {
+      "var1": 2005,
+      "var2": 4.2,
+      "var3": 10.9,
+      "var4": 7.7,
+      "var5": 7
+    },
+    {
+      "var1": 2006,
+      "var2": 3.7,
+      "var3": 10.6,
+      "var4": 7.8,
+      "var5": 7
+    },
+    {
+      "var1": 2007,
+      "var2": 3.73251064569393,
+      "var3": 11.4756235335013,
+      "var4": 8.05596593377944,
+      "var5": 7.2
+    },
+    {
+      "var1": 2008,
+      "var2": 3.73836650771364,
+      "var3": 11.2585689011376,
+      "var4": 8.8721000491204,
+      "var5": 7.4
+    },
+    {
+      "var1": 2009,
+      "var2": 3.93133613357864,
+      "var3": 11.5813864685667,
+      "var4": 8.24452390044086,
+      "var5": 7.27606389728629
+    },
+    {
+      "var1": 2010,
+      "var2": 4.02548320915668,
+      "var3": 11.7568297160134,
+      "var4": 8.8068243170284,
+      "var5": 7.40897453796693
+    },
+    {
+      "var1": 2011,
+      "var2": 4.05836354899305,
+      "var3": 11.4848630466122,
+      "var4": 8.92490498449172,
+      "var5": 7.39523598695677
+    },
+    {
+      "var1": 2012,
+      "var2": 4.24923018040744,
+      "var3": 11.5559924148849,
+      "var4": 9.29437553278475,
+      "var5": 7.47457392317317
+    },
+    {
+      "var1": 2013,
+      "var2": 3.81350613147722,
+      "var3": 12.2066825093823,
+      "var4": 9.19396937940707,
+      "var5": 7.48336991780634
+    },
+    {
+      "var1": 2014,
+      "var2": 3.9990357545651,
+      "var3": 12.1563799471387,
+      "var4": 9.14741763019466,
+      "var5": 7.63302778558099
+    },
+    {
+      "var1": 2015,
+      "var2": 4.16166432634915,
+      "var3": 12.3831785612774,
+      "var4": 9.32450376077006,
+      "var5": 7.75561463747011
+    },
+    {
+      "var1": 2016,
+      "var2": 4.24547317499244,
+      "var3": 12.5180569086572,
+      "var4": 10.0824738804717,
+      "var5": 8.09032255756507
+    },
+    {
+      "var1": 2017,
+      "var2": 3.97940271219987,
+      "var3": 12.5923565276462,
+      "var4": 9.68642809818935,
+      "var5": 8.02354929937326
+    },
+    {
+      "var1": 2018,
+      "var2": 4.47010226353913,
+      "var3": 13.5569361994495,
+      "var4": 9.83254921511372,
+      "var5": 7.88381761528329
+    },
+    {
+      "var1": 2019,
+      "var2": 3.48957127522994,
+      "var3": 12.960663397386,
+      "var4": 9.43741712794393,
+      "var5": 7.57159480987178
+    },
+    {
+      "var1": 2020,
+      "var2": 3.38458275898632,
+      "var3": 13.5340897041671,
+      "var4": 9.04251935107624,
+      "var5": 7.3889660308417
+    },
+    {
+      "var1": 2021,
+      "var2": 3.32362355411791,
+      "var3": 14.14551120294,
+      "var4": 8.89122224668485,
+      "var5": 7.38687465224204
+    },
+    {
+      "var1": 2022,
+      "var2": 3.56148631040773,
+      "var3": 15.0939181726804,
+      "var4": 8.26877019106278,
+      "var5": 6.74483162104306
+    },
+    {
+      "var1": 2023,
+      "var2": 3.455798359526745,
+      "var3": 14.4747640118602,
+      "var4": 7.3693456664371,
+      "var5": 6.3182829191866
+    },
+    {
+      "var1": 2024,
+      "var2": 2.5948618461173254,
+      "var3": 13.6578138493589,
+      "var4": 6.50352598340762,
+      "var5": 5.86533882563049
+    }
+  ]
+}

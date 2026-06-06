@@ -1,0 +1,1289 @@
+Liniennummer;Referenzhaltestelle Name;Referenzhaltestelle Nummer;Referenzhaltestelle Globale ID;Referenzhaltestelle Gemeinde;Referenzhaltestelle Gemeinde AGS;Referenzhaltestelle X-Koord.;Referenzhaltestelle Y-Koord.
+100;Ackendorf (Gardelegen), B71;171;de:15081:171;Gardelegen;15081135;11,369369;52,542263
+100;Altmark-Kaserne (Letzlingen);22829;de:15081:22829;Gardelegen;15081135;11,529234;52,441345
+100;Berge (Altmarkkreis Salzwedel), B71;634;de:15081:634;Gardelegen;15081135;11,361997;52,552474
+100;Born, B71;229;de:15083:229;Westheide;15083557;11,465112;52,378237
+100;Brüchau, B71;635;de:15081:635;Kalbe (Milde);15081240;11,266082;52,686678
+100;Cheinitz, B71;172;de:15081:172;Kalbe (Milde);15081240;11,254689;52,702915
+100;Estedt, B71;469;de:15081:469;Gardelegen;15081135;11,357351;52,576575
+100;Gardelegen, Bahnhof (Bus);343;de:15081:343;Gardelegen;15081135;11,404565;52,518679
+100;Gardelegen, Hansecenter;23129;de:15081:23129;Gardelegen;15081135;11,400948;52,516201
+100;Gardelegen, Sandstr.;579;de:15081:579;Gardelegen;15081135;11,390183;52,526232
+100;Gardelegen, Volkshaus;553;de:15081:553;Gardelegen;15081135;11,383659;52,526336
+100;Groß Engersen, B71;429;de:15081:429;Kalbe (Milde);15081240;11,319741;52,615351
+100;Groß Engersen, Ort;552;de:15081:552;Kalbe (Milde);15081240;11,341891;52,620338
+100;Haldensleben, Gerikestr.;1542;de:15083:1542;Haldensleben;15083270;11,424678;52,279612
+100;Haldensleben, ZOB;1555;de:15083:1555;Haldensleben;15083270;11,407558;52,284969
+100;Kakerbeck, Mitte;381;de:15081:381;Kalbe (Milde);15081240;11,279685;52,666122
+100;Kakerbeck, Neue Mühle;23203;de:15081:23203;Kalbe (Milde);15081240;11,270577;52,659599
+100;Kakerbeck, Nord;198;de:15081:198;Kalbe (Milde);15081240;11,276628;52,671906
+100;Kakerbeck, Süd;7557;de:15081:7557;Kalbe (Milde);15081240;11,283377;52,660113
+100;Kalbe (Milde), Bahnhofstr.;23196;de:15081:23196;Kalbe (Milde);15081240;11,389282;52,656573
+100;Kalbe (Milde), Gardelegener Tor;182;de:15081:182;Kalbe (Milde);15081240;11,387796;52,648131
+100;Kalbe (Milde), Petersberg;594;de:15081:594;Kalbe (Milde);15081240;11,377799;52,656719
+100;Kalbe (Milde), Schule;537;de:15081:537;Kalbe (Milde);15081240;11,388149;52,653514
+100;Kalbe (Milde), ZOB;578;de:15081:578;Kalbe (Milde);15081240;11,390789;52,659645
+100;Klötze, Str. der Jugend;523;de:15081:523;Klötze;15081280;11,175740;52,627401
+100;Klötze, ZOB;481;de:15081:481;Klötze;15081280;11,159395;52,628228
+100;Laatzke (Berge), B71;669;de:15081:669;Gardelegen;15081135;11,361322;52,563191
+100;Letzlingen, Ort;335;de:15081:335;Gardelegen;15081135;11,485594;52,445404
+100;Magdeburg, IKEA;7498;de:15003:7498;Magdeburg;15003000;11,614728;52,166242
+100;Magdeburg, ZOB;2985;de:15003:2985;Magdeburg;15003000;11,624352;52,131311
+100;Mahlsdorf, B71;623;de:15081:623;Salzwedel;15081455;11,232593;52,793527
+100;Quadendambeck (Winterfeld), B71;214;de:15081:214;Apenburg-Winterfeld;15081026;11,236852;52,767150
+100;Sallenthin (Kalbe), Gehöft;15764;de:15081:15764;Kalbe (Milde);15081240;11,239530;52,756272
+100;Sallenthin/Baars, B71;581;de:15081:581;Kalbe (Milde);15081240;11,240022;52,754006
+100;Salzwedel, Bahnhofstr.;22891;de:15081:22891;Salzwedel;15081455;11,156294;52,858348
+100;Salzwedel, Dreiländereck;617;de:15081:617;Salzwedel;15081455;11,142372;52,854180
+100;Salzwedel, Ecke Brewitzstr.;199;de:15081:199;Salzwedel;15081455;11,139530;52,857688
+100;Salzwedel, Fuchsberg, B71;461;de:15081:461;Salzwedel;15081455;11,188137;52,831210
+100;Salzwedel, Grundschule Lessing;22828;de:15081:22828;Salzwedel;15081455;11,161224;52,855083
+100;Salzwedel, Kämmereiteiche;203;de:15081:203;Salzwedel;15081455;11,167072;52,843900
+100;Salzwedel, Kaufland;332;de:15081:332;Salzwedel;15081455;11,150339;52,857623
+100;Salzwedel, Klosterkamp;186;de:15081:186;Salzwedel;15081455;11,180706;52,835725
+100;Salzwedel, Lüneburger Str.;360;de:15081:360;Salzwedel;15081455;11,133657;52,856884
+100;Salzwedel, Reitstadion;374;de:15081:374;Salzwedel;15081455;11,130921;52,852499
+100;Salzwedel, Schwimmhalle;464;de:15081:464;Salzwedel;15081455;11,152003;52,857801
+100;Salzwedel, Sportplatz;230;de:15081:230;Salzwedel;15081455;11,132793;52,852243
+100;Salzwedel, Thälmannstr.;419;de:15081:419;Salzwedel;15081455;11,162131;52,851847
+100;Salzwedel, Uelzener Str.;306;de:15081:306;Salzwedel;15081455;11,134277;52,858067
+100;Salzwedel, ZOB;412;de:15081:412;Salzwedel;15081455;11,161038;52,857860
+100;Schwiesau, Gaststätte;437;de:15081:437;Klötze;15081280;11,256093;52,598900
+100;Stappenbeck, B71;270;de:15081:270;Salzwedel;15081455;11,217571;52,813424
+100;Wedringen, Ort;5991;de:15083:5991;Haldensleben;15083270;11,466015;52,272642
+100;Wernstedt, Ort;599;de:15081:599;Kalbe (Milde);15081240;11,340514;52,647574
+100;Wiepke, B71;404;de:15081:404;Gardelegen;15081135;11,331023;52,598789
+100;Winterfeld, B71;524;de:15081:524;Apenburg-Winterfeld;15081026;11,242742;52,741521
+100;Zichtau, Ort;410;de:15081:410;Gardelegen;15081135;11,297201;52,605826
+100;Zienau, Bad;311;de:15081:311;Gardelegen;15081135;11,423512;52,514997
+131;Dölzig (Schkeuditz), B181/Südstr.;12926;de:14730:12926;Schkeuditz;14730270;12,208681;51,349016
+131;Dölzig (Schkeuditz), Feldstr.;11897;de:14730:11897;Schkeuditz;14730270;12,213022;51,354004
+131;Dölzig (Schkeuditz), Frankenheimer Str.;11896;de:14730:11896;Schkeuditz;14730270;12,220844;51,351901
+131;Dölzig (Schkeuditz), Frankenheimer Str./B181;19955;de:14730:19955;Schkeuditz;14730270;12,221178;51,350309
+131;Dölzig (Schkeuditz), Gewerbegebiet;11894;de:14730:11894;Schkeuditz;14730270;12,206012;51,352533
+131;Dölzig (Schkeuditz), Holländische Mühle;10994;de:14730:10994;Schkeuditz;14730270;12,206055;51,348827
+131;Dölzig (Schkeuditz), Kirche;12847;de:14730:12847;Schkeuditz;14730270;12,207871;51,353444
+131;Frankenheim (b. Leipzig), Friedenseiche;11773;de:14729:11773;Markranstädt;14729270;12,236448;51,337983
+131;Frankenheim (b. Leipzig), Gewerbegebiet;11774;de:14729:11774;Markranstädt;14729270;12,229631;51,340060
+131;Frankenheim (b. Leipzig), Hopfenweg;11766;de:14729:11766;Markranstädt;14729270;12,243072;51,338896
+131;Friedensdorf, Abzweig;9698;de:15088:9698;Leuna;15088205;12,060320;51,359374
+131;Göhren (Zweimen), Abzweig;9727;de:15088:9727;Leuna;15088205;12,136770;51,352099
+131;Günthersdorf (Leuna), IKEA;9744;de:15088:9744;Leuna;15088205;12,180368;51,348207
+131;Günthersdorf (Leuna), NOVA Shoppingcenter;10995;de:15088:10995;Leuna;15088205;12,178837;51,345802
+131;Günthersdorf (Leuna), Schwarzer Bär;19971;de:15088:19971;Leuna;15088205;12,171791;51,347091
+131;Kreypau, Abzweig;9817;de:15088:9817;Leuna;15088205;12,033396;51,357476
+131;Leipzig, Angerbrücke/Straßenbahnhof;11072;de:14713:11072;Leipzig;14713000;12,340870;51,337817
+131;Leipzig, Hauptbahnhof/Ostseite;10811;de:14713:10811;Leipzig;14713000;12,382387;51,343683
+131;Leipzig, Lindenau, Friedhof;11771;de:14713:11771;Leipzig;14713000;12,319152;51,339631
+131;Leipzig, Lindenauer Markt;12320;de:14713:12320;Leipzig;14713000;12,334467;51,337217
+131;Leipzig, Merseburger/Schomburgkstr.;11772;de:14713:11772;Leipzig;14713000;12,301794;51,342802
+131;Leipzig, Queckstr.;30726;de:14713:30726;Leipzig;14713000;12,324596;51,338383
+131;Leipzig, Waldplatz;11074;de:14713:11074;Leipzig;14713000;12,357536;51,341935
+131;Leipzig, Zur Kaninchenfarm;11769;de:14713:11769;Leipzig;14713000;12,294286;51,343409
+131;Lindennaundorf (b. Leipzig), Schmiede;11765;de:14729:11765;Markranstädt;14729270;12,249419;51,335681
+131;Luppenau, Abzweig Tragarth;10089;de:15088:10089;Schkopau;15088330;12,052671;51,359034
+131;Merseburg, Amtshäuser;10440;de:15088:10440;Merseburg;15088220;12,016126;51,359092
+131;Merseburg, Gotthardstr.;9791;de:15088:9791;Merseburg;15088220;11,993389;51,353975
+131;Merseburg, Rischmühleninsel;9900;de:15088:9900;Merseburg;15088220;12,002599;51,353838
+131;Merseburg, ZOB;10133;de:15088:10133;Merseburg;15088220;11,991200;51,355631
+131;Rückmarsdorf (Leipzig), Löwen Center;11767;de:14713:11767;Leipzig;14713000;12,269693;51,345628
+131;Rückmarsdorf (Leipzig), Sandberg;11768;de:14713:11768;Leipzig;14713000;12,258398;51,346698
+131;Rückmarsdorf (Leipzig), Zum Bahnhof;11770;de:14713:11770;Leipzig;14713000;12,281903;51,344503
+131;Wallendorf (Luppe), Anker;10108;de:15088:10108;Schkopau;15088330;12,070578;51,359231
+131;Wallendorf (Luppe), Bergschänke;10109;de:15088:10109;Schkopau;15088330;12,085764;51,358040
+131;Zöschen, An der B181;10147;de:15088:10147;Leuna;15088205;12,116897;51,356748
+131;Zschöchergen, Abzweig (Kötschlitz);10151;de:15088:10151;Leuna;15088205;12,154573;51,346423
+190;Glesien (Schkeuditz), Ernst-Thälmann-Str.;12736;de:14730:12736;Schkeuditz;14730270;12,229496;51,441703
+190;Glesien (Schkeuditz), Karl-Liebknecht-Str.;22570;de:14730:22570;Schkeuditz;14730270;12,224575;51,443942
+190;Gollma (Landsberg), Franz-Salomon-Str.;30705;de:15088:30705;Landsberg;15088195;12,169535;51,516899
+190;Landsberg (b. Halle), Bahnhofstr.;30643;de:15088:30643;Landsberg;15088195;12,160931;51,528127
+190;Landsberg (b. Halle), Grundschule;22587;de:15088:22587;Landsberg;15088195;12,163825;51,526826
+190;Landsberg (b. Halle), Mäc Geiz;30645;de:15088:30645;Landsberg;15088195;12,159714;51,538644
+190;Landsberg (b. Halle), Markt;10051;de:15088:10051;Landsberg;15088195;12,159550;51,525045
+190;Landsberg (b. Halle), Plattenhardt + Wirth;30646;de:15088:30646;Landsberg;15088195;12,162150;51,535719
+190;Landsberg (b. Halle), S-Bahnhof (Bus);5764;de:15088:5764;Landsberg;15088195;12,166266;51,532299
+190;Landsberg (b. Halle), S-Bahnhof Süd (Bus);30709;de:15088:30709;Landsberg;15088195;12,171151;51,504284
+190;Landsberg (b. Halle), Schule;10055;de:15088:10055;Landsberg;15088195;12,169226;51,525736
+190;Leipzig, Möckernscher Markt;11395;de:14713:11395;Leipzig;14713000;12,338259;51,369614
+190;Leipzig, S-Bahnhof Slevogtstr. (Bus);20158;de:14713:20158;Leipzig;14713000;12,343003;51,372639
+190;Leipzig, Sternsiedlung Nord;11324;de:14713:11324;Leipzig;14713000;12,345202;51,375189
+190;Lohnsdorf, Parkstr.;10105;de:15088:10105;Landsberg;15088195;12,172536;51,499959
+190;Lohnsdorf, Sportzentrum;30711;de:15088:30711;Landsberg;15088195;12,170728;51,496744
+190;Radefeld (Schkeuditz), Friedhof;10943;de:14730:10943;Schkeuditz;14730270;12,297416;51,423886
+190;Radefeld (Schkeuditz), Gartenstr.;31087;de:14730:31087;Schkeuditz;14730270;12,291958;51,424617
+190;Radefeld (Schkeuditz), Kölner Str.;11175;de:14730:11175;Schkeuditz;14730270;12,306782;51,417957
+190;Radefeld (Schkeuditz), Milanstr.;10945;de:14730:10945;Schkeuditz;14730270;12,304061;51,420309
+190;Sietzsch, Emsdorf;31175;de:15088:31175;Landsberg;15088195;12,169722;51,488795
+190;Sietzsch, Hallesche Str.;30714;de:15088:30714;Landsberg;15088195;12,179636;51,489597
+190;Sietzsch, Mittelstr.;9570;de:15088:9570;Landsberg;15088195;12,173519;51,488199
+190;Sietzsch, Porta Logistik;3706;de:15088:3706;Landsberg;15088195;12,190091;51,491642
+190;Sietzsch, Westring;30172;de:15088:30172;Landsberg;15088195;12,183223;51,490435
+190;Wiedemar, Hans-Grade-Str.;30852;de:14730:30852;Wiedemar;14730340;12,211264;51,466859
+190;Wiedemar, Hauptstr.;13101;de:14730:13101;Wiedemar;14730340;12,205543;51,465954
+190;Wiedemar, Junkersstr.;11225;de:14730:11225;Wiedemar;14730340;12,205988;51,471885
+190;Wiedemar, Montgolfierstr.;30851;de:14730:30851;Wiedemar;14730340;12,210749;51,469372
+190;Wiesenena (Wiedemar), An der Hauptstr.;13097;de:14730:13097;Wiedemar;14730340;12,184805;51,451981
+210;Aspenstedt, Auf der Buche;2028;de:15085:2028;Halberstadt;15085135;10,947956;51,933489
+210;Athenstedt, Busbahnhof;6692;de:15085:6692;Halberstadt;15085135;10,908352;51,937059
+210;Athenstedt, Hauptstr.;5409;de:15085:5409;Halberstadt;15085135;10,911279;51,937488
+210;Berßel, Wasserlebener Str.;5413;de:15085:5413;Osterwieck;15085230;10,759682;51,953624
+210;Dardesheim, Alter Bahnhof;5417;de:15085:5417;Osterwieck;15085230;10,821018;51,976672
+210;Dardesheim, Busbahnhof;20241;de:15085:20241;Osterwieck;15085230;10,835565;51,976491
+210;Dardesheim, B79;5442;de:15085:5442;Osterwieck;15085230;10,857241;51,967432
+210;Dardesheim, Gaststätte Adler;5398;de:15085:5398;Osterwieck;15085230;10,840146;51,974972
+210;Deersheim, Berßeler Str.;13133;de:15085:13133;Osterwieck;15085230;10,773222;51,966795
+210;Deersheim, Brüterei;5383;de:15085:5383;Osterwieck;15085230;10,794016;51,979900
+210;Deersheim, Busbahnhof;5382;de:15085:5382;Osterwieck;15085230;10,779757;51,985168
+210;Halberstadt, Braunschweiger Str.;17672;de:15085:17672;Halberstadt;15085135;11,025482;51,900377
+210;Halberstadt, Hauptbahnhof (Tram/Bus);5426;de:15085:5426;Halberstadt;15085135;11,073757;51,898574
+210;Halberstadt, Kosakengrab;5432;de:15085:5432;Halberstadt;15085135;11,008768;51,908439
+210;Halberstadt, Sternstr.;5250;de:15085:5250;Halberstadt;15085135;11,035155;51,895140
+210;Halberstadt, Walther-Rathenau-Str.;5428;de:15085:5428;Halberstadt;15085135;11,052797;51,892353
+210;Halberstadt, Wassergrundweg;5401;de:15085:5401;Halberstadt;15085135;11,018186;51,903262
+210;Lüttgenrode, Dorfstr.;5328;de:15085:5328;Osterwieck;15085230;10,659565;51,970080
+210;Osterwieck, Am Ziegeleiweg;5335;de:15085:5335;Osterwieck;15085230;10,712308;51,964470
+210;Osterwieck, An der Zuckerfabrik;7212;de:15085:7212;Osterwieck;15085230;10,721185;51,968484
+210;Osterwieck, Anger;5337;de:15085:5337;Osterwieck;15085230;10,704273;51,970915
+210;Osterwieck, Busbahnhof;5334;de:15085:5334;Osterwieck;15085230;10,715760;51,969517
+210;Osterwieck, Sacktor;5340;de:15085:5340;Osterwieck;15085230;10,706600;51,968185
+210;Schauen, Berßeler Str.;5302;de:15085:5302;Osterwieck;15085230;10,716399;51,947009
+210;Sonnenburg (Zilly), Abzweig B79;5333;de:15085:5333;Osterwieck;15085230;10,881476;51,951245
+210;Sonnenburg (Zilly), Ortsmitte;5332;de:15085:5332;Osterwieck;15085230;10,879566;51,945235
+210;Stötterlingen, Dorfkirche;5310;de:15085:5310;Osterwieck;15085230;10,671588;51,977559
+210;Ströbeck, Hauptstr.;17676;de:15085:17676;Halberstadt;15085135;10,943056;51,915988
+210;Suderode, Dorfstr.;5351;de:15085:5351;Osterwieck;15085230;10,620153;51,974800
+210;Vienenburg, Bahnhof (Bus);17677;de:03153:5838;Goslar;03153017;10,562402;51,954683
+210;Vienenburg, Rathaus;5286;de:03153:5843;Goslar;03153017;10,562188;51,953553
+210;Wiedelah, Ortsmitte;22862;de:03153:5866;Goslar;03153017;10,583166;51,960616
+210;Wülperode, Schulstr.;3835;de:15085:3835;Osterwieck;15085230;10,597997;51,980792
+210;Wülperode, Zum Dören;5274;de:15085:5274;Osterwieck;15085230;10,601448;51,981248
+210;Zilly, Apotheke;5322;de:15085:5322;Osterwieck;15085230;10,824071;51,945785
+210;Zilly, Aumühle;5324;de:15085:5324;Osterwieck;15085230;10,826814;51,957086
+230;Benzingerode (Wernigerode), Am Austberg;15565;de:15085:15565;Wernigerode;15085370;10,857984;51,835098
+230;Benzingerode (Wernigerode), Kirche;1473;de:15085:1473;Wernigerode;15085370;10,865940;51,834163
+230;Blankenburg (Harz), Bahnhof (Bus);1469;de:15085:1469;Blankenburg (Harz);15085055;10,960520;51,795661
+230;Blankenburg (Harz), Beiersdamm;1461;de:15085:1461;Blankenburg (Harz);15085055;10,924810;51,806104
+230;Blankenburg (Harz), Friedensstr.;1481;de:15085:1481;Blankenburg (Harz);15085055;10,952404;51,796039
+230;Blankenburg (Harz), Gartenhöhe;1480;de:15085:1480;Blankenburg (Harz);15085055;10,944900;51,796514
+230;Blankenburg (Harz), Harzer Werke;1479;de:15085:1479;Blankenburg (Harz);15085055;10,939795;51,798136
+230;Blankenburg (Harz), Helsunger Str.;1433;de:15085:1433;Blankenburg (Harz);15085055;10,967235;51,790057
+230;Blankenburg (Harz), Herzogstr.;17385;de:15085:17385;Blankenburg (Harz);15085055;10,959498;51,790815
+230;Blankenburg (Harz), Oesigsiedlung;1478;de:15085:1478;Blankenburg (Harz);15085055;10,929920;51,803530
+230;Blankenburg (Harz), Regenstein/B81;1476;de:15085:1476;Blankenburg (Harz);15085055;10,944822;51,805468
+230;Blankenburg (Harz), Westend;1449;de:15085:1449;Blankenburg (Harz);15085055;10,943804;51,796973
+230;Blankenburg (Harz), Westerhäuser Str.;26531;de:15085:26531;Blankenburg (Harz);15085055;10,969118;51,792371
+230;Gehren (Blankenburg), B27;1459;de:15085:1459;Blankenburg (Harz);15085055;10,985193;51,795643
+230;Heimburg, Pfeifenkrug;1475;de:15085:1475;Blankenburg (Harz);15085055;10,932975;51,822725
+230;Heimburg, Wilhelm-Pieck-Str.;1474;de:15085:1474;Blankenburg (Harz);15085055;10,911730;51,824232
+230;Quedlinburg, Bahnhof (Bus);5627;de:15085:5627;Quedlinburg;15085235;11,150935;51,784932
+230;Quedlinburg, Bahnhofspark;15590;de:15085:15590;Quedlinburg;15085235;11,150778;51,785897
+230;Quedlinburg, Bildungshaus;5615;de:15085:5615;Quedlinburg;15085235;11,145752;51,787499
+230;Quedlinburg, Bodelandhalle;5563;de:15085:5563;Quedlinburg;15085235;11,149198;51,782546
+230;Quedlinburg, Kaiser-Otto-Str.;5620;de:15085:5620;Quedlinburg;15085235;11,136361;51,784757
+230;Quedlinburg, Neuer Weg;5614;de:15085:5614;Quedlinburg;15085235;11,143045;51,787269
+230;Quedlinburg, Post;5617;de:15085:5617;Quedlinburg;15085235;11,146729;51,787004
+230;Quedlinburg, Siedlung;5622;de:15085:5622;Quedlinburg;15085235;11,113982;51,794969
+230;Quedlinburg, Wasserwerk;5619;de:15085:5619;Quedlinburg;15085235;11,140598;51,783943
+230;Quedlinburg, Westerhäuser Str.;5621;de:15085:5621;Quedlinburg;15085235;11,133603;51,790201
+230;Quedlinburg, Zum Kleiweg;3407;de:15085:3407;Quedlinburg;15085235;11,123260;51,793436
+230;Quedlinburg, Zur Bruchmühle;6292;de:15085:6292;Quedlinburg;15085235;11,096900;51,798943
+230;Wernigerode, Hauptbahnhof (Bus);19675;de:15085:19675;Wernigerode;15085370;10,789936;51,840235
+230;Wernigerode, Hinzingeröder Str.;1393;de:15085:1393;Wernigerode;15085370;10,805641;51,839617
+230;Wernigerode, Horstberg;1887;de:15085:1887;Wernigerode;15085370;10,813587;51,839459
+230;Wernigerode, Im Bodengarten;1472;de:15085:1472;Wernigerode;15085370;10,823256;51,839237
+230;Wernigerode, Rimker Tor;1886;de:15085:1886;Wernigerode;15085370;10,792980;51,837222
+230;Wernigerode, Wolfsholz;1451;de:15085:1451;Wernigerode;15085370;10,842497;51,838155
+230;Westerhausen, Deutsches Haus;5604;de:15085:5604;Thale;15085330;11,050529;51,805182
+230;Westerhausen, Eselstall;5613;de:15085:5613;Thale;15085330;11,068076;51,803004
+230;Westerhausen, Schäfereiplatz;4992;de:15085:4992;Thale;15085330;11,060896;51,806447
+240;Aschersleben, Breite Str.;2765;de:15089:2765;Aschersleben;15089015;11,457868;51,753839
+240;Aschersleben, Busbahnhof;2767;de:15089:2767;Aschersleben;15089015;11,463438;51,757971
+240;Aschersleben, Johannispromenade;2728;de:15089:2728;Aschersleben;15089015;11,459953;51,757023
+240;Aschersleben, Johannistorturm;22390;de:15089:22390;Aschersleben;15089015;11,458099;51,757304
+240;Aschersleben, Kreishaus;2731;de:15089:2731;Aschersleben;15089015;11,432023;51,754836
+240;Aschersleben, Magdeburger Str.;2736;de:15089:2736;Aschersleben;15089015;11,450955;51,759117
+240;Aschersleben, Tie;22392;de:15089:22392;Aschersleben;15089015;11,455291;51,756014
+240;Aschersleben, Vor dem Hohen Tor;2740;de:15089:2740;Aschersleben;15089015;11,452794;51,757505
+240;Aschersleben, Zollberg;2726;de:15089:2726;Aschersleben;15089015;11,443391;51,757746
+240;Bad Suderode, Bahnhof (Bus);5565;de:15085:5565;Quedlinburg;15085235;11,125801;51,731877
+240;Ballenstedt, Alter Westbahnhof;5574;de:15085:5574;Ballenstedt;15085040;11,225478;51,723710
+240;Ballenstedt, Ärztehaus;5556;de:15085:5556;Ballenstedt;15085040;11,226354;51,720323
+240;Ballenstedt, Felsenkellerweg;22378;de:15085:22378;Ballenstedt;15085040;11,221606;51,722966
+240;Ballenstedt, Hoymer Str.;5496;de:15085:5496;Ballenstedt;15085040;11,246392;51,723977
+240;Ballenstedt, Klärwerk;5497;de:15085:5497;Ballenstedt;15085040;11,264841;51,733691
+240;Ballenstedt, Marienstr.;5573;de:15085:5573;Ballenstedt;15085040;11,239996;51,722257
+240;Ballenstedt, Poststr.;10020;de:15085:10020;Ballenstedt;15085040;11,227972;51,722324
+240;Ballenstedt, Roseburg;5537;de:15085:5537;Ballenstedt;15085040;11,195385;51,726686
+240;Ermsleben, Endorfer Str.;5500;de:15085:5500;Falkenstein/Harz;15085110;11,351947;51,732177
+240;Ermsleben, Halberstädter Str.;5481;de:15085:5481;Falkenstein/Harz;15085110;11,342001;51,730506
+240;Ermsleben, Konradsburger Str.;2594;de:15085:2594;Falkenstein/Harz;15085110;11,345123;51,728448
+240;Ermsleben, Post;5493;de:15085:5493;Falkenstein/Harz;15085110;11,340355;51,732831
+240;Ermsleben, Sportplatz;711;de:15085:711;Falkenstein/Harz;15085110;11,342036;51,730046
+240;Ermsleben, Ulme;3412;de:15085:3412;Falkenstein/Harz;15085110;11,350485;51,732745
+240;Ermsleben, Welbslebener Str.;96315;de:15085:96315;Falkenstein/Harz;15085110;11,348392;51,729506
+240;Gernrode (Harz), An der Rose;5547;de:15085:5547;Quedlinburg;15085235;11,134780;51,728873
+240;Gernrode (Harz), Bahnhof (Bus);5549;de:15085:5549;Quedlinburg;15085235;11,148975;51,729064
+240;Gernrode (Harz), Rathenaustr.;5548;de:15085:5548;Quedlinburg;15085235;11,144406;51,727044
+240;Meisdorf, Allee;2386;de:15085:2386;Falkenstein/Harz;15085110;11,289178;51,706772
+240;Meisdorf, Alter Bahnhof;2388;de:15085:2388;Falkenstein/Harz;15085110;11,294399;51,724730
+240;Meisdorf, Bahnhofstr.;1628;de:15085:1628;Falkenstein/Harz;15085110;11,297517;51,715994
+240;Meisdorf, Falkensteiner Weg;2040;de:15085:2040;Falkenstein/Harz;15085110;11,300002;51,707945
+240;Meisdorf, Hauptstr.;2389;de:15085:2389;Falkenstein/Harz;15085110;11,293581;51,709141
+240;Meisdorf, Liethe;2387;de:15085:2387;Falkenstein/Harz;15085110;11,287350;51,700668
+240;Quarmbeck (Quedlinburg) (Bus);5564;de:15085:5564;Quedlinburg;15085235;11,132628;51,758784
+240;Quedlinburg, Am Drachenloch;15587;de:15085:15587;Quedlinburg;15085235;11,144687;51,780336
+240;Quedlinburg, Bahnhof (Bus);5627;de:15085:5627;Quedlinburg;15085235;11,150935;51,784932
+240;Quedlinburg, Bodelandhalle;5563;de:15085:5563;Quedlinburg;15085235;11,149198;51,782546
+240;Quedlinburg, Suderöder Chaussee;3652;de:15085:3652;Quedlinburg;15085235;11,139306;51,770735
+240;Radisleben, Abzweig;5444;de:15085:5444;Ballenstedt;15085040;11,291196;51,730663
+240;Radisleben, Neue Ballenstedter Str.;5498;de:15085:5498;Ballenstedt;15085040;11,292046;51,738018
+240;Rieder, Gartenanlage;5661;de:15085:5661;Ballenstedt;15085040;11,175206;51,732392
+240;Rieder, Gernröder Str.;20326;de:15085:20326;Ballenstedt;15085040;11,156003;51,732558
+240;Rieder, Rathausstr.;5553;de:15085:5553;Ballenstedt;15085040;11,167559;51,733235
+250;Benzingerode (Wernigerode), Am Austberg;15565;de:15085:15565;Wernigerode;15085370;10,857984;51,835098
+250;Benzingerode (Wernigerode), Kirche;1473;de:15085:1473;Wernigerode;15085370;10,865940;51,834163
+250;Blankenburg (Harz), Bahnhof (Bus);1469;de:15085:1469;Blankenburg (Harz);15085055;10,960520;51,795661
+250;Blankenburg (Harz), Beiersdamm;1461;de:15085:1461;Blankenburg (Harz);15085055;10,924810;51,806104
+250;Blankenburg (Harz), Brombeerberg;16756;de:15085:16756;Blankenburg (Harz);15085055;10,967984;51,782961
+250;Blankenburg (Harz), CENTER;1437;de:15085:1437;Blankenburg (Harz);15085055;10,941188;51,806266
+250;Blankenburg (Harz), Friedensstr.;1481;de:15085:1481;Blankenburg (Harz);15085055;10,952404;51,796039
+250;Blankenburg (Harz), Gartenhöhe;1480;de:15085:1480;Blankenburg (Harz);15085055;10,944900;51,796514
+250;Blankenburg (Harz), Harzer Werke;1479;de:15085:1479;Blankenburg (Harz);15085055;10,939795;51,798136
+250;Blankenburg (Harz), Herzogstr.;17385;de:15085:17385;Blankenburg (Harz);15085055;10,959498;51,790815
+250;Blankenburg (Harz), Karl-Zerbst-Str.;1436;de:15085:1436;Blankenburg (Harz);15085055;10,947676;51,804055
+250;Blankenburg (Harz), Michaelstein;1477;de:15085:1477;Blankenburg (Harz);15085055;10,918020;51,806340
+250;Blankenburg (Harz), Oesigsiedlung;1478;de:15085:1478;Blankenburg (Harz);15085055;10,929920;51,803530
+250;Blankenburg (Harz), Regenstein/B81;1476;de:15085:1476;Blankenburg (Harz);15085055;10,944822;51,805468
+250;Blankenburg (Harz), Regensteinschule;1435;de:15085:1435;Blankenburg (Harz);15085055;10,952150;51,801581
+250;Blankenburg (Harz), Schlossgärten;1655;de:15085:1655;Blankenburg (Harz);15085055;10,960997;51,787617
+250;Blankenburg (Harz), Sportforum;1434;de:15085:1434;Blankenburg (Harz);15085055;10,953282;51,798586
+250;Blankenburg (Harz), Unterer Schnappelberg;1650;de:15085:1650;Blankenburg (Harz);15085055;10,958798;51,789380
+250;Blankenburg (Harz), Westend;1449;de:15085:1449;Blankenburg (Harz);15085055;10,943804;51,796973
+250;Cattenstedt, Hasselfelder Str.;1465;de:15085:1465;Blankenburg (Harz);15085055;10,966606;51,775604
+250;Cattenstedt, Wienröder Str.;1280;de:15085:1280;Blankenburg (Harz);15085055;10,969569;51,771770
+250;Heimburg, Pfeifenkrug;1475;de:15085:1475;Blankenburg (Harz);15085055;10,932975;51,822725
+250;Heimburg, Wilhelm-Pieck-Str.;1474;de:15085:1474;Blankenburg (Harz);15085055;10,911730;51,824232
+250;Thale, Brückenstr.;5624;de:15085:5624;Thale;15085330;11,033951;51,754520
+250;Thale, Friedhof;15917;de:15085:15917;Thale;15085330;11,032192;51,759854
+250;Thale, Hauptbahnhof (Bus);5626;de:15085:5626;Thale;15085330;11,029790;51,745072
+250;Thale, Kahlenbergstr.;5623;de:15085:5623;Thale;15085330;11,036248;51,756646
+250;Thale, Steinbachstr.;5625;de:15085:5625;Thale;15085330;11,032717;51,748662
+250;Timmenrode, Blankenburger Str.;1467;de:15085:1467;Blankenburg (Harz);15085055;10,998287;51,772121
+250;Timmenrode, Kegelhalle;1468;de:15085:1468;Blankenburg (Harz);15085055;11,005976;51,771343
+250;Wernigerode, Hauptbahnhof (Bus);19675;de:15085:19675;Wernigerode;15085370;10,789936;51,840235
+250;Wernigerode, Heltauer Platz;95404;de:15085:95404;Wernigerode;15085370;10,782780;51,836505
+250;Wernigerode, Hinzingeröder Str.;1393;de:15085:1393;Wernigerode;15085370;10,805641;51,839617
+250;Wernigerode, Horstberg;1887;de:15085:1887;Wernigerode;15085370;10,813587;51,839459
+250;Wernigerode, Im Bodengarten;1472;de:15085:1472;Wernigerode;15085370;10,823256;51,839237
+250;Wernigerode, Rimker Tor;1886;de:15085:1886;Wernigerode;15085370;10,792980;51,837222
+250;Wernigerode, Wolfsholz;1451;de:15085:1451;Wernigerode;15085370;10,842497;51,838155
+250;Wienrode, Lange Str.;1466;de:15085:1466;Thale;15085330;10,974233;51,766101
+300;Ahnebeck (Parsau), Ort;6911;de:03151:1062;Parsau;03151021;10,894660;52,541218
+300;Bandau (Beetzendorf), Bahnhof (Bus);16306;de:15081:16306;Beetzendorf;15081045;11,122499;52,669922
+300;Bandau (Beetzendorf), Ort;660;de:15081:660;Beetzendorf;15081045;11,110107;52,671360
+300;Beetzendorf (Sachsen-Anhalt), Gymnasium/Schulhof;6844;de:15081:6844;Beetzendorf;15081045;11,094873;52,707594
+300;Beetzendorf (Sachsen-Anhalt), Sporthalle;373;de:15081:373;Beetzendorf;15081045;11,082505;52,701133
+300;Beetzendorf (Sachsen-Anhalt), ZOB;531;de:15081:531;Beetzendorf;15081045;11,088263;52,701185
+300;Böckwitz (Jahrstedt), Europawiese;647;de:15081:647;Klötze;15081280;10,944550;52,570475
+300;Brechtorf (Rühen), Ortsmitte;6912;de:03151:1283;Rühen;03151024;10,875520;52,478833
+300;Brewitz (Dambeck), Ort;256;de:15081:256;Salzwedel;15081455;11,164114;52,814224
+300;Coswig (Anhalt), Bahnhof (Bus);6220;de:15091:6220;Coswig (Anhalt);15091060;12,458620;51,887296
+300;Coswig (Anhalt), Feldweg;6222;de:15091:6222;Coswig (Anhalt);15091060;12,450438;51,886520
+300;Coswig (Anhalt), Friedhof;6223;de:15091:6223;Coswig (Anhalt);15091060;12,468214;51,881681
+300;Coswig (Anhalt), Herzklinik;6224;de:15091:6224;Coswig (Anhalt);15091060;12,477920;51,879443
+300;Coswig (Anhalt), Hubertusplatz;6219;de:15091:6219;Coswig (Anhalt);15091060;12,460690;51,885302
+300;Coswig (Anhalt), Luisenstr.;6221;de:15091:6221;Coswig (Anhalt);15091060;12,458865;51,886506
+300;Coswig (Anhalt), Markt;6218;de:15091:6218;Coswig (Anhalt);15091060;12,456020;51,882382
+300;Coswig (Anhalt), Schulstr.;6834;de:15091:6834;Coswig (Anhalt);15091060;12,448712;51,884656
+300;Croya (Parsau), Ortsmitte;6913;de:03151:1063;Parsau;03151021;10,903334;52,544422
+300;Dambeck (Altmark), Ort;682;de:15081:682;Salzwedel;15081455;11,164953;52,802106
+300;Griebo (Lu. Wittenberg), B187;6225;de:15091:6225;Wittenberg;15091375;12,509586;51,881792
+300;Griebo (Lu. Wittenberg), Siedlung;6241;de:15091:6241;Wittenberg;15091375;12,515540;51,882127
+300;Jahrstedt, Germenau;7565;de:15081:7565;Klötze;15081280;10,982852;52,562561
+300;Jahrstedt, Ort;282;de:15081:282;Klötze;15081280;10,977820;52,560712
+300;Jeeben, Ort;656;de:15081:656;Beetzendorf;15081045;11,090323;52,683361
+300;Klötze, Bahnhof (Bus);453;de:15081:453;Klötze;15081280;11,151729;52,630025
+300;Klötze, Nord;258;de:15081:258;Klötze;15081280;11,157580;52,647724
+300;Klötze, Poppauer Str.;3724;de:15081:3724;Klötze;15081280;11,155735;52,629849
+300;Klötze, Süd;508;de:15081:508;Klötze;15081280;11,154116;52,619549
+300;Klötze, ZOB;481;de:15081:481;Klötze;15081280;11,159395;52,628228
+300;Kricheldorf, Ort;391;de:15081:391;Salzwedel;15081455;11,177493;52,827658
+300;Kuhfelde, B248;609;de:15081:609;Kuhfelde;15081290;11,110895;52,785385
+300;Kunrau, Ort;304;de:15081:304;Klötze;15081280;11,018267;52,566409
+300;Kunrau, Schule;187;de:15081:187;Klötze;15081280;11,027542;52,567267
+300;Kusey, Ort;301;de:15081:301;Klötze;15081280;11,098584;52,583495
+300;Kusey, Süd;3740;de:15081:3740;Klötze;15081280;11,091046;52,579587
+300;Lu. Wittenberg, Altstadtbahnhof;9404;de:15091:9404;Wittenberg;15091375;12,641304;51,863964
+300;Lu. Wittenberg, Am Tierpark;20056;de:15091:20056;Wittenberg;15091375;12,642938;51,869083
+300;Lu. Wittenberg, Amtsgericht;7563;de:15091:7563;Wittenberg;15091375;12,635006;51,866362
+300;Lu. Wittenberg, Apollensdorf, Abzweig Roßlauer Str.;9463;de:15091:9463;Wittenberg;15091375;12,534855;51,877016
+300;Lu. Wittenberg, Apollensdorf, Alte Dorfstr.;9466;de:15091:9466;Wittenberg;15091375;12,548635;51,876384
+300;Lu. Wittenberg, Apollensdorf, Am Heideberg;9448;de:15091:9448;Wittenberg;15091375;12,568041;51,886425
+300;Lu. Wittenberg, Apollensdorf, Bussardweg;10626;de:15091:10626;Wittenberg;15091375;12,565947;51,889887
+300;Lu. Wittenberg, Apollensdorf, Friedhof;10532;de:15091:10532;Wittenberg;15091375;12,553567;51,879787
+300;Lu. Wittenberg, Apollensdorf, Hirschsprung;10292;de:15091:10292;Wittenberg;15091375;12,574201;51,889160
+300;Lu. Wittenberg, Apollensdorf, Hubertusstr.;9465;de:15091:9465;Wittenberg;15091375;12,543368;51,873145
+300;Lu. Wittenberg, Apollensdorf, Platanenweg;39012;de:15091:39012;Wittenberg;15091375;12,561784;51,886808
+300;Lu. Wittenberg, Apollensdorf, Roßlauer Str.;9464;de:15091:9464;Wittenberg;15091375;12,537263;51,872537
+300;Lu. Wittenberg, Arthur-Schnitzler-Platz;9357;de:15091:9357;Wittenberg;15091375;12,669929;51,886569
+300;Lu. Wittenberg, Bahnhof Piesteritz (Schwimmhalle);9380;de:15091:9380;Wittenberg;15091375;12,597624;51,873141
+300;Lu. Wittenberg, Bahnhof Piesteritz (Torhaus);9433;de:15091:9433;Wittenberg;15091375;12,596971;51,870608
+300;Lu. Wittenberg, Christuskirche;7574;de:15091:7574;Wittenberg;15091375;12,606993;51,866605
+300;Lu. Wittenberg, Dr.-Behring-Str.;15675;de:15091:15675;Wittenberg;15091375;12,667920;51,883673
+300;Lu. Wittenberg, Fleischerstr.;9372;de:15091:9372;Wittenberg;15091375;12,649137;51,866886
+300;Lu. Wittenberg, Gewerbepark Elbe;9376;de:15091:9376;Wittenberg;15091375;12,617240;51,865615
+300;Lu. Wittenberg, Hauptbahnhof (Bus);9434;de:15091:9434;Wittenberg;15091375;12,662313;51,868877
+300;Lu. Wittenberg, Hauptpost;9371;de:15091:9371;Wittenberg;15091375;12,653243;51,865760
+300;Lu. Wittenberg, Johannes-Runge-Weg;9431;de:15091:9431;Wittenberg;15091375;12,668376;51,886060
+300;Lu. Wittenberg, Katharinenstr.;39001;de:15091:39001;Wittenberg;15091375;12,656610;51,871095
+300;Lu. Wittenberg, Lerchenbergstr.;9388;de:15091:9388;Wittenberg;15091375;12,667919;51,882055
+300;Lu. Wittenberg, Lerchenbergstr./Kaufland;30014;de:15091:30014;Wittenberg;15091375;12,665987;51,879391
+300;Lu. Wittenberg, Marktplatz;9374;de:15091:9374;Wittenberg;15091375;12,642967;51,866745
+300;Lu. Wittenberg, Mauerstr.;9504;de:15091:9504;Wittenberg;15091375;12,646442;51,868219
+300;Lu. Wittenberg, Paul-Gerhardt-Stift;9369;de:15091:9369;Wittenberg;15091375;12,653577;51,869697
+300;Lu. Wittenberg, Paul-Gerhardt-Str.;9370;de:15091:9370;Wittenberg;15091375;12,657770;51,869818
+300;Lu. Wittenberg, Piesteritz, BBZ Handwerk;9383;de:15091:9383;Wittenberg;15091375;12,578314;51,882219
+300;Lu. Wittenberg, Piesteritz, Bergstr.;9377;de:15091:9377;Wittenberg;15091375;12,601421;51,867396
+300;Lu. Wittenberg, Piesteritz, Freibad;9382;de:15091:9382;Wittenberg;15091375;12,592724;51,878722
+300;Lu. Wittenberg, Piesteritz, Parkstr.;9381;de:15091:9381;Wittenberg;15091375;12,598392;51,876391
+300;Lu. Wittenberg, Piesteritz, Pestalozzistr.;9379;de:15091:9379;Wittenberg;15091375;12,597208;51,868838
+300;Lu. Wittenberg, Piesteritz, Reisser GmbH;10555;de:15091:10555;Wittenberg;15091375;12,574069;51,884569
+300;Lu. Wittenberg, Robert-Koch-Apotheke;9360;de:15091:9360;Wittenberg;15091375;12,661441;51,877626
+300;Lu. Wittenberg, Schillerstr.;9428;de:15091:9428;Wittenberg;15091375;12,659530;51,876103
+300;Lu. Wittenberg, Stadthalle;9368;de:15091:9368;Wittenberg;15091375;12,653263;51,874778
+300;Lu. Wittenberg, Wikana;7562;de:15091:7562;Wittenberg;15091375;12,624521;51,865661
+300;Lu. Wittenberg, Wöhlerstr.;9356;de:15091:9356;Wittenberg;15091375;12,676796;51,884007
+300;Neuferchau, Ort;331;de:15081:331;Klötze;15081280;11,064241;52,574632
+300;Ökodorf Sieben Linden (Beetzendorf);6940;de:15081:6940;Beetzendorf;15081045;11,141059;52,688655
+300;Parsau, Hinter den Höfen;6916;de:03151:1275;Parsau;03151021;10,890830;52,531321
+300;Parsau, Schule;6917;de:03151:1061;Parsau;03151021;10,891701;52,536160
+300;Poppau (Bandau), Ort;225;de:15081:225;Beetzendorf;15081045;11,134880;52,681761
+300;Püggen, Ort;271;de:15081:271;Kuhfelde;15081290;11,058340;52,732608
+300;Rohrberg, Ort;299;de:15081:299;Rohrberg;15081440;11,041555;52,707361
+300;Röwitz, Ort;542;de:15081:542;Klötze;15081280;11,074396;52,561061
+300;Rühen, Denkmal;6918;de:03151:1286;Rühen;03151024;10,884497;52,484281
+300;Rühen, Koleitsche;7036;de:03151:1491;Rühen;03151024;10,882964;52,493545
+300;Rühen, Schützenplatz;6920;de:03151:1285;Rühen;03151024;10,884555;52,488387
+300;Salzwedel, Bahnhofstr.;22891;de:15081:22891;Salzwedel;15081455;11,156294;52,858348
+300;Salzwedel, Fuchsberg, Käthe-Kollwitz-Str.;175;de:15081:175;Salzwedel;15081455;11,193561;52,833858
+300;Salzwedel, Grundschule Lessing;22828;de:15081:22828;Salzwedel;15081455;11,161224;52,855083
+300;Salzwedel, Kämmereiteiche;203;de:15081:203;Salzwedel;15081455;11,167072;52,843900
+300;Salzwedel, Klosterkamp;186;de:15081:186;Salzwedel;15081455;11,180706;52,835725
+300;Salzwedel, Thälmannstr.;419;de:15081:419;Salzwedel;15081455;11,162131;52,851847
+300;Salzwedel, ZOB;412;de:15081:412;Salzwedel;15081455;11,161038;52,857860
+300;Siedenlangenbeck, Bahnhof (Bus);330;de:15081:330;Kuhfelde;15081290;11,079598;52,753208
+300;Sienau (Salzwedel), Ort;483;de:15081:483;Salzwedel;15081455;11,166947;52,824245
+300;Vitzke, Kolonie;406;de:15081:406;Kuhfelde;15081290;11,101556;52,779586
+300;Wolfsburg, Allerpark;6922;de:03103:2128;Wolfsburg;03103000;10,807974;52,438757
+300;Wolfsburg, Allerwiesen;6923;de:03103:2120;Wolfsburg;03103000;10,816643;52,440256
+300;Wolfsburg, Autostadt;6924;de:03103:2065;Wolfsburg;03103000;10,799385;52,433333
+300;Wolfsburg Hbf;8006552;de:03103:2015;;;10,787784;52,429498
+300;Wolfsburg, Schloss;6926;de:03103:2262;Wolfsburg;03103000;10,799808;52,436859
+300;Wolfsburg, Stadtwerke;6927;de:03103:2027;Wolfsburg;03103000;10,793938;52,427754
+300;Wolfsburg, Wendschott, Wippermühle;6921;de:03103:9052;Wolfsburg;03103000;10,872602;52,473208
+300;Wolfsburg, ZOB;6928;de:03103:2045;Wolfsburg;03103000;10,790294;52,427455
+300;Wöpel, B248;377;de:15081:377;Kuhfelde;15081290;11,085543;52,762333
+301;Braunsdorf (Lu. Wittenberg), Abzweig;22477;de:15091:22477;Wittenberg;15091375;12,605225;51,919603
+301;Braunsdorf (Lu. Wittenberg, Kreuzung L124;10541;de:15091:10541;Wittenberg;15091375;12,605724;51,920567
+301;Braunsdorf (Lu. Wittenberg), Ortsmitte;9453;de:15091:9453;Wittenberg;15091375;12,594897;51,911557
+301;Lu. Wittenberg, Abzweig Thießener Weg;22534;de:15091:22534;Wittenberg;15091375;12,675364;51,892442
+301;Lu. Wittenberg, Altstadtbahnhof;9404;de:15091:9404;Wittenberg;15091375;12,641304;51,863964
+301;Lu. Wittenberg, Am Tierpark;20056;de:15091:20056;Wittenberg;15091375;12,642938;51,869083
+301;Lu. Wittenberg, Amtsgericht;7563;de:15091:7563;Wittenberg;15091375;12,635006;51,866362
+301;Lu. Wittenberg, Bahnhof Piesteritz (Schwimmhalle);9380;de:15091:9380;Wittenberg;15091375;12,597624;51,873141
+301;Lu. Wittenberg, Bahnhof Piesteritz (Torhaus);9433;de:15091:9433;Wittenberg;15091375;12,596971;51,870608
+301;Lu. Wittenberg, Berliner Str./Am Stern;9390;de:15091:9390;Wittenberg;15091375;12,654448;51,881315
+301;Lu. Wittenberg, CARAT-PARK;9366;de:15091:9366;Wittenberg;15091375;12,650394;51,882205
+301;Lu. Wittenberg, Christuskirche;7574;de:15091:7574;Wittenberg;15091375;12,606993;51,866605
+301;Lu. Wittenberg, Dürerweg;9401;de:15091:9401;Wittenberg;15091375;12,653616;51,890216
+301;Lu. Wittenberg, Fleischerstr.;9372;de:15091:9372;Wittenberg;15091375;12,649137;51,866886
+301;Lu. Wittenberg, Gagfah;9367;de:15091:9367;Wittenberg;15091375;12,652879;51,876661
+301;Lu. Wittenberg, Gewerbegebiet Nord;9363;de:15091:9363;Wittenberg;15091375;12,664833;51,890729
+301;Lu. Wittenberg, Gewerbepark Elbe;9376;de:15091:9376;Wittenberg;15091375;12,617240;51,865615
+301;Lu. Wittenberg, Hauptbahnhof (Bus);9434;de:15091:9434;Wittenberg;15091375;12,662313;51,868877
+301;Lu. Wittenberg, Hauptpost;9371;de:15091:9371;Wittenberg;15091375;12,653243;51,865760
+301;Lu. Wittenberg, Johannes-Runge-Weg;9431;de:15091:9431;Wittenberg;15091375;12,668376;51,886060
+301;Lu. Wittenberg, Johann-Strauß-Str.;39005;de:15091:39005;Wittenberg;15091375;12,662493;51,885551
+301;Lu. Wittenberg, Katharinenstr.;39001;de:15091:39001;Wittenberg;15091375;12,656610;51,871095
+301;Lu. Wittenberg, Käthe-Kollwitz-Schule;10623;de:15091:10623;Wittenberg;15091375;12,664224;51,888779
+301;Lu. Wittenberg, Marktplatz;9374;de:15091:9374;Wittenberg;15091375;12,642967;51,866745
+301;Lu. Wittenberg, Mauerstr.;9504;de:15091:9504;Wittenberg;15091375;12,646442;51,868219
+301;Lu. Wittenberg, Nordendstr.;9444;de:15091:9444;Wittenberg;15091375;12,683773;51,888824
+301;Lu. Wittenberg, Paul-Gerhardt-Stift;9369;de:15091:9369;Wittenberg;15091375;12,653577;51,869697
+301;Lu. Wittenberg, Paul-Gerhardt-Str.;9370;de:15091:9370;Wittenberg;15091375;12,657770;51,869818
+301;Lu. Wittenberg, Piesteritz, Bergstr.;9377;de:15091:9377;Wittenberg;15091375;12,601421;51,867396
+301;Lu. Wittenberg, Piesteritz, Parkstr.;9381;de:15091:9381;Wittenberg;15091375;12,598392;51,876391
+301;Lu. Wittenberg, Piesteritz, Pestalozzistr.;9379;de:15091:9379;Wittenberg;15091375;12,597208;51,868838
+301;Lu. Wittenberg, Rembrandtweg;9402;de:15091:9402;Wittenberg;15091375;12,657928;51,887312
+301;Lu. Wittenberg, Robert-Koch-Apotheke;9360;de:15091:9360;Wittenberg;15091375;12,661441;51,877626
+301;Lu. Wittenberg, Rote Landstr.;9409;de:15091:9409;Wittenberg;15091375;12,607554;51,878861
+301;Lu. Wittenberg, Rothemark;9408;de:15091:9408;Wittenberg;15091375;12,603579;51,876942
+301;Lu. Wittenberg, Schillerstr.;9428;de:15091:9428;Wittenberg;15091375;12,659530;51,876103
+301;Lu. Wittenberg, Stadthalle;9368;de:15091:9368;Wittenberg;15091375;12,653263;51,874778
+301;Lu. Wittenberg, Teucheler Weg;15904;de:15091:15904;Wittenberg;15091375;12,651080;51,884216
+301;Lu. Wittenberg, Wikana;7562;de:15091:7562;Wittenberg;15091375;12,624521;51,865661
+301;Nudersdorf, Friedhof;10527;de:15091:10527;Wittenberg;15091375;12,592422;51,929706
+301;Nudersdorf, Gasthaus;9495;de:15091:9495;Wittenberg;15091375;12,602035;51,930239
+301;Nudersdorf, Ortsschild;9490;de:15091:9490;Wittenberg;15091375;12,600842;51,938943
+301;Nudersdorf, Schule;9492;de:15091:9492;Wittenberg;15091375;12,593373;51,927411
+301;Reinsdorf (Lu. Wittenberg), Denkmalplatz;10514;de:15091:10514;Wittenberg;15091375;12,605539;51,892519
+301;Reinsdorf (Lu. Wittenberg), Dobien;9455;de:15091:9455;Wittenberg;15091375;12,611124;51,904154
+301;Reinsdorf (Lu. Wittenberg), Feldstr.;9454;de:15091:9454;Wittenberg;15091375;12,608099;51,909579
+301;Reinsdorf (Lu. Wittenberg), Gartenweg;15903;de:15091:15903;Wittenberg;15091375;12,606892;51,895975
+301;Reinsdorf (Lu. Wittenberg), Schule;9456;de:15091:9456;Wittenberg;15091375;12,609024;51,899542
+301;Reinsdorf (Lu. Wittenberg), Strandbad;9457;de:15091:9457;Wittenberg;15091375;12,611897;51,898213
+301;Straach, Alte Mühle;9487;de:15091:9487;Wittenberg;15091375;12,600435;51,942759
+301;Straach, Alte Schule;22482;de:15091:22482;Wittenberg;15091375;12,593288;51,956717
+301;Straach, Berkauer Str.;3658;de:15091:3658;Wittenberg;15091375;12,596782;51,953823
+301;Straach, Niemegker Weg;30358;de:15091:30358;Wittenberg;15091375;12,594292;51,955985
+301;Straach, Wittenberger Str.;9486;de:15091:9486;Wittenberg;15091375;12,597196;51,952992
+301;Teuchel (Lu. Wittenberg), Feuerwehr;22483;de:15091:22483;Wittenberg;15091375;12,649498;51,889435
+309;Bennstedt (Salzatal), Eislebener Str.;2687;de:15088:2687;Salzatal;15088319;11,807156;51,484405
+309;Bennstedt (Salzatal), Ortsmitte;2686;de:15088:2686;Salzatal;15088319;11,824101;51,481085
+309;Halle (Saale), An der Feuerwache;5227;de:15002:5227;Halle (Saale);15002000;11,934780;51,480783
+309;Halle (Saale), Franckeplatz;5125;de:15002:5125;Halle (Saale);15002000;11,969596;51,478548
+309;Halle (Saale), Göttinger Bogen;5180;de:15002:5180;Halle (Saale);15002000;11,902841;51,477129
+309;Halle (Saale), Hauptbahnhof/ZOB;5438;de:15002:5438;Halle (Saale);15002000;11,984570;51,477440
+309;Halle (Saale), S-Bahnhof Neustadt (Tram/Bus);5122;de:15002:5122;Halle (Saale);15002000;11,921323;51,479054
+309;Halle (Saale), Schwimmhalle;5184;de:15002:5184;Halle (Saale);15002000;11,915398;51,478957
+309;Höhnstedt, Am Landrain;9965;de:15088:9965;Salzatal;15088319;11,742539;51,504465
+309;Höhnstedt, Hauptstr.;95402;de:15088:95402;Salzatal;15088319;11,738335;51,502343
+309;Höhnstedt, Schule;15576;de:15088:15576;Salzatal;15088319;11,739424;51,502965
+309;Krimpe, Boltzenhöhe;9670;de:15088:9670;Salzatal;15088319;11,747594;51,519028
+309;Krimpe, Kirche;10036;de:15088:10036;Salzatal;15088319;11,754492;51,523973
+309;Langenbogen, Abzweig Höhnstedt;2469;de:15088:2469;Teutschenthal;15088365;11,752678;51,487208
+309;Langenbogen, Friedensstr.;2409;de:15088:2409;Teutschenthal;15088365;11,779911;51,483931
+309;Langenbogen, Kirche;30604;de:15088:30604;Teutschenthal;15088365;11,774425;51,483216
+309;Langenbogen, Neubau;2074;de:15088:2074;Teutschenthal;15088365;11,763500;51,483043
+309;Schochwitz, Am Nelkenberg;10229;de:15088:10229;Salzatal;15088319;11,754847;51,527453
+309;Schochwitz, Schloßplatz;10227;de:15088:10227;Salzatal;15088319;11,752726;51,529328
+310;Dessau, Albrechtsplatz;39328;de:15001:39328;Dessau-Roßlau;15001000;12,243932;51,840847
+310;Dessau, Bauhausmuseum;30320;de:15001:30320;Dessau-Roßlau;15001000;12,242692;51,834300
+310;Dessau, Brücke des Friedens;3229;de:15001:3229;Dessau-Roßlau;15001000;12,253545;51,833874
+310;Dessau, Ferdinand-von-Schill-Str.;15875;de:15001:15875;Dessau-Roßlau;15001000;12,244893;51,838681
+310;Dessau, Georgenkirche;3212;de:15001:3212;Dessau-Roßlau;15001000;12,244249;51,831137
+310;Dessau, Hauptbahnhof (Tram/Bus);3167;de:15001:3167;Dessau-Roßlau;15001000;12,236524;51,839973
+310;Dessau, Mildensee, Am Scholitzer Acker;3273;de:15001:3273;Dessau-Roßlau;15001000;12,299397;51,817895
+310;Dessau, Mildensee, Kaufland Ost;7611;de:15001:7611;Dessau-Roßlau;15001000;12,301803;51,820830
+310;Dessau, Mildensee, Sollnitzer Allee;17380;de:15001:17380;Dessau-Roßlau;15001000;12,300091;51,821229
+310;Dessau, Mildensee, Strandbad Adria/B107;30348;de:15001:30348;Dessau-Roßlau;15001000;12,313305;51,819014
+310;Dessau, Museum Nord;10447;de:15001:10447;Dessau-Roßlau;15001000;12,242481;51,831366
+310;Dessau, Rehsumpf;3238;de:15001:3238;Dessau-Roßlau;15001000;12,269796;51,831625
+310;Dessau, Wörlitzer Platz;20289;de:15001:20289;Dessau-Roßlau;15001000;12,238838;51,841257
+310;Gräfenhainichen, Abzweig Ferropolis;6260;de:15091:6260;Gräfenhainichen;15091110;12,426843;51,741189
+310;Gräfenhainichen, Bahnhofstr.;10390;de:15091:10390;Gräfenhainichen;15091110;12,456417;51,728292
+310;Gräfenhainichen, Gutenbergplatz;6259;de:15091:6259;Gräfenhainichen;15091110;12,450459;51,732558
+310;Gräfenhainichen, S-Bahnhof (Bus);10389;de:15091:10389;Gräfenhainichen;15091110;12,459550;51,724953
+310;Jüdenberg (Gräfenhainichen);6261;de:15091:6261;Gräfenhainichen;15091110;12,413568;51,750685
+310;Kapen (Oranienbaum), Biosphärenreservat (Bus);6266;de:15091:6266;Oranienbaum-Wörlitz;15091241;12,333782;51,814388
+310;Müchauer Mühle (Jüdenberg);6262;de:15091:6262;Gräfenhainichen;15091110;12,396960;51,769878
+310;Oranienbaum (Anhalt), Behelfsheim;6263;de:15091:6263;Oranienbaum-Wörlitz;15091241;12,401739;51,788316
+310;Oranienbaum (Anhalt), Busbahnhof;6264;de:15091:6264;Oranienbaum-Wörlitz;15091241;12,403478;51,797535
+310;Oranienbaum (Anhalt), Dessora-Park (Ditsch);10401;de:15091:10401;Oranienbaum-Wörlitz;15091241;12,353127;51,808623
+310;Oranienbaum (Anhalt), Dessora-Park (Füngers);10400;de:15091:10400;Oranienbaum-Wörlitz;15091241;12,343715;51,809826
+310;Oranienbaum (Anhalt), Krähenberg;6265;de:15091:6265;Oranienbaum-Wörlitz;15091241;12,388650;51,803035
+312;Asendorf (Teutschenthal);9595;de:15088:9595;Teutschenthal;15088365;11,734920;51,413075
+312;Bennstedt (Salzatal), Abzweig B80;9611;de:15088:9611;Salzatal;15088319;11,823384;51,475555
+312;Dornstedt, Steudener Str.;9661;de:15088:9661;Teutschenthal;15088365;11,744752;51,411595
+312;Eisdorf, Sportplatz;39632;de:15088:39632;Teutschenthal;15088365;11,820755;51,466732
+312;Eisdorf (Teutschenthal), Bahnhof (Bus);9751;de:15088:9751;Teutschenthal;15088365;11,820894;51,464602
+312;Eisdorf (Teutschenthal), Hallesche Str.;9745;de:15088:9745;Teutschenthal;15088365;11,823433;51,457465
+312;Eisdorf (Teutschenthal), Kirschberg;30600;de:15088:30600;Teutschenthal;15088365;11,822248;51,460883
+312;Etzdorf (Teutschenthal), Alte Hauptstr.;9680;de:15088:9680;Teutschenthal;15088365;11,759523;51,430317
+312;Halle (Saale), An der Feuerwache;5227;de:15002:5227;Halle (Saale);15002000;11,934780;51,480783
+312;Halle (Saale), Franckeplatz;5125;de:15002:5125;Halle (Saale);15002000;11,969596;51,478548
+312;Halle (Saale), Göttinger Bogen;5180;de:15002:5180;Halle (Saale);15002000;11,902841;51,477129
+312;Halle (Saale), Hauptbahnhof/ZOB;5438;de:15002:5438;Halle (Saale);15002000;11,984570;51,477440
+312;Halle (Saale), S-Bahnhof Neustadt (Tram/Bus);5122;de:15002:5122;Halle (Saale);15002000;11,921323;51,479054
+312;Halle (Saale), Schwimmhalle;5184;de:15002:5184;Halle (Saale);15002000;11,915398;51,478957
+312;Obhausen (Bus);9956;de:15088:9956;Obhausen;15088265;11,654865;51,391686
+312;Obhausen, Waidawinkel;30855;de:15088:30855;Obhausen;15088265;11,651713;51,389600
+312;Querfurt, Geistpromenade;2319;de:15088:2319;Querfurt;15088305;11,600364;51,375818
+312;Querfurt, Grundschule;30022;de:15088:30022;Querfurt;15088305;11,600934;51,381560
+312;Querfurt, Gymnasium;2320;de:15088:2320;Querfurt;15088305;11,602181;51,375176
+312;Querfurt, Merseburger Str.;2300;de:15088:2300;Querfurt;15088305;11,609385;51,381363
+312;Querfurt, Roßplatz;782;de:15088:782;Querfurt;15088305;11,600921;51,381587
+312;Querfurt, ZOB;2318;de:15088:2318;Querfurt;15088305;11,597902;51,383065
+312;Steuden, Dorfanger;10071;de:15088:10071;Teutschenthal;15088365;11,765724;51,420587
+312;Steuden, West;30675;de:15088:30675;Teutschenthal;15088365;11,761707;51,418353
+312;Teutschenthal, Bäckerei Boltze;10077;de:15088:10077;Teutschenthal;15088365;11,801028;51,449291
+312;Teutschenthal, Carl-Wentzel-Str.;10081;de:15088:10081;Teutschenthal;15088365;11,794669;51,446242
+312;Teutschenthal, Oleanderweg;30824;de:15088:30824;Teutschenthal;15088365;11,798168;51,449575
+312;Teutschenthal, Schafberg;39624;de:15088:39624;Teutschenthal;15088365;11,809949;51,451385
+312;Teutschenthal, Schloss;10250;de:15088:10250;Teutschenthal;15088365;11,786674;51,442764
+312;Teutschenthal, Schule;10251;de:15088:10251;Teutschenthal;15088365;11,803912;51,453376
+312;Teutschenthal, Sparkasse;10252;de:15088:10252;Teutschenthal;15088365;11,808364;51,450185
+312;Teutschenthal, Str. des Friedens;10079;de:15088:10079;Teutschenthal;15088365;11,814881;51,453913
+320;Angersdorf, Feuerwehr;9590;de:15088:9590;Teutschenthal;15088365;11,907121;51,458627
+320;Angersdorf, Salzstr.;30835;de:15088:30835;Teutschenthal;15088365;11,905431;51,456718
+320;Angersdorf, Siedlung;9593;de:15088:9593;Teutschenthal;15088365;11,902057;51,452990
+320;Angersdorf, Wilhelmshöhe;9594;de:15088:9594;Teutschenthal;15088365;11,909195;51,461597
+320;Bad Lauchstädt, Am Schloss;9606;de:15088:9606;Bad Lauchstädt;15088025;11,864835;51,387590
+320;Bad Lauchstädt, Am Theater;30836;de:15088:30836;Bad Lauchstädt;15088025;11,864586;51,388666
+320;Bad Lauchstädt, Bahnhof (Bus);9602;de:15088:9602;Bad Lauchstädt;15088025;11,871215;51,389196
+320;Bad Lauchstädt, Hallesche Str.;9618;de:15088:9618;Bad Lauchstädt;15088025;11,871170;51,391005
+320;Bad Lauchstädt, Markt;9605;de:15088:9605;Bad Lauchstädt;15088025;11,867941;51,387389
+320;Bad Lauchstädt, Zentrales Umspannwerk;9628;de:15088:9628;Bad Lauchstädt;15088025;11,888868;51,406168
+320;Delitz am Berge, Freiheitstr.;9655;de:15088:9655;Bad Lauchstädt;15088025;11,902883;51,417708
+320;Delitz am Berge, Gartenstr.;9701;de:15088:9701;Bad Lauchstädt;15088025;11,900723;51,414947
+320;Halle (Saale), An der Feuerwache;5227;de:15002:5227;Halle (Saale);15002000;11,934780;51,480783
+320;Halle (Saale), Franckeplatz;5125;de:15002:5125;Halle (Saale);15002000;11,969596;51,478548
+320;Halle (Saale), Hauptbahnhof/ZOB;5438;de:15002:5438;Halle (Saale);15002000;11,984570;51,477440
+320;Halle (Saale), S-Bahnhof Neustadt (Tram/Bus);5122;de:15002:5122;Halle (Saale);15002000;11,921323;51,479054
+320;Halle (Saale), S-Bahnhof Zscherbener Str. (Bus);5059;de:15002:5059;Halle (Saale);15002000;11,922183;51,474508
+320;Holleben, Alte Bahnhofstr.;30825;de:15088:30825;Teutschenthal;15088365;11,900483;51,442465
+320;Holleben, Ernst-Thälmann-Str.;30826;de:15088:30826;Teutschenthal;15088365;11,900838;51,449424
+320;Holleben, Karl-Liebknecht-Str.;9969;de:15088:9969;Teutschenthal;15088365;11,900856;51,445629
+320;Holleben, Lutherplatz;9973;de:15088:9973;Teutschenthal;15088365;11,902682;51,435865
+320;Holleben, Mühlenstr.;9971;de:15088:9971;Teutschenthal;15088365;11,899754;51,439138
+330;Beidersee (Morl), Bahnhofstr.;9646;de:15088:9646;Petersberg;15088295;11,905242;51,565763
+330;Deutleben;9706;de:15088:9706;Wettin-Löbejün;15088216;11,841661;51,598464
+330;Gimritz, Am Mühlberg;39606;de:15088:39606;Wettin-Löbejün;15088216;11,872956;51,564589
+330;Gimritz, Wettiner Landstr.;9836;de:15088:9836;Wettin-Löbejün;15088216;11,870774;51,566818
+330;Görbitz, Kirche;9850;de:15088:9850;Wettin-Löbejün;15088216;11,876601;51,576628
+330;Grube Ferdinande;9880;de:15088:9880;Petersberg;15088295;11,930435;51,542973
+330;Halle (Saale), Am Steintor;5237;de:15002:5237;Halle (Saale);15002000;11,978086;51,488196
+330;Halle (Saale), Hauptbahnhof/ZOB;5438;de:15002:5438;Halle (Saale);15002000;11,984570;51,477440
+330;Halle (Saale), Industriepark Halle-Trotha;22821;de:15002:22821;Halle (Saale);15002000;11,943784;51,531017
+330;Halle (Saale), Kaufland Trotha;1673;de:15002:1673;Halle (Saale);15002000;11,950507;51,522277
+330;Halle (Saale), Pfarrstr.;5099;de:15002:5099;Halle (Saale);15002000;11,958748;51,513132
+330;Halle (Saale), Trotha;5132;de:15002:5132;Halle (Saale);15002000;11,957856;51,519151
+330;Halle (Saale), Trothaer Str.;30205;de:15002:30205;Halle (Saale);15002000;11,956393;51,518361
+330;Halle (Saale), Trothaer Weg;30377;de:15002:30377;Halle (Saale);15002000;11,945632;51,528909
+330;Lettewitz, Wettiner Str.;10078;de:15088:10078;Wettin-Löbejün;15088216;11,862230;51,582365
+330;Löbejün, An der Stadtmauer;10096;de:15088:10096;Wettin-Löbejün;15088216;11,899120;51,635879
+330;Löbejün, Berggasse;30605;de:15088:30605;Wettin-Löbejün;15088216;11,905432;51,639013
+330;Löbejün, Kochstor;10095;de:15088:10095;Wettin-Löbejün;15088216;11,906851;51,637252
+330;Löbejün, Merbitzer Berg;30710;de:15088:30710;Wettin-Löbejün;15088216;11,899909;51,631490
+330;Merbitz, Löbejüner Str.;10124;de:15088:10124;Wettin-Löbejün;15088216;11,886247;51,614961
+330;Möderau, Abzweig;9584;de:15088:9584;Petersberg;15088295;11,914093;51,560023
+330;Morl, Brachwitzer Weg;1671;de:15088:1671;Petersberg;15088295;11,919785;51,552967
+330;Mücheln (Wettin), Lettewitzer Str.;10155;de:15088:10155;Wettin-Löbejün;15088216;11,832044;51,577560
+330;Nauendorf (Saalekreis), Am Sportplatz;39601;de:15088:39601;Wettin-Löbejün;15088216;11,883528;51,604428
+330;Nauendorf (Saalekreis), Bahnhof (Bus);22824;de:15088:22824;Wettin-Löbejün;15088216;11,883668;51,608452
+330;Nauendorf (Saalekreis), Poststr.;39609;de:15088:39609;Wettin-Löbejün;15088216;11,882859;51,607312
+330;Nauendorf (Saalekreis), Schule;10159;de:15088:10159;Wettin-Löbejün;15088216;11,885123;51,604532
+330;Neutz, Hallesche Str.;10168;de:15088:10168;Wettin-Löbejün;15088216;11,839735;51,605532
+330;Wettin, Hallesche Str.;22780;de:15088:22780;Wettin-Löbejün;15088216;11,818928;51,580591
+330;Wettin, Könnernsche Str.;10258;de:15088:10258;Wettin-Löbejün;15088216;11,798767;51,588995
+330;Wettin, Malzmache;30206;de:15088:30206;Wettin-Löbejün;15088216;11,810294;51,584718
+330;Wettin, Mühlgasse;10260;de:15088:10260;Wettin-Löbejün;15088216;11,806927;51,586750
+330;Wettin, Neutzer Str.;10259;de:15088:10259;Wettin-Löbejün;15088216;11,804105;51,589667
+330;Wettin, Saalestr.;10261;de:15088:10261;Wettin-Löbejün;15088216;11,813414;51,581955
+345;Braschwitz, Saarbrücker Str.;9677;de:15088:9677;Landsberg;15088195;12,059592;51,517088
+345;Gütz, Otto-Quandt-Str.;9893;de:15088:9893;Landsberg;15088195;12,147608;51,532865
+345;Halle (Saale), Am Steintor;5237;de:15002:5237;Halle (Saale);15002000;11,978086;51,488196
+345;Halle (Saale), Apoldaer Str./Birkhahnweg;3956;de:15002:3956;Halle (Saale);15002000;12,007479;51,494746
+345;Halle (Saale), Berliner Brücke;5051;de:15002:5051;Halle (Saale);15002000;11,994703;51,488599
+345;Halle (Saale), Hauptbahnhof/ZOB;5438;de:15002:5438;Halle (Saale);15002000;11,984570;51,477440
+345;Halle (Saale), Rosenfelder Str.;84202;de:15002:84202;Halle (Saale);15002000;12,031950;51,501020
+345;Halle (Saale), S-Bahnhof Steintorbrücke;5236;de:15002:5236;Halle (Saale);15002000;11,986516;51,489815
+345;Hohenthurm, Alte Bahnhofstr.;9959;de:15088:9959;Landsberg;15088195;12,097976;51,520817
+345;Hohenthurm, Berliner Str.;30706;de:15088:30706;Landsberg;15088195;12,097673;51,522938
+345;Hohenthurm, Briefzentrum;17157;de:15088:17157;Landsberg;15088195;12,101719;51,525205
+345;Landsberg (b. Halle), An der Mühle;10057;de:15088:10057;Landsberg;15088195;12,151924;51,528783
+345;Landsberg (b. Halle), Bahnhofstr.;30643;de:15088:30643;Landsberg;15088195;12,160931;51,528127
+345;Landsberg (b. Halle), Grundschule;22587;de:15088:22587;Landsberg;15088195;12,163825;51,526826
+345;Landsberg (b. Halle), Mäc Geiz;30645;de:15088:30645;Landsberg;15088195;12,159714;51,538644
+345;Landsberg (b. Halle), Markt;10051;de:15088:10051;Landsberg;15088195;12,159550;51,525045
+345;Landsberg (b. Halle), Plattenhardt + Wirth;30646;de:15088:30646;Landsberg;15088195;12,162150;51,535719
+345;Landsberg (b. Halle), S-Bahnhof (Bus);5764;de:15088:5764;Landsberg;15088195;12,166266;51,532299
+345;Landsberg (b. Halle), Schule;10055;de:15088:10055;Landsberg;15088195;12,169226;51,525736
+345;Landsberg (b. Halle), Thomas-Müntzer-Str.;30603;de:15088:30603;Landsberg;15088195;12,155292;51,525168
+345;Peißen (Saalekreis), Halle-Center;13509;de:15088:13509;Landsberg;15088195;12,054231;51,511716
+345;Zöberitz, Bahnhof (Bus);17179;de:15088:17179;Landsberg;15088195;12,032623;51,503988
+350;Brachstedt, Alter Dorfplatz;9671;de:15088:9671;Petersberg;15088295;12,051625;51,570315
+350;Brachstedt Am Sportplatz;9672;de:15088:9672;Petersberg;15088295;12,048136;51,569057
+350;Halle (Saale), Am Steintor;5237;de:15002:5237;Halle (Saale);15002000;11,978086;51,488196
+350;Halle (Saale), Frohe Zukunft;5177;de:15002:5177;Halle (Saale);15002000;11,994612;51,508948
+350;Halle (Saale), Hauptbahnhof/ZOB;5438;de:15002:5438;Halle (Saale);15002000;11,984570;51,477440
+350;Halle (Saale), Tornau, Kirschallee;3951;de:15002:3951;Halle (Saale);15002000;12,004235;51,529264
+350;Oppin, Gutenberger Str.;10175;de:15088:10175;Landsberg;15088195;12,026917;51,552183
+350;Rieda (Schrenz), Thomas-Müntzer-Str.;22698;de:15082:22698;Zörbig;15082440;12,066181;51,597915
+350;Schrenz, Neue Siedlung;20258;de:15082:20258;Zörbig;15082440;12,073654;51,588648
+350;Siegelsdorf (Zörbig);4566;de:15082:4566;Zörbig;15082440;12,071603;51,592477
+350;Spören, Hirtenweg;6664;de:15082:6664;Zörbig;15082440;12,126870;51,601033
+350;Spören, Kastanienallee;4568;de:15082:4568;Zörbig;15082440;12,122509;51,601230
+350;Zörbig, Bahnübergang;31211;de:15082:31211;Zörbig;15082440;12,114082;51,631464
+350;Zörbig, Florian-Geyer-Str.;39311;de:15082:39311;Zörbig;15082440;12,123227;51,625756
+350;Zörbig, Markt;4512;de:15082:4512;Zörbig;15082440;12,118125;51,628041
+350;Zörbig, Oskar-Fleischer-Str.;31176;de:15082:31176;Zörbig;15082440;12,120940;51,633030
+350;Zörbig, Reinhold-Schmidt-Str.;31177;de:15082:31177;Zörbig;15082440;12,115220;51,632960
+350;Zörbig, Schützenplatz;39310;de:15082:39310;Zörbig;15082440;12,122494;51,629606
+350;Zörbig, Stadtbad;39312;de:15082:39312;Zörbig;15082440;12,121341;51,622695
+350;Zörbig, Turm;4514;de:15082:4514;Zörbig;15082440;12,113566;51,628126
+350;Zörbig, Wilhelmstr.;31178;de:15082:31178;Zörbig;15082440;12,122190;51,631110
+358;Dieskau, Abzweig Zwintschöna;4985;de:15088:4985;Kabelsketal;15088150;12,043503;51,442234
+358;Dieskau, Neue Siedlung;30105;de:15088:30105;Kabelsketal;15088150;12,040865;51,430893
+358;Dieskau, Ringstr.;22582;de:15088:22582;Kabelsketal;15088150;12,038887;51,436204
+358;Döllnitz, An der Gartenanlage;5102;de:15088:5102;Schkopau;15088330;12,033011;51,405939
+358;Döllnitz (b. Halle), Berliner Str.;3936;de:15088:3936;Schkopau;15088330;12,027582;51,407528
+358;Döllnitz (b. Halle), Mafa;9723;de:15088:9723;Schkopau;15088330;12,034278;51,415725
+358;Döllnitz (b. Halle), Mühlenstr.;5097;de:15088:5097;Schkopau;15088330;12,024304;51,411443
+358;Halle (Saale), Dieselstr.;5000;de:15002:5000;Halle (Saale);15002000;12,009283;51,459167
+358;Halle (Saale), Einkaufspark HEP;5078;de:15002:5078;Halle (Saale);15002000;12,015687;51,454354
+358;Halle (Saale), Goldregenweg;5130;de:15002:5130;Halle (Saale);15002000;12,004920;51,462426
+358;Halle (Saale), Hauptbahnhof/ZOB;5438;de:15002:5438;Halle (Saale);15002000;11,984570;51,477440
+358;Halle (Saale), Hauptbahnhof/ZOB (E.-Kamieth-Str.);8070814;de:15002:8070814;Halle (Saale);15002000;11,985603;51,476891
+358;Halle (Saale), MesseHandelsCentrum;5261;de:15002:5261;Halle (Saale);15002000;12,023189;51,449207
+358;Halle (Saale), Raffineriestr.;5259;de:15002:5259;Halle (Saale);15002000;11,989847;51,472935
+358;Halle (Saale), Rudolf-Ernst-Weise-Str.;3941;de:15002:3941;Halle (Saale);15002000;11,986642;51,474123
+358;Halle (Saale), Schmelzerstr.;9682;de:15002:9682;Halle (Saale);15002000;12,030964;51,444285
+358;Halle (Saale), Thüringer Str.;5229;de:15002:5229;Halle (Saale);15002000;11,992815;51,469012
+358;Zwintschöna (Dieskau), Bahnhofstr.;5039;de:15088:5039;Kabelsketal;15088150;12,047275;51,447450
+358;Zwintschöna (Dieskau), Dieskauer Str.;20233;de:15088:20233;Kabelsketal;15088150;12,046626;51,446774
+358;Zwintschöna (Dieskau), Eschengrund;10280;de:15088:10280;Kabelsketal;15088150;12,054329;51,445998
+358;Zwintschöna (Dieskau), Gewerbegebiet;30198;de:15088:30198;Kabelsketal;15088150;12,057624;51,442558
+358;Zwintschöna (Dieskau), Lindenallee;30650;de:15088:30650;Kabelsketal;15088150;12,051668;51,447740
+380;Benkendorf (Salzmünde), Quillschinaer Str.;9648;de:15088:9648;Salzatal;15088319;11,822341;51,515517
+380;Halle (Saale), Alfred-Oelßner-Str.;5142;de:15002:5142;Halle (Saale);15002000;11,882018;51,508094
+380;Halle (Saale), Am Heidesee;5739;de:15002:5739;Halle (Saale);15002000;11,903970;51,489670
+380;Halle (Saale), Am Stadion;5265;de:15002:5265;Halle (Saale);15002000;11,911513;51,481256
+380;Halle (Saale), An der Feuerwache;5227;de:15002:5227;Halle (Saale);15002000;11,934780;51,480783
+380;Halle (Saale), Franckeplatz;5125;de:15002:5125;Halle (Saale);15002000;11,969596;51,478548
+380;Halle (Saale), Hallesche Str.;5011;de:15002:5011;Halle (Saale);15002000;11,908558;51,485510
+380;Halle (Saale), Hauptbahnhof/ZOB;5438;de:15002:5438;Halle (Saale);15002000;11,984570;51,477440
+380;Halle (Saale), Heidebahnhof;5037;de:15002:5037;Halle (Saale);15002000;11,887010;51,502964
+380;Halle (Saale), Lieskauer Str.;3949;de:15002:3949;Halle (Saale);15002000;11,875359;51,506909
+380;Halle (Saale), Otto-Kanning-Str.;30517;de:15002:30517;Halle (Saale);15002000;11,884582;51,504894
+380;Halle (Saale), S-Bahnhof Neustadt (Tram/Bus);5122;de:15002:5122;Halle (Saale);15002000;11,921323;51,479054
+380;Halle (Saale), S-Bahnhof Nietleben (Bus);5196;de:15002:5196;Halle (Saale);15002000;11,906856;51,487953
+380;Halle (Saale), Schwimmhalle;5184;de:15002:5184;Halle (Saale);15002000;11,915398;51,478957
+380;Höhnstedt, Schule;15576;de:15088:15576;Salzatal;15088319;11,739424;51,502965
+380;Köllme, Abzweig;9579;de:15088:9579;Salzatal;15088319;11,814562;51,504573
+380;Köllme, Am Winkel;15575;de:15088:15575;Salzatal;15088319;11,812507;51,498806
+380;Köllme, Kita;22822;de:15088:22822;Salzatal;15088319;11,813104;51,502199
+380;Lieskau, Mitte;5157;de:15088:5157;Salzatal;15088319;11,862063;51,505086
+380;Lieskau, Salzmünder Str.;837;de:15088:837;Salzatal;15088319;11,861847;51,508085
+380;Müllerdorf (Zappendorf), Kirchberg;10157;de:15088:10157;Salzatal;15088319;11,791114;51,510780
+380;Müllerdorf (Zappendorf), Seniorenheim;10158;de:15088:10158;Salzatal;15088319;11,796389;51,509872
+380;Salzmünde, Carl-Wentzel-Platz;2255;de:15088:2255;Salzatal;15088319;11,823295;51,527433
+380;Salzmünde, Ölberg;10216;de:15088:10216;Salzatal;15088319;11,827358;51,524863
+380;Salzmünde, Ortsmitte;30651;de:15088:30651;Salzatal;15088319;11,826658;51,525428
+380;Schiepzig, Geschwister-Scholl-Str.;30676;de:15088:30676;Salzatal;15088319;11,849642;51,526508
+380;Schiepzig, Nelkenstr.;9571;de:15088:9571;Salzatal;15088319;11,853368;51,525239
+380;Schiepzig, Rosenstr.;31012;de:15088:31012;Salzatal;15088319;11,857852;51,522963
+380;Schiepzig, Seeparkstr.;10223;de:15088:10223;Salzatal;15088319;11,858040;51,524352
+380;Zappendorf, Fleischerstr.;10269;de:15088:10269;Salzatal;15088319;11,804458;51,507774
+410;Aschersleben, Busbahnhof;2767;de:15089:2767;Aschersleben;15089015;11,463438;51,757971
+410;Aschersleben, Eislebener Str.;2757;de:15089:2757;Aschersleben;15089015;11,459240;51,748974
+410;Aschersleben, Klinikum;2732;de:15089:2732;Aschersleben;15089015;11,459069;51,745831
+410;Hettstedt, Ascherslebener Str.;2494;de:15087:2494;Hettstedt;15087220;11,506647;51,655394
+410;Hettstedt, Bahnhof (Bus);2495;de:15087:2495;Hettstedt;15087220;11,511718;51,636821
+410;Hettstedt, Busbahnhof;2499;de:15087:2499;Hettstedt;15087220;11,511128;51,644430
+410;Hettstedt, Eduardschacht (Bus);2655;de:15087:2655;Hettstedt;15087220;11,522435;51,627655
+410;Hettstedt, Helios-Klinik;1649;de:15087:1649;Hettstedt;15087220;11,493952;51,657930
+410;Hettstedt, Hettstedter Meile;2483;de:15087:2483;Hettstedt;15087220;11,499464;51,656447
+410;Hettstedt, Kolpingwerk;2482;de:15087:2482;Hettstedt;15087220;11,487730;51,657541
+410;Hübitz, Abzweig;2453;de:15087:2453;Gerbstedt;15087165;11,544205;51,596475
+410;Lu. Eisleben, Bahnhof (Bus);2635;de:15087:2635;Eisleben;15087130;11,552016;51,518487
+410;Lu. Eisleben, Breiter Weg;2636;de:15087:2636;Eisleben;15087130;11,539322;51,527825
+410;Lu. Eisleben, Busbahnhof;2637;de:15087:2637;Eisleben;15087130;11,548543;51,531383
+410;Lu. Eisleben, Ecke Hohetorstr.;2639;de:15087:2639;Eisleben;15087130;11,542603;51,530073
+410;Lu. Eisleben, Friedensstr.;2616;de:15087:2616;Eisleben;15087130;11,543060;51,521720
+410;Lu. Eisleben, Friedhof;2617;de:15087:2617;Eisleben;15087130;11,545422;51,538481
+410;Lu. Eisleben, Fritz-Wenck-Str.;2618;de:15087:2618;Eisleben;15087130;11,538306;51,524862
+410;Lu. Eisleben, Landwehr;2634;de:15087:2634;Eisleben;15087130;11,556007;51,523632
+410;Lu. Eisleben, Magdeburger Str.;2610;de:15087:2610;Eisleben;15087130;11,545552;51,542874
+410;Lu. Eisleben, Mansfelder Hof;2628;de:15087:2628;Eisleben;15087130;11,552537;51,525991
+410;Lu. Eisleben, Oberhütte;2602;de:15087:2602;Eisleben;15087130;11,544933;51,548308
+410;Lu. Eisleben, Plan (Zentrum);3368;de:15087:3368;Eisleben;15087130;11,549509;51,527775
+410;Lu. Eisleben, Rathenaustr.;2605;de:15087:2605;Eisleben;15087130;11,554847;51,520403
+410;Quenstedt;2317;de:15087:2317;Arnstein;15087031;11,453856;51,698016
+410;Quenstedt, Fabrik;20018;de:15087:20018;Arnstein;15087031;11,450660;51,687340
+410;Siersleben;2180;de:15087:2180;Gerbstedt;15087165;11,544364;51,603690
+410;Siersleben, Bahnhof (Bus);2181;de:15087:2181;Gerbstedt;15087165;11,537033;51,612543
+410;Sylda;2176;de:15087:2176;Arnstein;15087031;11,425983;51,678090
+410;Thälmannschacht (Hübitz), Abzweig;2178;de:15087:2178;Eisleben;15087130;11,544940;51,584062
+410;Volkstedt;2138;de:15087:2138;Eisleben;15087130;11,555267;51,560058
+410;Volkstedt, Abzweig;2165;de:15087:2165;Eisleben;15087130;11,545146;51,559874
+410;Walbeck (b. Hettstedt);2139;de:15087:2139;Hettstedt;15087220;11,473366;51,662645
+420;Ahlsdorf;2790;de:15087:2790;Ahlsdorf;15087010;11,470495;51,545540
+420;Benndorf (Mansfelder Land), Bahnhof Klostermansfeld (Bus);5712;de:15087:5712;Benndorf;15087045;11,491768;51,574910
+420;Benndorf (Mansfelder Land) (Bus);2685;de:15087:2685;Benndorf;15087045;11,493380;51,571163
+420;Großörner, Am Krankenhaus;2552;de:15087:2552;Mansfeld;15087275;11,482242;51,611629
+420;Großörner, Mansfelder Str.;2551;de:15087:2551;Mansfeld;15087275;11,491724;51,617856
+420;Helbra (Bus);2523;de:15087:2523;Helbra;15087205;11,488109;51,556271
+420;Helbra, Friedhof;2517;de:15087:2517;Helbra;15087205;11,479793;51,555305
+420;Helbra, Lehbreite;2518;de:15087:2518;Helbra;15087205;11,498344;51,554624
+420;Helbra, Neptunbad;2519;de:15087:2519;Helbra;15087205;11,489228;51,561173
+420;Hergisdorf;2511;de:15087:2511;Hergisdorf;15087210;11,480279;51,536946
+420;Hettstedt, Busbahnhof;2499;de:15087:2499;Hettstedt;15087220;11,511128;51,644430
+420;Hettstedt, Klubhaustreppe;2481;de:15087:2481;Hettstedt;15087220;11,506432;51,636322
+420;Hettstedt, KME;2463;de:15087:2463;Hettstedt;15087220;11,503348;51,626230
+420;Hettstedt, Mansfelder Str.;2492;de:15087:2492;Hettstedt;15087220;11,508180;51,639458
+420;Klostermansfeld, Bahnhofstr.;2423;de:15087:2423;Klostermansfeld;15087260;11,494273;51,577446
+420;Klostermansfeld, Siebigeröder Str.;2426;de:15087:2426;Klostermansfeld;15087260;11,491347;51,583576
+420;Kreisfeld, Eislebener Str. (Hergisdorf);2405;de:15087:2405;Hergisdorf;15087210;11,498848;51,529081
+420;Kreisfeld (Hergisdorf);2404;de:15087:2404;Hergisdorf;15087210;11,485352;51,530573
+420;Leimbach (Mansfeld), Brücke;2396;de:15087:2396;Mansfeld;15087275;11,462040;51,600665
+420;Leimbach (Mansfeld), Denkmal;2375;de:15087:2375;Mansfeld;15087275;11,464168;51,604495
+420;Leimbach (Mansfeld), Hettstedter Str.;2397;de:15087:2397;Mansfeld;15087275;11,471946;51,605769
+420;Leimbach (Mansfeld), Sonne;2376;de:15087:2376;Mansfeld;15087275;11,462115;51,603639
+420;Lu. Eisleben, Bahnhof (Bus);2635;de:15087:2635;Eisleben;15087130;11,552016;51,518487
+420;Lu. Eisleben, Breiter Weg;2636;de:15087:2636;Eisleben;15087130;11,539322;51,527825
+420;Lu. Eisleben, Busbahnhof;2637;de:15087:2637;Eisleben;15087130;11,548543;51,531383
+420;Lu. Eisleben, Ecke Hohetorstr.;2639;de:15087:2639;Eisleben;15087130;11,542603;51,530073
+420;Lu. Eisleben, Friedensstr.;2616;de:15087:2616;Eisleben;15087130;11,543060;51,521720
+420;Lu. Eisleben, Fritz-Wenck-Str.;2618;de:15087:2618;Eisleben;15087130;11,538306;51,524862
+420;Lu. Eisleben, Kasseler Str.;2623;de:15087:2623;Eisleben;15087130;11,535686;51,524901
+420;Lu. Eisleben, Krughütte;2626;de:15087:2626;Eisleben;15087130;11,529432;51,524146
+420;Lu. Eisleben, Landwehr;2634;de:15087:2634;Eisleben;15087130;11,556007;51,523632
+420;Lu. Eisleben, Mansfelder Hof;2628;de:15087:2628;Eisleben;15087130;11,552537;51,525991
+420;Lu. Eisleben, Plan (Zentrum);3368;de:15087:3368;Eisleben;15087130;11,549509;51,527775
+420;Lu. Eisleben, Rathenaustr.;2605;de:15087:2605;Eisleben;15087130;11,554847;51,520403
+420;Mansfeld (Südharz), Oberstadt;2399;de:15087:2399;Mansfeld;15087275;11,455427;51,595553
+420;Mansfeld (Südharz), Schloss;2401;de:15087:2401;Mansfeld;15087275;11,463699;51,596117
+420;Wimmelburg;2135;de:15087:2135;Wimmelburg;15087470;11,506839;51,521332
+420;Wimmelburg, Center;2134;de:15087:2134;Wimmelburg;15087470;11,514149;51,520888
+420;Ziegelrode (Ahlsdorf);2102;de:15087:2102;Ahlsdorf;15087010;11,471322;51,550423
+471;Aken, Gewerbering;4900;de:15082:4900;Aken (Elbe);15082005;12,088692;51,850713
+471;Aken, Heiratsberg;39333;de:15082:39333;Aken (Elbe);15082005;12,048454;51,849264
+471;Aken, Hopfenstr.;39334;de:15082:39334;Aken (Elbe);15082005;12,052670;51,849353
+471;Aken, Magnesit;4907;de:15082:4907;Aken (Elbe);15082005;12,083391;51,850888
+471;Aken, Markt;16812;de:15082:16812;Aken (Elbe);15082005;12,044659;51,854550
+471;Aken, Neu-Tornau;4909;de:15082:4909;Aken (Elbe);15082005;12,065249;51,852666
+471;Aken, Puschkinstr.;39335;de:15082:39335;Aken (Elbe);15082005;12,076701;51,851558
+471;Aken, Schützenplatz;39336;de:15082:39336;Aken (Elbe);15082005;12,042622;51,849757
+471;Aken, Seniorenzentrum;4912;de:15082:4912;Aken (Elbe);15082005;12,072720;51,851950
+471;Aken, Str. des Friedens (Ersatzhalt);39341;de:15082:39341;Aken (Elbe);15082005;12,068832;51,851673
+471;Aken, Susigker Str.;39337;de:15082:39337;Aken (Elbe);15082005;12,056554;51,852263
+471;Aken, Volksbad;4913;de:15082:4913;Aken (Elbe);15082005;12,043746;51,851787
+471;Aken, Waldstraße (Ersatzhalt);39342;de:15082:39342;Aken (Elbe);15082005;12,067939;51,848368
+471;Chörau;4899;de:15082:4899;Osternienburger Land;15082256;12,113404;51,815653
+471;Dessau, Albrechtsplatz;39328;de:15001:39328;Dessau-Roßlau;15001000;12,243932;51,840847
+471;Dessau, Amtsweg;3161;de:15001:3161;Dessau-Roßlau;15001000;12,187337;51,839177
+471;Dessau, Bauhausmuseum;30320;de:15001:30320;Dessau-Roßlau;15001000;12,242692;51,834300
+471;Dessau, Ferdinand-von-Schill-Str.;15875;de:15001:15875;Dessau-Roßlau;15001000;12,244893;51,838681
+471;Dessau, Finanzamt;3307;de:15001:3307;Dessau-Roßlau;15001000;12,206061;51,836951
+471;Dessau, Hauptbahnhof (Tram/Bus);3167;de:15001:3167;Dessau-Roßlau;15001000;12,236524;51,839973
+471;Dessau, Junkerspark;3169;de:15001:3169;Dessau-Roßlau;15001000;12,181392;51,816628
+471;Dessau, Kleinkühnau, Zentralfriedhof Süd;15940;de:15001:15940;Dessau-Roßlau;15001000;12,174665;51,841229
+471;Dessau, Landesverwaltungsamt;3296;de:15001:3296;Dessau-Roßlau;15001000;12,211669;51,836618
+471;Dessau, Mosigkau, Knobelsdorffallee;3221;de:15001:3221;Dessau-Roßlau;15001000;12,150100;51,812040
+471;Dessau, Mosigkauer Str.;3213;de:15001:3213;Dessau-Roßlau;15001000;12,180672;51,840374
+471;Dessau, Oechelhäuser Str.;3286;de:15001:3286;Dessau-Roßlau;15001000;12,223760;51,835423
+471;Dessau, Rosefelder Str.;10450;de:15001:10450;Dessau-Roßlau;15001000;12,176439;51,841055
+471;Dessau, Schule Kleinkühnau;3219;de:15001:3219;Dessau-Roßlau;15001000;12,192234;51,838235
+471;Dessau, Sportplatz Kleinkühnau;3228;de:15001:3228;Dessau-Roßlau;15001000;12,199746;51,837330
+471;Dessau, Wörlitzer Platz;20289;de:15001:20289;Dessau-Roßlau;15001000;12,238838;51,841257
+471;Dessau, Ziebigker Str.;3281;de:15001:3281;Dessau-Roßlau;15001000;12,218129;51,836036
+471;Reppichau, Am Anger;10600;de:15082:10600;Osternienburger Land;15082256;12,077392;51,810866
+471;Reppichau, Chörauer Str.;5785;de:15082:5785;Osternienburger Land;15082256;12,082552;51,811225
+471;Susigke (Aken), Ortseingang (Ersatzhalt);39343;de:15082:39343;Aken (Elbe);15082005;12,066915;51,833038
+500;Abzweig Gröba (Wintersdorf);12296;de:16077:12296;Meuselwitz;16077032;12,370500;51,047328
+500;Altenburg (Thür.), Bahnhof (Bus);12511;de:16077:12511;Altenburg;16077001;12,442817;50,996847
+500;Altenburg (Thür.), Leipziger Str./Beethovenstr.;12593;de:16077:12593;Altenburg;16077001;12,446569;50,994803
+500;Altenburg (Thür.), Leipziger Str./Gewerbegebiet;12669;de:16077:12669;Altenburg;16077001;12,452434;51,006805
+500;Altenburg (Thür.), Leipziger Str./Remsaer Str.;12594;de:16077:12594;Altenburg;16077001;12,450603;51,002301
+500;Altenburg (Thür.), Museum;12579;de:16077:12579;Altenburg;16077001;12,444498;50,992428
+500;Brossen (Meuselwitz), B180;30064;de:16077:30064;Meuselwitz;16077032;12,265678;51,045065
+500;Döbitzschen (Langendorf);4233;de:15084:4233;Elsteraue;15084130;12,243459;51,082245
+500;Gerstenberg;13020;de:16077:13020;Gerstenberg;16077007;12,440210;51,030340
+500;Industriepark (Tröglitz/Elsteraue);4229;de:15084:4229;Elsteraue;15084130;12,194175;51,072850
+500;Industriepark (Tröglitz/Elsteraue), Mitte;30873;de:15084:30873;Elsteraue;15084130;12,192005;51,070571
+500;Krimmitzschen (Rehmsdorf);3360;de:15084:3360;Elsteraue;15084130;12,225052;51,071902
+500;Langendorf (b. Zeitz);4234;de:15084:4234;Elsteraue;15084130;12,256666;51,086544
+500;Lehma (Wintersdorf), Wartehalle;12739;de:16077:12739;Treben;16077048;12,424390;51,036263
+500;Meuselwitz (Thür.), Busplatz;10702;de:16077:10702;Meuselwitz;16077032;12,299385;51,044261
+500;Meuselwitz (Thür.), Luckaer Str.;11307;de:16077:11307;Meuselwitz;16077032;12,301469;51,050496
+500;Mumsdorf (Meuselwitz);11686;de:16077:11686;Meuselwitz;16077032;12,267444;51,064258
+500;Mumsdorf (Meuselwitz), IKW;13150;de:15084:13150;Meuselwitz;16077032;12,262882;51,070013
+500;Neubraunshain;12298;de:16077:12298;Meuselwitz;16077032;12,402727;51,036663
+500;Rehmsdorf, Hauptstr.;4214;de:15084:4214;Elsteraue;15084130;12,215265;51,062092
+500;Rehmsdorf, Rumsdorfer Platz;4217;de:15084:4217;Elsteraue;15084130;12,215635;51,057541
+500;Rehmsdorf, Siedlung;4215;de:15084:4215;Elsteraue;15084130;12,207308;51,061124
+500;Schnauderhainichen;10665;de:16077:10665;Meuselwitz;16077032;12,323982;51,057483
+500;Staschwitz (Langendorf);4235;de:15084:4235;Elsteraue;15084130;12,253531;51,076660
+500;Tröglitz, Neue Str.;4196;de:15084:4196;Elsteraue;15084130;12,181128;51,059107
+500;Tröglitz, Post;4197;de:15084:4197;Elsteraue;15084130;12,177367;51,055019
+500;Waltersdorf (b. Altenburg);12295;de:16077:12295;Meuselwitz;16077032;12,381715;51,040709
+500;Windischleuba, Gewerbegebiet;30387;de:16077:30387;Windischleuba;16077052;12,455705;51,012644
+500;Wintersdorf (Altenburger Land), Kulturhaus;12184;de:16077:12184;Meuselwitz;16077032;12,351211;51,055976
+500;Wintersdorf (Altenburger Land), Zirndorfer Str.;12185;de:16077:12185;Meuselwitz;16077032;12,355140;51,053093
+500;Zeitz, Abzweig Dietrich-Bonhoeffer-Str.;4189;de:15084:4189;Zeitz;15084590;12,155496;51,044966
+500;Zeitz, August-Bebel-Str.;4190;de:15084:4190;Zeitz;15084590;12,143545;51,047510
+500;Zeitz, Busbahnhof;4122;de:15084:4122;Zeitz;15084590;12,133444;51,055869
+500;Zeitz, Gleinaer Str.;12454;de:15084:12454;Zeitz;15084590;12,144902;51,045018
+500;Zeitz, Kalktor;4030;de:15084:4030;Zeitz;15084590;12,139054;51,047334
+500;Zeitz, Michaelisfriedhof;4218;de:15084:4218;Zeitz;15084590;12,150134;51,045390
+500;Zeitz, Platanenweg;4102;de:15084:4102;Zeitz;15084590;12,150542;51,040487
+500;Zeitz, Schützenstr.;4275;de:15084:4275;Zeitz;15084590;12,140516;51,050387
+500;Zeitz, Weberstr.;4279;de:15084:4279;Zeitz;15084590;12,139450;51,049607
+500;Zipsendorf, Friedensplatz;10660;de:16077:10660;Meuselwitz;16077032;12,281327;51,046281
+500;Zipsendorf, Werk;10661;de:16077:10661;Meuselwitz;16077032;12,291504;51,046974
+600;Bornstedt (Lkr. Börde);1085;de:15083:1085;Hohe Börde;15083298;11,358255;52,180156
+600;Drackenstedt, Große Str.;3152;de:15083:3152;Eilsleben;15083190;11,347757;52,154909
+600;Dreileben, Neue Hauptstr.;6490;de:15083:6490;Wanzleben-Börde;15083531;11,329111;52,129768
+600;Dreileben-Drackenstedt, Bahnhof (Bus);2925;de:15083:2925;Eilsleben;15083190;11,340133;52,144975
+600;Druxberge, Hauptstr.;2933;de:15083:2933;Eilsleben;15083190;11,309521;52,155934
+600;Emmeringen (Oschersleben), L24;3070;de:15083:3070;Oschersleben (Bode);15083415;11,258659;52,042958
+600;Haldensleben, Althaldensleber Str.;22347;de:15083:22347;Haldensleben;15083270;11,422017;52,279460
+600;Haldensleben, Gerikestr.;1542;de:15083:1542;Haldensleben;15083270;11,424678;52,279612
+600;Haldensleben II;1575;de:15083:1575;Haldensleben;15083270;11,421876;52,268811
+600;Haldensleben II, An der Beber;1556;de:15083:1556;Haldensleben;15083270;11,423084;52,263293
+600;Haldensleben II, Hundisburger Str.;23017;de:15083:23017;Haldensleben;15083270;11,417352;52,258117
+600;Haldensleben II, Post;1548;de:15083:1548;Haldensleben;15083270;11,423344;52,262156
+600;Haldensleben II, Wedringer Str.;1549;de:15083:1549;Haldensleben;15083270;11,425894;52,262445
+600;Haldensleben, Rottmeisterstr.;1526;de:15083:1526;Haldensleben;15083270;11,415255;52,286897
+600;Haldensleben, ZOB;1555;de:15083:1555;Haldensleben;15083270;11,407558;52,284969
+600;Hundisburg (Haldensleben);1557;de:15083:1557;Haldensleben;15083270;11,403476;52,246400
+600;Hundisburg (Haldensleben), Alte Schule;10417;de:15083:10417;Haldensleben;15083270;11,398113;52,245529
+600;Klein Rottmersleben;1185;de:15083:1185;Hohe Börde;15083298;11,375566;52,214102
+600;Oschersleben (Bode), Friedrichstr.;3088;de:15083:3088;Oschersleben (Bode);15083415;11,232260;52,032450
+600;Oschersleben (Bode), Hagebau;3037;de:15083:3037;Oschersleben (Bode);15083415;11,237443;52,032352
+600;Oschersleben (Bode), Kühling;3105;de:15083:3105;Oschersleben (Bode);15083415;11,244329;52,036553
+600;Oschersleben (Bode), ZOB;3026;de:15083:3026;Oschersleben (Bode);15083415;11,226603;52,031236
+600;Ovelgünne, Bahnhof (Bus);7014;de:15083:7014;Eilsleben;15083190;11,269221;52,141714
+600;Ovelgünne, Hauptstr.;3096;de:15083:3096;Eilsleben;15083190;11,273589;52,144857
+600;Rottmersleben;1087;de:15083:1087;Hohe Börde;15083298;11,400243;52,213377
+600;Rottmersleben, Schule;1088;de:15083:1088;Hohe Börde;15083298;11,397681;52,211730
+600;Schermcke, Am Sauren Holz;3133;de:15083:3133;Oschersleben (Bode);15083415;11,287660;52,057643
+600;Seehausen (Börde), Busbahnhof;3108;de:15083:3108;Wanzleben-Börde;15083531;11,297537;52,100050
+600;Seehausen (Börde), Friedrich-Engels-Str.;3043;de:15083:3043;Wanzleben-Börde;15083531;11,294527;52,102248
+601;Haldensleben, Althaldensleber Str.;22347;de:15083:22347;Haldensleben;15083270;11,422017;52,279460
+601;Haldensleben, Bülstringer Str.;1551;de:15083:1551;Haldensleben;15083270;11,407779;52,292830
+601;Haldensleben, Friedhof;1553;de:15083:1553;Haldensleben;15083270;11,421334;52,286026
+601;Haldensleben, Gerikestr.;1542;de:15083:1542;Haldensleben;15083270;11,424678;52,279612
+601;Haldensleben, Hagenstr.;1582;de:15083:1582;Haldensleben;15083270;11,406645;52,288403
+601;Haldensleben II;1575;de:15083:1575;Haldensleben;15083270;11,421876;52,268811
+601;Haldensleben II, An der Beber;1556;de:15083:1556;Haldensleben;15083270;11,423084;52,263293
+601;Haldensleben II, Wedringer Str.;1549;de:15083:1549;Haldensleben;15083270;11,425894;52,262445
+601;Haldensleben, Klingteich;1554;de:15083:1554;Haldensleben;15083270;11,377324;52,284503
+601;Haldensleben, Kreisvolkshochschule;2798;de:15083:2798;Haldensleben;15083270;11,395356;52,286197
+601;Haldensleben, Magdeburger Str.;1584;de:15083:1584;Haldensleben;15083270;11,414676;52,289723
+601;Haldensleben, Masche;1543;de:15083:1543;Haldensleben;15083270;11,403281;52,292068
+601;Haldensleben, Ohrelandhalle;6687;de:15083:6687;Haldensleben;15083270;11,417157;52,287901
+601;Haldensleben, Rathaus;6876;de:15083:6876;Haldensleben;15083270;11,412514;52,290666
+601;Haldensleben, Rottmeisterstr.;1526;de:15083:1526;Haldensleben;15083270;11,415255;52,286897
+601;Haldensleben, Süplinger Berg;1528;de:15083:1528;Haldensleben;15083270;11,392258;52,282566
+601;Haldensleben, ZOB;1555;de:15083:1555;Haldensleben;15083270;11,407558;52,284969
+601;Hillersleben, Dorf;1868;de:15083:1868;Westheide;15083557;11,490995;52,273880
+601;Hillersleben, Siedlung;1161;de:15083:1161;Westheide;15083557;11,475072;52,284228
+601;Meseberg (Lkr. Börde);1103;de:15083:1103;Niedere Börde;15083390;11,529561;52,272286
+601;Samswegen;1101;de:15083:1101;Niedere Börde;15083390;11,559616;52,259853
+601;Samswegen, Schule;1102;de:15083:1102;Niedere Börde;15083390;11,571102;52,259864
+601;Vahldorf (Bus);1218;de:15083:1218;Niedere Börde;15083390;11,500703;52,258132
+601;Wedringen;1533;de:15083:1533;Haldensleben;15083270;11,465714;52,275148
+601;Wedringen, B71;3927;de:15083:3927;Haldensleben;15083270;11,462514;52,272671
+601;Wolmirstedt, Bahnhof (Bus);1524;de:15083:1524;Wolmirstedt;15083565;11,634945;52,250481
+601;Wolmirstedt, Bahnhofstr.;19927;de:15083:19927;Wolmirstedt;15083565;11,629234;52,250258
+601;Wolmirstedt, Geschwister-Scholl-Str.;1561;de:15083:1561;Wolmirstedt;15083565;11,625062;52,251043
+601;Wolmirstedt, Gipfelstr. (Ersatzhalt);7043;de:15083:7043;Wolmirstedt;15083565;11,625062;52,251043
+601;Wolmirstedt, Julius-Bremer-Str. (Ersatzhalt);7044;de:15083:7044;Wolmirstedt;15083565;11,631236;52,249944
+601;Wolmirstedt, Samsweger Str.;1564;de:15083:1564;Wolmirstedt;15083565;11,627735;52,249438
+601;Wolmirstedt, Str. der deutschen Einheit;1493;de:15083:1493;Wolmirstedt;15083565;11,615723;52,250639
+602;Domersleben, Wanzlebener Str.;2926;de:15083:2926;Wanzleben-Börde;15083531;11,442574;52,091649
+602;Hohendodeleben, Buttenkrug;3119;de:15083:3119;Wanzleben-Börde;15083531;11,509247;52,103228
+602;Hohendodeleben, Gewerbegebiet;7578;de:15083:7578;Wanzleben-Börde;15083531;11,517062;52,103052
+602;Hohendodeleben, Nordstr.;3139;de:15083:3139;Wanzleben-Börde;15083531;11,505746;52,106907
+602;Hohendodeleben, Schleibnitzer Str.;3162;de:15083:3162;Wanzleben-Börde;15083531;11,500705;52,103185
+602;Hohendodeleben, Stern;3140;de:15083:3140;Wanzleben-Börde;15083531;11,501959;52,103419
+602;Klein Wanzleben, Hofbreite;7049;de:15083:7049;Wanzleben-Börde;15083531;11,374979;52,071916
+602;Klein Wanzleben, Mühlenplan;3008;de:15083:3008;Wanzleben-Börde;15083531;11,357841;52,068080
+602;Klein Wanzleben, Zum Sportplatz;22807;de:15083:22807;Wanzleben-Börde;15083531;11,368918;52,071516
+602;Magdeburg, Aßmannstr.;7356;de:15003:7356;Magdeburg;15003000;11,583662;52,102383
+602;Magdeburg, Friedhof Klein Ottersleben;15929;de:15003:15929;Magdeburg;15003000;11,566511;52,098093
+602;Magdeburg, Goethepark;7338;de:15003:7338;Magdeburg;15003000;11,579908;52,100578
+602;Magdeburg, Lüttgen-Ottersleben;3009;de:15003:3009;Magdeburg;15003000;11,563815;52,097900
+602;Magdeburg, Niendorfer Str.;3138;de:15003:3138;Magdeburg;15003000;11,573638;52,098917
+602;Magdeburg, Sudenburg, Braunlager Str.;7306;de:15003:7306;Magdeburg;15003000;11,593658;52,107368
+602;Magdeburg, ZOB;2985;de:15003:2985;Magdeburg;15003000;11,624352;52,131311
+602;Meyendorf, B246a (Remkersleben);2996;de:15083:2996;Wanzleben-Börde;15083531;11,331407;52,090099
+602;Remkersleben, Hauptstr.;3022;de:15083:3022;Wanzleben-Börde;15083531;11,355558;52,088162
+602;Schleibnitz, Hauptstr. (Wanzleben);3051;de:15083:3051;Wanzleben-Börde;15083531;11,486078;52,076149
+602;Schleibnitz, Mühle (Wanzleben);3041;de:15083:3041;Wanzleben-Börde;15083531;11,478742;52,075665
+602;Schleibnitz, Sportplatz;3711;de:15083:3711;Wanzleben-Börde;15083531;11,493270;52,076680
+602;Seehausen (Börde), Busbahnhof;3108;de:15083:3108;Wanzleben-Börde;15083531;11,297537;52,100050
+602;Wanzleben, Bahnhof (Bus);3071;de:15083:3071;Wanzleben-Börde;15083531;11,446758;52,064091
+602;Wanzleben, Lindenpromenade;3014;de:15083:3014;Wanzleben-Börde;15083531;11,437929;52,062395
+602;Wanzleben, Rudolf-Breitscheid-Str.;3029;de:15083:3029;Wanzleben-Börde;15083531;11,440206;52,059220
+603;Ampfurth (Oschersleben);2943;de:15083:2943;Oschersleben (Bode);15083415;11,312818;52,062501
+603;Domersleben, Hemsdorfer Weg;3125;de:15083:3125;Wanzleben-Börde;15083531;11,433203;52,093021
+603;Domersleben, Krugberg;2937;de:15083:2937;Wanzleben-Börde;15083531;11,434684;52,091731
+603;Domersleben, Wanzlebener Str.;2926;de:15083:2926;Wanzleben-Börde;15083531;11,442574;52,091649
+603;Emmeringen (Oschersleben), L24;3070;de:15083:3070;Oschersleben (Bode);15083415;11,258659;52,042958
+603;Hohendodeleben, Buttenkrug;3119;de:15083:3119;Wanzleben-Börde;15083531;11,509247;52,103228
+603;Hohendodeleben, Gewerbegebiet;7578;de:15083:7578;Wanzleben-Börde;15083531;11,517062;52,103052
+603;Hohendodeleben, K1223;3764;de:15083:3764;Wanzleben-Börde;15083531;11,488893;52,102617
+603;Hohendodeleben, Stern;3140;de:15083:3140;Wanzleben-Börde;15083531;11,501959;52,103419
+603;Klein Wanzleben, Freibad;22406;de:15083:22406;Wanzleben-Börde;15083531;11,351144;52,072214
+603;Klein Wanzleben, Hauptstr.;3020;de:15083:3020;Wanzleben-Börde;15083531;11,365455;52,070009
+603;Klein Wanzleben, Hofbreite;7049;de:15083:7049;Wanzleben-Börde;15083531;11,374979;52,071916
+603;Klein Wanzleben, Mühlenplan;3008;de:15083:3008;Wanzleben-Börde;15083531;11,357841;52,068080
+603;Klein Wanzleben, Zum Sportplatz;22807;de:15083:22807;Wanzleben-Börde;15083531;11,368918;52,071516
+603;Magdeburg, Aßmannstr.;7356;de:15003:7356;Magdeburg;15003000;11,583662;52,102383
+603;Magdeburg, Friedhof Klein Ottersleben;15929;de:15003:15929;Magdeburg;15003000;11,566511;52,098093
+603;Magdeburg, Goethepark;7338;de:15003:7338;Magdeburg;15003000;11,579908;52,100578
+603;Magdeburg, Lüttgen-Ottersleben;3009;de:15003:3009;Magdeburg;15003000;11,563815;52,097900
+603;Magdeburg, Niendorfer Str.;3138;de:15003:3138;Magdeburg;15003000;11,573638;52,098917
+603;Magdeburg, Sudenburg, Braunlager Str.;7306;de:15003:7306;Magdeburg;15003000;11,593658;52,107368
+603;Magdeburg, ZOB;2985;de:15003:2985;Magdeburg;15003000;11,624352;52,131311
+603;Oschersleben (Bode), Friedrichstr.;3088;de:15083:3088;Oschersleben (Bode);15083415;11,232260;52,032450
+603;Oschersleben (Bode), Hagebau;3037;de:15083:3037;Oschersleben (Bode);15083415;11,237443;52,032352
+603;Oschersleben (Bode), Kühling;3105;de:15083:3105;Oschersleben (Bode);15083415;11,244329;52,036553
+603;Oschersleben (Bode), Seehäuser Weg;3137;de:15083:3137;Oschersleben (Bode);15083415;11,238403;52,036972
+603;Oschersleben (Bode), Windhorststr.;2949;de:15083:2949;Oschersleben (Bode);15083415;11,219749;52,031734
+603;Oschersleben (Bode), ZOB;3026;de:15083:3026;Oschersleben (Bode);15083415;11,226603;52,031236
+603;Schermcke, Ampfurther Str.;2970;de:15083:2970;Oschersleben (Bode);15083415;11,289678;52,056615
+603;Wanzleben, Bahnhof (Bus);3071;de:15083:3071;Wanzleben-Börde;15083531;11,446758;52,064091
+603;Wanzleben, Friedhof;3097;de:15083:3097;Wanzleben-Börde;15083531;11,445444;52,059812
+603;Wanzleben, Gymnasium;3052;de:15083:3052;Wanzleben-Börde;15083531;11,447299;52,057185
+603;Wanzleben, Lindenpromenade;3014;de:15083:3014;Wanzleben-Börde;15083531;11,437929;52,062395
+603;Wanzleben, Rudolf-Breitscheid-Str.;3029;de:15083:3029;Wanzleben-Börde;15083531;11,440206;52,059220
+700;Bischofrode;2698;de:15087:2698;Eisleben;15087130;11,536898;51,487611
+700;Farnstädt;2598;de:15088:2598;Farnstädt;15088100;11,567161;51,427535
+700;Helfta (Lu. Eisleben), B80;2504;de:15087:2504;Eisleben;15087130;11,567715;51,513478
+700;Holzzelle (Rothenschirmbach), Abzweig;2472;de:15087:2472;Eisleben;15087130;11,548420;51,467501
+700;Lu. Eisleben, Bahnhof (Bus);2635;de:15087:2635;Eisleben;15087130;11,552016;51,518487
+700;Lu. Eisleben, Breiter Weg;2636;de:15087:2636;Eisleben;15087130;11,539322;51,527825
+700;Lu. Eisleben, Busbahnhof;2637;de:15087:2637;Eisleben;15087130;11,548543;51,531383
+700;Lu. Eisleben, Ecke Hohetorstr.;2639;de:15087:2639;Eisleben;15087130;11,542603;51,530073
+700;Lu. Eisleben, Friedensstr.;2616;de:15087:2616;Eisleben;15087130;11,543060;51,521720
+700;Lu. Eisleben, Fritz-Wenck-Str.;2618;de:15087:2618;Eisleben;15087130;11,538306;51,524862
+700;Lu. Eisleben, Hallesche Str.;2627;de:15087:2627;Eisleben;15087130;11,559465;51,520527
+700;Lu. Eisleben, Herner Str.;9516;de:15087:9516;Eisleben;15087130;11,577810;51,512636
+700;Lu. Eisleben, Kalter Graben;2622;de:15087:2622;Eisleben;15087130;11,563852;51,516799
+700;Lu. Eisleben, Kloster Helfta;2502;de:15087:2502;Eisleben;15087130;11,582978;51,508990
+700;Lu. Eisleben, Landwehr;2634;de:15087:2634;Eisleben;15087130;11,556007;51,523632
+700;Lu. Eisleben, Mansfelder Hof;2628;de:15087:2628;Eisleben;15087130;11,552537;51,525991
+700;Lu. Eisleben, Plan (Zentrum);3368;de:15087:3368;Eisleben;15087130;11,549509;51,527775
+700;Lu. Eisleben, Rathenaustr.;2605;de:15087:2605;Eisleben;15087130;11,554847;51,520403
+700;Lu. Eisleben, 3E Einkaufspark;2620;de:15087:2620;Eisleben;15087130;11,575472;51,513317
+700;Querfurt, Bauhof;4109;de:15088:4109;Querfurt;15088305;11,613291;51,385105
+700;Querfurt, Europahaus;4232;de:15088:4232;Querfurt;15088305;11,606740;51,384361
+700;Querfurt, Geistpromenade;2319;de:15088:2319;Querfurt;15088305;11,600364;51,375818
+700;Querfurt, Grundschule;30022;de:15088:30022;Querfurt;15088305;11,600934;51,381560
+700;Querfurt, Merseburger Str.;2300;de:15088:2300;Querfurt;15088305;11,609385;51,381363
+700;Querfurt, ZOB;2318;de:15088:2318;Querfurt;15088305;11,597902;51,383065
+700;Rothenschirmbach;2279;de:15087:2279;Eisleben;15087130;11,545717;51,454129
+720;Büden, Am Bahnhof;6053;de:15086:6053;Gommern;15086055;11,835696;52,140986
+720;Heyrothsberge, B184;6113;de:15086:6113;Biederitz;15086005;11,737512;52,137204
+720;Heyrothsberge, Ziegelei;6156;de:15086:6156;Biederitz;15086005;11,743360;52,136070
+720;Königsborn, Am Bahnhof;5997;de:15086:5997;Biederitz;15086005;11,761620;52,133217
+720;Königsborn, B184;6071;de:15086:6071;Biederitz;15086005;11,757775;52,132704
+720;Königsborn, Eiche;5894;de:15086:5894;Biederitz;15086005;11,758919;52,133711
+720;Landhaus Zeddenick/B246;20130;de:15086:20130;Möckern;15086140;11,869844;52,129210
+720;Loburg, Bahnhofstr.;7721;de:15086:7721;Möckern;15086140;12,088052;52,115465
+720;Loburg, Markt;7719;de:15086:7719;Möckern;15086140;12,073800;52,115272
+720;Loburg, Padegrim;7743;de:15086:7743;Möckern;15086140;12,057889;52,115156
+720;Magdeburg, Allee-Center;4493;de:15003:4493;Magdeburg;15003000;11,637321;52,130779
+720;Magdeburg, Friedensweiler;7434;de:15003:7434;Magdeburg;15003000;11,713623;52,134997
+720;Magdeburg, Georg-Heidler-Str./Jerichower Platz;6554;de:15003:6554;Magdeburg;15003000;11,665261;52,132424
+720;Magdeburg, Hohefeld-Privatweg;7430;de:15003:7430;Magdeburg;15003000;11,693366;52,132415
+720;Magdeburg, Mühlenstr.;6879;de:15003:6879;Magdeburg;15003000;11,644386;52,135790
+720;Magdeburg, ZOB;2985;de:15003:2985;Magdeburg;15003000;11,624352;52,131311
+720;Möckern (Jerichower Land), Bahnhofstr.;6025;de:15086:6025;Möckern;15086140;11,952086;52,142703
+720;Möckern (Jerichower Land), Dalchauer Damm;5981;de:15086:5981;Möckern;15086140;11,992932;52,125580
+720;Möckern (Jerichower Land), Magdeburger Str.;7176;de:15086:7176;Möckern;15086140;11,947255;52,141246
+720;Möckern (Jerichower Land), Schule;5904;de:15086:5904;Möckern;15086140;11,959393;52,140300
+720;Möckern (Jerichower Land), Siedlung;6045;de:15086:6045;Möckern;15086140;11,958301;52,133530
+720;Nedlitz (b. Magdeburg);6152;de:15086:6152;Gommern;15086055;11,830203;52,127634
+720;Neu Königsborn;5934;de:15086:5934;Biederitz;15086005;11,776235;52,134267
+720;Zeddenick (Sachsen-Anhalt) (Bus);6079;de:15086:6079;Möckern;15086140;11,900064;52,139734
+720;Zeppernick (Bus);7742;de:15086:7742;Möckern;15086140;12,022860;52,125356
+721;Atzendorf (Geusa), Abzweig;9596;de:15088:9596;Merseburg;15088220;11,956647;51,341324
+721;Biendorf (Mücheln);9619;de:15088:9619;Mücheln (Geiseltal);15088235;11,831235;51,301404
+721;Blösien, Bergmannsring;9622;de:15088:9622;Merseburg;15088220;11,924626;51,331933
+721;Braunsbedra, Atlantis;9627;de:15088:9627;Braunsbedra;15088065;11,875646;51,285684
+721;Braunsbedra, Friedhof;9629;de:15088:9629;Braunsbedra;15088065;11,899324;51,287149
+721;Braunsbedra, Grundschule;9630;de:15088:9630;Braunsbedra;15088065;11,884302;51,286091
+721;Braunsbedra, Marina;31128;de:15088:31128;Braunsbedra;15088065;11,867640;51,296390
+721;Braunsbedra, Neumark;9634;de:15088:9634;Braunsbedra;15088065;11,871631;51,293487
+721;Braunsbedra, Parksiedlung;9632;de:15088:9632;Braunsbedra;15088065;11,881527;51,283678
+721;Braunsbedra, Postplatz;31129;de:15088:31129;Braunsbedra;15088065;11,885415;51,285744
+721;Braunsbedra, S-Bahnhof (Bus);22471;de:15088:22471;Braunsbedra;15088065;11,884811;51,287751
+721;Braunsbedra, Zentrum;9633;de:15088:9633;Braunsbedra;15088065;11,887869;51,284897
+721;Frankleben, Merseburger Str.;22468;de:15088:22468;Braunsbedra;15088065;11,933261;51,312539
+721;Geusa, Beunaer Weg;27501;de:15088:27501;Merseburg;15088220;11,938229;51,335251
+721;Geusa, Dorfplatz;9713;de:15088:9713;Merseburg;15088220;11,939494;51,337746
+721;Geusa, Schule;9714;de:15088:9714;Merseburg;15088220;11,941005;51,335802
+721;Geusa, Siedlung;9716;de:15088:9716;Merseburg;15088220;11,947168;51,339684
+721;Krumpa, Addinol;9822;de:15088:9822;Braunsbedra;15088065;11,849657;51,295724
+721;Krumpa, Hauptstr.;9823;de:15088:9823;Braunsbedra;15088065;11,844058;51,297479
+721;Merseburg, Agentur für Arbeit;10429;de:15088:10429;Merseburg;15088220;11,972500;51,344932
+721;Merseburg, Fliederweg;9897;de:15088:9897;Merseburg;15088220;11,983762;51,349006
+721;Merseburg, Geusaer Str.;10423;de:15088:10423;Merseburg;15088220;11,978789;51,347164
+721;Merseburg, Hochschule;30943;de:15088:30943;Merseburg;15088220;11,974790;51,345710
+721;Merseburg, Thomas-Müntzer-Park;16761;de:15088:16761;Merseburg;15088220;11,983229;51,352077
+721;Merseburg, Zentralfriedhof;9907;de:15088:9907;Merseburg;15088220;11,960239;51,342249
+721;Merseburg, ZOB;10133;de:15088:10133;Merseburg;15088220;11,991200;51,355631
+721;Mücheln (Geiseltal), Bürgermeister-Fritsch-Str.;9921;de:15088:9921;Mücheln (Geiseltal);15088235;11,808276;51,299889
+721;Mücheln (Geiseltal), Grundschule;9918;de:15088:9918;Mücheln (Geiseltal);15088235;11,811341;51,303259
+721;Mücheln (Geiseltal), Tankstelle;9923;de:15088:9923;Mücheln (Geiseltal);15088235;11,813400;51,304558
+724;Burgliebenau;9639;de:15088:9639;Schkopau;15088330;12,044608;51,391163
+724;Döllnitz, An der Gartenanlage;5102;de:15088:5102;Schkopau;15088330;12,033011;51,405939
+724;Döllnitz (b. Halle), Berliner Str.;3936;de:15088:3936;Schkopau;15088330;12,027582;51,407528
+724;Döllnitz (b. Halle), Mühlenstr.;5097;de:15088:5097;Schkopau;15088330;12,024304;51,411443
+724;Ermlitz, An der Mühle;9678;de:15088:9678;Schkopau;15088330;12,162097;51,391006
+724;Ermlitz, Pestalozzistr.;9681;de:15088:9681;Schkopau;15088330;12,157002;51,391108
+724;Halle (Saale), Ammendorf;5217;de:15002:5217;Halle (Saale);15002000;11,986606;51,424656
+724;Halle (Saale), Karl-Meißner-Str.;9756;de:15002:9756;Halle (Saale);15002000;11,999950;51,422660
+724;Halle (Saale), Radewell;5260;de:15002:5260;Halle (Saale);15002000;11,992173;51,423803
+724;Halle (Saale), Radeweller Str.;5225;de:15002:5225;Halle (Saale);15002000;11,996661;51,422502
+724;Halle (Saale), Richard-Loesche-Str.;3938;de:15002:3938;Halle (Saale);15002000;12,007574;51,420505
+724;Lochau (b. Halle), Abzweig Burgliebenau;9868;de:15088:9868;Schkopau;15088330;12,048704;51,398294
+724;Lochau (b. Halle), An der Feuerwehr;30696;de:15088:30696;Schkopau;15088330;12,056216;51,397361
+724;Lochau (b. Halle), Gaststätte;11268;de:15088:11268;Schkopau;15088330;12,049980;51,398890
+724;Lochau (b. Halle), Sportplatz;9872;de:15088:9872;Schkopau;15088330;12,045966;51,399921
+724;Merseburg, Freiimfelde;23200;de:15088:23200;Merseburg;15088220;11,986539;51,384171
+724;Merseburg, Hälterstr.;9898;de:15088:9898;Merseburg;15088220;11,996942;51,358676
+724;Merseburg, Nord, Denkmalhof;10137;de:15088:10137;Merseburg;15088220;11,990493;51,365719
+724;Merseburg, Nord, Fritz-Reuter-Str.;9996;de:15088:9996;Merseburg;15088220;11,988565;51,370948
+724;Merseburg, Nord, Triebelstr.;9904;de:15088:9904;Merseburg;15088220;11,989468;51,370484
+724;Merseburg, Stadtbibliothek;30854;de:15088:30854;Merseburg;15088220;11,991947;51,358723
+724;Merseburg, ZOB;10133;de:15088:10133;Merseburg;15088220;11,991200;51,355631
+724;Oberthau;9954;de:15088:9954;Schkopau;15088330;12,144104;51,387238
+724;Pritschöna;9976;de:15088:9976;Schkopau;15088330;12,089099;51,391777
+724;Raßnitz, Feuerwehr;31180;de:15088:31180;Schkopau;15088330;12,098037;51,391863
+724;Raßnitz, Flurstr.;11048;de:15088:11048;Schkopau;15088330;12,098458;51,391950
+724;Raßnitz, Jugendanstalt/Gröberssche Str.;15866;de:15088:15866;Schkopau;15088330;12,090045;51,395996
+724;Raßnitz, Kieswerk;9871;de:15088:9871;Schkopau;15088330;12,078276;51,393043
+724;Raßnitz, Pritschönaer Weg;31181;de:15088:31181;Schkopau;15088330;12,081268;51,392683
+724;Raßnitz, Schule;11045;de:15088:11045;Schkopau;15088330;12,103640;51,393209
+724;Röglitz;10005;de:15088:10005;Schkopau;15088330;12,129244;51,399846
+724;Rübsen;10016;de:15088:10016;Schkopau;15088330;12,172886;51,390948
+724;Schkeuditz, Am Roßberg;20173;de:14730:20173;Schkeuditz;14730270;12,201867;51,395392
+724;Schkeuditz, Hallesche Str./LIDL;11552;de:14730:11552;Schkeuditz;14730270;12,211812;51,394966
+724;Schkeuditz, Hemmestr.;11546;de:14730:11546;Schkeuditz;14730270;12,198721;51,392322
+724;Schkeuditz, Kleiststr.;30525;de:14730:30525;Schkeuditz;14730270;12,202721;51,392599
+724;Schkeuditz, Merseburger Str.;12604;de:14730:12604;Schkeuditz;14730270;12,212209;51,394272
+724;Schkeuditz, Puschkinstr.;12606;de:14730:12606;Schkeuditz;14730270;12,206156;51,392999
+724;Schkeuditz, Rathausplatz;12691;de:14730:12691;Schkeuditz;14730270;12,219621;51,396253
+724;Schkeuditz, S-Bahnhof (Bus);12692;de:14730:12692;Schkeuditz;14730270;12,221310;51,402078
+724;Schkeuditz, Teichstr.;12602;de:14730:12602;Schkeuditz;14730270;12,213759;51,395057
+724;Schkopau, Am Königsborn;9626;de:15088:9626;Schkopau;15088330;11,982568;51,391825
+724;Schkopau, Am Schloß;5205;de:15088:5205;Schkopau;15088330;11,983952;51,391897
+724;Schkopau, Schulstr.;10037;de:15088:10037;Schkopau;15088330;11,981890;51,390898
+724;Wehlitz, Ermlitzer Str.;10111;de:14730:10111;Schkeuditz;14730270;12,183949;51,390495
+724;Wehlitz, Gasthof;11545;de:14730:11545;Schkeuditz;14730270;12,191427;51,390983
+724;Wehlitz, Thomas-Müntzer-Str.;11548;de:14730:11548;Schkeuditz;14730270;12,189910;51,392301
+724;Wesenitz (Lochau);10101;de:15088:10101;Schkopau;15088330;12,068842;51,394234
+724;Weßmar;10135;de:15088:10135;Schkopau;15088330;12,108763;51,394152
+724;Weßmar, Gasthof;20178;de:15088:20178;Schkopau;15088330;12,110330;51,392888
+728;Altweidenbach (Obhausen);9589;de:15088:9589;Obhausen;15088265;11,660866;51,382910
+728;Bad Lauchstädt, Am Schloss;9606;de:15088:9606;Bad Lauchstädt;15088025;11,864835;51,387590
+728;Bad Lauchstädt, Am Theater;30836;de:15088:30836;Bad Lauchstädt;15088025;11,864586;51,388666
+728;Bad Lauchstädt, Bahnhof (Bus);9602;de:15088:9602;Bad Lauchstädt;15088025;11,871215;51,389196
+728;Bad Lauchstädt, Markt;9605;de:15088:9605;Bad Lauchstädt;15088025;11,867941;51,387389
+728;Bündorf (Knapendorf);9637;de:15088:9637;Schkopau;15088330;11,920596;51,372591
+728;Großgräfendorf (Bad Lauchstädt);9734;de:15088:9734;Bad Lauchstädt;15088025;11,818012;51,394013
+728;Kleinlauchstädt (Bad Lauchstädt);9789;de:15088:9789;Bad Lauchstädt;15088025;11,883690;51,383972
+728;Knapendorf;9793;de:15088:9793;Schkopau;15088330;11,943274;51,372752
+728;Merseburg, Albrecht-Dürer-Str.;9896;de:15088:9896;Merseburg;15088220;11,983074;51,354778
+728;Merseburg, Gewerbegebiet Nord;9720;de:15088:9720;Merseburg;15088220;11,973308;51,372703
+728;Merseburg, Hälterstr.;9898;de:15088:9898;Merseburg;15088220;11,996942;51,358676
+728;Merseburg, Kaufland;9781;de:15088:9781;Merseburg;15088220;11,978239;51,372092
+728;Merseburg, Merse-Center;10043;de:15088:10043;Merseburg;15088220;11,984373;51,370983
+728;Merseburg, Nord, Denkmalhof;10137;de:15088:10137;Merseburg;15088220;11,990493;51,365719
+728;Merseburg, Nord, Fritz-Reuter-Str.;9996;de:15088:9996;Merseburg;15088220;11,988565;51,370948
+728;Merseburg, Nord, Triebelstr.;9904;de:15088:9904;Merseburg;15088220;11,989468;51,370484
+728;Merseburg, Stadtbibliothek;30854;de:15088:30854;Merseburg;15088220;11,991947;51,358723
+728;Merseburg, ZOB;10133;de:15088:10133;Merseburg;15088220;11,991200;51,355631
+728;Milzau, Abzweig;9913;de:15088:9913;Bad Lauchstädt;15088025;11,905425;51,375738
+728;Neuweidenbach, Siedlung;9936;de:15088:9936;Obhausen;15088265;11,692101;51,381198
+728;Obhausen (Bus);9956;de:15088:9956;Obhausen;15088265;11,654865;51,391686
+728;Obhausen, Waidawinkel;30855;de:15088:30855;Obhausen;15088265;11,651713;51,389600
+728;Querfurt, Geistpromenade;2319;de:15088:2319;Querfurt;15088305;11,600364;51,375818
+728;Querfurt, Grundschule;30022;de:15088:30022;Querfurt;15088305;11,600934;51,381560
+728;Querfurt, Gymnasium;2320;de:15088:2320;Querfurt;15088305;11,602181;51,375176
+728;Querfurt, Merseburger Str.;2300;de:15088:2300;Querfurt;15088305;11,609385;51,381363
+728;Querfurt, Roßplatz;782;de:15088:782;Querfurt;15088305;11,600921;51,381587
+728;Querfurt, ZOB;2318;de:15088:2318;Querfurt;15088305;11,597902;51,383065
+728;Schafstädt, August-Meisel-Str.;10031;de:15088:10031;Bad Lauchstädt;15088025;11,782001;51,383888
+728;Schafstädt, Schule;10032;de:15088:10032;Bad Lauchstädt;15088025;11,770634;51,380534
+728;Schotterey (Bad Lauchstädt);10048;de:15088:10048;Bad Lauchstädt;15088025;11,842869;51,391605
+790;Blockdamm;6115;de:15086:6115;Jerichow;15086080;12,108526;52,450021
+790;Fischbeck (b. Tangermünde), Ort;3585;de:15090:3585;Wust-Fischbeck;15090631;12,016601;52,540432
+790;Fischbeck (b. Tangermünde), Rendezvous;3630;de:15090:3630;Wust-Fischbeck;15090631;12,020628;52,544009
+790;Genthin, Busbahnhof;6064;de:15086:6064;Genthin;15086040;12,156953;52,403588
+790;Genthin, Forststr.;5932;de:15086:5932;Genthin;15086040;12,143709;52,419899
+790;Genthin, Wald;5925;de:15086:5925;Genthin;15086040;12,120970;52,438320
+790;Genthin, Zentrale Haltestelle (ZH);6022;de:15086:6022;Genthin;15086040;12,160141;52,409113
+790;Jerichow, Badeanstalt;1618;de:15086:1618;Jerichow;15086080;12,030857;52,493348
+790;Jerichow, Bahnhofstr.;5930;de:15086:5930;Jerichow;15086080;12,029379;52,499912
+790;Jerichow, Kirche;5880;de:15086:5880;Jerichow;15086080;12,025889;52,496927
+790;Jerichow, Kloster;3402;de:15086:3402;Jerichow;15086080;12,020206;52,501477
+790;Jerichow, Krankenhaus;6088;de:15086:6088;Jerichow;15086080;12,035982;52,501469
+790;Jerichow, Schule;6130;de:15086:6130;Jerichow;15086080;12,025803;52,498260
+790;Jerichow, Siedlung;3383;de:15086:3383;Jerichow;15086080;12,035868;52,503018
+790;Redekin;6044;de:15086:6044;Jerichow;15086080;12,076104;52,466593
+790;Scharteucke, B107;6062;de:15086:6062;Jerichow;15086080;12,089264;52,461764
+790;Scharteucke, Dorf;5956;de:15086:5956;Jerichow;15086080;12,083076;52,454302
+790;Stendal, Bahnhofstr.;3569;de:15090:3569;Stendal;15090535;11,863626;52,598253
+790;Stendal, Hauptbahnhof (ZOB);1918;de:15090:1918;Stendal;15090535;11,856242;52,595267
+790;Tangermünde, Arneburger Str.;17;de:15090:17;Tangermünde;15090550;11,980084;52,552461
+790;Tangermünde, LIDL-Markt;114;de:15090:114;Tangermünde;15090550;11,979168;52,547872
+790;Tangermünde, Lindenstr.;112;de:15090:112;Tangermünde;15090550;11,972930;52,544379
+790;Tangermünde, Neustädter Tor;7068;de:15090:7068;Tangermünde;15090550;11,967680;52,539559
+790;Tangermünde, Sekundarschule;122;de:15090:122;Tangermünde;15090550;11,960251;52,539807
+790;Tangermünde, Stendaler Str.;3627;de:15090:3627;Tangermünde;15090550;11,965555;52,541724
+800;Borau (Weißenfels), Einkaufszentrum;3480;de:15084:3480;Weißenfels;15084550;11,998866;51,199223
+800;Borau (Weißenfels), Ort;720;de:15084:720;Weißenfels;15084550;12,006556;51,199529
+800;Gerstewitz (Zorbau), L;7575;de:15084:7575;Lützen;15084315;12,036249;51,190130
+800;Granschütz, Kirche;15700;de:15084:15700;Hohenmölsen;15084235;12,056846;51,183110
+800;Granschütz, Ort;3468;de:15084:3468;Hohenmölsen;15084235;12,052410;51,183307
+800;Hohenmölsen, Busbahnhof;727;de:15084:727;Hohenmölsen;15084235;12,101790;51,154052
+800;Hohenmölsen, Ernst-Thälmann-Str.;3553;de:15084:3553;Hohenmölsen;15084235;12,109402;51,152861
+800;Hohenmölsen, Feuerwehr;30066;de:15084:30066;Hohenmölsen;15084235;12,103757;51,154818
+800;Hohenmölsen, Friedensstr.;6656;de:15084:6656;Hohenmölsen;15084235;12,099508;51,158393
+800;Hohenmölsen, Jaucha;22942;de:15084:22942;Hohenmölsen;15084235;12,112202;51,148794
+800;Hohenmölsen, Kirschberg-Center;3481;de:15084:3481;Hohenmölsen;15084235;12,094159;51,162644
+800;Hohenmölsen, Ortseingang;3489;de:15084:3489;Hohenmölsen;15084235;12,101747;51,163629
+800;Hohenmölsen, Strandbad Mondsee;2786;de:15084:2786;Hohenmölsen;15084235;12,139168;51,136644
+800;Profen, Bahnhof (Bus);22943;de:15084:22943;Elsteraue;15084130;12,211808;51,130165
+800;Profen, Klubhaus;4101;de:15084:4101;Elsteraue;15084130;12,200956;51,127810
+800;Profen, Zeitzer Str.;4086;de:15084:4086;Elsteraue;15084130;12,213509;51,127304
+800;Wählitz (Webau), Ort;3451;de:15084:3451;Hohenmölsen;15084235;12,088026;51,167814
+800;Webau, Bahnhof (Bus);3471;de:15084:3471;Hohenmölsen;15084235;12,068326;51,177387
+800;Webau, Ort;3472;de:15084:3472;Hohenmölsen;15084235;12,074535;51,175039
+800;Weißenfels, Betriebshof;7579;de:15084:7579;Weißenfels;15084550;11,992252;51,199626
+800;Weißenfels, Busbahnhof;784;de:15084:784;Weißenfels;15084550;11,971802;51,202755
+800;Weißenfels, Goethe-Gymnasium;748;de:15084:748;Weißenfels;15084550;11,966798;51,199277
+800;Weißenfels, Karl-Marx-Siedlung;7572;de:15084:7572;Weißenfels;15084550;11,988690;51,199879
+800;Weißenfels, Schloss;20270;de:15084:20270;Weißenfels;15084550;11,979102;51,200555
+800;Weißenfels, Selauer Str.;3339;de:15084:3339;Weißenfels;15084550;11,982109;51,200353
+800;Zorbau, Autobahnmeisterei;3463;de:15084:3463;Weißenfels;15084550;12,011534;51,196856
+800;Zorbau, Ort;3464;de:15084:3464;Lützen;15084315;12,020794;51,190980
+820;Bad Kösen, Bahnhof (Bus);4404;de:15084:4404;Naumburg (Saale);15084355;11,718766;51,131000
+820;Döschwitz;4027;de:15084:4027;Kretzschau;15084275;12,059073;51,063547
+820;Droyßig (b. Zeitz), Markt;3353;de:15084:3353;Droyßig;15084115;12,028050;51,041895
+820;Görschen;4049;de:15084:4049;Mertendorf;15084335;11,900856;51,111857
+820;Görschen, Abzweig;4062;de:15084:4062;Mertendorf;15084335;11,909171;51,112567
+820;Grana (b. Zeitz);4028;de:15084:4028;Kretzschau;15084275;12,107287;51,053516
+820;Grana (b. Zeitz), Gewerbegebiet;4025;de:15084:4025;Kretzschau;15084275;12,101698;51,055058
+820;Hassel (Droyßig);4113;de:15084:4113;Droyßig;15084115;12,007377;51,040028
+820;Hollsteitz, Abzweig (Döschwitz);4069;de:15084:4069;Kretzschau;15084275;12,033012;51,074369
+820;Kleinhelmsdorf;4139;de:15084:4139;Osterfeld;15084375;11,929908;51,035075
+820;Kleinwethau, Am Zeitzer Wege;5919;de:15084:5919;Wethau;15084560;11,864429;51,134407
+820;Kleinwethau, Brücke;3363;de:15084:3363;Wethau;15084560;11,862986;51,134874
+820;Kretzschau;3355;de:15084:3355;Kretzschau;15084275;12,078810;51,058433
+820;Kretzschau, Abzweig Mannsdorf;4116;de:15084:4116;Kretzschau;15084275;12,070362;51,046994
+820;Kretzschau, Abzweig zum See;30351;de:15084:30351;Kretzschau;15084275;12,074508;51,059185
+820;Kretzschau, Schule;4115;de:15084:4115;Kretzschau;15084275;12,073098;51,055778
+820;Meineweh;4060;de:15084:4060;Meineweh;15084013;11,989160;51,074933
+820;Mertendorf (Bus);4054;de:15084:4054;Mertendorf;15084335;11,857576;51,121106
+820;Mertendorf, Schule;4053;de:15084:4053;Mertendorf;15084335;11,860119;51,118562
+820;Näthern (Kretzschau);4026;de:15084:4026;Kretzschau;15084275;12,097306;51,055094
+820;Naumburg (Saale), Busbahnhof am Hauptbahnhof;4376;de:15084:4376;Naumburg (Saale);15084355;11,796084;51,162330
+820;Naumburg (Saale), City-Busstop Hallesche Str.;4406;de:15084:4406;Naumburg (Saale);15084355;11,815444;51,156285
+820;Naumburg (Saale), Curt-Becker-Platz (Bus);4290;de:15084:4290;Naumburg (Saale);15084355;11,814237;51,152430
+820;Naumburg (Saale), Thomas-Müntzer-Str.;23100;de:15084:23100;Naumburg (Saale);15084355;11,812635;51,157819
+820;Naumburg (Saale), Weißenfelser Str./Friedhof;4057;de:15084:4057;Naumburg (Saale);15084355;11,825874;51,147294
+820;Naumburg (Saale), Weißenfelser Str./Kaserne;4058;de:15084:4058;Naumburg (Saale);15084355;11,823120;51,147838
+820;Oberkaka (Unterkaka);4046;de:15084:4046;Meineweh;15084013;11,964604;51,086421
+820;Osterfeld, Abzweig Waldau;4132;de:15084:4132;Osterfeld;15084375;11,928885;51,076919
+820;Osterfeld, Hüterplan;23111;de:15084:23111;Osterfeld;15084375;11,930267;51,078017
+820;Osterfeld, Markt;4368;de:15084:4368;Osterfeld;15084375;11,930025;51,079830
+820;Osterfeld, Schule;4135;de:15084:4135;Osterfeld;15084375;11,938381;51,077669
+820;Pretzsch (Burgenlandkreis);4047;de:15084:4047;Meineweh;15084013;11,948367;51,094852
+820;Priesen, Abzweig (Meineweh);3356;de:15084:3356;Meineweh;15084013;12,008593;51,073957
+820;Rathewitz, Neubau (Görschen);4051;de:15084:4051;Mertendorf;15084335;11,879547;51,121528
+820;Rathewitz, Ort (Görschen);4052;de:15084:4052;Mertendorf;15084335;11,874356;51,119840
+820;Roda (Weickelsdorf);4140;de:15084:4140;Osterfeld;15084375;11,949309;51,043721
+820;Romsdorf, Abzweig (Weißenborn);4126;de:15084:4126;Droyßig;15084115;11,968215;51,044285
+820;Roßbach (Naumburg);4281;de:15084:4281;Naumburg (Saale);15084355;11,781073;51,168869
+820;Scheiplitz, Rathewitzer Str. (Görschen);4050;de:15084:4050;Mertendorf;15084335;11,886668;51,121865
+820;Schleinitz, Gewerbegebiet (Unterkaka);4131;de:15084:4131;Meineweh;15084013;11,947713;51,084807
+820;Schleinitz, Kaufland-Verteilzentrum;6657;de:15084:6657;Meineweh;15084013;11,945790;51,089594
+820;Stolzenhain (Weißenborn);4111;de:15084:4111;Droyßig;15084115;11,971444;51,030554
+820;Stößen, Schule;5642;de:15084:5642;Stößen;15084470;11,921445;51,115111
+820;Stößen, Zeitzer Str.;5647;de:15084:5647;Stößen;15084470;11,925558;51,113300
+820;Waldau (Osterfeld);4133;de:15084:4133;Osterfeld;15084375;11,933023;51,064056
+820;Weichau (Naumburg);4056;de:15084:4056;Naumburg (Saale);15084355;11,834599;51,144808
+820;Weickelsdorf, Bahnhofsstr.;4141;de:15084:4141;Osterfeld;15084375;11,961287;51,046574
+820;Weißenborn (Droyßig);4112;de:15084:4112;Droyßig;15084115;11,992281;51,033736
+820;Wethau, Bahnhof (Bus);4059;de:15084:4059;Wethau;15084560;11,850850;51,139702
+820;Wethau, Mitte;4055;de:15084:4055;Wethau;15084560;11,858657;51,137209
+820;Zeitz, Berufsschulzentrum;4061;de:15084:4061;Zeitz;15084590;12,126353;51,058051
+820;Zeitz, Busbahnhof;4122;de:15084:4122;Zeitz;15084590;12,133444;51,055869
+820;Zeitz, Donaliesstr.;4035;de:15084:4035;Zeitz;15084590;12,132697;51,059239
+820;Zeitz, Herrmannschacht;19965;de:15084:19965;Zeitz;15084590;12,113227;51,055506
+820;Zeitz, Naumburger Str.;4187;de:15084:4187;Zeitz;15084590;12,128268;51,059582
+820;Zeitz, Schützenplatz;4045;de:15084:4045;Zeitz;15084590;12,144397;51,051084
+820;Zeitz, Schützenstr.;4275;de:15084:4275;Zeitz;15084590;12,140516;51,050387
+850;Bornitz (b. Zeitz);4081;de:15084:4081;Elsteraue;15084130;12,169396;51,088469
+850;Bornitz (b. Zeitz), Kindergarten;4097;de:15084:4097;Elsteraue;15084130;12,173405;51,090509
+850;Draschwitz (Elsteraue);4082;de:15084:4082;Elsteraue;15084130;12,180926;51,100645
+850;Draschwitz (Elsteraue), Ort;4098;de:15084:4098;Elsteraue;15084130;12,181942;51,099430
+850;Hohenmölsen, Busbahnhof;727;de:15084:727;Hohenmölsen;15084235;12,101790;51,154052
+850;Hohenmölsen, Ernst-Thälmann-Str.;3553;de:15084:3553;Hohenmölsen;15084235;12,109402;51,152861
+850;Hohenmölsen, Feuerwehr;30066;de:15084:30066;Hohenmölsen;15084235;12,103757;51,154818
+850;Hohenmölsen, Jaucha;22942;de:15084:22942;Hohenmölsen;15084235;12,112202;51,148794
+850;Hohenmölsen, Kirschberg-Center;3481;de:15084:3481;Hohenmölsen;15084235;12,094159;51,162644
+850;Hohenmölsen, Ortseingang;3489;de:15084:3489;Hohenmölsen;15084235;12,101747;51,163629
+850;Hohenmölsen, Salzstr.;3552;de:15084:3552;Hohenmölsen;15084235;12,108551;51,161470
+850;Hohenmölsen, Stadion;30068;de:15084:30068;Hohenmölsen;15084235;12,109903;51,156057
+850;Hohenmölsen, Strandbad Mondsee;2786;de:15084:2786;Hohenmölsen;15084235;12,139168;51,136644
+850;Lützkewitz (Profen);4242;de:15084:4242;Elsteraue;15084130;12,225999;51,133658
+850;Predel, Gärtnerei (Reuden);4085;de:15084:4085;Elsteraue;15084130;12,206227;51,120994
+850;Predel (Reuden);4084;de:15084:4084;Elsteraue;15084130;12,198603;51,116320
+850;Profen, Bahnhof (Bus);22943;de:15084:22943;Elsteraue;15084130;12,211808;51,130165
+850;Profen, Klubhaus;4101;de:15084:4101;Elsteraue;15084130;12,200956;51,127810
+850;Profen, Sparkasse;4087;de:15084:4087;Elsteraue;15084130;12,218070;51,130001
+850;Profen, Zeitzer Str.;4086;de:15084:4086;Elsteraue;15084130;12,213509;51,127304
+850;Reuden (b. Zeitz), Gemeinde;4083;de:15084:4083;Elsteraue;15084130;12,193461;51,110940
+850;Reuden (b. Zeitz), Schule;4099;de:15084:4099;Elsteraue;15084130;12,190662;51,108058
+850;Zangenberg (Zeitz);4080;de:15084:4080;Zeitz;15084590;12,153725;51,072825
+850;Zeitz, Busbahnhof;4122;de:15084:4122;Zeitz;15084590;12,133444;51,055869
+850;Zeitz, Dianasaal;4252;de:15084:4252;Zeitz;15084590;12,134414;51,062268
+850;Zeitz, Donaliesstr.;4035;de:15084:4035;Zeitz;15084590;12,132697;51,059239
+850;Zeitz, Kalktor;4030;de:15084:4030;Zeitz;15084590;12,139054;51,047334
+850;Zeitz, Platanenweg;4102;de:15084:4102;Zeitz;15084590;12,150542;51,040487
+850;Zeitz, Schützenplatz;4045;de:15084:4045;Zeitz;15084590;12,144397;51,051084
+850;Zeitz, Schützenstr.;4275;de:15084:4275;Zeitz;15084590;12,140516;51,050387
+850;Zeitz, Waldschlößchen;4103;de:15084:4103;Zeitz;15084590;12,142903;51,065825
+850;Zeitz, Weberstr.;4279;de:15084:4279;Zeitz;15084590;12,139450;51,049607
+850;Zeitz, Weißenfelser Str.;4036;de:15084:4036;Zeitz;15084590;12,129744;51,061566
+900;Dahlen (b. Havelberg);3570;de:15090:3570;Havelberg;15090225;12,054766;52,861706
+900;Fischbeck (b. Tangermünde), Rendezvous;3630;de:15090:3630;Wust-Fischbeck;15090631;12,020628;52,544009
+900;Glöwen, Bahnhof (Bus);3578;de:12070:900215322;Plattenburg;12070302;12,084435;52,903018
+900;Glöwen, Schule;3579;de:12070:900215324;Plattenburg;12070302;12,085064;52,911228
+900;Havelberg, EDEKA;3577;de:15090:3577;Havelberg;15090225;12,081240;52,837073
+900;Havelberg, Genthiner Str.;3611;de:15090:3611;Havelberg;15090225;12,070990;52,819522
+900;Havelberg, Haus der Flüsse (BUGA);3796;de:15090:3796;Havelberg;15090225;12,068014;52,822772
+900;Havelberg, Kaserne;15623;de:15090:15623;Havelberg;15090225;12,067817;52,836387
+900;Havelberg, Mühlenweg;3574;de:15090:3574;Havelberg;15090225;12,086327;52,833030
+900;Havelberg, Pestalozzistr.;15644;de:15090:15644;Havelberg;15090225;12,087627;52,825832
+900;Havelberg, Pferdemarkt;2541;de:15090:2541;Havelberg;15090225;12,058635;52,825082
+900;Havelberg, Pritzwalker Str.;3576;de:15090:3576;Havelberg;15090225;12,076366;52,831338
+900;Havelberg, Uferstr.;3610;de:15090:3610;Havelberg;15090225;12,071613;52,824980
+900;Havelberg, Wasserturm;3612;de:15090:3612;Havelberg;15090225;12,083055;52,828540
+900;Heeren (b. Tangermünde);138;de:15090:138;Stendal;15090535;11,890464;52,542189
+900;Hohengöhren;3618;de:15090:3618;Schönhausen (Elbe);15090500;12,037395;52,615792
+900;Klietz, Ärztehaus;2526;de:15090:2526;Klietz;15090310;12,063718;52,667398
+900;Klietz, Ort;3622;de:15090:3622;Klietz;15090310;12,070040;52,667288
+900;Kümmernitz, Kreuzung;3573;de:15090:3573;Havelberg;15090225;12,218688;52,853667
+900;Lübars (Neuermark-Lübars);3617;de:15090:3617;Klietz;15090310;12,041321;52,645348
+900;Neuermark;3620;de:15090:3620;Klietz;15090310;12,042670;52,652209
+900;Nitzow, Gaststätte;3571;de:15090:3571;Havelberg;15090225;12,053524;52,878477
+900;Nitzow, Gemeindehaus;22554;de:15090:22554;Havelberg;15090225;12,052826;52,872993
+900;Sandau (Elbe), Bahnhof (Bus);3625;de:15090:3625;Sandau (Elbe);15090445;12,049160;52,783057
+900;Sandau (Elbe), Stadtmitte;3609;de:15090:3609;Sandau (Elbe);15090445;12,046660;52,788857
+900;Sandau (Elbe), Volksgarten;3608;de:15090:3608;Sandau (Elbe);15090445;12,051065;52,794802
+900;Sandau (Elbe), Wulkauer Weg (Ersatzhalt);6909;de:15090:6909;Sandau (Elbe);15090445;12,049833;52,790124
+900;Scharlibbe;3621;de:15090:3621;Klietz;15090310;12,070634;52,696615
+900;Schönfeld (b. Havelberg);3614;de:15090:3614;Kamern;15090285;12,066656;52,726375
+900;Schönhausen (Elbe), Bahnhof (Bus);3623;de:15090:3623;Schönhausen (Elbe);15090500;12,040109;52,590821
+900;Schönhausen (Elbe), Grundschule;3587;de:15090:3587;Schönhausen (Elbe);15090500;12,040847;52,576966
+900;Schönhausen (Elbe), Wartehalle;15612;de:15090:15612;Schönhausen (Elbe);15090500;12,036298;52,581182
+900;Schönhausen (Elbe), Wendestelle;3624;de:15090:3624;Schönhausen (Elbe);15090500;12,040148;52,583709
+900;Stendal, Altstadt;1642;de:15090:1642;Stendal;15090535;11,858038;52,609247
+900;Stendal, Bahnhofstr.;3569;de:15090:3569;Stendal;15090535;11,863626;52,598253
+900;Stendal, Berufsschulzentrum;1647;de:15090:1647;Stendal;15090535;11,830963;52,610734
+900;Stendal, Frommhagenstr.;1936;de:15090:1936;Stendal;15090535;11,855044;52,602497
+900;Stendal, Hauptbahnhof (ZOB);1918;de:15090:1918;Stendal;15090535;11,856242;52,595267
+900;Stendal, Heerener Str.;1919;de:15090:1919;Stendal;15090535;11,869740;52,591741
+900;Stendal, Kreuzung Altmark-Park;1912;de:15090:1912;Stendal;15090535;11,872261;52,585378
+900;Stendal, Stadtmitte;1944;de:15090:1944;Stendal;15090535;11,863678;52,608095
+900;Stendal, Stadtseeallee;1937;de:15090:1937;Stendal;15090535;11,852043;52,604259
+900;Stendal, Wernerplatz;1907;de:15090:1907;Stendal;15090535;11,856956;52,597848
+900;Tangermünde, Arneburger Str.;17;de:15090:17;Tangermünde;15090550;11,980084;52,552461
+900;Tangermünde, LIDL-Markt;114;de:15090:114;Tangermünde;15090550;11,979168;52,547872
+900;Tangermünde, Lindenstr.;112;de:15090:112;Tangermünde;15090550;11,972930;52,544379
+900;Tangermünde, Neustädter Tor;7068;de:15090:7068;Tangermünde;15090550;11,967680;52,539559
+900;Tangermünde, Sekundarschule;122;de:15090:122;Tangermünde;15090550;11,960251;52,539807
+900;Tangermünde, Stendaler Str.;3627;de:15090:3627;Tangermünde;15090550;11,965555;52,541724
+900;Toppel, Ort;3603;de:15090:3603;Havelberg;15090225;12,060274;52,847756
+900;Toppel, Ziegelei;22557;de:15090:22557;Havelberg;15090225;12,062099;52,844149
+900;Wulkau;3607;de:15090:3607;Kamern;15090285;12,072665;52,759994

@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3126;Magdeburg;11.58;52.1;79;1.2;19790401;19881130;Regenmelder;Niederschlagsdauer, elektr.;eor;
+3126;Magdeburg;11.58;52.1;79;1;19881201;20060405;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+3126;Magdeburg;11.58;52.1;79;1;19950509;20060405;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+3126;Magdeburg;11.58;52.1;79;1;20060406;20160802;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+3126;Magdeburg;11.58;52.1;79;1;20160803;20220116;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+3126;Magdeburg;11.58;52.1;79;1;20220127;20260524;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+generiert: 25.05.2026 --  Deutscher Wetterdienst  --

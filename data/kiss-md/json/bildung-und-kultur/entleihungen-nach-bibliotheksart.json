@@ -1,0 +1,361 @@
+{
+  "id": "bildung-und-kultur/entleihungen-nach-bibliotheksart",
+  "title": "Entleihungen nach Bibliotheksart",
+  "category": "Bildung und Kultur",
+  "subcategory": "Stadtbibliothek",
+  "tableId": "K5_T26_04",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bildung-und-kultur/entleihungen-nach-bibliotheksart.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Entleihungen nach Bibliotheksart.xlsx"
+  },
+  "description": "Stadtbibliothek — Entleihungen nach Bibliotheksart. var3..var8 enthalten Aufteilungen nach Bibliothekstyp (Haupt/Jugend/Schule/Hochschulbib.), die LLM-Labels waren mit den Stichproben nicht konsistent.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1998,
+        1999,
+        2000
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Entleihungen gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        448159,
+        553798,
+        543744
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        781511,
+        667034,
+        455516
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        671384,
+        573753,
+        385187
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        110127,
+        93281,
+        70329
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        104853,
+        89118,
+        66085
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5274,
+        4163,
+        4244
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        18357,
+        35397,
+        43402
+      ]
+    },
+    {
+      "key": "var9",
+      "label": "Entleihungen gesamt (alt. Berechnung)",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1229670,
+        1220832,
+        999260
+      ]
+    }
+  ],
+  "rowCount": 21,
+  "rows": [
+    {
+      "var1": 1998,
+      "var2": 448159,
+      "var3": 781511,
+      "var4": 671384,
+      "var5": 110127,
+      "var6": 104853,
+      "var7": 5274,
+      "var8": null,
+      "var9": 1229670
+    },
+    {
+      "var1": 1999,
+      "var2": 553798,
+      "var3": 667034,
+      "var4": 573753,
+      "var5": 93281,
+      "var6": 89118,
+      "var7": 4163,
+      "var8": null,
+      "var9": 1220832
+    },
+    {
+      "var1": 2000,
+      "var2": 543744,
+      "var3": 455516,
+      "var4": 385187,
+      "var5": 70329,
+      "var6": 66085,
+      "var7": 4244,
+      "var8": null,
+      "var9": 999260
+    },
+    {
+      "var1": 2001,
+      "var2": 596473,
+      "var3": 374526,
+      "var4": 301432,
+      "var5": 73094,
+      "var6": 60217,
+      "var7": 12877,
+      "var8": null,
+      "var9": 970999
+    },
+    {
+      "var1": 2002,
+      "var2": 795490,
+      "var3": 417669,
+      "var4": 329396,
+      "var5": 88273,
+      "var6": 78822,
+      "var7": 9451,
+      "var8": null,
+      "var9": 1213159
+    },
+    {
+      "var1": 2003,
+      "var2": 866558,
+      "var3": 407516,
+      "var4": 313798,
+      "var5": 93718,
+      "var6": 84068,
+      "var7": 9650,
+      "var8": null,
+      "var9": 1274074
+    },
+    {
+      "var1": 2004,
+      "var2": 908725,
+      "var3": 318683,
+      "var4": 246830,
+      "var5": 71853,
+      "var6": 67119,
+      "var7": 4734,
+      "var8": null,
+      "var9": 1227408
+    },
+    {
+      "var1": 2005,
+      "var2": 887067,
+      "var3": 317325,
+      "var4": 250743,
+      "var5": 66582,
+      "var6": 63698,
+      "var7": 2884,
+      "var8": null,
+      "var9": 1204392
+    },
+    {
+      "var1": 2006,
+      "var2": 891777,
+      "var3": 292173,
+      "var4": 180744,
+      "var5": 111429,
+      "var6": 111429,
+      "var7": null,
+      "var8": null,
+      "var9": 1183950
+    },
+    {
+      "var1": 2007,
+      "var2": 855557,
+      "var3": 303353,
+      "var4": 178927,
+      "var5": 124426,
+      "var6": 124426,
+      "var7": null,
+      "var8": null,
+      "var9": 1158910
+    },
+    {
+      "var1": 2008,
+      "var2": 797594,
+      "var3": 343820,
+      "var4": 193979,
+      "var5": 149841,
+      "var6": 149841,
+      "var7": null,
+      "var8": null,
+      "var9": 1141414
+    },
+    {
+      "var1": 2009,
+      "var2": 695854,
+      "var3": 329716,
+      "var4": 180385,
+      "var5": 149331,
+      "var6": 149331,
+      "var7": null,
+      "var8": null,
+      "var9": 1025570
+    },
+    {
+      "var1": 2010,
+      "var2": 663055,
+      "var3": 341171,
+      "var4": 180976,
+      "var5": 160195,
+      "var6": 160195,
+      "var7": null,
+      "var8": null,
+      "var9": 1004226
+    },
+    {
+      "var1": 2011,
+      "var2": 713364,
+      "var3": 374526,
+      "var4": 197484,
+      "var5": 177042,
+      "var6": null,
+      "var7": null,
+      "var8": null,
+      "var9": 1087890
+    },
+    {
+      "var1": 2012,
+      "var2": 710249,
+      "var3": 427441,
+      "var4": 261748,
+      "var5": 165693,
+      "var6": null,
+      "var7": null,
+      "var8": null,
+      "var9": 1137690
+    },
+    {
+      "var1": 2013,
+      "var2": 659753,
+      "var3": 442723,
+      "var4": 275748,
+      "var5": 166975,
+      "var6": null,
+      "var7": null,
+      "var8": 18357,
+      "var9": 1120833
+    },
+    {
+      "var1": 2014,
+      "var2": 633391,
+      "var3": 455436,
+      "var4": 270088,
+      "var5": 185348,
+      "var6": null,
+      "var7": null,
+      "var8": 35397,
+      "var9": 1124224
+    },
+    {
+      "var1": 2015,
+      "var2": 591642,
+      "var3": 456368,
+      "var4": 273784,
+      "var5": 182584,
+      "var6": null,
+      "var7": null,
+      "var8": 43402,
+      "var9": 1091412
+    },
+    {
+      "var1": 2016,
+      "var2": 582845,
+      "var3": 444735,
+      "var4": 266466,
+      "var5": 178269,
+      "var6": null,
+      "var7": null,
+      "var8": 50008,
+      "var9": 1077588
+    },
+    {
+      "var1": 2017,
+      "var2": 464857,
+      "var3": 409817,
+      "var4": 243964,
+      "var5": 165853,
+      "var6": null,
+      "var7": null,
+      "var8": 54983,
+      "var9": 929657
+    },
+    {
+      "var1": 2018,
+      "var2": 456357,
+      "var3": 442852,
+      "var4": 269201,
+      "var5": 173651,
+      "var6": null,
+      "var7": null,
+      "var8": 66033,
+      "var9": 965242
+    }
+  ]
+}

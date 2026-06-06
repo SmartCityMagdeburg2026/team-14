@@ -1,0 +1,138 @@
+{
+  "id": "bautaetigkeit-und-wohnen/mischhaushalte-durchschnittlicher-wohngeldanspruch",
+  "title": "Mischhaushalte - durchschnittlicher Wohngeldanspruch",
+  "category": "Bautätigkeit und Wohnen",
+  "subcategory": "Wohngeld",
+  "tableId": "K6_T31_1",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bautaetigkeit-und-wohnen/mischhaushalte-durchschnittlicher-wohngeldanspruch.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Mischhaushalte - durchschnittlicher Wohngeldanspruch.xlsx"
+  },
+  "description": "Mischhaushalte — durchschnittlicher Wohngeldanspruch. var4/var5 enthielten Werte gleich 0 (vermutl. zusätzliche Aufteilung), Zuordnung unklar.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Mischhaushalte mit Wohngeld",
+      "unit": "Haushalte",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        229,
+        219,
+        187
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Durchschnittlicher Wohngeldanspruch",
+      "unit": "EUR",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        149,
+        164,
+        166
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "rowCount": 8,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": 229,
+      "var3": 149,
+      "var4": 0,
+      "var5": 0
+    },
+    {
+      "var1": 2018,
+      "var2": 219,
+      "var3": 164,
+      "var4": 0,
+      "var5": 0
+    },
+    {
+      "var1": 2019,
+      "var2": 187,
+      "var3": 166,
+      "var4": 0,
+      "var5": 0
+    },
+    {
+      "var1": 2020,
+      "var2": 170,
+      "var3": 175,
+      "var4": 0,
+      "var5": 0
+    },
+    {
+      "var1": 2021,
+      "var2": 145,
+      "var3": 192,
+      "var4": 0,
+      "var5": 0
+    },
+    {
+      "var1": 2022,
+      "var2": 125,
+      "var3": 180,
+      "var4": 0,
+      "var5": 0
+    },
+    {
+      "var1": 2023,
+      "var2": 130,
+      "var3": 252,
+      "var4": 0,
+      "var5": 0
+    },
+    {
+      "var1": 2024,
+      "var2": 130,
+      "var3": 220,
+      "var4": 0,
+      "var5": 0
+    }
+  ]
+}

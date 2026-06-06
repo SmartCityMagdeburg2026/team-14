@@ -1,0 +1,218 @@
+{
+  "id": "wirtschaft/rechtliche-einheiten-taetige-personen-umsatz-sowie-aktivierte-bruttoanlageinvestitionen-im-ausbaugewerbe",
+  "title": "Rechtliche Einheiten, tätige Personen, Umsatz sowie aktivierte Bruttoanlageinvestitionen im Ausbaugewerbe",
+  "category": "Wirtschaft",
+  "subcategory": "Baugewerbe",
+  "tableId": "K7_T28",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/rechtliche-einheiten-taetige-personen-umsatz-sowie-aktivierte-bruttoanlageinvestitionen-im-ausbaugewerbe.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Rechtliche Einheiten, tätige Personen, Umsatz sowie aktivierte Bruttoanlageinvestitionen im Ausbaugewerbe.xlsx"
+  },
+  "description": "Rechtliche Einheiten, tätige Personen, Umsatz sowie Bruttoanlageinvestitionen im Ausbaugewerbe. var5..var8 enthalten Investitions-Aufschlüsselungen, deren Zuordnung war nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Rechtliche Einheiten",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        27,
+        29,
+        33
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Tätige Personen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        23,
+        22,
+        27
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Umsatz",
+      "unit": "1.000 EUR",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1439,
+        1584,
+        1641
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        226773,
+        219568,
+        230939
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5082,
+        2510,
+        3567
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5082,
+        2510,
+        3196
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        371
+      ]
+    }
+  ],
+  "rowCount": 10,
+  "rows": [
+    {
+      "var1": 2012,
+      "var2": 27,
+      "var3": 23,
+      "var4": 1439,
+      "var5": 226773,
+      "var6": 5082,
+      "var7": 5082,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": 29,
+      "var3": 22,
+      "var4": 1584,
+      "var5": 219568,
+      "var6": 2510,
+      "var7": 2510,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": 33,
+      "var3": 27,
+      "var4": 1641,
+      "var5": 230939,
+      "var6": 3567,
+      "var7": 3196,
+      "var8": 371
+    },
+    {
+      "var1": 2015,
+      "var2": 33,
+      "var3": 30,
+      "var4": 1672,
+      "var5": 258008,
+      "var6": 2373,
+      "var7": 2199,
+      "var8": 175
+    },
+    {
+      "var1": 2016,
+      "var2": 36,
+      "var3": 30,
+      "var4": 1757,
+      "var5": 226434,
+      "var6": 4071,
+      "var7": 3793,
+      "var8": 278
+    },
+    {
+      "var1": 2017,
+      "var2": 31,
+      "var3": 27,
+      "var4": 1640,
+      "var5": 207261,
+      "var6": 3493,
+      "var7": 3446,
+      "var8": 47
+    },
+    {
+      "var1": 2018,
+      "var2": 28,
+      "var3": 25,
+      "var4": 1603,
+      "var5": 204669,
+      "var6": 3970,
+      "var7": 3593,
+      "var8": 377
+    },
+    {
+      "var1": 2019,
+      "var2": 28,
+      "var3": 23,
+      "var4": 1781,
+      "var5": 209975,
+      "var6": 5013,
+      "var7": 4847,
+      "var8": 166
+    },
+    {
+      "var1": 2020,
+      "var2": 39,
+      "var3": 31,
+      "var4": 1983,
+      "var5": 263074,
+      "var6": 5581,
+      "var7": 4940,
+      "var8": 641
+    },
+    {
+      "var1": 2021,
+      "var2": 45,
+      "var3": 37,
+      "var4": 2296,
+      "var5": 310625,
+      "var6": 4725,
+      "var7": 4718,
+      "var8": 8
+    }
+  ]
+}

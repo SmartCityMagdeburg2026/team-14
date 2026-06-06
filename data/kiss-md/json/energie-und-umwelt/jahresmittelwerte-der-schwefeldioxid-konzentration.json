@@ -1,0 +1,146 @@
+{
+  "id": "energie-und-umwelt/jahresmittelwerte-der-schwefeldioxid-konzentration",
+  "title": "Jahresmittelwerte der Schwefeldioxid-Konzentration",
+  "category": "Energie und Umwelt",
+  "subcategory": "Luftverunreinigungen im Raum Magdeburg",
+  "tableId": "K9_T26",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/jahresmittelwerte-der-schwefeldioxid-konzentration.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Jahresmittelwerte der Schwefeldioxid-Konzentration.xlsx"
+  },
+  "description": "Diese Tabelle zeigt die jährlichen Durchschnittswerte der Schwefeldioxid-Konzentration in Magdeburg über die Jahre.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1999,
+        2000,
+        2001
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Schwefeldioxid-Konzentration",
+      "unit": "µg/m³",
+      "type": "number",
+      "role": null,
+      "sample": [
+        4.4,
+        2.1,
+        4.2
+      ]
+    }
+  ],
+  "rowCount": 25,
+  "rows": [
+    {
+      "var1": 1999,
+      "var2": 4.4
+    },
+    {
+      "var1": 2000,
+      "var2": 2.1
+    },
+    {
+      "var1": 2001,
+      "var2": 4.2
+    },
+    {
+      "var1": 2002,
+      "var2": 2.1
+    },
+    {
+      "var1": 2003,
+      "var2": 2.1
+    },
+    {
+      "var1": 2004,
+      "var2": 2.1
+    },
+    {
+      "var1": 2005,
+      "var2": 2.1
+    },
+    {
+      "var1": 2006,
+      "var2": 2.1
+    },
+    {
+      "var1": 2007,
+      "var2": 2.1
+    },
+    {
+      "var1": 2008,
+      "var2": 2.1
+    },
+    {
+      "var1": 2009,
+      "var2": 2.1
+    },
+    {
+      "var1": 2010,
+      "var2": 1.2
+    },
+    {
+      "var1": 2011,
+      "var2": 1.2
+    },
+    {
+      "var1": 2012,
+      "var2": 1.2
+    },
+    {
+      "var1": 2013,
+      "var2": 1.2
+    },
+    {
+      "var1": 2014,
+      "var2": 1.2
+    },
+    {
+      "var1": 2015,
+      "var2": 1.2
+    },
+    {
+      "var1": 2016,
+      "var2": 1.2
+    },
+    {
+      "var1": 2017,
+      "var2": 1.2
+    },
+    {
+      "var1": 2018,
+      "var2": 1.2
+    },
+    {
+      "var1": 2019,
+      "var2": 1.2
+    },
+    {
+      "var1": 2020,
+      "var2": 1.2
+    },
+    {
+      "var1": 2021,
+      "var2": null
+    },
+    {
+      "var1": 2022,
+      "var2": null
+    },
+    {
+      "var1": 2023,
+      "var2": null
+    }
+  ]
+}

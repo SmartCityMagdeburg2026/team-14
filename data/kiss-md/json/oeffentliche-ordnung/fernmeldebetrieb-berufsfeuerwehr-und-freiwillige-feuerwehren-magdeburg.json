@@ -1,0 +1,151 @@
+{
+  "id": "oeffentliche-ordnung/fernmeldebetrieb-berufsfeuerwehr-und-freiwillige-feuerwehren-magdeburg",
+  "title": "Fernmeldebetrieb Berufsfeuerwehr und Freiwillige Feuerwehren Magdeburg",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Feuerwehr",
+  "tableId": "K11_T19",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/fernmeldebetrieb-berufsfeuerwehr-und-freiwillige-feuerwehren-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Fernmeldebetrieb Berufsfeuerwehr und Freiwillige Feuerwehren Magdeburg.xlsx"
+  },
+  "description": "Fernmeldebetrieb Berufsfeuerwehr und Freiwillige Feuerwehren Magdeburg. Die 6 Detail-Spalten (Notrufe, Vermittlungen, Personal) waren mit den LLM-Labels nicht konsistent.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2019,
+        2020,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": "day",
+      "sample": [
+        6,
+        6,
+        6
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        15,
+        15,
+        15
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        30,
+        30,
+        30
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        205,
+        205,
+        163
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        243,
+        308,
+        347
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        497,
+        542,
+        492
+      ]
+    }
+  ],
+  "rowCount": 5,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": 6,
+      "var3": 15,
+      "var4": 30,
+      "var5": 205,
+      "var6": 243,
+      "var7": 497
+    },
+    {
+      "var1": 2020,
+      "var2": 6,
+      "var3": 15,
+      "var4": 30,
+      "var5": 205,
+      "var6": 308,
+      "var7": 542
+    },
+    {
+      "var1": 2021,
+      "var2": 6,
+      "var3": 15,
+      "var4": 30,
+      "var5": 163,
+      "var6": 347,
+      "var7": 492
+    },
+    {
+      "var1": 2022,
+      "var2": 6,
+      "var3": 15,
+      "var4": 30,
+      "var5": 172,
+      "var6": 347,
+      "var7": 521
+    },
+    {
+      "var1": 2023,
+      "var2": 6,
+      "var3": 15,
+      "var4": 30,
+      "var5": 132,
+      "var6": 290,
+      "var7": 748
+    }
+  ]
+}

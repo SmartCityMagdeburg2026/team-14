@@ -1,19 +1,23 @@
-FROM --platform=amd64 python:3.12-slim
+FROM python:3.11-slim
 
-# Install uv
-COPY --from=ghcr.io/astral-sh/uv:latest /uv /usr/local/bin/uv
+# Prevent Python from creating .pyc files
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
 
 WORKDIR /app
 
-# Copy dependency manifests first for layer caching
-COPY pyproject.toml ./
+# Install dependencies first (better Docker caching)
+COPY requirements.txt .
 
-# Install dependencies into the system Python (no virtualenv needed in Docker)
-RUN uv pip install --system --no-cache -e .
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
 
-# Copy application source
-COPY app/ ./app/
+# Copy application files
+COPY . .
 
-EXPOSE 8080
+# Streamlit configuration
+EXPOSE 8000
 
-CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8080"]
+CMD ["streamlit", "run", "app.py", \
+     "--server.address=0.0.0.0", \
+     "--server.port=8000"]

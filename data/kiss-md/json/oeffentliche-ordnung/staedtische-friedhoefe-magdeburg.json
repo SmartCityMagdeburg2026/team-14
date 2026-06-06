@@ -1,0 +1,228 @@
+{
+  "id": "oeffentliche-ordnung/staedtische-friedhoefe-magdeburg",
+  "title": "Städtische Friedhöfe Magdeburg",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Bestattungswesen in der Stadt",
+  "tableId": "K9_T39",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/staedtische-friedhoefe-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Städtische Friedhöfe Magdeburg.xlsx"
+  },
+  "description": "Diese Tabelle listet städtische Friedhöfe in Magdeburg und gibt zu einem bestimmten Jahr Werte für diese Standorte an.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2021,
+        2021,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Friedhof",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Westfriedhof",
+        "Südfriedhof",
+        "Friedhof Groß Ottersleben"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Fläche",
+      "unit": "ha",
+      "type": "number",
+      "role": null,
+      "sample": [
+        62.5,
+        18,
+        7.81
+      ]
+    }
+  ],
+  "rowCount": 34,
+  "rows": [
+    {
+      "var1": 2021,
+      "var2": "Westfriedhof",
+      "var3": 62.5
+    },
+    {
+      "var1": 2021,
+      "var2": "Südfriedhof",
+      "var3": 18
+    },
+    {
+      "var1": 2021,
+      "var2": "Friedhof Groß Ottersleben",
+      "var3": 7.81
+    },
+    {
+      "var1": 2021,
+      "var2": "Friedhof Klein Ottersleben",
+      "var3": 1.49
+    },
+    {
+      "var1": 2021,
+      "var2": "Friedhof Lemsdorf",
+      "var3": 1.26
+    },
+    {
+      "var1": 2021,
+      "var2": "Friedhof Buckau",
+      "var3": 7.69
+    },
+    {
+      "var1": 2021,
+      "var2": "Ostfriedhof",
+      "var3": 6.43
+    },
+    {
+      "var1": 2021,
+      "var2": "Friedhof Westerhüsen",
+      "var3": 4.4
+    },
+    {
+      "var1": 2021,
+      "var2": "Friedhof Salbke",
+      "var3": 2.25
+    },
+    {
+      "var1": 2021,
+      "var2": "Friedhof Rothensee",
+      "var3": 1.13
+    },
+    {
+      "var1": 2021,
+      "var2": "Friedhof Prester / östl. Teil",
+      "var3": 0.32
+    },
+    {
+      "var1": 2021,
+      "var2": "Friedhof Pechau",
+      "var3": 0.58
+    },
+    {
+      "var1": 2021,
+      "var2": "Friedhof Nordpark (Sowjetischer FH; auf diesem Friedhof erfolgen keine Bestattungen)",
+      "var3": 0.74
+    },
+    {
+      "var1": 2021,
+      "var2": "Friedhof Beyendorf",
+      "var3": 0.45
+    },
+    {
+      "var1": 2021,
+      "var2": "Friedhof Sohlen",
+      "var3": 0.53
+    },
+    {
+      "var1": 2021,
+      "var2": "Friedhof Brückfeld (auf diesem Friedhof erfolgen keine Bestattungen)",
+      "var3": 1.53
+    },
+    {
+      "var1": 2021,
+      "var2": "Friedhofsfläche gesamt",
+      "var3": 115.58
+    },
+    {
+      "var1": 2023,
+      "var2": "Westfriedhof",
+      "var3": 62.5
+    },
+    {
+      "var1": 2023,
+      "var2": "Südfriedhof",
+      "var3": 18
+    },
+    {
+      "var1": 2023,
+      "var2": "Friedhof Groß Ottersleben",
+      "var3": 5.01
+    },
+    {
+      "var1": 2023,
+      "var2": "Friedhof Klein Ottersleben",
+      "var3": 1.49
+    },
+    {
+      "var1": 2023,
+      "var2": "Friedhof Lemsdorf",
+      "var3": 1.26
+    },
+    {
+      "var1": 2023,
+      "var2": "Friedhof Buckau",
+      "var3": 7.69
+    },
+    {
+      "var1": 2023,
+      "var2": "Ostfriedhof",
+      "var3": 6.43
+    },
+    {
+      "var1": 2023,
+      "var2": "Friedhof Westerhüsen",
+      "var3": 4.4
+    },
+    {
+      "var1": 2023,
+      "var2": "Friedhof Salbke",
+      "var3": 2.25
+    },
+    {
+      "var1": 2023,
+      "var2": "Friedhof Rothensee",
+      "var3": 1.13
+    },
+    {
+      "var1": 2023,
+      "var2": "Friedhof Prester / östl. Teil",
+      "var3": 0.32
+    },
+    {
+      "var1": 2023,
+      "var2": "Friedhof Pechau",
+      "var3": 0.58
+    },
+    {
+      "var1": 2023,
+      "var2": "Friedhof Nordpark (Sowjetischer FH; auf diesem Friedhof erfolgen keine Bestattungen)",
+      "var3": 0.74
+    },
+    {
+      "var1": 2023,
+      "var2": "Friedhof Beyendorf",
+      "var3": 0.45
+    },
+    {
+      "var1": 2023,
+      "var2": "Friedhof Sohlen",
+      "var3": 0.53
+    },
+    {
+      "var1": 2023,
+      "var2": "Friedhof Brückfeld (auf diesem Friedhof erfolgen keine Bestattungen)",
+      "var3": 1.53
+    },
+    {
+      "var1": 2023,
+      "var2": "Friedhofsfläche gesamt",
+      "var3": 114.31
+    }
+  ]
+}

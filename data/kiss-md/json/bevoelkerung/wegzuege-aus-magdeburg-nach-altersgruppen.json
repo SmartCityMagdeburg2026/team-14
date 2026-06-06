@@ -1,0 +1,268 @@
+{
+  "id": "bevoelkerung/wegzuege-aus-magdeburg-nach-altersgruppen",
+  "title": "Wegzüge aus Magdeburg nach Altersgruppen",
+  "category": "Bevölkerung",
+  "subcategory": "Bevölkerungsbewegung",
+  "tableId": "K3_T30",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bevoelkerung/wegzuege-aus-magdeburg-nach-altersgruppen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Wegzüge aus Magdeburg nach Altersgruppen.xlsx"
+  },
+  "description": "Wegzüge aus Magdeburg nach Altersgruppen. var2..var7 sind Altersgruppen-Anteile (Summe = var8, verifiziert), die einzelne Gruppen-Zuordnung war nicht herstellbar.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1061,
+        1100,
+        1140
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2580,
+        2701,
+        2431
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2310,
+        2503,
+        2424
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2488,
+        2671,
+        2794
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        497,
+        577,
+        592
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        371,
+        426,
+        379
+      ]
+    },
+    {
+      "key": "var8",
+      "label": "Wegzüge gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        9307,
+        9978,
+        9760
+      ]
+    }
+  ],
+  "rowCount": 15,
+  "rows": [
+    {
+      "var1": 2010,
+      "var2": 1061,
+      "var3": 2580,
+      "var4": 2310,
+      "var5": 2488,
+      "var6": 497,
+      "var7": 371,
+      "var8": 9307
+    },
+    {
+      "var1": 2011,
+      "var2": 1100,
+      "var3": 2701,
+      "var4": 2503,
+      "var5": 2671,
+      "var6": 577,
+      "var7": 426,
+      "var8": 9978
+    },
+    {
+      "var1": 2012,
+      "var2": 1140,
+      "var3": 2431,
+      "var4": 2424,
+      "var5": 2794,
+      "var6": 592,
+      "var7": 379,
+      "var8": 9760
+    },
+    {
+      "var1": 2013,
+      "var2": 1124,
+      "var3": 2415,
+      "var4": 2670,
+      "var5": 2840,
+      "var6": 585,
+      "var7": 372,
+      "var8": 10006
+    },
+    {
+      "var1": 2014,
+      "var2": 1260,
+      "var3": 2565,
+      "var4": 2845,
+      "var5": 3033,
+      "var6": 664,
+      "var7": 429,
+      "var8": 10796
+    },
+    {
+      "var1": 2015,
+      "var2": 1202,
+      "var3": 2395,
+      "var4": 2798,
+      "var5": 3090,
+      "var6": 597,
+      "var7": 427,
+      "var8": 10509
+    },
+    {
+      "var1": 2016,
+      "var2": 1753,
+      "var3": 3042,
+      "var4": 3266,
+      "var5": 3808,
+      "var6": 790,
+      "var7": 467,
+      "var8": 13126
+    },
+    {
+      "var1": 2017,
+      "var2": 1711,
+      "var3": 3461,
+      "var4": 3232,
+      "var5": 4173,
+      "var6": 826,
+      "var7": 442,
+      "var8": 13845
+    },
+    {
+      "var1": 2018,
+      "var2": 1603,
+      "var3": 3087,
+      "var4": 2882,
+      "var5": 3988,
+      "var6": 812,
+      "var7": 499,
+      "var8": 12871
+    },
+    {
+      "var1": 2019,
+      "var2": 1828,
+      "var3": 3148,
+      "var4": 2893,
+      "var5": 4286,
+      "var6": 843,
+      "var7": 512,
+      "var8": 13510
+    },
+    {
+      "var1": 2020,
+      "var2": 2014,
+      "var3": 3001,
+      "var4": 2641,
+      "var5": 4447,
+      "var6": 801,
+      "var7": 509,
+      "var8": 13413
+    },
+    {
+      "var1": 2021,
+      "var2": 2489,
+      "var3": 3057,
+      "var4": 2622,
+      "var5": 4401,
+      "var6": 792,
+      "var7": 532,
+      "var8": 13893
+    },
+    {
+      "var1": 2022,
+      "var2": 3083,
+      "var3": 4456,
+      "var4": 3845,
+      "var5": 6190,
+      "var6": 981,
+      "var7": 557,
+      "var8": 19112
+    },
+    {
+      "var1": 2023,
+      "var2": 2065,
+      "var3": 3604,
+      "var4": 3274,
+      "var5": 5035,
+      "var6": 907,
+      "var7": 588,
+      "var8": 15473
+    },
+    {
+      "var1": 2024,
+      "var2": 1499,
+      "var3": 3177,
+      "var4": 2798,
+      "var5": 4121,
+      "var6": 827,
+      "var7": 455,
+      "var8": 12877
+    }
+  ]
+}

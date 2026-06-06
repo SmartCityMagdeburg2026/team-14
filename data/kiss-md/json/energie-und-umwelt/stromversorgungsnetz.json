@@ -1,0 +1,418 @@
+{
+  "id": "energie-und-umwelt/stromversorgungsnetz",
+  "title": "Stromversorgungsnetz",
+  "category": "Energie und Umwelt",
+  "subcategory": "Versorgung mit Strom, Wärme, Erdgas und Wasser",
+  "tableId": "K9_T1",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/stromversorgungsnetz.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Stromversorgungsnetz.xlsx"
+  },
+  "description": "Stromversorgungsnetz und Verbrauchsdaten Magdeburg. Weitere Spalten (var4..var12) mit Verbrauch nach Energieart, KWK, Wind etc. waren mit den Stichproben nicht konsistent zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Versorgte Haushalte",
+      "unit": "Tsd.",
+      "type": "number",
+      "role": null,
+      "sample": [
+        52,
+        55.4,
+        55.4
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Stromabgabe",
+      "unit": "MWh",
+      "type": "number",
+      "role": null,
+      "sample": [
+        966,
+        972.7,
+        975.5
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1535,
+        1544,
+        1553.1
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1911,
+        2080.6,
+        2094.3
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        40,
+        40,
+        39.9
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1,
+        2,
+        1.5
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        193,
+        191.2,
+        187.3
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        217,
+        217,
+        216.8
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        7,
+        7,
+        7
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        908,
+        909,
+        906
+      ]
+    }
+  ],
+  "rowCount": 18,
+  "rows": [
+    {
+      "var1": 2007,
+      "var2": 52,
+      "var3": 966,
+      "var4": 1535,
+      "var5": 1911,
+      "var6": 40,
+      "var7": 1,
+      "var8": 193,
+      "var9": 217,
+      "var10": 8,
+      "var11": 7,
+      "var12": 908
+    },
+    {
+      "var1": 2008,
+      "var2": 55.4,
+      "var3": 972.7,
+      "var4": 1544,
+      "var5": 2080.6,
+      "var6": 40,
+      "var7": 2,
+      "var8": 191.2,
+      "var9": 217,
+      "var10": 8,
+      "var11": 7,
+      "var12": 909
+    },
+    {
+      "var1": 2009,
+      "var2": 55.4,
+      "var3": 975.5,
+      "var4": 1553.1,
+      "var5": 2094.3,
+      "var6": 39.9,
+      "var7": 1.5,
+      "var8": 187.3,
+      "var9": 216.8,
+      "var10": 8,
+      "var11": 7,
+      "var12": 906
+    },
+    {
+      "var1": 2010,
+      "var2": 55.4,
+      "var3": 978.6,
+      "var4": 1557.5,
+      "var5": 2104.9,
+      "var6": 39.9,
+      "var7": 1.5,
+      "var8": 185.9,
+      "var9": 215,
+      "var10": 8,
+      "var11": 7,
+      "var12": 901
+    },
+    {
+      "var1": 2011,
+      "var2": 55.4,
+      "var3": 1005.6,
+      "var4": 1560.9,
+      "var5": 2121.9,
+      "var6": 39.9,
+      "var7": 1.7,
+      "var8": 177.9,
+      "var9": 198.8,
+      "var10": 8,
+      "var11": 7,
+      "var12": 903
+    },
+    {
+      "var1": 2012,
+      "var2": 55.4,
+      "var3": 1029.22,
+      "var4": 1356.61,
+      "var5": 1962.43,
+      "var6": 39.9,
+      "var7": 7.7,
+      "var8": 67.3,
+      "var9": 66.3,
+      "var10": 8,
+      "var11": 7,
+      "var12": 920
+    },
+    {
+      "var1": 2013,
+      "var2": 55.4,
+      "var3": 1036.88,
+      "var4": 1367.98,
+      "var5": 1974.61,
+      "var6": 39.9,
+      "var7": 6.8,
+      "var8": 66.3,
+      "var9": 88.6,
+      "var10": 8,
+      "var11": 7,
+      "var12": 916
+    },
+    {
+      "var1": 2014,
+      "var2": 55.4,
+      "var3": 1035.98,
+      "var4": 1371.84,
+      "var5": 1983.22,
+      "var6": 39.9,
+      "var7": 6.9,
+      "var8": 64.5,
+      "var9": 85.5,
+      "var10": 8,
+      "var11": 7,
+      "var12": 915
+    },
+    {
+      "var1": 2015,
+      "var2": 57.4,
+      "var3": 1031.78,
+      "var4": 1376.37,
+      "var5": 1993.96,
+      "var6": 39.9,
+      "var7": 6.9,
+      "var8": 60.7,
+      "var9": 80.7,
+      "var10": 8,
+      "var11": 7,
+      "var12": 908
+    },
+    {
+      "var1": 2016,
+      "var2": 60.34,
+      "var3": 1034.48,
+      "var4": 1379.12,
+      "var5": 1999.89,
+      "var6": 37.48,
+      "var7": 6.9,
+      "var8": 59.9,
+      "var9": 79.5,
+      "var10": 8,
+      "var11": 8,
+      "var12": 901
+    },
+    {
+      "var1": 2017,
+      "var2": 60.34,
+      "var3": 1038.82,
+      "var4": 1379.12,
+      "var5": 2011.29,
+      "var6": 57.69,
+      "var7": 5.06,
+      "var8": 58.75,
+      "var9": 77.55,
+      "var10": 8,
+      "var11": 8,
+      "var12": 908
+    },
+    {
+      "var1": 2018,
+      "var2": 58.01,
+      "var3": 1032.81,
+      "var4": 1395.83,
+      "var5": 2026.07,
+      "var6": 77.86,
+      "var7": 5.06,
+      "var8": 57.75,
+      "var9": 75.82,
+      "var10": 8,
+      "var11": 8,
+      "var12": 911
+    },
+    {
+      "var1": 2019,
+      "var2": 53.51,
+      "var3": 1035.65982463051,
+      "var4": 1402.2900281726,
+      "var5": 2040.86328785724,
+      "var6": 77.39,
+      "var7": 5.06,
+      "var8": 56.2067647006019,
+      "var9": 73.4196652917367,
+      "var10": 8,
+      "var11": 8,
+      "var12": 912
+    },
+    {
+      "var1": 2020,
+      "var2": 54,
+      "var3": 1032,
+      "var4": 1407,
+      "var5": 2052,
+      "var6": 77,
+      "var7": 5,
+      "var8": 54,
+      "var9": 70,
+      "var10": 8,
+      "var11": 8,
+      "var12": 913
+    },
+    {
+      "var1": 2021,
+      "var2": 53.2961,
+      "var3": 1031.50982463051,
+      "var4": 1412.73357786647,
+      "var5": 2062.74820986454,
+      "var6": 77.387,
+      "var7": 4.2643378287938,
+      "var8": 50.6457053020034,
+      "var9": 64.7086344452053,
+      "var10": 8,
+      "var11": 8,
+      "var12": 911
+    },
+    {
+      "var1": 2022,
+      "var2": 53.2961,
+      "var3": 1040.69482463051,
+      "var4": 1428.82057786647,
+      "var5": 2085.99549521002,
+      "var6": 77.387,
+      "var7": 4.2643378287938,
+      "var8": 49.2177053020035,
+      "var9": 62.4017013737552,
+      "var10": 8,
+      "var11": 8,
+      "var12": 912
+    },
+    {
+      "var1": 2023,
+      "var2": 53.2961,
+      "var3": 1046.32382463051,
+      "var4": 1432.88957786647,
+      "var5": 2094.97491533472,
+      "var6": 77.387,
+      "var7": 4.2643378287938,
+      "var8": 47.9477053020034,
+      "var9": 60.4428078853213,
+      "var10": 8,
+      "var11": 9,
+      "var12": 913
+    },
+    {
+      "var1": 2024,
+      "var2": 53.3,
+      "var3": 1054.34,
+      "var4": 1443.91257786647,
+      "var5": 2109.56912997086,
+      "var6": 77.39,
+      "var7": 4.26,
+      "var8": 47.72,
+      "var9": 60.08,
+      "var10": 8,
+      "var11": 9,
+      "var12": 916
+    }
+  ]
+}

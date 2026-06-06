@@ -1,0 +1,586 @@
+{
+  "id": "energie-und-umwelt/oeffentliche-kanalisation-in-der-stadt-magdeburg",
+  "title": "Öffentliche Kanalisation in der Stadt Magdeburg",
+  "category": "Energie und Umwelt",
+  "subcategory": "Versorgung mit Strom, Wärme, Erdgas und Wasser",
+  "tableId": "K9_T16",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/oeffentliche-kanalisation-in-der-stadt-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Öffentliche Kanalisation in der Stadt Magdeburg .xlsx"
+  },
+  "description": "Öffentliche Kanalisation in der Stadt Magdeburg — Kennzahlen zu Netzlängen, Anschlüssen, Pumpwerken etc. (var2..var19). Spaltenzuordnung nicht zuverlässig herstellbar.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2009,
+        2010,
+        2011
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1008,
+        1006,
+        1012
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        123,
+        123,
+        123
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        884,
+        883,
+        889
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        411,
+        409,
+        408
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        278,
+        278,
+        283
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        319,
+        319,
+        321
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        101,
+        100,
+        101
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        74191,
+        75523,
+        75634
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        335,
+        202,
+        337
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        29,
+        7,
+        13
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        21,
+        34,
+        29
+      ]
+    },
+    {
+      "key": "var13",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        9591,
+        5513,
+        5664
+      ]
+    },
+    {
+      "key": "var14",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        8609,
+        4170,
+        3622
+      ]
+    },
+    {
+      "key": "var15",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        982,
+        1343,
+        2042
+      ]
+    },
+    {
+      "key": "var16",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        85,
+        83,
+        83
+      ]
+    },
+    {
+      "key": "var17",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "key": "var18",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        72,
+        70,
+        68
+      ]
+    },
+    {
+      "key": "var19",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        310,
+        376,
+        0
+      ]
+    }
+  ],
+  "rowCount": 16,
+  "rows": [
+    {
+      "var1": 2009,
+      "var2": 1008,
+      "var3": 123,
+      "var4": 884,
+      "var5": 411,
+      "var6": 278,
+      "var7": 319,
+      "var8": 101,
+      "var9": 74191,
+      "var10": 335,
+      "var11": 29,
+      "var12": 21,
+      "var13": 9591,
+      "var14": 8609,
+      "var15": 982,
+      "var16": 85,
+      "var17": 2,
+      "var18": 72,
+      "var19": 310
+    },
+    {
+      "var1": 2010,
+      "var2": 1006,
+      "var3": 123,
+      "var4": 883,
+      "var5": 409,
+      "var6": 278,
+      "var7": 319,
+      "var8": 100,
+      "var9": 75523,
+      "var10": 202,
+      "var11": 7,
+      "var12": 34,
+      "var13": 5513,
+      "var14": 4170,
+      "var15": 1343,
+      "var16": 83,
+      "var17": 0,
+      "var18": 70,
+      "var19": 376
+    },
+    {
+      "var1": 2011,
+      "var2": 1012,
+      "var3": 123,
+      "var4": 889,
+      "var5": 408,
+      "var6": 283,
+      "var7": 321,
+      "var8": 101,
+      "var9": 75634,
+      "var10": 337,
+      "var11": 13,
+      "var12": 29,
+      "var13": 5664,
+      "var14": 3622,
+      "var15": 2042,
+      "var16": 83,
+      "var17": 1,
+      "var18": 68,
+      "var19": 0
+    },
+    {
+      "var1": 2012,
+      "var2": 1010,
+      "var3": 123,
+      "var4": 887,
+      "var5": 412,
+      "var6": 279,
+      "var7": 319,
+      "var8": 102,
+      "var9": 75734,
+      "var10": 245,
+      "var11": 13,
+      "var12": 9,
+      "var13": 6196,
+      "var14": 5175,
+      "var15": 1021,
+      "var16": 83,
+      "var17": 0,
+      "var18": 68,
+      "var19": 1
+    },
+    {
+      "var1": 2013,
+      "var2": 1013,
+      "var3": 123,
+      "var4": 890,
+      "var5": 412,
+      "var6": 281,
+      "var7": 320,
+      "var8": 104,
+      "var9": 76142,
+      "var10": 225,
+      "var11": 15,
+      "var12": 11,
+      "var13": 3000,
+      "var14": 2000,
+      "var15": 1000,
+      "var16": 84,
+      "var17": 0,
+      "var18": 69,
+      "var19": 10
+    },
+    {
+      "var1": 2014,
+      "var2": 1017,
+      "var3": 123,
+      "var4": 894,
+      "var5": 412,
+      "var6": 284,
+      "var7": 321,
+      "var8": 105,
+      "var9": 76288,
+      "var10": 230,
+      "var11": 38,
+      "var12": 13,
+      "var13": 5710,
+      "var14": 3760,
+      "var15": 1950,
+      "var16": 84,
+      "var17": 0,
+      "var18": 69,
+      "var19": 0
+    },
+    {
+      "var1": 2015,
+      "var2": 1013,
+      "var3": 123,
+      "var4": 890,
+      "var5": 411,
+      "var6": 284,
+      "var7": 318,
+      "var8": 105,
+      "var9": 76288,
+      "var10": 218,
+      "var11": 22,
+      "var12": 32,
+      "var13": 5528,
+      "var14": 4728,
+      "var15": 803,
+      "var16": 90,
+      "var17": 6,
+      "var18": 69,
+      "var19": 0
+    },
+    {
+      "var1": 2016,
+      "var2": 1012,
+      "var3": 123,
+      "var4": 889,
+      "var5": 409,
+      "var6": 285,
+      "var7": 318,
+      "var8": 105,
+      "var9": 76288,
+      "var10": 205,
+      "var11": 20,
+      "var12": 23,
+      "var13": 5598,
+      "var14": 4001,
+      "var15": 1597,
+      "var16": 90,
+      "var17": 0,
+      "var18": 70,
+      "var19": 0
+    },
+    {
+      "var1": 2017,
+      "var2": 1013,
+      "var3": 123,
+      "var4": 890,
+      "var5": 408,
+      "var6": 288,
+      "var7": 317,
+      "var8": 107,
+      "var9": 76555,
+      "var10": 177,
+      "var11": 10,
+      "var12": 20,
+      "var13": 4170,
+      "var14": 3016,
+      "var15": 1154,
+      "var16": 90,
+      "var17": 0,
+      "var18": 69,
+      "var19": 0
+    },
+    {
+      "var1": 2018,
+      "var2": 1019,
+      "var3": 123,
+      "var4": 896,
+      "var5": 408,
+      "var6": 293,
+      "var7": 318,
+      "var8": 110,
+      "var9": 76809,
+      "var10": 172,
+      "var11": 9,
+      "var12": 13,
+      "var13": 5308,
+      "var14": 4186,
+      "var15": 1122,
+      "var16": 90,
+      "var17": 0,
+      "var18": 69,
+      "var19": 0
+    },
+    {
+      "var1": 2019,
+      "var2": 1021.5,
+      "var3": 122.6,
+      "var4": 898.9,
+      "var5": 407.8,
+      "var6": 294.5,
+      "var7": 319.3,
+      "var8": 110,
+      "var9": 76809,
+      "var10": 208,
+      "var11": 25,
+      "var12": 18,
+      "var13": 3086,
+      "var14": 2550,
+      "var15": 536,
+      "var16": 90,
+      "var17": 0,
+      "var18": 69.3,
+      "var19": 0
+    },
+    {
+      "var1": 2020,
+      "var2": 1020.1,
+      "var3": 123.3,
+      "var4": 898.8,
+      "var5": 406.8,
+      "var6": 294.2,
+      "var7": 319.1,
+      "var8": 97,
+      "var9": 70058,
+      "var10": 190.5,
+      "var11": 14,
+      "var12": 17,
+      "var13": 3167,
+      "var14": 2626,
+      "var15": 541,
+      "var16": 90,
+      "var17": 0,
+      "var18": 69.4,
+      "var19": 0
+    },
+    {
+      "var1": 2021,
+      "var2": 1021.1,
+      "var3": 123.4,
+      "var4": 897.7,
+      "var5": 406,
+      "var6": 295.8,
+      "var7": 319.2,
+      "var8": 97,
+      "var9": 70135,
+      "var10": 201.5,
+      "var11": 13,
+      "var12": 9,
+      "var13": 4442,
+      "var14": 2803,
+      "var15": 1639,
+      "var16": 93,
+      "var17": 1,
+      "var18": 69.6,
+      "var19": 0
+    },
+    {
+      "var1": 2022,
+      "var2": 1025.1,
+      "var3": 123.9,
+      "var4": 901.1,
+      "var5": 406.1,
+      "var6": 297.2,
+      "var7": 321.8,
+      "var8": 99,
+      "var9": 70643,
+      "var10": 191.9,
+      "var11": 15,
+      "var12": 17,
+      "var13": 5366,
+      "var14": 3206,
+      "var15": 2160,
+      "var16": 93,
+      "var17": 0,
+      "var18": 69.6,
+      "var19": 0
+    },
+    {
+      "var1": 2023,
+      "var2": 1024.7,
+      "var3": 124.1,
+      "var4": 900.6,
+      "var5": 407.1,
+      "var6": 296,
+      "var7": 321.6,
+      "var8": 99,
+      "var9": 70643,
+      "var10": 178,
+      "var11": 12,
+      "var12": 13,
+      "var13": 1537,
+      "var14": 910,
+      "var15": 627,
+      "var16": 94,
+      "var17": 1,
+      "var18": 69.8,
+      "var19": 0
+    },
+    {
+      "var1": 2024,
+      "var2": 1026,
+      "var3": 124.1,
+      "var4": 902,
+      "var5": 407.1,
+      "var6": 297,
+      "var7": 323,
+      "var8": 104,
+      "var9": null,
+      "var10": 149,
+      "var11": 14,
+      "var12": 13,
+      "var13": 3667,
+      "var14": 1965,
+      "var15": 1701,
+      "var16": 94,
+      "var17": 0,
+      "var18": 69.8,
+      "var19": 0
+    }
+  ]
+}

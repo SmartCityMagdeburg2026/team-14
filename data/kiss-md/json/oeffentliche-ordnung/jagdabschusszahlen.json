@@ -1,0 +1,250 @@
+{
+  "id": "oeffentliche-ordnung/jagdabschusszahlen",
+  "title": "Jagdabschusszahlen",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Jagd- und Fischereiwesen",
+  "tableId": "K11_T32",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/jagdabschusszahlen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Jagdabschusszahlen.xlsx"
+  },
+  "description": "Jagdabschusszahlen (Schalenwild). var2..var12 entsprechen verschiedenen Wildarten (Rotwild, Damwild, Schwarzwild, Rehwild, Muffelwild etc.), die nicht eindeutig zuzuordnen waren.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2019,
+        2020,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        196,
+        205,
+        192
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        230,
+        155,
+        192
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        24
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        306,
+        276,
+        339
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        100,
+        102,
+        128
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        10,
+        18,
+        4
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        29,
+        18,
+        28
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        76,
+        63,
+        144
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        16,
+        7,
+        6
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        75,
+        68,
+        27
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        2
+      ]
+    }
+  ],
+  "rowCount": 6,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": 196,
+      "var3": 230,
+      "var4": 0,
+      "var5": 306,
+      "var6": 100,
+      "var7": 10,
+      "var8": 29,
+      "var9": 76,
+      "var10": 16,
+      "var11": 75,
+      "var12": 0
+    },
+    {
+      "var1": 2020,
+      "var2": 205,
+      "var3": 155,
+      "var4": 0,
+      "var5": 276,
+      "var6": 102,
+      "var7": 18,
+      "var8": 18,
+      "var9": 63,
+      "var10": 7,
+      "var11": 68,
+      "var12": 0
+    },
+    {
+      "var1": 2021,
+      "var2": 192,
+      "var3": 192,
+      "var4": 24,
+      "var5": 339,
+      "var6": 128,
+      "var7": 4,
+      "var8": 28,
+      "var9": 144,
+      "var10": 6,
+      "var11": 27,
+      "var12": 2
+    },
+    {
+      "var1": 2022,
+      "var2": 184,
+      "var3": 116,
+      "var4": 20,
+      "var5": 10,
+      "var6": 107,
+      "var7": 9,
+      "var8": 16,
+      "var9": 178,
+      "var10": 5,
+      "var11": 42,
+      "var12": 2
+    },
+    {
+      "var1": 2023,
+      "var2": 217,
+      "var3": 118,
+      "var4": 13,
+      "var5": 479,
+      "var6": 135,
+      "var7": 9,
+      "var8": 24,
+      "var9": 260,
+      "var10": 9,
+      "var11": 41,
+      "var12": 1
+    },
+    {
+      "var1": 2024,
+      "var2": 226,
+      "var3": 183,
+      "var4": 9,
+      "var5": 617,
+      "var6": 162,
+      "var7": 25,
+      "var8": 17,
+      "var9": 354,
+      "var10": 1,
+      "var11": 58,
+      "var12": 0
+    }
+  ]
+}

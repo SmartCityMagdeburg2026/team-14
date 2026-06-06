@@ -1,0 +1,196 @@
+{
+  "id": "oeffentliche-ordnung/tierheim-magdeburg",
+  "title": "Tierheim Magdeburg",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Veterinärwesen und Lebensmittelüberwachung",
+  "tableId": "K11_T27_1",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/tierheim-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Tierheim Magdeburg.xlsx"
+  },
+  "description": "Tierheim Magdeburg. var4..var9 enthalten weitere Tätigkeitskennzahlen (Erstkontakte, Besucher, Kastrationen, Impfungen, OPs etc.); die Größenordnungen wirken plausibel, eine eindeutige Zuordnung war jedoch nicht möglich.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2019,
+        2020,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Tiere im Tierheim",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        786,
+        790,
+        833
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Vermittelte Tiere",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        594,
+        623,
+        594
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        94,
+        87,
+        127
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        98,
+        80,
+        112
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        186,
+        144,
+        154
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        371,
+        404,
+        375
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        213,
+        222,
+        254
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        16,
+        20,
+        50
+      ]
+    }
+  ],
+  "rowCount": 6,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": 786,
+      "var3": 594,
+      "var4": 94,
+      "var5": 98,
+      "var6": 186,
+      "var7": 371,
+      "var8": 213,
+      "var9": 16
+    },
+    {
+      "var1": 2020,
+      "var2": 790,
+      "var3": 623,
+      "var4": 87,
+      "var5": 80,
+      "var6": 144,
+      "var7": 404,
+      "var8": 222,
+      "var9": 20
+    },
+    {
+      "var1": 2021,
+      "var2": 833,
+      "var3": 594,
+      "var4": 127,
+      "var5": 112,
+      "var6": 154,
+      "var7": 375,
+      "var8": 254,
+      "var9": 50
+    },
+    {
+      "var1": 2022,
+      "var2": 823,
+      "var3": 628,
+      "var4": 83,
+      "var5": 112,
+      "var6": 182,
+      "var7": 429,
+      "var8": 195,
+      "var9": 17
+    },
+    {
+      "var1": 2023,
+      "var2": 906,
+      "var3": 684,
+      "var4": 74,
+      "var5": 148,
+      "var6": 200,
+      "var7": 467,
+      "var8": 199,
+      "var9": 40
+    },
+    {
+      "var1": 2024,
+      "var2": 844,
+      "var3": 638,
+      "var4": 87,
+      "var5": 119,
+      "var6": 184,
+      "var7": 466,
+      "var8": 164,
+      "var9": 30
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": "verkehr/technische-daten-der-hafenbecken",
+  "title": "Technische Daten der Hafenbecken",
+  "category": "Verkehr",
+  "subcategory": "Magdeburger Häfen",
+  "tableId": "K8_T35",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/verkehr/technische-daten-der-hafenbecken.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Technische Daten der Hafenbecken.xlsx"
+  },
+  "description": "Technische Daten der Hafenbecken Magdeburg. Weitere Maße (Breite/Tiefe/Uferlängen, var4..var8) blieben unbenannt, da die genaue Spaltenzuordnung nicht ableitbar war.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2021,
+        2021,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Hafenbecken",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Industriehafen",
+        "Kanalhafen - Zweigkanal",
+        "Kanalhafen - Hafenbecken I"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Länge",
+      "unit": "m",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2000,
+        2600,
+        600
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        55,
+        41.3,
+        56.7
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        36.8,
+        35.6,
+        35.6
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        570,
+        4570,
+        300
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "1325,00 (Ostufer)",
+        "1325.00",
+        "1325"
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "1743,00 (Westufer)",
+        "1743.00",
+        "1743"
+      ]
+    }
+  ],
+  "rowCount": 18,
+  "rows": [
+    {
+      "var1": 2021,
+      "var2": "Industriehafen",
+      "var3": 2000,
+      "var4": 55,
+      "var5": 36.8,
+      "var6": 570,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Kanalhafen - Zweigkanal",
+      "var3": 2600,
+      "var4": 41.3,
+      "var5": 35.6,
+      "var6": 4570,
+      "var7": "1325,00 (Ostufer)",
+      "var8": "1743,00 (Westufer)"
+    },
+    {
+      "var1": 2021,
+      "var2": "Kanalhafen - Hafenbecken I",
+      "var3": 600,
+      "var4": 56.7,
+      "var5": 35.6,
+      "var6": 300,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Kabalhafen - Hafenbecken II",
+      "var3": 600,
+      "var4": 68,
+      "var5": 35.6,
+      "var6": 1202,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Hansehafen - RVK",
+      "var3": 2000,
+      "var4": 0,
+      "var5": 35.6,
+      "var6": 1350,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Hansehafen - Umschlagstelle RVK",
+      "var3": 263,
+      "var4": 0,
+      "var5": 35.6,
+      "var6": 263,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Industriehafen",
+      "var3": 2000,
+      "var4": 55,
+      "var5": 36.76,
+      "var6": 570,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Kanalhafen - Zweigkanal",
+      "var3": 2600,
+      "var4": 41.3,
+      "var5": 35.56,
+      "var6": 4570,
+      "var7": "1325.00",
+      "var8": "1743.00"
+    },
+    {
+      "var1": 2022,
+      "var2": "Kanalhafen - Hafenbecken 1",
+      "var3": 600,
+      "var4": 56.7,
+      "var5": 35.56,
+      "var6": 300,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Kanalbecken - Hafenbecken II",
+      "var3": 600,
+      "var4": 68,
+      "var5": 35.56,
+      "var6": 1202,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Hansehafen - RVK",
+      "var3": 2000,
+      "var4": null,
+      "var5": 35.65,
+      "var6": 1350,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Hansehafen - Umschlagstelle RVK",
+      "var3": 263,
+      "var4": null,
+      "var5": 35.65,
+      "var6": 263,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Industriehafen",
+      "var3": 2000,
+      "var4": 55,
+      "var5": 36.76,
+      "var6": 570,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Kanalhafen - Zweigkanal",
+      "var3": 2600,
+      "var4": 41.3,
+      "var5": 35.56,
+      "var6": 4570,
+      "var7": "1325",
+      "var8": "1743"
+    },
+    {
+      "var1": 2023,
+      "var2": "Kanalhafen - Hafenbecken I",
+      "var3": 600,
+      "var4": 56.7,
+      "var5": 35.65,
+      "var6": 300,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Kanalhafen - Hafenbecken II",
+      "var3": 600,
+      "var4": 68,
+      "var5": 35.65,
+      "var6": 1202,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Hansehafen - RVK",
+      "var3": 2000,
+      "var4": null,
+      "var5": 35.65,
+      "var6": 1350,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Hansehafen - Umschlagstelle RVK",
+      "var3": 263,
+      "var4": null,
+      "var5": 35.65,
+      "var6": 263,
+      "var7": null,
+      "var8": null
+    }
+  ]
+}

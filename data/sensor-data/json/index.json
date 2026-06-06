@@ -1,0 +1,31 @@
+{
+  "station": {
+    "id": "03126",
+    "name": "Magdeburg",
+    "source": "DWD — Climate Data Center (Klimaarchiv Tag/Monat)",
+    "url": "https://dwd.de/DE/leistungen/klimadatendeutschland/klarchivtagmonat.html",
+    "license": "GeoNutzV / DWD — frei nutzbar mit Quellenangabe"
+  },
+  "datasets": [
+    {
+      "path": "klima-tag.json",
+      "granularity": "daily",
+      "period": {
+        "start": "1881-01-01",
+        "end": "2026-05-24"
+      },
+      "rowCount": 52405,
+      "columnCount": 18
+    },
+    {
+      "path": "klima-monat.json",
+      "granularity": "monthly",
+      "period": {
+        "start": "1834-01-01",
+        "end": "2026-04-01"
+      },
+      "rowCount": 2292,
+      "columnCount": 16
+    }
+  ]
+}

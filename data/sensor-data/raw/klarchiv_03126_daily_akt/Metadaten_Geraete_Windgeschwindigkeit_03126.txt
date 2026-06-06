@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3126;Magdeburg;11.58;52.1;79;19;19570801;19610412;Universal-Windmesser 82;Windmessung;eor;
+3126;Magdeburg;11.58;52.1;79;19;19610519;19780630;Universal-Windmesser 82;Windmessung;eor;
+3126;Magdeburg;11.58;52.1;79;18;19780701;19880313;Windmessanlage Junkalor;Windmessung, elektromechanisch;eor;
+3126;Magdeburg;11.58;52.1;79;18;19880314;20051107;WMG 201;Windmessung, elektr.;eor;
+3126;Magdeburg;11.58;52.1;79;15;20051108;20060405;WMG 201;Windmessung, elektr.;eor;
+3126;Magdeburg;11.58;52.1;79;15;20060406;20080604;WMG 201;Windmessung, elektr.;eor;
+3126;Magdeburg;11.58;52.1;79;15;20080605;20260506;Ultrasonic Anemometer 2D;Windmessung, elektr.;eor;
+3126;Magdeburg;11.58;52.1;79;15;20260507;20260524;Ultrasonic Anemometer 2D compact;Windmessung, elektr.;eor;
+generiert: 25.05.2026 --  Deutscher Wetterdienst  --

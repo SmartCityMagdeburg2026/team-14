@@ -1,0 +1,253 @@
+{
+  "id": "wirtschaft/verbraucherpreisindex-fuer-sachsen-anhalt-nach-waren-und-fuer-kraftfahrer",
+  "title": "Verbraucherpreisindex für Sachsen-Anhalt nach Waren und für Kraftfahrer",
+  "category": "Wirtschaft",
+  "subcategory": "Preise und Preisindizes",
+  "tableId": "K7_T94a",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/verbraucherpreisindex-fuer-sachsen-anhalt-nach-waren-und-fuer-kraftfahrer.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Verbraucherpreisindex für Sachsen-Anhalt nach Waren und für Kraftfahrer.xlsx"
+  },
+  "description": "Verbraucherpreisindex für Sachsen-Anhalt nach Waren und für Kraftfahrer. var2..var13 enthalten Teilindizes und Veränderungsraten, Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        101.7,
+        103.9,
+        105.1
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1.4,
+        2.2,
+        1.2
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        101.4,
+        104.5,
+        105.5
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1.9,
+        3.1,
+        1
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        102.6,
+        103.7,
+        105.3
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        0.5,
+        1.1,
+        1.5
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        101.7,
+        102.2,
+        103.1
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        0.5,
+        0.5,
+        0.9
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        102,
+        104.9,
+        105.9
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1.4,
+        2.8,
+        1
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        100,
+        105.9,
+        102.9
+      ]
+    },
+    {
+      "key": "var13",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        3.7,
+        5.9,
+        -2.8
+      ]
+    }
+  ],
+  "rowCount": 5,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": 101.7,
+      "var3": 1.4,
+      "var4": 101.4,
+      "var5": 1.9,
+      "var6": 102.6,
+      "var7": 0.5,
+      "var8": 101.7,
+      "var9": 0.5,
+      "var10": 102,
+      "var11": 1.4,
+      "var12": 100,
+      "var13": 3.7
+    },
+    {
+      "var1": 2018,
+      "var2": 103.9,
+      "var3": 2.2,
+      "var4": 104.5,
+      "var5": 3.1,
+      "var6": 103.7,
+      "var7": 1.1,
+      "var8": 102.2,
+      "var9": 0.5,
+      "var10": 104.9,
+      "var11": 2.8,
+      "var12": 105.9,
+      "var13": 5.9
+    },
+    {
+      "var1": 2019,
+      "var2": 105.1,
+      "var3": 1.2,
+      "var4": 105.5,
+      "var5": 1,
+      "var6": 105.3,
+      "var7": 1.5,
+      "var8": 103.1,
+      "var9": 0.9,
+      "var10": 105.9,
+      "var11": 1,
+      "var12": 102.9,
+      "var13": -2.8
+    },
+    {
+      "var1": 2020,
+      "var2": 102.9,
+      "var3": -2.1,
+      "var4": 103.1,
+      "var5": -2.29999999999999,
+      "var6": 103.5,
+      "var7": -1.7,
+      "var8": 101.3,
+      "var9": -1.7,
+      "var10": 103,
+      "var11": -2.7,
+      "var12": 91.9,
+      "var13": -10.7
+    },
+    {
+      "var1": 2021,
+      "var2": 112.2,
+      "var3": 9,
+      "var4": 114.8,
+      "var5": 11.3,
+      "var6": 107.6,
+      "var7": 4,
+      "var8": 107.9,
+      "var9": 6.5,
+      "var10": 116.8,
+      "var11": 13.4,
+      "var12": 122.6,
+      "var13": 33.4
+    }
+  ]
+}

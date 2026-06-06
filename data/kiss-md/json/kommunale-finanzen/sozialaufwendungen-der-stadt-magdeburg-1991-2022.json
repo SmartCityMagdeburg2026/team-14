@@ -1,0 +1,228 @@
+{
+  "id": "kommunale-finanzen/sozialaufwendungen-der-stadt-magdeburg-1991-2022",
+  "title": "Sozialaufwendungen der Stadt Magdeburg 1991 - 2022",
+  "category": "Kommunale Finanzen",
+  "subcategory": "Sozialaufwendungen",
+  "tableId": "K12_T9",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/kommunale-finanzen/sozialaufwendungen-der-stadt-magdeburg-1991-2022.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Sozialaufwendungen der Stadt Magdeburg 1991 - 2022.xlsx"
+  },
+  "description": "Sozialaufwendungen der Stadt Magdeburg 1991–2022. var2 in 1.000 EUR ist plausibel (22 Mio. EUR in 1991, wachsend). var3 (LLM-Label \"Anzahl Empfänger\") war mit den Werten nicht konsistent.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Sozialaufwendungen",
+      "unit": "1.000 EUR",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        22190,
+        55060,
+        68782
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        80,
+        201,
+        253
+      ]
+    }
+  ],
+  "rowCount": 34,
+  "rows": [
+    {
+      "var1": 1991,
+      "var2": 22190,
+      "var3": 80
+    },
+    {
+      "var1": 1992,
+      "var2": 55060,
+      "var3": 201
+    },
+    {
+      "var1": 1993,
+      "var2": 68782,
+      "var3": 253
+    },
+    {
+      "var1": 1994,
+      "var2": 84963,
+      "var3": 315
+    },
+    {
+      "var1": 1995,
+      "var2": 88961,
+      "var3": 338
+    },
+    {
+      "var1": 1996,
+      "var2": 83153,
+      "var3": 325
+    },
+    {
+      "var1": 1997,
+      "var2": 82047,
+      "var3": 330
+    },
+    {
+      "var1": 1998,
+      "var2": 85747,
+      "var3": 352
+    },
+    {
+      "var1": 1999,
+      "var2": 75263,
+      "var3": 316
+    },
+    {
+      "var1": 2000,
+      "var2": 76691,
+      "var3": 328
+    },
+    {
+      "var1": 2001,
+      "var2": 80619,
+      "var3": 348
+    },
+    {
+      "var1": 2002,
+      "var2": 85841,
+      "var3": 375
+    },
+    {
+      "var1": 2003,
+      "var2": 94552,
+      "var3": 415
+    },
+    {
+      "var1": 2004,
+      "var2": 95406,
+      "var3": 420
+    },
+    {
+      "var1": 2005,
+      "var2": 98950,
+      "var3": 433
+    },
+    {
+      "var1": 2006,
+      "var2": 108170,
+      "var3": 472
+    },
+    {
+      "var1": 2007,
+      "var2": 111437,
+      "var3": 485
+    },
+    {
+      "var1": 2008,
+      "var2": 108789,
+      "var3": 473
+    },
+    {
+      "var1": 2009,
+      "var2": 112895,
+      "var3": 491
+    },
+    {
+      "var1": 2010,
+      "var2": 120350,
+      "var3": 522
+    },
+    {
+      "var1": 2011,
+      "var2": 117378,
+      "var3": 507
+    },
+    {
+      "var1": 2012,
+      "var2": 117436,
+      "var3": 506
+    },
+    {
+      "var1": 2013,
+      "var2": 117688,
+      "var3": 512
+    },
+    {
+      "var1": 2014,
+      "var2": 117978,
+      "var3": 511
+    },
+    {
+      "var1": 2015,
+      "var2": 123306,
+      "var3": 530
+    },
+    {
+      "var1": 2016,
+      "var2": 130685,
+      "var3": 547
+    },
+    {
+      "var1": 2017,
+      "var2": 144661,
+      "var3": 607
+    },
+    {
+      "var1": 2018,
+      "var2": 140235,
+      "var3": 590
+    },
+    {
+      "var1": 2019,
+      "var2": 135181,
+      "var3": 569
+    },
+    {
+      "var1": 2020,
+      "var2": 134776,
+      "var3": 571
+    },
+    {
+      "var1": 2021,
+      "var2": 132378,
+      "var3": 563
+    },
+    {
+      "var1": 2022,
+      "var2": 148639,
+      "var3": 622
+    },
+    {
+      "var1": 2023,
+      "var2": 173934,
+      "var3": 718
+    },
+    {
+      "var1": 2024,
+      "var2": 192196,
+      "var3": 791
+    }
+  ]
+}

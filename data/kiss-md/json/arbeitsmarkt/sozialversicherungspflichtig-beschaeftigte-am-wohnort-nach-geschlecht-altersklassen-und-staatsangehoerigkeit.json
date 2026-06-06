@@ -1,0 +1,298 @@
+{
+  "id": "arbeitsmarkt/sozialversicherungspflichtig-beschaeftigte-am-wohnort-nach-geschlecht-altersklassen-und-staatsangehoerigkeit",
+  "title": "Sozialversicherungspflichtig Beschäftigte am Wohnort nach Geschlecht, Altersklassen und Staatsangehörigkeit",
+  "category": "Arbeitsmarkt",
+  "subcategory": "Sozialversicherungspflichtig Beschäftigte am Wohnort",
+  "tableId": "K7_T50a",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/arbeitsmarkt/sozialversicherungspflichtig-beschaeftigte-am-wohnort-nach-geschlecht-altersklassen-und-staatsangehoerigkeit.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Sozialversicherungspflichtig Beschäftigte am Wohnort nach Geschlecht, Altersklassen und Staatsangehörigkeit.xlsx"
+  },
+  "description": "Sozialversicherungspflichtig Beschäftigte am Wohnort nach Geschlecht, Altersklassen und Staatsangehörigkeit. Die 11 Detail-Spalten waren nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Beschäftigte gesamt am Wohnort",
+      "unit": "Personen",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        90272,
+        92345,
+        93818
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        46328,
+        47857,
+        49069
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        43944,
+        44488,
+        44749
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1798,
+        1890,
+        1985
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5172,
+        5627,
+        6228
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        24971,
+        25079,
+        24896
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        18218,
+        19206,
+        20134
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        22616,
+        22207,
+        21398
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        16825,
+        17562,
+        18309
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        672,
+        774,
+        868
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        86605,
+        87512,
+        87626
+      ]
+    },
+    {
+      "key": "var13",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        3632,
+        4797,
+        6142
+      ]
+    }
+  ],
+  "rowCount": 8,
+  "rows": [
+    {
+      "var1": 2016,
+      "var2": 90272,
+      "var3": 46328,
+      "var4": 43944,
+      "var5": 1798,
+      "var6": 5172,
+      "var7": 24971,
+      "var8": 18218,
+      "var9": 22616,
+      "var10": 16825,
+      "var11": 672,
+      "var12": 86605,
+      "var13": 3632
+    },
+    {
+      "var1": 2017,
+      "var2": 92345,
+      "var3": 47857,
+      "var4": 44488,
+      "var5": 1890,
+      "var6": 5627,
+      "var7": 25079,
+      "var8": 19206,
+      "var9": 22207,
+      "var10": 17562,
+      "var11": 774,
+      "var12": 87512,
+      "var13": 4797
+    },
+    {
+      "var1": 2018,
+      "var2": 93818,
+      "var3": 49069,
+      "var4": 44749,
+      "var5": 1985,
+      "var6": 6228,
+      "var7": 24896,
+      "var8": 20134,
+      "var9": 21398,
+      "var10": 18309,
+      "var11": 868,
+      "var12": 87626,
+      "var13": 6142
+    },
+    {
+      "var1": 2019,
+      "var2": 94376,
+      "var3": 49504,
+      "var4": 44872,
+      "var5": 2031,
+      "var6": 6407,
+      "var7": 24074,
+      "var8": 21360,
+      "var9": 20657,
+      "var10": 18883,
+      "var11": 964,
+      "var12": 87746,
+      "var13": 6588
+    },
+    {
+      "var1": 2020,
+      "var2": 94768,
+      "var3": 49943,
+      "var4": 44825,
+      "var5": 2046,
+      "var6": 7034,
+      "var7": 23437,
+      "var8": 22198,
+      "var9": 19818,
+      "var10": 19174,
+      "var11": 1061,
+      "var12": 87120,
+      "var13": 7609
+    },
+    {
+      "var1": 2021,
+      "var2": 96217,
+      "var3": 50874,
+      "var4": 45343,
+      "var5": 1989,
+      "var6": 7536,
+      "var7": 23398,
+      "var8": 23321,
+      "var9": 19348,
+      "var10": 19522,
+      "var11": 1103,
+      "var12": 87099,
+      "var13": 9117
+    },
+    {
+      "var1": 2022,
+      "var2": 96617,
+      "var3": 51129,
+      "var4": 45488,
+      "var5": 1983,
+      "var6": 7744,
+      "var7": 22671,
+      "var8": 24054,
+      "var9": 19205,
+      "var10": 19776,
+      "var11": 1184,
+      "var12": 86133,
+      "var13": 10484
+    },
+    {
+      "var1": 2023,
+      "var2": 97455,
+      "var3": 51987,
+      "var4": 45468,
+      "var5": 2178,
+      "var6": 7918,
+      "var7": 22362,
+      "var8": 24558,
+      "var9": 19113,
+      "var10": 20023,
+      "var11": 1303,
+      "var12": 85472,
+      "var13": 11982
+    }
+  ]
+}

@@ -1,0 +1,964 @@
+{
+  "id": "arbeitsmarkt/sozialversicherungspflichtig-beschaeftigte-am-wohnort-je-wirtschaftsabschnitt-wz-2008-nach-geschlecht",
+  "title": "Sozialversicherungspflichtig Beschäftigte am Wohnort je Wirtschaftsabschnitt (WZ 2008) nach Geschlecht",
+  "category": "Arbeitsmarkt",
+  "subcategory": "Sozialversicherungspflichtig Beschäftigte am Wohnort",
+  "tableId": "K7_T50c",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/arbeitsmarkt/sozialversicherungspflichtig-beschaeftigte-am-wohnort-je-wirtschaftsabschnitt-wz-2008-nach-geschlecht.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Sozialversicherungspflichtig Beschäftigte am Wohnort je Wirtschaftsabschnitt (WZ 2008) nach Geschlecht.xlsx"
+  },
+  "description": "Sozialversicherungspflichtig Beschäftigte am Wohnort je Wirtschaftsabschnitt (WZ 2008) nach Geschlecht. var5 enthält vermutlich eine Teilmenge (Auszubildende/Ausländer), Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2017,
+        2017
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Wirtschaftsabschnitt (WZ 2008)",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Land- und Forstwirtschaft, Fischerei (A)",
+        "Bergbau und Gewinnung von Steinen und Erden (B)",
+        "Verarbeitendes Gewerbe (C)"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Männlich Beschäftigte",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        107,
+        352,
+        11772
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Weiblich Beschäftigte",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        78,
+        320,
+        9131
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        29,
+        32,
+        2641
+      ]
+    }
+  ],
+  "rowCount": 126,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": "Land- und Forstwirtschaft, Fischerei (A)",
+      "var3": 107,
+      "var4": 78,
+      "var5": 29
+    },
+    {
+      "var1": 2017,
+      "var2": "Bergbau und Gewinnung von Steinen und Erden (B)",
+      "var3": 352,
+      "var4": 320,
+      "var5": 32
+    },
+    {
+      "var1": 2017,
+      "var2": "Verarbeitendes Gewerbe (C)",
+      "var3": 11772,
+      "var4": 9131,
+      "var5": 2641
+    },
+    {
+      "var1": 2017,
+      "var2": "Energie- und Wasserversorgung; Entsorgungswirtschaft (D,E)",
+      "var3": 1842,
+      "var4": 1345,
+      "var5": 497
+    },
+    {
+      "var1": 2017,
+      "var2": "Baugewerbe (F)",
+      "var3": 4899,
+      "var4": 4388,
+      "var5": 511
+    },
+    {
+      "var1": 2017,
+      "var2": "Handel; Instandhaltung und Reparatur von Fahrzeugen (G)",
+      "var3": 11444,
+      "var4": 5310,
+      "var5": 6134
+    },
+    {
+      "var1": 2017,
+      "var2": "Verkehr und Lagerei (H)",
+      "var3": 4838,
+      "var4": 3687,
+      "var5": 1151
+    },
+    {
+      "var1": 2017,
+      "var2": "Gastgewerbe (I)",
+      "var3": 2884,
+      "var4": 1363,
+      "var5": 1521
+    },
+    {
+      "var1": 2017,
+      "var2": "Information und Kommunikation (J)",
+      "var3": 2754,
+      "var4": 1903,
+      "var5": 851
+    },
+    {
+      "var1": 2017,
+      "var2": "Finanz- und Versicherungsdienstleistungen (K)",
+      "var3": 1539,
+      "var4": 591,
+      "var5": 948
+    },
+    {
+      "var1": 2017,
+      "var2": "Grundstücks- und Wohnungswesen (L)",
+      "var3": 1188,
+      "var4": 605,
+      "var5": 583
+    },
+    {
+      "var1": 2017,
+      "var2": "Freiberufliche, wissenschaftliche und sonstige wirtschaftliche Dienstleistungen (M,N)",
+      "var3": 17438,
+      "var4": 9513,
+      "var5": 7925
+    },
+    {
+      "var1": 2017,
+      "var2": "Öffentliche Verwaltung, Verteidigung; Sozialversicherung (O)",
+      "var3": 7210,
+      "var4": 2527,
+      "var5": 4683
+    },
+    {
+      "var1": 2017,
+      "var2": "Erziehung und Unterricht (P)",
+      "var3": 6141,
+      "var4": 2235,
+      "var5": 3906
+    },
+    {
+      "var1": 2017,
+      "var2": "Gesundheits- und Sozialwesen (Q)",
+      "var3": 14328,
+      "var4": 3720,
+      "var5": 10608
+    },
+    {
+      "var1": 2017,
+      "var2": "Kunst, Unterhaltung und Erholung (R)",
+      "var3": 795,
+      "var4": 379,
+      "var5": 416
+    },
+    {
+      "var1": 2017,
+      "var2": "Sonstiges (S,T,U)",
+      "var3": 2814,
+      "var4": 762,
+      "var5": 2052
+    },
+    {
+      "var1": 2017,
+      "var2": "Insgesamt",
+      "var3": 92345,
+      "var4": 47857,
+      "var5": 44488
+    },
+    {
+      "var1": 2018,
+      "var2": "Land- und Forstwirtschaft, Fischerei (A)",
+      "var3": 99,
+      "var4": 70,
+      "var5": 29
+    },
+    {
+      "var1": 2018,
+      "var2": "Bergbau und Gewinnung von Steinen und Erden (B)",
+      "var3": 362,
+      "var4": 337,
+      "var5": 25
+    },
+    {
+      "var1": 2018,
+      "var2": "Verarbeitendes Gewerbe (C)",
+      "var3": 11694,
+      "var4": 9099,
+      "var5": 2595
+    },
+    {
+      "var1": 2018,
+      "var2": "Energie- und Wasserversorgung; Entsorgungswirtschaft (D,E)",
+      "var3": 1886,
+      "var4": 1383,
+      "var5": 503
+    },
+    {
+      "var1": 2018,
+      "var2": "Baugewerbe (F)",
+      "var3": 5142,
+      "var4": 4609,
+      "var5": 533
+    },
+    {
+      "var1": 2018,
+      "var2": "Handel; Instandhaltung und Reparatur von Fahrzeugen (G)",
+      "var3": 12118,
+      "var4": 5817,
+      "var5": 6301
+    },
+    {
+      "var1": 2018,
+      "var2": "Verkehr und Lagerei (H)",
+      "var3": 5018,
+      "var4": 3827,
+      "var5": 1191
+    },
+    {
+      "var1": 2018,
+      "var2": "Gastgewerbe (I)",
+      "var3": 3081,
+      "var4": 1486,
+      "var5": 1595
+    },
+    {
+      "var1": 2018,
+      "var2": "Information und Kommunikation (J)",
+      "var3": 2898,
+      "var4": 2004,
+      "var5": 894
+    },
+    {
+      "var1": 2018,
+      "var2": "Finanz- und Versicherungsdienstleistungen (K)",
+      "var3": 1575,
+      "var4": 629,
+      "var5": 946
+    },
+    {
+      "var1": 2018,
+      "var2": "Grundstücks- und Wohnungswesen (L)",
+      "var3": 1182,
+      "var4": 601,
+      "var5": 581
+    },
+    {
+      "var1": 2018,
+      "var2": "Freiberufliche, wissenschaftliche und sonstige wirtschaftliche Dienstleistungen (M,N)",
+      "var3": 17090,
+      "var4": 9333,
+      "var5": 7757
+    },
+    {
+      "var1": 2018,
+      "var2": "Öffentliche Verwaltung, Verteidigung; Sozialversicherung (O)",
+      "var3": 7300,
+      "var4": 2573,
+      "var5": 4727
+    },
+    {
+      "var1": 2018,
+      "var2": "Erziehung und Unterricht (P)",
+      "var3": 6110,
+      "var4": 2232,
+      "var5": 3878
+    },
+    {
+      "var1": 2018,
+      "var2": "Gesundheits- und Sozialwesen (Q)",
+      "var3": 14606,
+      "var4": 3865,
+      "var5": 10741
+    },
+    {
+      "var1": 2018,
+      "var2": "Kunst, Unterhaltung und Erholung (R)",
+      "var3": 836,
+      "var4": 431,
+      "var5": 405
+    },
+    {
+      "var1": 2018,
+      "var2": "Sonstiges (S,T,U)",
+      "var3": 2821,
+      "var4": 773,
+      "var5": 2048
+    },
+    {
+      "var1": 2018,
+      "var2": "Insgesamt",
+      "var3": 93818,
+      "var4": 49069,
+      "var5": 44749
+    },
+    {
+      "var1": 2019,
+      "var2": "Land- und Forstwirtschaft, Fischerei (A)",
+      "var3": 108,
+      "var4": 77,
+      "var5": 31
+    },
+    {
+      "var1": 2019,
+      "var2": "Bergbau und Gewinnung von Steinen und Erden (B)",
+      "var3": 362,
+      "var4": 337,
+      "var5": 25
+    },
+    {
+      "var1": 2019,
+      "var2": "Verarbeitendes Gewerbe (C)",
+      "var3": 11603,
+      "var4": 9104,
+      "var5": 2499
+    },
+    {
+      "var1": 2019,
+      "var2": "Energie- und Wasserversorgung; Entsorgungswirtschaft (D,E)",
+      "var3": 1818,
+      "var4": 1331,
+      "var5": 487
+    },
+    {
+      "var1": 2019,
+      "var2": "Baugewerbe (F)",
+      "var3": 5179,
+      "var4": 4653,
+      "var5": 526
+    },
+    {
+      "var1": 2019,
+      "var2": "Handel; Instandhaltung und Reparatur von Fahrzeugen (G)",
+      "var3": 11848,
+      "var4": 5683,
+      "var5": 6165
+    },
+    {
+      "var1": 2019,
+      "var2": "Verkehr und Lagerei (H)",
+      "var3": 5081,
+      "var4": 3879,
+      "var5": 1202
+    },
+    {
+      "var1": 2019,
+      "var2": "Gastgewerbe (I)",
+      "var3": 3108,
+      "var4": 1531,
+      "var5": 1577
+    },
+    {
+      "var1": 2019,
+      "var2": "Information und Kommunikation (J)",
+      "var3": 3071,
+      "var4": 2118,
+      "var5": 953
+    },
+    {
+      "var1": 2019,
+      "var2": "Finanz- und Versicherungsdienstleistungen (K)",
+      "var3": 1617,
+      "var4": 654,
+      "var5": 963
+    },
+    {
+      "var1": 2019,
+      "var2": "Grundstücks- und Wohnungswesen (L)",
+      "var3": 1215,
+      "var4": 622,
+      "var5": 593
+    },
+    {
+      "var1": 2019,
+      "var2": "Freiberufliche, wissenschaftliche und sonstige wirtschaftliche Dienstleistungen (M,N)",
+      "var3": 17149,
+      "var4": 9395,
+      "var5": 7754
+    },
+    {
+      "var1": 2019,
+      "var2": "Öffentliche Verwaltung, Verteidigung; Sozialversicherung (O)",
+      "var3": 7336,
+      "var4": 2601,
+      "var5": 4735
+    },
+    {
+      "var1": 2019,
+      "var2": "Erziehung und Unterricht (P)",
+      "var3": 6081,
+      "var4": 2251,
+      "var5": 3830
+    },
+    {
+      "var1": 2019,
+      "var2": "Gesundheits- und Sozialwesen (Q)",
+      "var3": 15097,
+      "var4": 4008,
+      "var5": 11089
+    },
+    {
+      "var1": 2019,
+      "var2": "Kunst, Unterhaltung und Erholung (R)",
+      "var3": 860,
+      "var4": 452,
+      "var5": 408
+    },
+    {
+      "var1": 2019,
+      "var2": "Sonstiges (S,T,U)",
+      "var3": 2843,
+      "var4": 808,
+      "var5": 2035
+    },
+    {
+      "var1": 2019,
+      "var2": "Insgesamt",
+      "var3": 94376,
+      "var4": 49504,
+      "var5": 44872
+    },
+    {
+      "var1": 2020,
+      "var2": "Land- und Forstwirtschaft, Fischerei (A)",
+      "var3": 130,
+      "var4": 82,
+      "var5": 48
+    },
+    {
+      "var1": 2020,
+      "var2": "Bergbau und Gewinnung von Steinen und Erden (B)",
+      "var3": 391,
+      "var4": 362,
+      "var5": 29
+    },
+    {
+      "var1": 2020,
+      "var2": "Verarbeitendes Gewerbe (C)",
+      "var3": 11072,
+      "var4": 8687,
+      "var5": 2385
+    },
+    {
+      "var1": 2020,
+      "var2": "Energie- und Wasserversorgung; Entsorgungswirtschaft (D,E)",
+      "var3": 1751,
+      "var4": 1280,
+      "var5": 471
+    },
+    {
+      "var1": 2020,
+      "var2": "Baugewerbe (F)",
+      "var3": 5230,
+      "var4": 4690,
+      "var5": 540
+    },
+    {
+      "var1": 2020,
+      "var2": "Handel; Instandhaltung und Reparatur von Fahrzeugen (G)",
+      "var3": 12953,
+      "var4": 6594,
+      "var5": 6359
+    },
+    {
+      "var1": 2020,
+      "var2": "Verkehr und Lagerei (H)",
+      "var3": 5403,
+      "var4": 4200,
+      "var5": 1203
+    },
+    {
+      "var1": 2020,
+      "var2": "Gastgewerbe (I)",
+      "var3": 2840,
+      "var4": 1439,
+      "var5": 1401
+    },
+    {
+      "var1": 2020,
+      "var2": "Information und Kommunikation (J)",
+      "var3": 3296,
+      "var4": 2223,
+      "var5": 1073
+    },
+    {
+      "var1": 2020,
+      "var2": "Finanz- und Versicherungsdienstleistungen (K)",
+      "var3": 1749,
+      "var4": 730,
+      "var5": 1019
+    },
+    {
+      "var1": 2020,
+      "var2": "Grundstücks- und Wohnungswesen (L)",
+      "var3": 1269,
+      "var4": 653,
+      "var5": 616
+    },
+    {
+      "var1": 2020,
+      "var2": "Freiberufliche, wissenschaftliche und sonstige wirtschaftliche Dienstleistungen (M,N)",
+      "var3": 15922,
+      "var4": 8672,
+      "var5": 7250
+    },
+    {
+      "var1": 2020,
+      "var2": "Öffentliche Verwaltung, Verteidigung; Sozialversicherung (O)",
+      "var3": 7497,
+      "var4": 2667,
+      "var5": 4830
+    },
+    {
+      "var1": 2020,
+      "var2": "Erziehung und Unterricht (P)",
+      "var3": 6102,
+      "var4": 2251,
+      "var5": 3851
+    },
+    {
+      "var1": 2020,
+      "var2": "Gesundheits- und Sozialwesen (Q)",
+      "var3": 15547,
+      "var4": 4160,
+      "var5": 11387
+    },
+    {
+      "var1": 2020,
+      "var2": "Kunst, Unterhaltung und Erholung (R)",
+      "var3": 815,
+      "var4": 423,
+      "var5": 392
+    },
+    {
+      "var1": 2020,
+      "var2": "Sonstiges (S,T,U)",
+      "var3": 2801,
+      "var4": 830,
+      "var5": 1971
+    },
+    {
+      "var1": 2020,
+      "var2": "Insgesamt",
+      "var3": 94768,
+      "var4": 49943,
+      "var5": 44825
+    },
+    {
+      "var1": 2021,
+      "var2": "Land- und Forstwirtschaft, Fischerei (A)",
+      "var3": 122,
+      "var4": 77,
+      "var5": 45
+    },
+    {
+      "var1": 2021,
+      "var2": "Bergbau und Gewinnung von Steinen und Erden (B)",
+      "var3": 382,
+      "var4": 353,
+      "var5": 29
+    },
+    {
+      "var1": 2021,
+      "var2": "Verarbeitendes Gewerbe (C)",
+      "var3": 10555,
+      "var4": 8222,
+      "var5": 2333
+    },
+    {
+      "var1": 2021,
+      "var2": "Energie- und Wasserversorgung; Entsorgungswirtschaft (D,E)",
+      "var3": 1800,
+      "var4": 1336,
+      "var5": 464
+    },
+    {
+      "var1": 2021,
+      "var2": "Baugewerbe (F)",
+      "var3": 5208,
+      "var4": 4652,
+      "var5": 556
+    },
+    {
+      "var1": 2021,
+      "var2": "Handel; Instandhaltung und Reparatur von Fahrzeugen (G)",
+      "var3": 13420,
+      "var4": 7013,
+      "var5": 6407
+    },
+    {
+      "var1": 2021,
+      "var2": "Verkehr und Lagerei (H)",
+      "var3": 5510,
+      "var4": 4337,
+      "var5": 1173
+    },
+    {
+      "var1": 2021,
+      "var2": "Gastgewerbe (I)",
+      "var3": 3091,
+      "var4": 1573,
+      "var5": 1518
+    },
+    {
+      "var1": 2021,
+      "var2": "Information und Kommunikation (J)",
+      "var3": 3507,
+      "var4": 2343,
+      "var5": 1164
+    },
+    {
+      "var1": 2021,
+      "var2": "Finanz- und Versicherungsdienstleistungen (K)",
+      "var3": 1780,
+      "var4": 763,
+      "var5": 1017
+    },
+    {
+      "var1": 2021,
+      "var2": "Grundstücks- und Wohnungswesen (L)",
+      "var3": 1267,
+      "var4": 650,
+      "var5": 617
+    },
+    {
+      "var1": 2021,
+      "var2": "Freiberufliche, wissenschaftliche und sonstige wirtschaftliche Dienstleistungen (M,N)",
+      "var3": 16201,
+      "var4": 8932,
+      "var5": 7269
+    },
+    {
+      "var1": 2021,
+      "var2": "Öffentliche Verwaltung, Verteidigung; Sozialversicherung (O)",
+      "var3": 7584,
+      "var4": 2747,
+      "var5": 4837
+    },
+    {
+      "var1": 2021,
+      "var2": "Erziehung und Unterricht (P)",
+      "var3": 6157,
+      "var4": 2299,
+      "var5": 3858
+    },
+    {
+      "var1": 2021,
+      "var2": "Gesundheits- und Sozialwesen (Q)",
+      "var3": 15954,
+      "var4": 4291,
+      "var5": 11663
+    },
+    {
+      "var1": 2021,
+      "var2": "Kunst, Unterhaltung und Erholung (R)",
+      "var3": 828,
+      "var4": 431,
+      "var5": 397
+    },
+    {
+      "var1": 2021,
+      "var2": "Sonstiges (S,T,U)",
+      "var3": 2851,
+      "var4": 855,
+      "var5": 1996
+    },
+    {
+      "var1": 2021,
+      "var2": "Insgesamt",
+      "var3": 96217,
+      "var4": 50874,
+      "var5": 45343
+    },
+    {
+      "var1": 2022,
+      "var2": "Land- und Forstwirtschaft, Fischerei (A)",
+      "var3": 100,
+      "var4": 65,
+      "var5": 35
+    },
+    {
+      "var1": 2022,
+      "var2": "Bergbau und Gewinnung von Steinen und Erden (B)",
+      "var3": 408,
+      "var4": 381,
+      "var5": 27
+    },
+    {
+      "var1": 2022,
+      "var2": "Verarbeitendes Gewerbe (C)",
+      "var3": 10265,
+      "var4": 8006,
+      "var5": 2259
+    },
+    {
+      "var1": 2022,
+      "var2": "Energie- und Wasserversorgung; Entsorgungswirtschaft (D,E)",
+      "var3": 1746,
+      "var4": 1286,
+      "var5": 460
+    },
+    {
+      "var1": 2022,
+      "var2": "Baugewerbe (F)",
+      "var3": 5260,
+      "var4": 4685,
+      "var5": 575
+    },
+    {
+      "var1": 2022,
+      "var2": "Handel; Instandhaltung und Reparatur von Fahrzeugen (G)",
+      "var3": 13319,
+      "var4": 6916,
+      "var5": 6403
+    },
+    {
+      "var1": 2022,
+      "var2": "Verkehr und Lagerei (H)",
+      "var3": 5547,
+      "var4": 4354,
+      "var5": 1193
+    },
+    {
+      "var1": 2022,
+      "var2": "Gastgewerbe (I)",
+      "var3": 3157,
+      "var4": 1630,
+      "var5": 1527
+    },
+    {
+      "var1": 2022,
+      "var2": "Information und Kommunikation (J)",
+      "var3": 3675,
+      "var4": 2503,
+      "var5": 1172
+    },
+    {
+      "var1": 2022,
+      "var2": "Finanz- und Versicherungsdienstleistungen (K)",
+      "var3": 1790,
+      "var4": 762,
+      "var5": 1028
+    },
+    {
+      "var1": 2022,
+      "var2": "Grundstücks- und Wohnungswesen (L)",
+      "var3": 1267,
+      "var4": 655,
+      "var5": 612
+    },
+    {
+      "var1": 2022,
+      "var2": "Freiberufliche, wissenschaftliche und sonstige wirtschaftliche Dienstleistungen (M,N)",
+      "var3": 16672,
+      "var4": 9262,
+      "var5": 7410
+    },
+    {
+      "var1": 2022,
+      "var2": "Öffentliche Verwaltung, Verteidigung; Sozialversicherung (O)",
+      "var3": 7622,
+      "var4": 2810,
+      "var5": 4812
+    },
+    {
+      "var1": 2022,
+      "var2": "Erziehung und Unterricht (P)",
+      "var3": 5989,
+      "var4": 2136,
+      "var5": 3853
+    },
+    {
+      "var1": 2022,
+      "var2": "Gesundheits- und Sozialwesen (Q)",
+      "var3": 16200,
+      "var4": 4397,
+      "var5": 11803
+    },
+    {
+      "var1": 2022,
+      "var2": "Kunst, Unterhaltung und Erholung (R)",
+      "var3": 835,
+      "var4": 456,
+      "var5": 379
+    },
+    {
+      "var1": 2022,
+      "var2": "Sonstiges (S,T,U)",
+      "var3": 2765,
+      "var4": 825,
+      "var5": 1940
+    },
+    {
+      "var1": 2022,
+      "var2": "Insgesamt",
+      "var3": 96617,
+      "var4": 51129,
+      "var5": 45488
+    },
+    {
+      "var1": 2023,
+      "var2": "Land- und Forstwirtschaft, Fischerei (A)",
+      "var3": 110,
+      "var4": 70,
+      "var5": 40
+    },
+    {
+      "var1": 2023,
+      "var2": "Bergbau und Gewinnung von Steinen und Erden (B)",
+      "var3": 435,
+      "var4": 404,
+      "var5": 31
+    },
+    {
+      "var1": 2023,
+      "var2": "Verarbeitendes Gewerbe (C)",
+      "var3": 10075,
+      "var4": 7876,
+      "var5": 2199
+    },
+    {
+      "var1": 2023,
+      "var2": "Energie- und Wasserversorgung; Entsorgungswirtschaft (D,E)",
+      "var3": 1812,
+      "var4": 1343,
+      "var5": 469
+    },
+    {
+      "var1": 2023,
+      "var2": "Baugewerbe (F)",
+      "var3": 5126,
+      "var4": 4564,
+      "var5": 562
+    },
+    {
+      "var1": 2023,
+      "var2": "Handel; Instandhaltung und Reparatur von Fahrzeugen (G)",
+      "var3": 13117,
+      "var4": 6971,
+      "var5": 6146
+    },
+    {
+      "var1": 2023,
+      "var2": "Verkehr und Lagerei (H)",
+      "var3": 5730,
+      "var4": 4484,
+      "var5": 1246
+    },
+    {
+      "var1": 2023,
+      "var2": "Gastgewerbe (I)",
+      "var3": 3258,
+      "var4": 1695,
+      "var5": 1563
+    },
+    {
+      "var1": 2023,
+      "var2": "Information und Kommunikation (J)",
+      "var3": 3812,
+      "var4": 2574,
+      "var5": 1238
+    },
+    {
+      "var1": 2023,
+      "var2": "Finanz- und Versicherungsdienstleistungen (K)",
+      "var3": 1863,
+      "var4": 808,
+      "var5": 1055
+    },
+    {
+      "var1": 2023,
+      "var2": "Grundstücks- und Wohnungswesen (L)",
+      "var3": 1247,
+      "var4": 663,
+      "var5": 584
+    },
+    {
+      "var1": 2023,
+      "var2": "Freiberufliche, wissenschaftliche und sonstige wirtschaftliche Dienstleistungen (M,N)",
+      "var3": 17217,
+      "var4": 9714,
+      "var5": 7503
+    },
+    {
+      "var1": 2023,
+      "var2": "Öffentliche Verwaltung, Verteidigung; Sozialversicherung (O)",
+      "var3": 7570,
+      "var4": 2817,
+      "var5": 4753
+    },
+    {
+      "var1": 2023,
+      "var2": "Erziehung und Unterricht (P)",
+      "var3": 5973,
+      "var4": 2130,
+      "var5": 3843
+    },
+    {
+      "var1": 2023,
+      "var2": "Gesundheits- und Sozialwesen (Q)",
+      "var3": 16554,
+      "var4": 4595,
+      "var5": 11959
+    },
+    {
+      "var1": 2023,
+      "var2": "Kunst, Unterhaltung und Erholung (R)",
+      "var3": 832,
+      "var4": 454,
+      "var5": 378
+    },
+    {
+      "var1": 2023,
+      "var2": "Sonstiges (S,T,U)",
+      "var3": 2724,
+      "var4": 825,
+      "var5": 1899
+    },
+    {
+      "var1": 2023,
+      "var2": "Insgesamt",
+      "var3": 97455,
+      "var4": 51987,
+      "var5": 45468
+    }
+  ]
+}

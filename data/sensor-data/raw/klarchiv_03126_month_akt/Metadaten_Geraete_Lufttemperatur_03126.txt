@@ -1,0 +1,14 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3126;Magdeburg;11.63;52.13;56;4;18340101;18631231;Stationsthermometer;Temperaturmessung, konv.;eor;
+3126;Magdeburg;11.64;52.13;56;4;18640101;18650331;Stationsthermometer;Temperaturmessung, konv.;eor;
+3126;Magdeburg;11.64;52.13;56;2;18640101;18650331;Stationsthermometer;Temperaturmessung, konv.;eor;
+3126;Magdeburg;11.63;52.13;56;4;18650401;18750430;Stationsthermometer;Temperaturmessung, konv.;eor;
+3126;Magdeburg;11.64;52.13;56;4;18750501;18800331;Stationsthermometer;Temperaturmessung, konv.;eor;
+3126;Magdeburg;11.63;52.12;54;4;18800401;18801231;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+3126;Magdeburg;11.63;52.12;54;4;18800401;18801231;Stationsthermometer;Temperaturmessung, konv.;eor;
+3126;Magdeburg;11.63;52.13;54;2;18810101;19381130;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+3126;Magdeburg;11.63;52.13;54;4;18810101;19191231;Stationsthermometer;Temperaturmessung, konv.;eor;
+3126;Magdeburg;11.58;52.1;79;2;19460701;19781231;Psychrometerthermometer (trocken);Temperatur/Feuchtemessung, konv.;eor;
+3126;Magdeburg;11.58;52.1;79;2;19790101;20060405;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3126;Magdeburg;11.58;52.1;79;2;20060406;20260524;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 25.05.2026 --  Deutscher Wetterdienst  --

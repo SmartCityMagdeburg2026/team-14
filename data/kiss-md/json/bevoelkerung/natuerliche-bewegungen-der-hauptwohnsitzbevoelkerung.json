@@ -1,0 +1,442 @@
+{
+  "id": "bevoelkerung/natuerliche-bewegungen-der-hauptwohnsitzbevoelkerung",
+  "title": "Natürliche Bewegungen der Hauptwohnsitzbevölkerung",
+  "category": "Bevölkerung",
+  "subcategory": "Bevölkerungsbewegung",
+  "tableId": "K3_T14",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bevoelkerung/natuerliche-bewegungen-der-hauptwohnsitzbevoelkerung.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Natürliche Bewegungen der Hauptwohnsitzbevölkerung.xlsx"
+  },
+  "description": "Natürliche Bewegungen der Hauptwohnsitzbevölkerung (Geburten, Sterbefälle, Wanderungen). Die einzelnen Spalten waren nicht zuverlässig zuzuordnen — mehrere LLM-Labels (Breite, Länge in Grad) waren unplausibel.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1042,
+        886,
+        909
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        147,
+        126,
+        128
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        14.1074856046065,
+        14.2212189616253,
+        14.0814081408141
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1681,
+        1638,
+        1651
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        62,
+        59,
+        74
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        3.68828078524688,
+        3.6019536019536,
+        4.48213204118716
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2666,
+        2616,
+        2671
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        15,
+        11,
+        13
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        0.562640660165041,
+        0.420489296636086,
+        0.486709097716211
+      ]
+    }
+  ],
+  "rowCount": 25,
+  "rows": [
+    {
+      "var1": 2000,
+      "var2": 1042,
+      "var3": 147,
+      "var4": 14.1074856046065,
+      "var5": 1681,
+      "var6": 62,
+      "var7": 3.68828078524688,
+      "var8": 2666,
+      "var9": 15,
+      "var10": 0.562640660165041
+    },
+    {
+      "var1": 2001,
+      "var2": 886,
+      "var3": 126,
+      "var4": 14.2212189616253,
+      "var5": 1638,
+      "var6": 59,
+      "var7": 3.6019536019536,
+      "var8": 2616,
+      "var9": 11,
+      "var10": 0.420489296636086
+    },
+    {
+      "var1": 2002,
+      "var2": 909,
+      "var3": 128,
+      "var4": 14.0814081408141,
+      "var5": 1651,
+      "var6": 74,
+      "var7": 4.48213204118716,
+      "var8": 2671,
+      "var9": 13,
+      "var10": 0.486709097716211
+    },
+    {
+      "var1": 2003,
+      "var2": 875,
+      "var3": 111,
+      "var4": 12.6857142857143,
+      "var5": 1582,
+      "var6": 84,
+      "var7": 5.30973451327434,
+      "var8": 2548,
+      "var9": 21,
+      "var10": 0.824175824175824
+    },
+    {
+      "var1": 2004,
+      "var2": 940,
+      "var3": 118,
+      "var4": 12.5531914893617,
+      "var5": 1712,
+      "var6": 62,
+      "var7": 3.6214953271028,
+      "var8": 2595,
+      "var9": 14,
+      "var10": 0.539499036608863
+    },
+    {
+      "var1": 2005,
+      "var2": 960,
+      "var3": 96,
+      "var4": 10,
+      "var5": 1763,
+      "var6": 77,
+      "var7": 4.36755530346001,
+      "var8": 2502,
+      "var9": 17,
+      "var10": 0.679456434852118
+    },
+    {
+      "var1": 2006,
+      "var2": 857,
+      "var3": 75,
+      "var4": 8.75145857642941,
+      "var5": 1789,
+      "var6": 66,
+      "var7": 3.68921185019564,
+      "var8": 2437,
+      "var9": 13,
+      "var10": 0.533442757488716
+    },
+    {
+      "var1": 2007,
+      "var2": 859,
+      "var3": 63,
+      "var4": 7.33410942956927,
+      "var5": 1854,
+      "var6": 60,
+      "var7": 3.23624595469256,
+      "var8": 2641,
+      "var9": 12,
+      "var10": 0.454373343430519
+    },
+    {
+      "var1": 2008,
+      "var2": 860,
+      "var3": 57,
+      "var4": 6.62790697674419,
+      "var5": 2041,
+      "var6": 78,
+      "var7": 3.82165605095541,
+      "var8": 2590,
+      "var9": 16,
+      "var10": 0.617760617760618
+    },
+    {
+      "var1": 2009,
+      "var2": 906,
+      "var3": 61,
+      "var4": 6.73289183222958,
+      "var5": 1900,
+      "var6": 69,
+      "var7": 3.63157894736842,
+      "var8": 2669,
+      "var9": 20,
+      "var10": 0.749344323716748
+    },
+    {
+      "var1": 2010,
+      "var2": 932,
+      "var3": 45,
+      "var4": 4.82832618025751,
+      "var5": 2039,
+      "var6": 44,
+      "var7": 2.15792054928887,
+      "var8": 2722,
+      "var9": 22,
+      "var10": 0.808229243203527
+    },
+    {
+      "var1": 2011,
+      "var2": 929,
+      "var3": 49,
+      "var4": 5.27448869752422,
+      "var5": 2043,
+      "var6": 78,
+      "var7": 3.81791483113069,
+      "var8": 2629,
+      "var9": 13,
+      "var10": 0.494484594903005
+    },
+    {
+      "var1": 2012,
+      "var2": 977,
+      "var3": 60,
+      "var4": 6.14124872057318,
+      "var5": 2137,
+      "var6": 61,
+      "var7": 2.85446888160973,
+      "var8": 2657,
+      "var9": 21,
+      "var10": 0.790365073391043
+    },
+    {
+      "var1": 2013,
+      "var2": 881,
+      "var3": 39,
+      "var4": 4.42678774120318,
+      "var5": 2124,
+      "var6": 104,
+      "var7": 4.89642184557439,
+      "var8": 2820,
+      "var9": 20,
+      "var10": 0.709219858156028
+    },
+    {
+      "var1": 2014,
+      "var2": 929,
+      "var3": 14,
+      "var4": 1.50699677072121,
+      "var5": 2125,
+      "var6": 130,
+      "var7": 6.11764705882353,
+      "var8": 2824,
+      "var9": 25,
+      "var10": 0.885269121813031
+    },
+    {
+      "var1": 2015,
+      "var2": 981,
+      "var3": 69,
+      "var4": 7.03363914373089,
+      "var5": 2198,
+      "var6": 174,
+      "var7": 7.91628753412193,
+      "var8": 2919,
+      "var9": 19,
+      "var10": 0.65090784515245
+    },
+    {
+      "var1": 2016,
+      "var2": 1011,
+      "var3": 63,
+      "var4": 6.23145400593472,
+      "var5": 2401,
+      "var6": 336,
+      "var7": 13.9941690962099,
+      "var8": 2981,
+      "var9": 33,
+      "var10": 1.1070110701107
+    },
+    {
+      "var1": 2017,
+      "var2": 949,
+      "var3": 65,
+      "var4": 6.84931506849315,
+      "var5": 2310,
+      "var6": 323,
+      "var7": 13.982683982684,
+      "var8": 3003,
+      "var9": 38,
+      "var10": 1.26540126540127
+    },
+    {
+      "var1": 2018,
+      "var2": 1067,
+      "var3": 56,
+      "var4": 5.24835988753515,
+      "var5": 2347,
+      "var6": 427,
+      "var7": 18.1934384320409,
+      "var8": 3236,
+      "var9": 64,
+      "var10": 1.97775030902349
+    },
+    {
+      "var1": 2019,
+      "var2": 829,
+      "var3": 72,
+      "var4": 8.68516284680338,
+      "var5": 2242,
+      "var6": 368,
+      "var7": 16.413916146298,
+      "var8": 3079,
+      "var9": 37,
+      "var10": 1.20168886001949
+    },
+    {
+      "var1": 2020,
+      "var2": 798,
+      "var3": 54,
+      "var4": 6.76691729323308,
+      "var5": 2132,
+      "var6": 408,
+      "var7": 19.1369606003752,
+      "var8": 3191,
+      "var9": 44,
+      "var10": 1.37887809464118
+    },
+    {
+      "var1": 2021,
+      "var2": 785,
+      "var3": 74,
+      "var4": 9.42675159235669,
+      "var5": 2100,
+      "var6": 393,
+      "var7": 18.7142857142857,
+      "var8": 3341,
+      "var9": 70,
+      "var10": 2.09518108350793
+    },
+    {
+      "var1": 2022,
+      "var2": 861,
+      "var3": 49,
+      "var4": 5.7,
+      "var5": 1999,
+      "var6": 479,
+      "var7": 24,
+      "var8": 3649,
+      "var9": 68,
+      "var10": 1.9
+    },
+    {
+      "var1": 2023,
+      "var2": 838,
+      "var3": 63,
+      "var4": 7.51789976133652,
+      "var5": 1787,
+      "var6": 468,
+      "var7": 26.1891438164522,
+      "var8": 3510,
+      "var9": 70,
+      "var10": 1.99430199430199
+    },
+    {
+      "var1": 2024,
+      "var2": 634,
+      "var3": 36,
+      "var4": 5.6782334384858,
+      "var5": 1589,
+      "var6": 456,
+      "var7": 28.6972938955318,
+      "var8": 3337,
+      "var9": 74,
+      "var10": 2.21756068324843
+    }
+  ]
+}

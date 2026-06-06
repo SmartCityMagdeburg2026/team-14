@@ -1,0 +1,124 @@
+{
+  "id": "wirtschaft/unternehmen-der-ihk-im-handel-und-instandhaltung-von-kraftfahrzeugen-nach-branchen",
+  "title": "Unternehmen der IHK im Handel und Instandhaltung von Kraftfahrzeugen nach Branchen",
+  "category": "Wirtschaft",
+  "subcategory": "Unternehmen der IHK Magdeburg",
+  "tableId": "K7_T5d",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/unternehmen-der-ihk-im-handel-und-instandhaltung-von-kraftfahrzeugen-nach-branchen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Unternehmen der IHK im Handel und Instandhaltung von Kraftfahrzeugen nach Branchen.xlsx"
+  },
+  "description": "Unternehmen der IHK im Handel und Instandhaltung von Kraftfahrzeugen nach Branchen. var3..var5 entsprechen Handelsbranchen, Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2018,
+        2019,
+        2020
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "IHK-Unternehmen Handel/Kfz gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2914,
+        2877,
+        2867
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1932,
+        1905,
+        1905
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        662,
+        641,
+        636
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        320,
+        331,
+        326
+      ]
+    }
+  ],
+  "rowCount": 6,
+  "rows": [
+    {
+      "var1": 2018,
+      "var2": 2914,
+      "var3": 1932,
+      "var4": 662,
+      "var5": 320
+    },
+    {
+      "var1": 2019,
+      "var2": 2877,
+      "var3": 1905,
+      "var4": 641,
+      "var5": 331
+    },
+    {
+      "var1": 2020,
+      "var2": 2867,
+      "var3": 1905,
+      "var4": 636,
+      "var5": 326
+    },
+    {
+      "var1": 2021,
+      "var2": 2907,
+      "var3": 1941,
+      "var4": 636,
+      "var5": 330
+    },
+    {
+      "var1": 2022,
+      "var2": 2772,
+      "var3": 1869,
+      "var4": 604,
+      "var5": 299
+    },
+    {
+      "var1": 2023,
+      "var2": 2726,
+      "var3": 1851,
+      "var4": 581,
+      "var5": 294
+    }
+  ]
+}

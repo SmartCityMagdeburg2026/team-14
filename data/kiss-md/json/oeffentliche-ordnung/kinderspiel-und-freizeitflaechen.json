@@ -1,0 +1,214 @@
+{
+  "id": "oeffentliche-ordnung/kinderspiel-und-freizeitflaechen",
+  "title": "Kinderspiel- und Freizeitflächen",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Kinderspiel- und Freizeitflächen",
+  "tableId": "K9_T38",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/kinderspiel-und-freizeitflaechen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Kinderspiel- und Freizeitflächen.xlsx"
+  },
+  "description": "Diese Tabelle listet die Fläche von Kinderspiel- und Freizeitflächen in Magdeburg auf, unterteilt nach verschiedenen Typen und Jahren.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2021,
+        2021,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Flächenkategorie",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Spielplätze (einschließlich Spielen am Weg)",
+        "Spiel- und Freizeitflächen (Flächen zum Mountainbiken, reiner Jugendtreff)",
+        "Gesamt"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Anzahl",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        113,
+        13,
+        126
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Fläche",
+      "unit": "m²",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        221258,
+        16866,
+        238124
+      ]
+    }
+  ],
+  "rowCount": 24,
+  "rows": [
+    {
+      "var1": 2021,
+      "var2": "Spielplätze (einschließlich Spielen am Weg)",
+      "var3": 113,
+      "var4": 221258
+    },
+    {
+      "var1": 2021,
+      "var2": "Spiel- und Freizeitflächen (Flächen zum Mountainbiken, reiner Jugendtreff)",
+      "var3": 13,
+      "var4": 16866
+    },
+    {
+      "var1": 2021,
+      "var2": "Gesamt",
+      "var3": 126,
+      "var4": 238124
+    },
+    {
+      "var1": 2022,
+      "var2": "Spielplätze (einschließlich Spielen am Weg)",
+      "var3": 113,
+      "var4": 221258
+    },
+    {
+      "var1": 2022,
+      "var2": "Spiel- und Freizeitflächen (Flächen zum Mountainbiken, reiner Jugendtreff)",
+      "var3": 12,
+      "var4": 13591
+    },
+    {
+      "var1": 2022,
+      "var2": "Gesamt",
+      "var3": 125,
+      "var4": 234849
+    },
+    {
+      "var1": 2023,
+      "var2": "Spielplätze (einschließlich Spielen am Weg)",
+      "var3": 113,
+      "var4": 222019
+    },
+    {
+      "var1": 2023,
+      "var2": "Spiel- und Freizeitflächen (Flächen zum Mountainbiken, reiner Jugendtreff)",
+      "var3": 12,
+      "var4": 13546
+    },
+    {
+      "var1": 2023,
+      "var2": "Gesamt",
+      "var3": 125,
+      "var4": 235565
+    },
+    {
+      "var1": 2024,
+      "var2": "Spielplätze (einschließlich Spielen am Weg)",
+      "var3": 114,
+      "var4": 223881
+    },
+    {
+      "var1": 2024,
+      "var2": "Spiel- und Freizeitflächen (Flächen zum Mountainbiken, reiner Jugendtreff)",
+      "var3": 13,
+      "var4": 17722
+    },
+    {
+      "var1": 2024,
+      "var2": "Gesamt",
+      "var3": 127,
+      "var4": 241603
+    },
+    {
+      "var1": 2017,
+      "var2": "Spielplätze (einschließlich Spielen am Weg)",
+      "var3": 113,
+      "var4": 219264
+    },
+    {
+      "var1": 2017,
+      "var2": "Spiel- und Freizeitflächen (Flächen zum Mountainbiken, reiner Jugendtreff)",
+      "var3": 14,
+      "var4": 21337
+    },
+    {
+      "var1": 2017,
+      "var2": "Gesamt",
+      "var3": 127,
+      "var4": 240601
+    },
+    {
+      "var1": 2018,
+      "var2": "Spielplätze (einschließlich Spielen am Weg)",
+      "var3": 112,
+      "var4": 218447
+    },
+    {
+      "var1": 2018,
+      "var2": "Spiel- und Freizeitflächen (Flächen zum Mountainbiken, reiner Jugendtreff)",
+      "var3": 14,
+      "var4": 21337
+    },
+    {
+      "var1": 2018,
+      "var2": "Gesamt",
+      "var3": 126,
+      "var4": 239784
+    },
+    {
+      "var1": 2019,
+      "var2": "Spielplätze (einschließlich Spielen am Weg)",
+      "var3": 112,
+      "var4": 218447
+    },
+    {
+      "var1": 2019,
+      "var2": "Spiel- und Freizeitflächen (Flächen zum Mountainbiken, reiner Jugendtreff)",
+      "var3": 14,
+      "var4": 21337
+    },
+    {
+      "var1": 2019,
+      "var2": "Gesamt",
+      "var3": 126,
+      "var4": 239784
+    },
+    {
+      "var1": 2020,
+      "var2": "Spielplätze (einschließlich Spielen am Weg)",
+      "var3": 112,
+      "var4": 218447
+    },
+    {
+      "var1": 2020,
+      "var2": "Spiel- und Freizeitflächen (Flächen zum Mountainbiken, reiner Jugendtreff)",
+      "var3": 14,
+      "var4": 21337
+    },
+    {
+      "var1": 2020,
+      "var2": "Gesamt",
+      "var3": 126,
+      "var4": 239784
+    }
+  ]
+}

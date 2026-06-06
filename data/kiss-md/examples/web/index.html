@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <title>KISS-MD — Beispiel: Witterung Magdeburg</title>
+  <style>
+    :root { color-scheme: light; }
+    * { box-sizing: border-box; }
+    body { font: 15px/1.5 system-ui, sans-serif; max-width: 1280px; margin: 2rem auto;
+           padding: 0 1.25rem; color: #222; }
+    h1 { font-size: 1.45rem; margin-bottom: 0.25rem; }
+    h2 { font-size: 1.05rem; margin: 0 0 0.5rem 0; color: #1d3557; }
+    .meta { color: #666; font-size: 0.9rem; margin-bottom: 1.5rem; }
+    .tag { display: inline-block; font-size: 0.75rem; padding: 0.1rem 0.45rem;
+           border-radius: 999px; background: #f1faee; color: #1d3557;
+           border: 1px solid #a8dadc; vertical-align: 0.1em; margin-left: 0.4rem; }
+    .grid { display: grid; gap: 1.5rem; grid-template-columns: repeat(auto-fit, minmax(440px, 1fr)); }
+    .panel { background: #fafafa; border: 1px solid #e5e5ea; border-radius: 8px;
+             padding: 1rem 1.1rem; }
+    .panel canvas, .panel img { width: 100%; height: auto; }
+    .panel img { background: white; border-radius: 4px; }
+    .stat-row { display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 1.5rem;
+                padding-top: 1rem; border-top: 1px solid #e5e5ea; }
+    .stat { background: #f4f4f6; padding: 0.6rem 1rem; border-radius: 6px; min-width: 140px; }
+    .stat b { display: block; font-size: 1.2rem; color: #1d3557; }
+    code { background: #f1f1f1; padding: 0.1rem 0.3rem; border-radius: 3px; font-size: 0.85em; }
+    .footnote { color: #666; font-size: 0.85rem; margin-top: 2rem; }
+  </style>
+</head>
+<body>
+  <h1 id="title">…</h1>
+  <p class="meta" id="meta"></p>
+
+  <div class="grid">
+    <section class="panel">
+      <h2>JavaScript <span class="tag">Vanilla JS + Chart.js, live im Browser</span></h2>
+      <canvas id="chart"></canvas>
+    </section>
+
+    <section class="panel">
+      <h2>Python <span class="tag">pandas + matplotlib, statisches PNG</span></h2>
+      <img src="../python/witterung_24_monate.png"
+           alt="Matplotlib-Plot der letzten 24 Monate Witterung in Magdeburg">
+    </section>
+  </div>
+
+  <div class="stat-row" id="stats"></div>
+
+  <p class="footnote">
+    Beide Visualisierungen lesen denselben Datensatz aus
+    <code>../wetter/witterungsverhaeltnisse-monatlich.json</code>. Quellcode:
+    <code>examples/web/index.html</code> bzw. <code>examples/python/plot.py</code>.
+    Schema der JSON-Dateien: siehe <a href="../README.md"><code>../README.md</code></a>.
+  </p>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+  <script type="module">
+    const ds = await fetch('../../json/wetter/witterungsverhaeltnisse-monatlich.json').then(r => r.json());
+
+    // 1) Passende Spalten anhand der gepflegten Rollen + Labels finden
+    const yearCol  = ds.columns.find(c => c.role === 'year');
+    const monthCol = ds.columns.find(c => c.role === 'month_de');
+    const tempCol  = ds.columns.find(c => c.label === 'Lufttemperatur Monatsmittel');
+    const rainCol  = ds.columns.find(c => c.label === 'Niederschlagssumme');
+
+    // 2) Letzte 24 Monate, chronologisch aufsteigend
+    const recent = ds.rows.slice(0, 24).reverse();
+    const labels = recent.map(r => `${r[yearCol.key]} ${r[monthCol.key]}`);
+    const temps  = recent.map(r => r[tempCol.key]);
+    const rains  = recent.map(r => r[rainCol.key]);
+
+    // 3) Header + Metadaten
+    document.getElementById('title').textContent = ds.title;
+    document.getElementById('meta').textContent =
+      `${ds.category} / ${ds.subcategory} · ${ds.rowCount.toLocaleString('de')} Zeilen · tableId ${ds.tableId}`;
+
+    // 4) Schnelle Statistiken zur Demonstration
+    const avg = arr => (arr.reduce((s, v) => s + v, 0) / arr.length).toFixed(1);
+    document.getElementById('stats').innerHTML = `
+      <div class="stat"><b>${avg(temps)} ${tempCol.unit}</b>Ø Temperatur (24 Mon.)</div>
+      <div class="stat"><b>${avg(rains)} ${rainCol.unit}</b>Ø Niederschlag (24 Mon.)</div>
+      <div class="stat"><b>${Math.max(...temps).toFixed(1)} ${tempCol.unit}</b>Höchster Monat</div>
+    `;
+
+    // 5) Liniendiagramm Temperatur + Balken Niederschlag (Dual-Axis)
+    new Chart(document.getElementById('chart'), {
+      data: {
+        labels,
+        datasets: [
+          { type: 'line', label: tempCol.label, data: temps, yAxisID: 'y1',
+            borderColor: '#e63946', backgroundColor: '#e6394633', tension: 0.3 },
+          { type: 'bar',  label: rainCol.label, data: rains, yAxisID: 'y2',
+            backgroundColor: '#457b9d99' },
+        ],
+      },
+      options: {
+        responsive: true,
+        plugins: { legend: { position: 'bottom' } },
+        scales: {
+          y1: { position: 'left',  title: { display: true, text: tempCol.unit } },
+          y2: { position: 'right', title: { display: true, text: rainCol.unit },
+                grid: { drawOnChartArea: false } },
+        },
+      },
+    });
+  </script>
+</body>
+</html>

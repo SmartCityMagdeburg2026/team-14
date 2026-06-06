@@ -1,0 +1,850 @@
+{
+  "id": "wirtschaft/ausgewaehlte-verbraucherpreisindizes-des-landes-sachsen-anhalt-im-jahresdurchschnitt",
+  "title": "Ausgewählte Verbraucherpreisindizes des Landes Sachsen-Anhalt im Jahresdurchschnitt",
+  "category": "Wirtschaft",
+  "subcategory": "Preise und Preisindizes",
+  "tableId": "K7_T95",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/ausgewaehlte-verbraucherpreisindizes-des-landes-sachsen-anhalt-im-jahresdurchschnitt.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Ausgewählte Verbraucherpreisindizes des Landes Sachsen-Anhalt im Jahresdurchschnitt.xlsx"
+  },
+  "description": "Ausgewählte Verbraucherpreisindizes des Landes Sachsen-Anhalt im Jahresdurchschnitt.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2017,
+        2017
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Lebensmittelgruppe",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Nahrungsmittel",
+        "Nahrungsmittel",
+        "Nahrungsmittel"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Lebensmittel/Position",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Rinderrouladen oder Lende vom Rind",
+        "Schweinekotelett oder -schnitzel",
+        "Fischfilet, frisch oder gekühlt"
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Verbraucherpreisindex",
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        116.7,
+        101.3,
+        107.3
+      ]
+    }
+  ],
+  "rowCount": 130,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": "Nahrungsmittel",
+      "var3": "Rinderrouladen oder Lende vom Rind",
+      "var4": 116.7
+    },
+    {
+      "var1": 2017,
+      "var2": "Nahrungsmittel",
+      "var3": "Schweinekotelett oder -schnitzel",
+      "var4": 101.3
+    },
+    {
+      "var1": 2017,
+      "var2": "Nahrungsmittel",
+      "var3": "Fischfilet, frisch oder gekühlt",
+      "var4": 107.3
+    },
+    {
+      "var1": 2017,
+      "var2": "Nahrungsmittel",
+      "var3": "Kartoffeln",
+      "var4": 101.6
+    },
+    {
+      "var1": 2017,
+      "var2": "Nahrungsmittel",
+      "var3": "Blumenkohl",
+      "var4": 98.5
+    },
+    {
+      "var1": 2017,
+      "var2": "Nahrungsmittel",
+      "var3": "Butter",
+      "var4": 159.3
+    },
+    {
+      "var1": 2017,
+      "var2": "Nahrungsmittel",
+      "var3": "Körner- oder Vollkornbrot",
+      "var4": 102.3
+    },
+    {
+      "var1": 2017,
+      "var2": "Nahrungsmittel",
+      "var3": "Vollmilch",
+      "var4": 105.7
+    },
+    {
+      "var1": 2017,
+      "var2": "Genussmittel",
+      "var3": "Bohnenkaffee",
+      "var4": 101.4
+    },
+    {
+      "var1": 2017,
+      "var2": "Genussmittel",
+      "var3": "Schwarzer Tee oder grüner Tee",
+      "var4": 97.9
+    },
+    {
+      "var1": 2017,
+      "var2": "Genussmittel",
+      "var3": "Schokoladentafel",
+      "var4": 100.8
+    },
+    {
+      "var1": 2017,
+      "var2": "Genussmittel",
+      "var3": "Weißwein",
+      "var4": 103.1
+    },
+    {
+      "var1": 2017,
+      "var2": "Wohnen",
+      "var3": "Wohnungsnettomiete für bis 1948 gebaute Wohnungen",
+      "var4": 101.4
+    },
+    {
+      "var1": 2017,
+      "var2": "Wohnen",
+      "var3": "Wohnungsnettomiete für ab 1949 gebaute Wohnungen",
+      "var4": 101.7
+    },
+    {
+      "var1": 2017,
+      "var2": "Wohnen",
+      "var3": "Leichtes Heizöl (ortsübliche Abnahmemenge)",
+      "var4": 96.3
+    },
+    {
+      "var1": 2017,
+      "var2": "Wohnen",
+      "var3": "Frischwasser bei einer monatlichen Abnahme von 15 m3",
+      "var4": 100
+    },
+    {
+      "var1": 2017,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Damenbluse",
+      "var4": 98.5
+    },
+    {
+      "var1": 2017,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Kostüm, Kleid, Rock oder Hosenanzug für Mädchen",
+      "var4": 103
+    },
+    {
+      "var1": 2017,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Klassische Herrenschuhe",
+      "var4": 100.8
+    },
+    {
+      "var1": 2017,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Kinderschuhe",
+      "var4": 104.2
+    },
+    {
+      "var1": 2017,
+      "var2": "Kraftstoffe",
+      "var3": "Superbenzin",
+      "var4": 98.7
+    },
+    {
+      "var1": 2017,
+      "var2": "Kraftstoffe",
+      "var3": "Dieselkraftstoff, Cetanzahl < 60",
+      "var4": 99.9
+    },
+    {
+      "var1": 2017,
+      "var2": "Dienstleistungen",
+      "var3": "Friseurdienstleistungen für Damen",
+      "var4": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Dienstleistungen",
+      "var3": "Waschen, Schneiden, Föhnen",
+      "var4": 106.5
+    },
+    {
+      "var1": 2017,
+      "var2": "Dienstleistungen",
+      "var3": "Fahrschulunterricht PKW (Praxis)",
+      "var4": 111.4
+    },
+    {
+      "var1": 2017,
+      "var2": "Dienstleistungen",
+      "var3": "Regionale Tageszeitung, Einzelverkauf",
+      "var4": 109.8
+    },
+    {
+      "var1": 2018,
+      "var2": "Nahrungsmittel",
+      "var3": "Rinderrouladen oder Lende vom Rind",
+      "var4": 119.4
+    },
+    {
+      "var1": 2018,
+      "var2": "Nahrungsmittel",
+      "var3": "Schweinekotelett oder -schnitzel",
+      "var4": 100.8
+    },
+    {
+      "var1": 2018,
+      "var2": "Nahrungsmittel",
+      "var3": "Fischfilet, frisch oder gekühlt",
+      "var4": 111.4
+    },
+    {
+      "var1": 2018,
+      "var2": "Nahrungsmittel",
+      "var3": "Kartoffeln",
+      "var4": 101.8
+    },
+    {
+      "var1": 2018,
+      "var2": "Nahrungsmittel",
+      "var3": "Blumenkohl",
+      "var4": 111.5
+    },
+    {
+      "var1": 2018,
+      "var2": "Nahrungsmittel",
+      "var3": "Butter",
+      "var4": 177.7
+    },
+    {
+      "var1": 2018,
+      "var2": "Nahrungsmittel",
+      "var3": "Körner- oder Vollkornbrot",
+      "var4": 103.7
+    },
+    {
+      "var1": 2018,
+      "var2": "Nahrungsmittel",
+      "var3": "Vollmilch",
+      "var4": 109.9
+    },
+    {
+      "var1": 2018,
+      "var2": "Genussmittel",
+      "var3": "Bohnenkaffee",
+      "var4": 99.1
+    },
+    {
+      "var1": 2018,
+      "var2": "Genussmittel",
+      "var3": "Schwarzer Tee oder grüner Tee",
+      "var4": 101.7
+    },
+    {
+      "var1": 2018,
+      "var2": "Genussmittel",
+      "var3": "Schokoladentafel",
+      "var4": 103.1
+    },
+    {
+      "var1": 2018,
+      "var2": "Genussmittel",
+      "var3": "Weißwein",
+      "var4": 104
+    },
+    {
+      "var1": 2018,
+      "var2": "Wohnen",
+      "var3": "Wohnungsnettomiete für bis 1948 gebaute Wohnungen",
+      "var4": 102.4
+    },
+    {
+      "var1": 2018,
+      "var2": "Wohnen",
+      "var3": "Wohnungsnettomiete für ab 1949 gebaute Wohnungen",
+      "var4": 102.5
+    },
+    {
+      "var1": 2018,
+      "var2": "Wohnen",
+      "var3": "Leichtes Heizöl (ortsübliche Abnahmemenge)",
+      "var4": 117.5
+    },
+    {
+      "var1": 2018,
+      "var2": "Wohnen",
+      "var3": "Frischwasser bei einer monatlichen Abnahme von 15 m3",
+      "var4": 102.7
+    },
+    {
+      "var1": 2018,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Damenbluse",
+      "var4": 97.6
+    },
+    {
+      "var1": 2018,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Kostüm, Kleid, Rock oder Hosenanzug für Mädchen",
+      "var4": 101.1
+    },
+    {
+      "var1": 2018,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Klassische Herrenschuhe",
+      "var4": 100.9
+    },
+    {
+      "var1": 2018,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Kinderschuhe",
+      "var4": 106.3
+    },
+    {
+      "var1": 2018,
+      "var2": "Kraftstoffe",
+      "var3": "Superbenzin",
+      "var4": 104.3
+    },
+    {
+      "var1": 2018,
+      "var2": "Kraftstoffe",
+      "var3": "Dieselkraftstoff, Cetanzahl < 60",
+      "var4": 108.9
+    },
+    {
+      "var1": 2018,
+      "var2": "Dienstleistungen",
+      "var3": "Friseurdienstleistungen für Damen",
+      "var4": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Dienstleistungen",
+      "var3": "Waschen, Schneiden, Föhnen",
+      "var4": 106.8
+    },
+    {
+      "var1": 2018,
+      "var2": "Dienstleistungen",
+      "var3": "Fahrschulunterricht PKW (Praxis)",
+      "var4": 120.3
+    },
+    {
+      "var1": 2018,
+      "var2": "Dienstleistungen",
+      "var3": "Regionale Tageszeitung, Einzelverkauf",
+      "var4": 114.5
+    },
+    {
+      "var1": 2019,
+      "var2": "Nahrungsmittel",
+      "var3": "Rinderrouladen oder Lende vom Rind",
+      "var4": 120.8
+    },
+    {
+      "var1": 2019,
+      "var2": "Nahrungsmittel",
+      "var3": "Schweinekotelett oder -schnitzel",
+      "var4": 102.2
+    },
+    {
+      "var1": 2019,
+      "var2": "Nahrungsmittel",
+      "var3": "Fischfilet, frisch oder gekühlt",
+      "var4": 113.9
+    },
+    {
+      "var1": 2019,
+      "var2": "Nahrungsmittel",
+      "var3": "Kartoffeln",
+      "var4": 124.8
+    },
+    {
+      "var1": 2019,
+      "var2": "Nahrungsmittel",
+      "var3": "Blumenkohl",
+      "var4": 110.6
+    },
+    {
+      "var1": 2019,
+      "var2": "Nahrungsmittel",
+      "var3": "Butter",
+      "var4": 162.3
+    },
+    {
+      "var1": 2019,
+      "var2": "Nahrungsmittel",
+      "var3": "Körner- oder Vollkornbrot",
+      "var4": 107.3
+    },
+    {
+      "var1": 2019,
+      "var2": "Nahrungsmittel",
+      "var3": "Vollmilch",
+      "var4": 109.8
+    },
+    {
+      "var1": 2019,
+      "var2": "Genussmittel",
+      "var3": "Bohnenkaffee",
+      "var4": 92.9
+    },
+    {
+      "var1": 2019,
+      "var2": "Genussmittel",
+      "var3": "Schwarzer Tee oder grüner Tee",
+      "var4": 104.5
+    },
+    {
+      "var1": 2019,
+      "var2": "Genussmittel",
+      "var3": "Schokoladentafel",
+      "var4": 103.8
+    },
+    {
+      "var1": 2019,
+      "var2": "Genussmittel",
+      "var3": "Weißwein",
+      "var4": 105.6
+    },
+    {
+      "var1": 2019,
+      "var2": "Wohnen",
+      "var3": "Wohnungsnettomiete für bis 1948 gebaute Wohnungen",
+      "var4": 105.6
+    },
+    {
+      "var1": 2019,
+      "var2": "Wohnen",
+      "var3": "Wohnungsnettomiete für ab 1949 gebaute Wohnungen",
+      "var4": 103.1
+    },
+    {
+      "var1": 2019,
+      "var2": "Wohnen",
+      "var3": "Leichtes Heizöl (ortsübliche Abnahmemenge)",
+      "var4": 113.4
+    },
+    {
+      "var1": 2019,
+      "var2": "Wohnen",
+      "var3": "Frischwasser bei einer monatlichen Abnahme von 15 m3",
+      "var4": 105.4
+    },
+    {
+      "var1": 2019,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Damenbluse",
+      "var4": 98.8
+    },
+    {
+      "var1": 2019,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Kostüm, Kleid, Rock oder Hosenanzug für Mädchen",
+      "var4": 102.9
+    },
+    {
+      "var1": 2019,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Klassische Herrenschuhe",
+      "var4": 99.8
+    },
+    {
+      "var1": 2019,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Kinderschuhe",
+      "var4": 108.5
+    },
+    {
+      "var1": 2019,
+      "var2": "Kraftstoffe",
+      "var3": "Superbenzin",
+      "var4": 103.2
+    },
+    {
+      "var1": 2019,
+      "var2": "Kraftstoffe",
+      "var3": "Dieselkraftstoff, Cetanzahl < 60",
+      "var4": 107.3
+    },
+    {
+      "var1": 2019,
+      "var2": "Dienstleistungen",
+      "var3": "Friseurdienstleistungen für Damen",
+      "var4": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Dienstleistungen",
+      "var3": "Waschen, Schneiden, Föhnen",
+      "var4": 110.1
+    },
+    {
+      "var1": 2019,
+      "var2": "Dienstleistungen",
+      "var3": "Fahrschulunterricht PKW (Praxis)",
+      "var4": 129
+    },
+    {
+      "var1": 2019,
+      "var2": "Dienstleistungen",
+      "var3": "Regionale Tageszeitung, Einzelverkauf",
+      "var4": 121.3
+    },
+    {
+      "var1": 2020,
+      "var2": "Nahrungsmittel",
+      "var3": "Rinderrouladen oder Lende vom Rind",
+      "var4": 121.3
+    },
+    {
+      "var1": 2020,
+      "var2": "Nahrungsmittel",
+      "var3": "Schweinekotelett oder -schnitzel",
+      "var4": 114.1
+    },
+    {
+      "var1": 2020,
+      "var2": "Nahrungsmittel",
+      "var3": "Fischfilet, frisch oder gekühlt",
+      "var4": 115.9
+    },
+    {
+      "var1": 2020,
+      "var2": "Nahrungsmittel",
+      "var3": "Kartoffeln",
+      "var4": 119.4
+    },
+    {
+      "var1": 2020,
+      "var2": "Nahrungsmittel",
+      "var3": "Blumenkohl",
+      "var4": 136
+    },
+    {
+      "var1": 2020,
+      "var2": "Nahrungsmittel",
+      "var3": "Butter",
+      "var4": 151.3
+    },
+    {
+      "var1": 2020,
+      "var2": "Nahrungsmittel",
+      "var3": "Körner- oder Vollkornbrot",
+      "var4": 108.1
+    },
+    {
+      "var1": 2020,
+      "var2": "Nahrungsmittel",
+      "var3": "Vollmilch",
+      "var4": 115.5
+    },
+    {
+      "var1": 2020,
+      "var2": "Genussmittel",
+      "var3": "Bohnenkaffee",
+      "var4": 93.9
+    },
+    {
+      "var1": 2020,
+      "var2": "Genussmittel",
+      "var3": "Schwarzer Tee oder grüner Tee",
+      "var4": 105
+    },
+    {
+      "var1": 2020,
+      "var2": "Genussmittel",
+      "var3": "Schokoladentafel",
+      "var4": 101.5
+    },
+    {
+      "var1": 2020,
+      "var2": "Genussmittel",
+      "var3": "Weißwein",
+      "var4": 107.6
+    },
+    {
+      "var1": 2020,
+      "var2": "Wohnen",
+      "var3": "Wohnungsnettomiete für bis 1948 gebaute Wohnungen",
+      "var4": 106
+    },
+    {
+      "var1": 2020,
+      "var2": "Wohnen",
+      "var3": "Wohnungsnettomiete für ab 1949 gebaute Wohnungen",
+      "var4": 104.3
+    },
+    {
+      "var1": 2020,
+      "var2": "Wohnen",
+      "var3": "Leichtes Heizöl (ortsübliche Abnahmemenge)",
+      "var4": 83.7
+    },
+    {
+      "var1": 2020,
+      "var2": "Wohnen",
+      "var3": "Frischwasser bei einer monatlichen Abnahme von 15 m3",
+      "var4": 104.4
+    },
+    {
+      "var1": 2020,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Damenbluse",
+      "var4": 99.8
+    },
+    {
+      "var1": 2020,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Kostüm, Kleid, Rock oder Hosenanzug für Mädchen",
+      "var4": 104.6
+    },
+    {
+      "var1": 2020,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Klassische Herrenschuhe",
+      "var4": 98.3
+    },
+    {
+      "var1": 2020,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Kinderschuhe",
+      "var4": 109.4
+    },
+    {
+      "var1": 2020,
+      "var2": "Kraftstoffe",
+      "var3": "Superbenzin",
+      "var4": 93.7
+    },
+    {
+      "var1": 2020,
+      "var2": "Kraftstoffe",
+      "var3": "Dieselkraftstoff, Cetanzahl < 60",
+      "var4": 95.7
+    },
+    {
+      "var1": 2020,
+      "var2": "Dienstleistungen",
+      "var3": "Friseurdienstleistungen für Damen",
+      "var4": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Dienstleistungen",
+      "var3": "Waschen, Schneiden, Föhnen",
+      "var4": 115.6
+    },
+    {
+      "var1": 2020,
+      "var2": "Dienstleistungen",
+      "var3": "Fahrschulunterricht PKW (Praxis)",
+      "var4": 140.3
+    },
+    {
+      "var1": 2020,
+      "var2": "Dienstleistungen",
+      "var3": "Regionale Tageszeitung, Einzelverkauf",
+      "var4": 125.2
+    },
+    {
+      "var1": 2021,
+      "var2": "Nahrungsmittel",
+      "var3": "Rinderrouladen oder Lende vom Rind",
+      "var4": 126.5
+    },
+    {
+      "var1": 2021,
+      "var2": "Nahrungsmittel",
+      "var3": "Schweinekotelett oder -schnitzel",
+      "var4": 116.2
+    },
+    {
+      "var1": 2021,
+      "var2": "Nahrungsmittel",
+      "var3": "Fischfilet, frisch oder gekühlt",
+      "var4": 114.8
+    },
+    {
+      "var1": 2021,
+      "var2": "Nahrungsmittel",
+      "var3": "Kartoffeln",
+      "var4": 112.2
+    },
+    {
+      "var1": 2021,
+      "var2": "Nahrungsmittel",
+      "var3": "Blumenkohl",
+      "var4": 135.4
+    },
+    {
+      "var1": 2021,
+      "var2": "Nahrungsmittel",
+      "var3": "Butter",
+      "var4": 159
+    },
+    {
+      "var1": 2021,
+      "var2": "Nahrungsmittel",
+      "var3": "Körner- oder Vollkornbrot",
+      "var4": 112.2
+    },
+    {
+      "var1": 2021,
+      "var2": "Nahrungsmittel",
+      "var3": "Vollmilch",
+      "var4": 118.4
+    },
+    {
+      "var1": 2021,
+      "var2": "Genussmittel",
+      "var3": "Bohnenkaffee",
+      "var4": 98.2
+    },
+    {
+      "var1": 2021,
+      "var2": "Genussmittel",
+      "var3": "Schwarzer Tee oder grüner Tee",
+      "var4": 105.5
+    },
+    {
+      "var1": 2021,
+      "var2": "Genussmittel",
+      "var3": "Schokoladentafel",
+      "var4": 105.1
+    },
+    {
+      "var1": 2021,
+      "var2": "Genussmittel",
+      "var3": "Weißwein",
+      "var4": 117.4
+    },
+    {
+      "var1": 2021,
+      "var2": "Wohnen",
+      "var3": "Wohnungsnettomiete für bis 1948 gebaute Wohnungen",
+      "var4": 108.5
+    },
+    {
+      "var1": 2021,
+      "var2": "Wohnen",
+      "var3": "Wohnungsnettomiete für ab 1949 gebaute Wohnungen",
+      "var4": 105.5
+    },
+    {
+      "var1": 2021,
+      "var2": "Wohnen",
+      "var3": "Leichtes Heizöl (ortsübliche Abnahmemenge)",
+      "var4": 119.8
+    },
+    {
+      "var1": 2021,
+      "var2": "Wohnen",
+      "var3": "Frischwasser bei einer monatlichen Abnahme von 15 m3",
+      "var4": 105.7
+    },
+    {
+      "var1": 2021,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Damenbluse",
+      "var4": 98.7
+    },
+    {
+      "var1": 2021,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Kostüm, Kleid, Rock oder Hosenanzug für Mädchen",
+      "var4": 106.6
+    },
+    {
+      "var1": 2021,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Klassische Herrenschuhe",
+      "var4": 97.8
+    },
+    {
+      "var1": 2021,
+      "var2": "Bekleidung / Schuhe",
+      "var3": "Kinderschuhe",
+      "var4": 112.4
+    },
+    {
+      "var1": 2021,
+      "var2": "Kraftstoffe",
+      "var3": "Superbenzin",
+      "var4": 113.3
+    },
+    {
+      "var1": 2021,
+      "var2": "Kraftstoffe",
+      "var3": "Dieselkraftstoff, Cetanzahl < 60",
+      "var4": 118.6
+    },
+    {
+      "var1": 2021,
+      "var2": "Dienstleistungen",
+      "var3": "Friseurdienstleistungen für Damen",
+      "var4": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Dienstleistungen",
+      "var3": "Waschen, Schneiden, Föhnen",
+      "var4": 119.4
+    },
+    {
+      "var1": 2021,
+      "var2": "Dienstleistungen",
+      "var3": "Fahrschulunterricht PKW (Praxis)",
+      "var4": 158.7
+    },
+    {
+      "var1": 2021,
+      "var2": "Dienstleistungen",
+      "var3": "Regionale Tageszeitung, Einzelverkauf",
+      "var4": 130.7
+    }
+  ]
+}

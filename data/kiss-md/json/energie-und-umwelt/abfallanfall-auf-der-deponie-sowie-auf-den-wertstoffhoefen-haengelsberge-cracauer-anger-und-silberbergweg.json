@@ -1,0 +1,430 @@
+{
+  "id": "energie-und-umwelt/abfallanfall-auf-der-deponie-sowie-auf-den-wertstoffhoefen-haengelsberge-cracauer-anger-und-silberbergweg",
+  "title": "Abfallanfall auf der Deponie sowie auf den Wertstoffhöfen (Hängelsberge, Cracauer Anger und Silberbergweg)",
+  "category": "Energie und Umwelt",
+  "subcategory": "Abfallentsorgung",
+  "tableId": "K9_T19",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/abfallanfall-auf-der-deponie-sowie-auf-den-wertstoffhoefen-haengelsberge-cracauer-anger-und-silberbergweg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Abfallanfall auf der Deponie sowie auf den Wertstoffhöfen (Hängelsberge, Cracauer Anger und Silberbergweg).xlsx"
+  },
+  "description": "Abfallanfall auf der Deponie und den Wertstoffhöfen (Hängelsberge, Cracauer Anger, Silberbergweg). Die einzelnen Wertstoffhof-Spalten (var2..var13) waren nicht eindeutig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        521.2,
+        454.9,
+        383.8
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        6917.9,
+        7964.45,
+        7374.8
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        14370.5,
+        14870.06,
+        14790
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        3052.8,
+        3262.2,
+        2449
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        5775.4,
+        3607.5,
+        3758.2
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        347.5,
+        558.2,
+        109.3
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        7085.2,
+        7013.2,
+        9998
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        3040.2,
+        3361.7,
+        2947.4
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        5650.4,
+        3531.7,
+        1350.8
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        283.1,
+        300.1,
+        1105.8
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        4191.66,
+        5118.72,
+        5560.24
+      ]
+    },
+    {
+      "key": "var13",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        127.9,
+        140.1,
+        98.8
+      ]
+    },
+    {
+      "key": "var14",
+      "label": "Gesamtabfallanfall",
+      "unit": "t",
+      "type": "number",
+      "role": null,
+      "sample": [
+        47172.1,
+        45064.1,
+        44365.9
+      ]
+    }
+  ],
+  "rowCount": 15,
+  "rows": [
+    {
+      "var1": 2010,
+      "var2": 521.2,
+      "var3": 6917.9,
+      "var4": 14370.5,
+      "var5": 3052.8,
+      "var6": 5775.4,
+      "var7": 347.5,
+      "var8": 7085.2,
+      "var9": 3040.2,
+      "var10": 5650.4,
+      "var11": 283.1,
+      "var12": null,
+      "var13": 127.9,
+      "var14": 47172.1
+    },
+    {
+      "var1": 2011,
+      "var2": 454.9,
+      "var3": 7964.45,
+      "var4": 14870.06,
+      "var5": 3262.2,
+      "var6": 3607.5,
+      "var7": 558.2,
+      "var8": 7013.2,
+      "var9": 3361.7,
+      "var10": 3531.7,
+      "var11": 300.1,
+      "var12": null,
+      "var13": 140.1,
+      "var14": 45064.1
+    },
+    {
+      "var1": 2012,
+      "var2": 383.8,
+      "var3": 7374.8,
+      "var4": 14790,
+      "var5": 2449,
+      "var6": 3758.2,
+      "var7": 109.3,
+      "var8": 9998,
+      "var9": 2947.4,
+      "var10": 1350.8,
+      "var11": 1105.8,
+      "var12": null,
+      "var13": 98.8,
+      "var14": 44365.9
+    },
+    {
+      "var1": 2013,
+      "var2": 360.7,
+      "var3": 8627.7,
+      "var4": 12998.1,
+      "var5": 3026,
+      "var6": 8563.5,
+      "var7": 486.5,
+      "var8": 6598,
+      "var9": 4142.7,
+      "var10": 20622.5,
+      "var11": 493.8,
+      "var12": null,
+      "var13": 142,
+      "var14": 66061.5
+    },
+    {
+      "var1": 2014,
+      "var2": 383.96,
+      "var3": 8306.17,
+      "var4": 13657.66,
+      "var5": 2607.88,
+      "var6": 996.12,
+      "var7": 156.42,
+      "var8": 5250.44,
+      "var9": 8361.2,
+      "var10": 3658.24,
+      "var11": 1533.76,
+      "var12": null,
+      "var13": 100.62,
+      "var14": 45012.47
+    },
+    {
+      "var1": 2015,
+      "var2": 408.61,
+      "var3": 7306.25,
+      "var4": 13145.2,
+      "var5": 2384.36,
+      "var6": 5049.02,
+      "var7": 138.5,
+      "var8": 11776.18,
+      "var9": 8869.29,
+      "var10": 3139.72,
+      "var11": 2659.1,
+      "var12": null,
+      "var13": 105.09,
+      "var14": 54981.32
+    },
+    {
+      "var1": 2016,
+      "var2": 417.08,
+      "var3": 7604.16,
+      "var4": 13351.1,
+      "var5": 2579.8,
+      "var6": 6015.64,
+      "var7": 175.58,
+      "var8": 15150.03,
+      "var9": 9404.81,
+      "var10": 2405.18,
+      "var11": 5875.3,
+      "var12": null,
+      "var13": 97.78,
+      "var14": 63076.46
+    },
+    {
+      "var1": 2017,
+      "var2": 448.28,
+      "var3": 4047.09,
+      "var4": 14043.14,
+      "var5": 2528.58,
+      "var6": 6231.3,
+      "var7": 215.5,
+      "var8": 5558.6,
+      "var9": 9018.95,
+      "var10": 20496.58,
+      "var11": 4925.4,
+      "var12": 4191.66,
+      "var13": 314.04,
+      "var14": 72019.12
+    },
+    {
+      "var1": 2018,
+      "var2": 557.46,
+      "var3": 4099.03,
+      "var4": 11735.62,
+      "var5": 2554.46,
+      "var6": 1319.14,
+      "var7": 145.38,
+      "var8": 6131.44,
+      "var9": 13043.43,
+      "var10": 18276.9,
+      "var11": 6364.82,
+      "var12": 5118.72,
+      "var13": 301.14,
+      "var14": 69647.54
+    },
+    {
+      "var1": 2019,
+      "var2": 591.54,
+      "var3": 4278.48,
+      "var4": 12234.62,
+      "var5": 2436.14,
+      "var6": 1614.33,
+      "var7": 174.26,
+      "var8": 6371.3,
+      "var9": 11989.3,
+      "var10": 15831.1,
+      "var11": 2677.24,
+      "var12": 5560.24,
+      "var13": 105.16,
+      "var14": 63863.71
+    },
+    {
+      "var1": 2020,
+      "var2": 658.08,
+      "var3": 4400.8,
+      "var4": 11011.82,
+      "var5": 2183.58,
+      "var6": 906.54,
+      "var7": 50.78,
+      "var8": 6426.54,
+      "var9": 10098.7,
+      "var10": 14301.83,
+      "var11": 1796.46,
+      "var12": 5472.11,
+      "var13": 127.12,
+      "var14": 57434.36
+    },
+    {
+      "var1": 2021,
+      "var2": 648.59,
+      "var3": 4407.6,
+      "var4": 12462.3,
+      "var5": 2416.22,
+      "var6": 1061.58,
+      "var7": 70.84,
+      "var8": 6920.52,
+      "var9": 12557.66,
+      "var10": 14999.06,
+      "var11": 1929.82,
+      "var12": 4480.28,
+      "var13": 175.32,
+      "var14": 62129.79
+    },
+    {
+      "var1": 2022,
+      "var2": 1171.34,
+      "var3": 3976.17,
+      "var4": 10390.38,
+      "var5": 2005.15,
+      "var6": 1006.14,
+      "var7": 37.48,
+      "var8": 6749.27,
+      "var9": 10812.76,
+      "var10": 6073.28,
+      "var11": 1646.02,
+      "var12": 4825.41,
+      "var13": 448.03,
+      "var14": 49141.43
+    },
+    {
+      "var1": 2023,
+      "var2": 972.81,
+      "var3": 4123.696,
+      "var4": 11988.6,
+      "var5": 2189.04,
+      "var6": 1125.92,
+      "var7": 110.46,
+      "var8": 7003.71,
+      "var9": 12303.53,
+      "var10": 3268.62,
+      "var11": 1067.7,
+      "var12": 4730.06,
+      "var13": 453.42,
+      "var14": 49337.566
+    },
+    {
+      "var1": 2024,
+      "var2": 1569.7,
+      "var3": 4448.641,
+      "var4": 12088.47,
+      "var5": 2296.74,
+      "var6": 2022.38,
+      "var7": 80.18,
+      "var8": 7567.14,
+      "var9": 12085.4,
+      "var10": 13702.78,
+      "var11": 1565.4,
+      "var12": 5397.26,
+      "var13": 716.96,
+      "var14": 63541.051
+    }
+  ]
+}

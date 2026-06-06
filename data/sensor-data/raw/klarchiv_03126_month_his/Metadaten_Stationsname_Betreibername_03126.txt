@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  3126;Magdeburg;17710615;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  3126;Wetterdienst;17710615;19491231
+  3126;Meteorologischer Dienst der DDR;19500101;19901231
+  3126;DWD;19910101;
+generiert: 02.06.2025 --  Deutscher Wetterdienst  --

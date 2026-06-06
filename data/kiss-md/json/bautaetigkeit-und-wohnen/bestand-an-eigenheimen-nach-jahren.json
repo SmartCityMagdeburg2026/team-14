@@ -1,0 +1,214 @@
+{
+  "id": "bautaetigkeit-und-wohnen/bestand-an-eigenheimen-nach-jahren",
+  "title": "Bestand an Eigenheimen nach Jahren",
+  "category": "Bautätigkeit und Wohnen",
+  "subcategory": "Wohnungs- und Gebäudebestand",
+  "tableId": "K6_T10",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bautaetigkeit-und-wohnen/bestand-an-eigenheimen-nach-jahren.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Bestand an Eigenheimen nach Jahren.xlsx"
+  },
+  "description": "Bestand an Eigenheimen nach Jahren. var2..var4 (Anzahl Magdeburg/Sachsen-Anhalt/Bund o.ä.) nicht eindeutig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        16257,
+        16667,
+        17203
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        18598,
+        19027,
+        19581
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1766812,
+        1821566,
+        1889349
+      ]
+    }
+  ],
+  "rowCount": 24,
+  "rows": [
+    {
+      "var1": 2001,
+      "var2": 16257,
+      "var3": 18598,
+      "var4": 1766812
+    },
+    {
+      "var1": 2002,
+      "var2": 16667,
+      "var3": 19027,
+      "var4": 1821566
+    },
+    {
+      "var1": 2003,
+      "var2": 17203,
+      "var3": 19581,
+      "var4": 1889349
+    },
+    {
+      "var1": 2004,
+      "var2": 17769,
+      "var3": 20206,
+      "var4": 1965410
+    },
+    {
+      "var1": 2005,
+      "var2": 18203,
+      "var3": 20669,
+      "var4": 2020538
+    },
+    {
+      "var1": 2006,
+      "var2": 18672,
+      "var3": 21158,
+      "var4": 2080084
+    },
+    {
+      "var1": 2007,
+      "var2": 18982,
+      "var3": 21478,
+      "var4": 2122654
+    },
+    {
+      "var1": 2008,
+      "var2": 19441,
+      "var3": 21980,
+      "var4": 2718026
+    },
+    {
+      "var1": 2009,
+      "var2": 19664,
+      "var3": 22204,
+      "var4": 2210025
+    },
+    {
+      "var1": 2010,
+      "var2": 19883,
+      "var3": 22435,
+      "var4": 2244463
+    },
+    {
+      "var1": 2011,
+      "var2": 20483,
+      "var3": 23080,
+      "var4": 2324042
+    },
+    {
+      "var1": 2012,
+      "var2": 20693,
+      "var3": 23291,
+      "var4": 2356681
+    },
+    {
+      "var1": 2013,
+      "var2": 20954,
+      "var3": 23557,
+      "var4": 2397586
+    },
+    {
+      "var1": 2014,
+      "var2": 21189,
+      "var3": 23805,
+      "var4": 2436786
+    },
+    {
+      "var1": 2015,
+      "var2": 21448,
+      "var3": 24074,
+      "var4": 2476622
+    },
+    {
+      "var1": 2016,
+      "var2": 21710,
+      "var3": 24342,
+      "var4": 2518954
+    },
+    {
+      "var1": 2017,
+      "var2": 22027,
+      "var3": 24660,
+      "var4": 2558984
+    },
+    {
+      "var1": 2018,
+      "var2": 22261,
+      "var3": 24891,
+      "var4": 2594884
+    },
+    {
+      "var1": 2019,
+      "var2": 22561,
+      "var3": 25262,
+      "var4": 2646439
+    },
+    {
+      "var1": 2020,
+      "var2": 22733,
+      "var3": 25437,
+      "var4": 2673120
+    },
+    {
+      "var1": 2021,
+      "var2": 22868,
+      "var3": 25581,
+      "var4": 2699504
+    },
+    {
+      "var1": 2022,
+      "var2": 23173,
+      "var3": 25855,
+      "var4": 2744473
+    },
+    {
+      "var1": 2023,
+      "var2": 23887,
+      "var3": 26564,
+      "var4": 2841983
+    },
+    {
+      "var1": 2024,
+      "var2": 23977,
+      "var3": 26665,
+      "var4": 2860314
+    }
+  ]
+}

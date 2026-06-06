@@ -1,0 +1,198 @@
+{
+  "id": "bautaetigkeit-und-wohnen/reine-wohngeldhaushalte-nach-haushaltsgroesse",
+  "title": "Reine Wohngeldhaushalte nach Haushaltsgröße",
+  "category": "Bautätigkeit und Wohnen",
+  "subcategory": "Wohngeld",
+  "tableId": "K6_T33",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bautaetigkeit-und-wohnen/reine-wohngeldhaushalte-nach-haushaltsgroesse.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Reine Wohngeldhaushalte nach Haushaltsgröße.xlsx"
+  },
+  "description": "Reine Wohngeldhaushalte nach Haushaltsgröße. Die LLM-Labels begannen bei \"2 Personen\" — der Großteil der Werte ist plausibel monoton abnehmend, sodass var2 wahrscheinlich tatsächlich die 1-Personen-Haushalte (häufigste Gruppe) erfasst.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Wohngeldhaushalte 1 Person",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2464,
+        2170,
+        1952
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Wohngeldhaushalte 2 Personen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1797,
+        1597,
+        1379
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Wohngeldhaushalte 3 Personen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        322,
+        252,
+        224
+      ]
+    },
+    {
+      "key": "var5",
+      "label": "Wohngeldhaushalte 4 Personen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        133,
+        122,
+        102
+      ]
+    },
+    {
+      "key": "var6",
+      "label": "Wohngeldhaushalte 5 Personen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        116,
+        94,
+        110
+      ]
+    },
+    {
+      "key": "var7",
+      "label": "Wohngeldhaushalte 6 Personen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        55,
+        59,
+        77
+      ]
+    },
+    {
+      "key": "var8",
+      "label": "Wohngeldhaushalte 7 oder mehr Personen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        41,
+        46,
+        60
+      ]
+    }
+  ],
+  "rowCount": 8,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": 2464,
+      "var3": 1797,
+      "var4": 322,
+      "var5": 133,
+      "var6": 116,
+      "var7": 55,
+      "var8": 41
+    },
+    {
+      "var1": 2018,
+      "var2": 2170,
+      "var3": 1597,
+      "var4": 252,
+      "var5": 122,
+      "var6": 94,
+      "var7": 59,
+      "var8": 46
+    },
+    {
+      "var1": 2019,
+      "var2": 1952,
+      "var3": 1379,
+      "var4": 224,
+      "var5": 102,
+      "var6": 110,
+      "var7": 77,
+      "var8": 60
+    },
+    {
+      "var1": 2020,
+      "var2": 2555,
+      "var3": 1715,
+      "var4": 285,
+      "var5": 150,
+      "var6": 185,
+      "var7": 120,
+      "var8": 100
+    },
+    {
+      "var1": 2021,
+      "var2": 2570,
+      "var3": 1640,
+      "var4": 295,
+      "var5": 160,
+      "var6": 180,
+      "var7": 160,
+      "var8": 135
+    },
+    {
+      "var1": 2022,
+      "var2": 2790,
+      "var3": 1850,
+      "var4": 310,
+      "var5": 155,
+      "var6": 170,
+      "var7": 160,
+      "var8": 150
+    },
+    {
+      "var1": 2023,
+      "var2": 5100,
+      "var3": 3315,
+      "var4": 770,
+      "var5": 290,
+      "var6": 285,
+      "var7": 250,
+      "var8": 195
+    },
+    {
+      "var1": 2024,
+      "var2": 5280,
+      "var3": 3465,
+      "var4": 700,
+      "var5": 295,
+      "var6": 320,
+      "var7": 270,
+      "var8": 225
+    }
+  ]
+}

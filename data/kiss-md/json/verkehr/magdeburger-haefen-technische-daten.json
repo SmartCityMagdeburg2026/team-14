@@ -1,0 +1,402 @@
+{
+  "id": "verkehr/magdeburger-haefen-technische-daten",
+  "title": "Magdeburger Häfen - Technische Daten",
+  "category": "Verkehr",
+  "subcategory": "Magdeburger Häfen",
+  "tableId": "K8_T34",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/verkehr/magdeburger-haefen-technische-daten.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Magdeburger Häfen - Technische Daten.xlsx"
+  },
+  "description": "Magdeburger Häfen — technische Kennzahlen je Hafenbereich. Detail-Kennzahlen (var3..var13) nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2021,
+        2021,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Hafenbereich",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Häfen gesamt",
+        "Industriehafen",
+        "Kanalhafen"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        221.7,
+        221.7,
+        221.7
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        257500,
+        81000,
+        101500
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        22180,
+        19700,
+        2480
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        6753,
+        570,
+        4570
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        9,
+        1,
+        4
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "key": "var13",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        54,
+        54
+      ]
+    }
+  ],
+  "rowCount": 15,
+  "rows": [
+    {
+      "var1": 2021,
+      "var2": "Häfen gesamt",
+      "var3": 221.7,
+      "var4": 257500,
+      "var5": 22180,
+      "var6": 6753,
+      "var7": 9,
+      "var8": 2,
+      "var9": 2,
+      "var10": 1,
+      "var11": 3,
+      "var12": 1,
+      "var13": 54
+    },
+    {
+      "var1": 2021,
+      "var2": "Industriehafen",
+      "var3": null,
+      "var4": 81000,
+      "var5": 19700,
+      "var6": 570,
+      "var7": 1,
+      "var8": 1,
+      "var9": null,
+      "var10": null,
+      "var11": null,
+      "var12": null,
+      "var13": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Kanalhafen",
+      "var3": null,
+      "var4": 101500,
+      "var5": 2480,
+      "var6": 4570,
+      "var7": 4,
+      "var8": 1,
+      "var9": 2,
+      "var10": null,
+      "var11": null,
+      "var12": 1,
+      "var13": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Hansehafen",
+      "var3": null,
+      "var4": 60000,
+      "var5": null,
+      "var6": 1350,
+      "var7": 4,
+      "var8": null,
+      "var9": null,
+      "var10": 1,
+      "var11": 3,
+      "var12": null,
+      "var13": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Sonstige",
+      "var3": null,
+      "var4": 15000,
+      "var5": null,
+      "var6": 263,
+      "var7": null,
+      "var8": null,
+      "var9": null,
+      "var10": null,
+      "var11": null,
+      "var12": null,
+      "var13": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Häfen gesamt",
+      "var3": 221.7,
+      "var4": 317500,
+      "var5": 48760,
+      "var6": 6753,
+      "var7": 8,
+      "var8": 1,
+      "var9": 2,
+      "var10": 1,
+      "var11": 3,
+      "var12": 1,
+      "var13": 54
+    },
+    {
+      "var1": 2022,
+      "var2": "Industriehafen",
+      "var3": null,
+      "var4": 81000,
+      "var5": 19700,
+      "var6": 570,
+      "var7": 1,
+      "var8": 1,
+      "var9": null,
+      "var10": null,
+      "var11": null,
+      "var12": null,
+      "var13": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Kanalhafen",
+      "var3": null,
+      "var4": 101500,
+      "var5": 2480,
+      "var6": 4570,
+      "var7": 3,
+      "var8": null,
+      "var9": 2,
+      "var10": null,
+      "var11": null,
+      "var12": 1,
+      "var13": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Hansehafen",
+      "var3": null,
+      "var4": 120000,
+      "var5": 26580,
+      "var6": 1350,
+      "var7": 4,
+      "var8": null,
+      "var9": null,
+      "var10": 1,
+      "var11": 3,
+      "var12": null,
+      "var13": null
+    },
+    {
+      "var1": 2022,
+      "var2": "Sonstige",
+      "var3": null,
+      "var4": 15000,
+      "var5": null,
+      "var6": 263,
+      "var7": null,
+      "var8": null,
+      "var9": null,
+      "var10": null,
+      "var11": null,
+      "var12": null,
+      "var13": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Häfen gesamt",
+      "var3": 221.7,
+      "var4": 317500,
+      "var5": 48760,
+      "var6": 6753,
+      "var7": 8,
+      "var8": 1,
+      "var9": 2,
+      "var10": 1,
+      "var11": 3,
+      "var12": 1,
+      "var13": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Industriehafen",
+      "var3": null,
+      "var4": 81000,
+      "var5": 19700,
+      "var6": 570,
+      "var7": 1,
+      "var8": 1,
+      "var9": null,
+      "var10": null,
+      "var11": null,
+      "var12": null,
+      "var13": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Kanalhafen",
+      "var3": null,
+      "var4": 101500,
+      "var5": 2480,
+      "var6": 4570,
+      "var7": 3,
+      "var8": null,
+      "var9": 2,
+      "var10": null,
+      "var11": null,
+      "var12": 1,
+      "var13": null
+    },
+    {
+      "var1": 2023,
+      "var2": "Hansehafen",
+      "var3": null,
+      "var4": 120000,
+      "var5": 26580,
+      "var6": 1350,
+      "var7": 4,
+      "var8": null,
+      "var9": null,
+      "var10": 1,
+      "var11": 3,
+      "var12": null,
+      "var13": null
+    },
+    {
+      "var1": 2023,
+      "var2": "sonstige",
+      "var3": null,
+      "var4": 15000,
+      "var5": null,
+      "var6": 263,
+      "var7": null,
+      "var8": null,
+      "var9": null,
+      "var10": null,
+      "var11": null,
+      "var12": null,
+      "var13": null
+    }
+  ]
+}

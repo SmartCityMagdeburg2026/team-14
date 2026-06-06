@@ -1,0 +1,106 @@
+{
+  "id": "oeffentliche-ordnung/amtliche-futtermittelueberwachung",
+  "title": "Amtliche Futtermittelüberwachung",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Veterinärwesen und Lebensmittelüberwachung",
+  "tableId": "K11_T31",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/amtliche-futtermittelueberwachung.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Amtliche Futtermittelüberwachung.xlsx"
+  },
+  "description": "Diese Tabelle zeigt die amtliche Überwachung von Futtermitteln, wahrscheinlich bezogen auf die Anzahl der Kontrollen oder gemeldete Fälle über die Jahre.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2019,
+        2020,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Futtermittel-Kontrollen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        60,
+        70,
+        67
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Beanstandungen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        17,
+        14,
+        8
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Proben",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        25,
+        17,
+        12
+      ]
+    }
+  ],
+  "rowCount": 6,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": 60,
+      "var3": 17,
+      "var4": 25
+    },
+    {
+      "var1": 2020,
+      "var2": 70,
+      "var3": 14,
+      "var4": 17
+    },
+    {
+      "var1": 2021,
+      "var2": 67,
+      "var3": 8,
+      "var4": 12
+    },
+    {
+      "var1": 2022,
+      "var2": 74,
+      "var3": 14,
+      "var4": 18
+    },
+    {
+      "var1": 2023,
+      "var2": 64,
+      "var3": 6,
+      "var4": 9
+    },
+    {
+      "var1": 2024,
+      "var2": 58,
+      "var3": 7,
+      "var4": 4
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "arbeitsmarkt/sozialversicherungspflichtig-beschaeftigte-am-arbeitsort-nach-der-taetigkeitsart",
+  "title": "Sozialversicherungspflichtig Beschäftigte am Arbeitsort nach der Tätigkeitsart",
+  "category": "Arbeitsmarkt",
+  "subcategory": "Sozialversicherungspflichtig Beschäftigte am Arbeitsort",
+  "tableId": "K7_T55",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/arbeitsmarkt/sozialversicherungspflichtig-beschaeftigte-am-arbeitsort-nach-der-taetigkeitsart.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Sozialversicherungspflichtig Beschäftigte am Arbeitsort nach der Tätigkeitsart.xlsx"
+  },
+  "description": "Sozialversicherungspflichtig Beschäftigte am Arbeitsort nach Tätigkeitsart. var3..var10 entsprechen 8 Tätigkeitsarten/Berufsgruppen, deren Zuordnung nicht eindeutig war.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Beschäftigte gesamt am Arbeitsort",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        108512,
+        109293,
+        109297
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        74787,
+        74185,
+        73434
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        31610,
+        31223,
+        30886
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        33725,
+        35108,
+        35863
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        26016,
+        26882,
+        27283
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        13935,
+        13872,
+        13537
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        64143,
+        64538,
+        64264
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        13961,
+        14171,
+        14382
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        15838,
+        16038,
+        16416
+      ]
+    }
+  ],
+  "rowCount": 8,
+  "rows": [
+    {
+      "var1": 2016,
+      "var2": 108512,
+      "var3": 74787,
+      "var4": 31610,
+      "var5": 33725,
+      "var6": 26016,
+      "var7": 13935,
+      "var8": 64143,
+      "var9": 13961,
+      "var10": 15838
+    },
+    {
+      "var1": 2017,
+      "var2": 109293,
+      "var3": 74185,
+      "var4": 31223,
+      "var5": 35108,
+      "var6": 26882,
+      "var7": 13872,
+      "var8": 64538,
+      "var9": 14171,
+      "var10": 16038
+    },
+    {
+      "var1": 2018,
+      "var2": 109297,
+      "var3": 73434,
+      "var4": 30886,
+      "var5": 35863,
+      "var6": 27283,
+      "var7": 13537,
+      "var8": 64264,
+      "var9": 14382,
+      "var10": 16416
+    },
+    {
+      "var1": 2019,
+      "var2": 109472,
+      "var3": 73176,
+      "var4": 30472,
+      "var5": 36296,
+      "var6": 27544,
+      "var7": 13484,
+      "var8": 63720,
+      "var9": 15002,
+      "var10": 16585
+    },
+    {
+      "var1": 2020,
+      "var2": 109287,
+      "var3": 73258,
+      "var4": 30807,
+      "var5": 36029,
+      "var6": 27277,
+      "var7": 12821,
+      "var8": 63690,
+      "var9": 15175,
+      "var10": 16904
+    },
+    {
+      "var1": 2021,
+      "var2": 110503,
+      "var3": 73615,
+      "var4": 30862,
+      "var5": 36888,
+      "var6": 27822,
+      "var7": 13878,
+      "var8": 62806,
+      "var9": 15939,
+      "var10": 17170
+    },
+    {
+      "var1": 2022,
+      "var2": 111824,
+      "var3": 74336,
+      "var4": 31143,
+      "var5": 37488,
+      "var6": 28199,
+      "var7": 14353,
+      "var8": 63082,
+      "var9": 16577,
+      "var10": 17108
+    },
+    {
+      "var1": 2023,
+      "var2": 112404,
+      "var3": 74978,
+      "var4": 31300,
+      "var5": 37426,
+      "var6": 27811,
+      "var7": 14949,
+      "var8": 62987,
+      "var9": 16617,
+      "var10": 17232
+    }
+  ]
+}

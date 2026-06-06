@@ -1,0 +1,349 @@
+{
+  "id": "verkehr/im-linienverkehr-befoerderte-personen-der-magdeburger-verkehrsbetriebe-gmbh-und-co-kg-nach-fahrausweisarten",
+  "title": "Im Linienverkehr beförderte Personen der Magdeburger Verkehrsbetriebe GmbH & Co. KG nach Fahrausweisarten",
+  "category": "Verkehr",
+  "subcategory": "Öffentlicher Personennahverkehr",
+  "tableId": "K8_T27",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/verkehr/im-linienverkehr-befoerderte-personen-der-magdeburger-verkehrsbetriebe-gmbh-und-co-kg-nach-fahrausweisarten.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Im Linienverkehr beförderte Personen der Magdeburger Verkehrsbetriebe GmbH & Co. KG nach Fahrausweisarten.xlsx"
+  },
+  "description": "Im Linienverkehr beförderte Personen nach Fahrausweisarten. Spaltenreihenfolge der Tarifgruppen (var2..var7) nicht aus den Rohdaten herleitbar.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1995,
+        1996,
+        1997
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        62947945,
+        60736929,
+        57875199
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        13477429,
+        12747142,
+        11578049
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        8887271,
+        8776708,
+        9689622
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        34332803,
+        31738976,
+        29443355
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5117366,
+        6385043,
+        6088637
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1133076,
+        1089060,
+        1075536
+      ]
+    }
+  ],
+  "rowCount": 27,
+  "rows": [
+    {
+      "var1": 1995,
+      "var2": 62947945,
+      "var3": 13477429,
+      "var4": 8887271,
+      "var5": 34332803,
+      "var6": 5117366,
+      "var7": 1133076
+    },
+    {
+      "var1": 1996,
+      "var2": 60736929,
+      "var3": 12747142,
+      "var4": 8776708,
+      "var5": 31738976,
+      "var6": 6385043,
+      "var7": 1089060
+    },
+    {
+      "var1": 1997,
+      "var2": 57875199,
+      "var3": 11578049,
+      "var4": 9689622,
+      "var5": 29443355,
+      "var6": 6088637,
+      "var7": 1075536
+    },
+    {
+      "var1": 1998,
+      "var2": 55432464,
+      "var3": 11498445,
+      "var4": 10364262,
+      "var5": 27070149,
+      "var6": 5451372,
+      "var7": 1048236
+    },
+    {
+      "var1": 1999,
+      "var2": 58845006,
+      "var3": 12260819,
+      "var4": 13136388,
+      "var5": 26535091,
+      "var6": 5803824,
+      "var7": 1108884
+    },
+    {
+      "var1": 2000,
+      "var2": 57979832,
+      "var3": 10924967,
+      "var4": 14157097,
+      "var5": 26107073,
+      "var6": 5697351,
+      "var7": 1093344
+    },
+    {
+      "var1": 2001,
+      "var2": 58205125,
+      "var3": 10368621,
+      "var4": 15373087,
+      "var5": 25676463,
+      "var6": 5722842,
+      "var7": 1064112
+    },
+    {
+      "var1": 2002,
+      "var2": 57262297,
+      "var3": 9478045,
+      "var4": 16539601,
+      "var5": 25691094,
+      "var6": 4658957,
+      "var7": 894600
+    },
+    {
+      "var1": 2003,
+      "var2": 59468262,
+      "var3": 9615152,
+      "var4": 18938624,
+      "var5": 25232924,
+      "var6": 4846182,
+      "var7": 835380
+    },
+    {
+      "var1": 2004,
+      "var2": 61927743,
+      "var3": 9346722,
+      "var4": 21324308,
+      "var5": 24603632,
+      "var6": 5831477,
+      "var7": 821604
+    },
+    {
+      "var1": 2005,
+      "var2": 59990707,
+      "var3": 9070166,
+      "var4": 20162236,
+      "var5": 24327387,
+      "var6": 5650558,
+      "var7": 780260
+    },
+    {
+      "var1": 2006,
+      "var2": 58682200,
+      "var3": 8353245,
+      "var4": 17958872,
+      "var5": 26773589,
+      "var6": 4814874,
+      "var7": 781620
+    },
+    {
+      "var1": 2007,
+      "var2": 57946501,
+      "var3": 8174112,
+      "var4": 17638510,
+      "var5": 26548582,
+      "var6": 4749161,
+      "var7": 836136
+    },
+    {
+      "var1": 2008,
+      "var2": 60344574,
+      "var3": 12935445,
+      "var4": 15800366,
+      "var5": 27414647,
+      "var6": 3397103,
+      "var7": 797013
+    },
+    {
+      "var1": 2009,
+      "var2": 61282925,
+      "var3": 12063117,
+      "var4": 15753918,
+      "var5": 29191680,
+      "var6": 3449028,
+      "var7": 762378
+    },
+    {
+      "var1": 2010,
+      "var2": 58411435,
+      "var3": 9216922,
+      "var4": 15852559,
+      "var5": 30648441,
+      "var6": 1972414,
+      "var7": 721099
+    },
+    {
+      "var1": 2011,
+      "var2": 60396045,
+      "var3": 9896676,
+      "var4": 16747985,
+      "var5": 30552415,
+      "var6": 2287883,
+      "var7": 911086
+    },
+    {
+      "var1": 2012,
+      "var2": 61111216,
+      "var3": 10008869,
+      "var4": 17075063,
+      "var5": 30784383,
+      "var6": 2314733,
+      "var7": 928168
+    },
+    {
+      "var1": 2013,
+      "var2": 60735297,
+      "var3": 9549313,
+      "var4": 18051919,
+      "var5": 29719867,
+      "var6": 2459074,
+      "var7": 955124
+    },
+    {
+      "var1": 2014,
+      "var2": 58769823,
+      "var3": 8709074,
+      "var4": 19252223,
+      "var5": 27487632,
+      "var6": 2378723,
+      "var7": 942171
+    },
+    {
+      "var1": 2015,
+      "var2": 60700903,
+      "var3": 8994975,
+      "var4": 21392677,
+      "var5": 26932812,
+      "var6": 2459049,
+      "var7": 921391
+    },
+    {
+      "var1": 2016,
+      "var2": 59096459,
+      "var3": 8867309,
+      "var4": 19406958,
+      "var5": 27360268,
+      "var6": 2386713,
+      "var7": 1075211
+    },
+    {
+      "var1": 2017,
+      "var2": 59051105,
+      "var3": 8418896,
+      "var4": 19356274,
+      "var5": 27905808,
+      "var6": 2402828,
+      "var7": 967299
+    },
+    {
+      "var1": 2018,
+      "var2": 50901862,
+      "var3": 7476133,
+      "var4": 16725205,
+      "var5": 23862504,
+      "var6": 1957873,
+      "var7": 880147
+    },
+    {
+      "var1": 2019,
+      "var2": 49138636,
+      "var3": 7144197,
+      "var4": 15739193,
+      "var5": 23460174,
+      "var6": 1881589,
+      "var7": 913483
+    },
+    {
+      "var1": 2020,
+      "var2": 43743125,
+      "var3": 4462574,
+      "var4": 15741356,
+      "var5": 20959332,
+      "var6": 1666379,
+      "var7": 913484
+    },
+    {
+      "var1": 2021,
+      "var2": 41012187,
+      "var3": 4795306,
+      "var4": 14584323,
+      "var5": 19013277,
+      "var6": 1637917,
+      "var7": 981364
+    }
+  ]
+}

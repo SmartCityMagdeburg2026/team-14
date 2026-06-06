@@ -1,0 +1,2458 @@
+{
+  "id": "wirtschaft/betriebe-taetige-personen-entgelte-und-umsatz-im-bauhauptgewerbe-nach-wirtschaftszweigen-der-klassifikation-der-wirtschaftszweige-2008-wz-2008",
+  "title": "Betriebe, tätige Personen, Entgelte und Umsatz im Bauhauptgewerbe nach Wirtschaftszweigen der Klassifikation der Wirtschaftszweige 2008 (WZ 2008)",
+  "category": "Wirtschaft",
+  "subcategory": "Baugewerbe",
+  "tableId": "K7_T23",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/betriebe-taetige-personen-entgelte-und-umsatz-im-bauhauptgewerbe-nach-wirtschaftszweigen-der-klassifikation-der-wirtschaftszweige-2008-wz-2008.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Betriebe, tätige Personen, Entgelte und Umsatz im Bauhauptgewerbe nach Wirtschaftszweigen der Klassifikation der Wirtschaftszweige 2008 (WZ 2008).xlsx"
+  },
+  "description": "Betriebe, tätige Personen, Entgelte und Umsatz im Bauhauptgewerbe nach WZ 2008. Detail-Spalten (var4..var8) waren mit den LLM-Labels nicht konsistent.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2009,
+        2009,
+        2009
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Wirtschaftszweig (Bauart)",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Bau von Gebäuden (ohne Fertigteilbau)",
+        "Errichtung von Fertigteilbauten",
+        "Bau von Straßen"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Betriebe",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        13,
+        0,
+        5
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        507,
+        0,
+        459
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        628,
+        0,
+        503
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        12734,
+        0,
+        13050
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        73836,
+        0,
+        68938
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        73736,
+        0,
+        69161
+      ]
+    }
+  ],
+  "rowCount": 234,
+  "rows": [
+    {
+      "var1": 2009,
+      "var2": "Bau von Gebäuden (ohne Fertigteilbau)",
+      "var3": 13,
+      "var4": 507,
+      "var5": 628,
+      "var6": 12734,
+      "var7": 73836,
+      "var8": 73736
+    },
+    {
+      "var1": 2009,
+      "var2": "Errichtung von Fertigteilbauten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2009,
+      "var2": "Bau von Straßen",
+      "var3": 5,
+      "var4": 459,
+      "var5": 503,
+      "var6": 13050,
+      "var7": 68938,
+      "var8": 69161
+    },
+    {
+      "var1": 2009,
+      "var2": "Bau von Bahnverkehrsstrecken",
+      "var3": 2,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2009,
+      "var2": "Brücken- und Tunnelbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2009,
+      "var2": "Rohrleitungsbau, Brunnenbau, Kläranlagenbau",
+      "var3": 3,
+      "var4": 238,
+      "var5": 283,
+      "var6": 5939,
+      "var7": 19463,
+      "var8": 19463
+    },
+    {
+      "var1": 2009,
+      "var2": "Kabelnetzleitungstiefbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2009,
+      "var2": "Wasserbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2009,
+      "var2": "Sonstiger Tiefbau a.n.g.",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2009,
+      "var2": "Abbrucharbeiten",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2009,
+      "var2": "Vorbereitende Baustellenarbeiten",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2009,
+      "var2": "Test- und Suchbohrung",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2009,
+      "var2": "Dachdeckerei und Bauspenglerei",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2009,
+      "var2": "Zimmerei und Ingenieurholzbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2009,
+      "var2": "Gerüstbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2009,
+      "var2": "Schornstein-, Feuerungs- und Industrieofenbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2009,
+      "var2": "Baugewerbe a.n.g.",
+      "var3": 7,
+      "var4": 548,
+      "var5": 786,
+      "var6": 13719,
+      "var7": 49250,
+      "var8": 49356
+    },
+    {
+      "var1": 2009,
+      "var2": "Bauhauptgewerbe insgesamt",
+      "var3": 36,
+      "var4": 2429,
+      "var5": 3024,
+      "var6": 66064,
+      "var7": 327821,
+      "var8": 326162
+    },
+    {
+      "var1": 2010,
+      "var2": "Bau von Gebäuden (ohne Fertigteilbau)",
+      "var3": 14,
+      "var4": 611,
+      "var5": 735,
+      "var6": 15469,
+      "var7": 76840,
+      "var8": 76723
+    },
+    {
+      "var1": 2010,
+      "var2": "Errichtung von Fertigteilbauten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Bau von Straßen",
+      "var3": 6,
+      "var4": 480,
+      "var5": 519,
+      "var6": 13000,
+      "var7": 58479,
+      "var8": 58165
+    },
+    {
+      "var1": 2010,
+      "var2": "Bau von Bahnverkehrsstrecken",
+      "var3": 2,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2010,
+      "var2": "Brücken- und Tunnelbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Rohrleitungsbau, Brunnenbau, Kläranlagenbau",
+      "var3": 3,
+      "var4": 263,
+      "var5": 298,
+      "var6": 6396,
+      "var7": 20715,
+      "var8": 20715
+    },
+    {
+      "var1": 2010,
+      "var2": "Kabelnetzleitungstiefbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Wasserbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Sonstiger Tiefbau a.n.g.",
+      "var3": 2,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2010,
+      "var2": "Abbrucharbeiten",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2010,
+      "var2": "Vorbereitende Baustellenarbeiten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Test- und Suchbohrung",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Dachdeckerei und Bauspenglerei",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2010,
+      "var2": "Zimmerei und Ingenieurholzbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Gerüstbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Schornstein-, Feuerungs- und Industrieofenbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2010,
+      "var2": "Baugewerbe a.n.g.",
+      "var3": 6,
+      "var4": 347,
+      "var5": 456,
+      "var6": 8799,
+      "var7": 37717,
+      "var8": 37614
+    },
+    {
+      "var1": 2010,
+      "var2": "Bauhauptgewerbe insgesamt",
+      "var3": 36,
+      "var4": 2392,
+      "var5": 2806,
+      "var6": 64128,
+      "var7": 319927,
+      "var8": 317085
+    },
+    {
+      "var1": 2011,
+      "var2": "Bau von Gebäuden (ohne Fertigteilbau)",
+      "var3": 15,
+      "var4": 623,
+      "var5": 811,
+      "var6": 15359,
+      "var7": 86350,
+      "var8": 86113
+    },
+    {
+      "var1": 2011,
+      "var2": "Errichtung von Fertigteilbauten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Bau von Straßen",
+      "var3": 6,
+      "var4": 499,
+      "var5": 643,
+      "var6": 14552,
+      "var7": 75873,
+      "var8": 75523
+    },
+    {
+      "var1": 2011,
+      "var2": "Bau von Bahnverkehrsstrecken",
+      "var3": 2,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2011,
+      "var2": "Brücken- und Tunnelbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Rohrleitungsbau, Brunnenbau, Kläranlagenbau",
+      "var3": 2,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2011,
+      "var2": "Kabelnetzleitungstiefbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Wasserbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Sonstiger Tiefbau a.n.g.",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2011,
+      "var2": "Abbrucharbeiten",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2011,
+      "var2": "Vorbereitende Baustellenarbeiten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Test- und Suchbohrung",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Dachdeckerei und Bauspenglerei",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2011,
+      "var2": "Zimmerei und Ingenieurholzbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Gerüstbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Schornstein-, Feuerungs- und Industrieofenbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2011,
+      "var2": "Baugewerbe a.n.g.",
+      "var3": 6,
+      "var4": 377,
+      "var5": 545,
+      "var6": 10446,
+      "var7": 47491,
+      "var8": 47489
+    },
+    {
+      "var1": 2011,
+      "var2": "Bauhauptgewerbe insgesamt",
+      "var3": 36,
+      "var4": 2433,
+      "var5": 3328,
+      "var6": 67413,
+      "var7": 330673,
+      "var8": 329889
+    },
+    {
+      "var1": 2012,
+      "var2": "Bau von Gebäuden (ohne Fertigteilbau)",
+      "var3": 16,
+      "var4": 673,
+      "var5": 889,
+      "var6": 18362,
+      "var7": 92568,
+      "var8": 92330
+    },
+    {
+      "var1": 2012,
+      "var2": "Errichtung von Fertigteilbauten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Bau von Straßen",
+      "var3": 6,
+      "var4": 487,
+      "var5": 558,
+      "var6": 14596,
+      "var7": 54640,
+      "var8": 54360
+    },
+    {
+      "var1": 2012,
+      "var2": "Bau von Bahnverkehrsstrecken",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Brücken- und Tunnelbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Rohrleitungsbau, Brunnenbau, Kläranlagenbau",
+      "var3": 2,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Kabelnetzleitungstiefbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Wasserbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Sonstiger Tiefbau a.n.g.",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Abbrucharbeiten",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Vorbereitende Baustellenarbeiten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Test- und Suchbohrung",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Dachdeckerei und Bauspenglerei",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Zimmerei und Ingenieurholzbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Gerüstbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Schornstein-, Feuerungs- und Industrieofenbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2012,
+      "var2": "Baugewerbe a.n.g.",
+      "var3": 7,
+      "var4": 423,
+      "var5": 572,
+      "var6": 11191,
+      "var7": 45564,
+      "var8": 45430
+    },
+    {
+      "var1": 2012,
+      "var2": "Bauhauptgewerbe insgesamt",
+      "var3": 35,
+      "var4": 2328,
+      "var5": 2929,
+      "var6": 66606,
+      "var7": 294199,
+      "var8": 293509
+    },
+    {
+      "var1": 2013,
+      "var2": "Bau von Gebäuden (ohne Fertigteilbau)",
+      "var3": 14,
+      "var4": 857,
+      "var5": 1299,
+      "var6": 27592,
+      "var7": 95017,
+      "var8": 94861
+    },
+    {
+      "var1": 2013,
+      "var2": "Errichtung von Fertigteilbauten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Bau von Straßen",
+      "var3": 6,
+      "var4": 486,
+      "var5": 553,
+      "var6": 14934,
+      "var7": 61567,
+      "var8": 61209
+    },
+    {
+      "var1": 2013,
+      "var2": "Bau von Bahnverkehrsstrecken",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Brücken- und Tunnelbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Rohrleitungsbau, Brunnenbau, Kläranlagenbau",
+      "var3": 2,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Kabelnetzleitungstiefbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Wasserbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Sonstiger Tiefbau a.n.g.",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Abbrucharbeiten",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Vorbereitende Baustellenarbeiten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Test- und Suchbohrung",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Dachdeckerei und Bauspenglerei",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Zimmerei und Ingenieurholzbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Gerüstbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Schornstein-, Feuerungs- und Industrieofenbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2013,
+      "var2": "Baugewerbe a.n.g.",
+      "var3": 7,
+      "var4": 369,
+      "var5": 500,
+      "var6": 9646,
+      "var7": 36416,
+      "var8": 35799
+    },
+    {
+      "var1": 2013,
+      "var2": "Bauhauptgewerbe insgesamt",
+      "var3": 35,
+      "var4": 2286,
+      "var5": 2988,
+      "var6": 69753,
+      "var7": 265727,
+      "var8": 264597
+    },
+    {
+      "var1": 2014,
+      "var2": "Bau von Gebäuden (ohne Fertigteilbau)",
+      "var3": 12,
+      "var4": 467,
+      "var5": 526,
+      "var6": 12837,
+      "var7": 77222,
+      "var8": 77056
+    },
+    {
+      "var1": 2014,
+      "var2": "Errichtung von Fertigteilbauten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Bau von Straßen",
+      "var3": 6,
+      "var4": 527,
+      "var5": 702,
+      "var6": 17226,
+      "var7": 79373,
+      "var8": 79034
+    },
+    {
+      "var1": 2014,
+      "var2": "Bau von Bahnverkehrsstrecken",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Brücken- und Tunnelbau",
+      "var3": 2,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Rohrleitungsbau, Brunnenbau, Kläranlagenbau",
+      "var3": 2,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Kabelnetzleitungstiefbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Wasserbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Sonstiger Tiefbau a.n.g.",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Abbrucharbeiten",
+      "var3": 0,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Vorbereitende Baustellenarbeiten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Test- und Suchbohrung",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Dachdeckerei und Bauspenglerei",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Zimmerei und Ingenieurholzbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Gerüstbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Schornstein-, Feuerungs- und Industrieofenbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2014,
+      "var2": "Baugewerbe a.n.g.",
+      "var3": 6,
+      "var4": 346,
+      "var5": 486,
+      "var6": 9721,
+      "var7": 34823,
+      "var8": 34544
+    },
+    {
+      "var1": 2014,
+      "var2": "Bauhauptgewerbe insgesamt",
+      "var3": 31,
+      "var4": 1809,
+      "var5": 2246,
+      "var6": 53549,
+      "var7": 251074,
+      "var8": 250287
+    },
+    {
+      "var1": 2015,
+      "var2": "Bau von Gebäuden (ohne Fertigteilbau)",
+      "var3": 13,
+      "var4": 468,
+      "var5": 535,
+      "var6": 13063,
+      "var7": 69314,
+      "var8": 69204
+    },
+    {
+      "var1": 2015,
+      "var2": "Errichtung von Fertigteilbauten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Bau von Straßen",
+      "var3": 5,
+      "var4": 518,
+      "var5": 701,
+      "var6": 17839,
+      "var7": 69406,
+      "var8": 69188
+    },
+    {
+      "var1": 2015,
+      "var2": "Bau von Bahnverkehrsstrecken",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Brücken- und Tunnelbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Rohrleitungsbau, Brunnenbau, Kläranlagenbau",
+      "var3": 2,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Kabelnetzleitungstiefbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Wasserbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Sonstiger Tiefbau a.n.g.",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Abbrucharbeiten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Vorbereitende Baustellenarbeiten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Test- und Suchbohrung",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Dachdeckerei und Bauspenglerei",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Zimmerei und Ingenieurholzbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Gerüstbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Schornstein-, Feuerungs- und Industrieofenbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2015,
+      "var2": "Baugewerbe a.n.g.",
+      "var3": 6,
+      "var4": 333,
+      "var5": 453,
+      "var6": 9123,
+      "var7": 34749,
+      "var8": 34148
+    },
+    {
+      "var1": 2015,
+      "var2": "Bauhauptgewerbe insgesamt",
+      "var3": 30,
+      "var4": 1762,
+      "var5": 2186,
+      "var6": 53004,
+      "var7": 221160,
+      "var8": 220230
+    },
+    {
+      "var1": 2016,
+      "var2": "Bau von Gebäuden (ohne Fertigteilbau)",
+      "var3": 13,
+      "var4": 459,
+      "var5": 528,
+      "var6": 12980,
+      "var7": 73713,
+      "var8": 73630
+    },
+    {
+      "var1": 2016,
+      "var2": "Errichtung von Fertigteilbauten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Bau von Straßen",
+      "var3": 7,
+      "var4": 491,
+      "var5": 663,
+      "var6": 17151,
+      "var7": 72679,
+      "var8": 72474
+    },
+    {
+      "var1": 2016,
+      "var2": "Bau von Bahnverkehrsstrecken",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Brücken- und Tunnelbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Rohrleitungsbau, Brunnenbau, Kläranlagenbau",
+      "var3": 2,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Kabelnetzleitungstiefbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Wasserbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Sonstiger Tiefbau a.n.g.",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Abbrucharbeiten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Vorbereitende Baustellenarbeiten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Test- und Suchbohrung",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Dachdeckerei und Bauspenglerei",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Zimmerei und Ingenieurholzbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Gerüstbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Schornstein-, Feuerungs- und Industrieofenbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2016,
+      "var2": "Baugewerbe a.n.g.",
+      "var3": 5,
+      "var4": 259,
+      "var5": 349,
+      "var6": 7207,
+      "var7": 28650,
+      "var8": 28436
+    },
+    {
+      "var1": 2016,
+      "var2": "Bauhauptgewerbe insgesamt",
+      "var3": 30,
+      "var4": 1665,
+      "var5": 2084,
+      "var6": 51711,
+      "var7": 230834,
+      "var8": 230331
+    },
+    {
+      "var1": 2017,
+      "var2": "Bau von Gebäuden (ohne Fertigteilbau)",
+      "var3": 14,
+      "var4": 532,
+      "var5": 624,
+      "var6": 15853,
+      "var7": 92748,
+      "var8": 92685
+    },
+    {
+      "var1": 2017,
+      "var2": "Errichtung von Fertigteilbauten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Bau von Straßen",
+      "var3": 8,
+      "var4": 534,
+      "var5": 726,
+      "var6": 18865,
+      "var7": 86203,
+      "var8": 85978
+    },
+    {
+      "var1": 2017,
+      "var2": "Bau von Bahnverkehrsstrecken",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Brücken- und Tunnelbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Rohrleitungsbau, Brunnenbau, Kläranlagenbau",
+      "var3": 2,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Kabelnetzleitungstiefbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Wasserbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Sonstiger Tiefbau a.n.g.",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Abbrucharbeiten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Vorbereitende Baustellenarbeiten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Test- und Suchbohrung",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Dachdeckerei und Bauspenglerei",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Zimmerei und Ingenieurholzbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Gerüstbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Schornstein-, Feuerungs- und Industrieofenbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2017,
+      "var2": "Baugewerbe a.n.g.",
+      "var3": 7,
+      "var4": 312,
+      "var5": 411,
+      "var6": 8412,
+      "var7": 32883,
+      "var8": 32693
+    },
+    {
+      "var1": 2017,
+      "var2": "Bauhauptgewerbe insgesamt",
+      "var3": 36,
+      "var4": 1856,
+      "var5": 2307,
+      "var6": 58736,
+      "var7": 268679,
+      "var8": 268201
+    },
+    {
+      "var1": 2018,
+      "var2": "Bau von Gebäuden (ohne Fertigteilbau)",
+      "var3": 13,
+      "var4": 455,
+      "var5": 501,
+      "var6": 14436,
+      "var7": 89344,
+      "var8": 89338
+    },
+    {
+      "var1": 2018,
+      "var2": "Errichtung von Fertigteilbauten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Bau von Straßen",
+      "var3": 8,
+      "var4": 563,
+      "var5": 744,
+      "var6": 20541,
+      "var7": 94678,
+      "var8": 94350
+    },
+    {
+      "var1": 2018,
+      "var2": "Bau von Bahnverkehrsstrecken",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Brücken- und Tunnelbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Rohrleitungsbau, Brunnenbau, Kläranlagenbau",
+      "var3": 2,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Kabelnetzleitungstiefbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Wasserbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Sonstiger Tiefbau a.n.g.",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Abbrucharbeiten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Vorbereitende Baustellenarbeiten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Test- und Suchbohrung",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Dachdeckerei und Bauspenglerei",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Zimmerei und Ingenieurholzbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Gerüstbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Schornstein-, Feuerungs- und Industrieofenbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2018,
+      "var2": "Baugewerbe a.n.g.",
+      "var3": 6,
+      "var4": 298,
+      "var5": 387,
+      "var6": 8539,
+      "var7": 32048,
+      "var8": 31888
+    },
+    {
+      "var1": 2018,
+      "var2": "Bauhauptgewerbe insgesamt",
+      "var3": 35,
+      "var4": 2064,
+      "var5": 2598,
+      "var6": 74305,
+      "var7": 284492,
+      "var8": 284000
+    },
+    {
+      "var1": 2019,
+      "var2": "Bau von Gebäuden (ohne Fertigteilbau)",
+      "var3": 11,
+      "var4": 425,
+      "var5": 456,
+      "var6": 14428,
+      "var7": 94822,
+      "var8": 94760
+    },
+    {
+      "var1": 2019,
+      "var2": "Errichtung von Fertigteilbauten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Bau von Straßen",
+      "var3": 8,
+      "var4": 566,
+      "var5": 741,
+      "var6": 21395,
+      "var7": 99039,
+      "var8": 98708
+    },
+    {
+      "var1": 2019,
+      "var2": "Bau von Bahnverkehrsstrecken",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Brücken- und Tunnelbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Rohrleitungsbau, Brunnenbau, Kläranlagenbau",
+      "var3": 2,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Kabelnetzleitungstiefbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Wasserbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Sonstiger Tiefbau a.n.g.",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Abbrucharbeiten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Vorbereitende Baustellenarbeiten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Test- und Suchbohrung",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Dachdeckerei und Bauspenglerei",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Zimmerei und Ingenieurholzbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Gerüstbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Schornstein-, Feuerungs- und Industrieofenbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2019,
+      "var2": "Baugewerbe a.n.g.",
+      "var3": 6,
+      "var4": 297,
+      "var5": 412,
+      "var6": 9465,
+      "var7": 39033,
+      "var8": 38924
+    },
+    {
+      "var1": 2019,
+      "var2": "Bauhauptgewerbe insgesamt",
+      "var3": 32,
+      "var4": 2020,
+      "var5": 2549,
+      "var6": 77562,
+      "var7": 302117,
+      "var8": 301611
+    },
+    {
+      "var1": 2020,
+      "var2": "Bau von Gebäuden (ohne Fertigteilbau)",
+      "var3": 14,
+      "var4": 491,
+      "var5": 550,
+      "var6": 17185,
+      "var7": 118684,
+      "var8": 118494
+    },
+    {
+      "var1": 2020,
+      "var2": "Errichtung von Fertigteilbauten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Bau von Straßen",
+      "var3": 7,
+      "var4": 575,
+      "var5": 761,
+      "var6": 22189,
+      "var7": 104857,
+      "var8": 104610
+    },
+    {
+      "var1": 2020,
+      "var2": "Bau von Bahnverkehrsstrecken",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Brücken- und Tunnelbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Rohrleitungsbau, Brunnenbau, Kläranlagenbau",
+      "var3": 2,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Kabelnetzleitungstiefbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Wasserbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Sonstiger Tiefbau a.n.g.",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Abbrucharbeiten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Vorbereitende Baustellenarbeiten",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Test- und Suchbohrung",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Dachdeckerei und Bauspenglerei",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Zimmerei und Ingenieurholzbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Gerüstbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Schornstein-, Feuerungs- und Industrieofenbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Baugewerbe a.n.g.",
+      "var3": 7,
+      "var4": 313,
+      "var5": 422,
+      "var6": 10402,
+      "var7": 43493,
+      "var8": 43156
+    },
+    {
+      "var1": 2020,
+      "var2": "Bauhauptgewerbe insgesamt",
+      "var3": 36,
+      "var4": 2138,
+      "var5": 2727,
+      "var6": 81323,
+      "var7": 347912,
+      "var8": 347135
+    },
+    {
+      "var1": 2021,
+      "var2": "Bau von Gebäuden (ohne Fertigteilbau)",
+      "var3": 15,
+      "var4": 495,
+      "var5": 511,
+      "var6": 16698,
+      "var7": 110311,
+      "var8": 110110
+    },
+    {
+      "var1": 2021,
+      "var2": "Errichtung von Fertigteilbauten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Bau von Straßen",
+      "var3": 7,
+      "var4": 625,
+      "var5": 838,
+      "var6": 25015,
+      "var7": 123835,
+      "var8": 123517
+    },
+    {
+      "var1": 2021,
+      "var2": "Bau von Bahnverkehrsstrecken",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Brücken- und Tunnelbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Rohrleitungsbau, Brunnenbau, Kläranlagenbau",
+      "var3": 2,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Kabelnetzleitungstiefbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Wasserbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Sonstiger Tiefbau a.n.g.",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Abbrucharbeiten",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Vorbereitende Baustellenarbeiten",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Test- und Suchbohrung",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Dachdeckerei und Bauspenglerei",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Zimmerei und Ingenieurholzbau",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Gerüstbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Schornstein-, Feuerungs- und Industrieofenbau",
+      "var3": 1,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null,
+      "var8": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Baugewerbe a.n.g.",
+      "var3": 7,
+      "var4": 305,
+      "var5": 402,
+      "var6": 10489,
+      "var7": 43574,
+      "var8": 43121
+    },
+    {
+      "var1": 2021,
+      "var2": "Bauhauptgewerbe insgesamt",
+      "var3": 38,
+      "var4": 2196,
+      "var5": 2769,
+      "var6": 84689,
+      "var7": 356776,
+      "var8": 355803
+    }
+  ]
+}

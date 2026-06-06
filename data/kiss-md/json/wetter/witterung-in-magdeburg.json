@@ -1,0 +1,694 @@
+{
+  "id": "wetter/witterung-in-magdeburg",
+  "title": "Witterung in Magdeburg",
+  "category": "Wetter",
+  "subcategory": "Witterung in Magdeburg",
+  "tableId": "K2_T9",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wetter/witterung-in-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Witterung in Magdeburg.xlsx"
+  },
+  "description": "Jährliche Zusammenfassung der Witterungsdaten in Magdeburg: Temperatur (Jahresmittel, Normalwert, Abweichung, Maximum mit Eintrittstag), Niederschlag (Summe, Normalwert), Sonnenscheindauer, Luftfeuchtigkeit, Windgeschwindigkeit und Luftdruck. Mehrere Tageszählungs-Spalten (Sommer-, Frost-, Eistage, Tage mit Niederschlag/Schnee) waren nicht eindeutig zuzuordnen und bleiben unbenannt.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Lufttemperatur Jahresmittel",
+      "unit": "°C",
+      "type": "number",
+      "role": null,
+      "sample": [
+        9.7,
+        11.2,
+        10.8
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Lufttemperatur Normalwert",
+      "unit": "°C",
+      "type": "number",
+      "role": null,
+      "sample": [
+        8.7,
+        8.7,
+        8.7
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Lufttemperatur Abweichung vom Normalwert",
+      "unit": "°C",
+      "type": "number",
+      "role": null,
+      "sample": [
+        1,
+        2.4,
+        2.1
+      ]
+    },
+    {
+      "key": "var5",
+      "label": "Lufttemperatur Jahresmaximum",
+      "unit": "°C",
+      "type": "number",
+      "role": null,
+      "sample": [
+        36.3,
+        34.4,
+        38.1
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        13.6,
+        12.7,
+        6.8
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        14,
+        10,
+        17
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        49,
+        42,
+        48
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        21,
+        14,
+        1
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        92,
+        47,
+        55
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        4,
+        2,
+        0
+      ]
+    },
+    {
+      "key": "var12",
+      "label": "Sonnenscheindauer Jahressumme",
+      "unit": "Stunden",
+      "type": "number",
+      "role": null,
+      "sample": [
+        1542.9,
+        1659.4,
+        1829.5
+      ]
+    },
+    {
+      "key": "var13",
+      "label": "Niederschlag Jahressumme",
+      "unit": "mm",
+      "type": "number",
+      "role": null,
+      "sample": [
+        577.8,
+        545.5,
+        512.5
+      ]
+    },
+    {
+      "key": "var14",
+      "label": "Niederschlag Normalwert",
+      "unit": "mm",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        494,
+        494,
+        494
+      ]
+    },
+    {
+      "key": "var15",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        117,
+        110,
+        104
+      ]
+    },
+    {
+      "key": "var16",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        31.2,
+        56.9,
+        33.4
+      ]
+    },
+    {
+      "key": "var17",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        176,
+        173,
+        172
+      ]
+    },
+    {
+      "key": "var18",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        47,
+        12,
+        19
+      ]
+    },
+    {
+      "key": "var19",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        57,
+        17,
+        11
+      ]
+    },
+    {
+      "key": "var20",
+      "label": "Relative Luftfeuchtigkeit Jahresmittel",
+      "unit": "%",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        78,
+        79,
+        75
+      ]
+    },
+    {
+      "key": "var21",
+      "label": "Windgeschwindigkeit Jahresmittel",
+      "unit": "m/s",
+      "type": "number",
+      "role": null,
+      "sample": [
+        5.8,
+        5.7,
+        5.6
+      ]
+    },
+    {
+      "key": "var22",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        14,
+        16,
+        16
+      ]
+    },
+    {
+      "key": "var23",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        155,
+        150,
+        150
+      ]
+    },
+    {
+      "key": "var24",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        28,
+        42,
+        23
+      ]
+    },
+    {
+      "key": "var25",
+      "label": "Tag des Temperaturmaximums",
+      "unit": null,
+      "type": "integer",
+      "role": "day",
+      "sample": [
+        15,
+        21,
+        22
+      ]
+    },
+    {
+      "key": "var26",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": "day",
+      "sample": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "key": "var27",
+      "label": "Luftdruck Jahresmittel",
+      "unit": "hPa",
+      "type": "number",
+      "role": null,
+      "sample": [
+        1005.4,
+        1004.3,
+        1007.3
+      ]
+    }
+  ],
+  "rowCount": 12,
+  "rows": [
+    {
+      "var1": 2013,
+      "var2": 9.7,
+      "var3": 8.7,
+      "var4": 1,
+      "var5": 36.3,
+      "var6": 13.6,
+      "var7": 14,
+      "var8": 49,
+      "var9": 21,
+      "var10": 92,
+      "var11": 4,
+      "var12": 1542.9,
+      "var13": 577.8,
+      "var14": 494,
+      "var15": 117,
+      "var16": 31.2,
+      "var17": 176,
+      "var18": 47,
+      "var19": 57,
+      "var20": 78,
+      "var21": 5.8,
+      "var22": 14,
+      "var23": 155,
+      "var24": 28,
+      "var25": 15,
+      "var26": 2,
+      "var27": 1005.4
+    },
+    {
+      "var1": 2014,
+      "var2": 11.2,
+      "var3": 8.7,
+      "var4": 2.4,
+      "var5": 34.4,
+      "var6": 12.7,
+      "var7": 10,
+      "var8": 42,
+      "var9": 14,
+      "var10": 47,
+      "var11": 2,
+      "var12": 1659.4,
+      "var13": 545.5,
+      "var14": 494,
+      "var15": 110,
+      "var16": 56.9,
+      "var17": 173,
+      "var18": 12,
+      "var19": 17,
+      "var20": 79,
+      "var21": 5.7,
+      "var22": 16,
+      "var23": 150,
+      "var24": 42,
+      "var25": 21,
+      "var26": 2,
+      "var27": 1004.3
+    },
+    {
+      "var1": 2015,
+      "var2": 10.8,
+      "var3": 8.7,
+      "var4": 2.1,
+      "var5": 38.1,
+      "var6": 6.8,
+      "var7": 17,
+      "var8": 48,
+      "var9": 1,
+      "var10": 55,
+      "var11": 0,
+      "var12": 1829.5,
+      "var13": 512.5,
+      "var14": 494,
+      "var15": 104,
+      "var16": 33.4,
+      "var17": 172,
+      "var18": 19,
+      "var19": 11,
+      "var20": 75,
+      "var21": 5.6,
+      "var22": 16,
+      "var23": 150,
+      "var24": 23,
+      "var25": 22,
+      "var26": 2,
+      "var27": 1007.3
+    },
+    {
+      "var1": 2016,
+      "var2": 10.7,
+      "var3": 8.7,
+      "var4": 1.9,
+      "var5": 36.5,
+      "var6": 13.9,
+      "var7": 16,
+      "var8": 62,
+      "var9": 10,
+      "var10": 73,
+      "var11": 4,
+      "var12": 1720.3,
+      "var13": 390.8,
+      "var14": 494,
+      "var15": 79,
+      "var16": 50.7,
+      "var17": 165,
+      "var18": 21,
+      "var19": 17,
+      "var20": 75,
+      "var21": 5.5,
+      "var22": 16,
+      "var23": 149,
+      "var24": 26,
+      "var25": 15,
+      "var26": 2,
+      "var27": 1008.4
+    },
+    {
+      "var1": 2017,
+      "var2": 10.6,
+      "var3": 8.7,
+      "var4": 1.9,
+      "var5": 32.1,
+      "var6": 10.1,
+      "var7": 6,
+      "var8": 43,
+      "var9": 13,
+      "var10": 57,
+      "var11": 1,
+      "var12": 1531.4,
+      "var13": 493,
+      "var14": 494,
+      "var15": 100,
+      "var16": 32,
+      "var17": 194,
+      "var18": 16,
+      "var19": 28,
+      "var20": 78,
+      "var21": 6.3,
+      "var22": 15,
+      "var23": 150,
+      "var24": 26,
+      "var25": 19,
+      "var26": 2,
+      "var27": 1005.9
+    },
+    {
+      "var1": 2018,
+      "var2": 11.5,
+      "var3": 8.7,
+      "var4": 2.8,
+      "var5": 37.3,
+      "var6": 12.5,
+      "var7": 29,
+      "var8": 94,
+      "var9": 9,
+      "var10": 66,
+      "var11": 5,
+      "var12": 2165.1,
+      "var13": 374.6,
+      "var14": 494,
+      "var15": 76,
+      "var16": 30.3,
+      "var17": 134,
+      "var18": 20,
+      "var19": 11,
+      "var20": 71,
+      "var21": 5.2,
+      "var22": 20,
+      "var23": 148,
+      "var24": 11,
+      "var25": 19,
+      "var26": 1,
+      "var27": 1005.9
+    },
+    {
+      "var1": 2019,
+      "var2": 11.5,
+      "var3": 8.7,
+      "var4": 2.8,
+      "var5": 37.3,
+      "var6": 7.5,
+      "var7": 23,
+      "var8": 69,
+      "var9": 4,
+      "var10": 46,
+      "var11": 0,
+      "var12": 1959.4,
+      "var13": 464.5,
+      "var14": 494,
+      "var15": 94,
+      "var16": 28.1,
+      "var17": 170,
+      "var18": 27,
+      "var19": 7,
+      "var20": 71,
+      "var21": 5.5,
+      "var22": 34,
+      "var23": 155,
+      "var24": null,
+      "var25": 25,
+      "var26": 2,
+      "var27": 1004.5
+    },
+    {
+      "var1": 2020,
+      "var2": 11.6,
+      "var3": 8.7,
+      "var4": 2.9,
+      "var5": 35.6,
+      "var6": 5.5,
+      "var7": 16,
+      "var8": 61,
+      "var9": 0,
+      "var10": 35,
+      "var11": 0,
+      "var12": 1933.1,
+      "var13": 456.6,
+      "var14": 494,
+      "var15": 92,
+      "var16": 45.6,
+      "var17": 158,
+      "var18": 11,
+      "var19": 0,
+      "var20": 72,
+      "var21": 5.3,
+      "var22": 39,
+      "var23": 161,
+      "var24": null,
+      "var25": null,
+      "var26": 2,
+      "var27": 1005.7
+    },
+    {
+      "var1": 2021,
+      "var2": 10.2,
+      "var3": 8.7,
+      "var4": 1.5,
+      "var5": 34.6,
+      "var6": 17.6,
+      "var7": 8,
+      "var8": 47,
+      "var9": 15,
+      "var10": 70,
+      "var11": 11,
+      "var12": 1565.71,
+      "var13": 480.8,
+      "var14": 494,
+      "var15": 97,
+      "var16": 27.7,
+      "var17": 158,
+      "var18": null,
+      "var19": 22,
+      "var20": 77,
+      "var21": 5.9,
+      "var22": 17,
+      "var23": 176,
+      "var24": null,
+      "var25": null,
+      "var26": 2,
+      "var27": 1005.5
+    },
+    {
+      "var1": 2022,
+      "var2": 11.5,
+      "var3": 8.7,
+      "var4": 2.8,
+      "var5": 38.2,
+      "var6": 11.8,
+      "var7": 21,
+      "var8": 75,
+      "var9": 10,
+      "var10": 56,
+      "var11": 3,
+      "var12": 2016.64,
+      "var13": 366.4,
+      "var14": 494,
+      "var15": 74,
+      "var16": 17,
+      "var17": 147,
+      "var18": null,
+      "var19": 5,
+      "var20": 72,
+      "var21": 5.4,
+      "var22": 29,
+      "var23": 150,
+      "var24": null,
+      "var25": null,
+      "var26": 2,
+      "var27": 1007.1
+    },
+    {
+      "var1": 2023,
+      "var2": 11.7,
+      "var3": 8.7,
+      "var4": 3,
+      "var5": 34.7,
+      "var6": 6.1,
+      "var7": 16,
+      "var8": 72,
+      "var9": 4,
+      "var10": 49,
+      "var11": 0,
+      "var12": 1711.35,
+      "var13": 713.4,
+      "var14": 494,
+      "var15": 144,
+      "var16": 53.4,
+      "var17": 188,
+      "var18": null,
+      "var19": 12,
+      "var20": 75,
+      "var21": 5.7,
+      "var22": 22,
+      "var23": 187,
+      "var24": null,
+      "var25": null,
+      "var26": 2,
+      "var27": 1004.2
+    },
+    {
+      "var1": 2024,
+      "var2": 12.1,
+      "var3": 8.7,
+      "var4": 3.4,
+      "var5": 34.4,
+      "var6": 11.4,
+      "var7": 23,
+      "var8": 73,
+      "var9": 6,
+      "var10": 35,
+      "var11": 2,
+      "var12": 1725.12,
+      "var13": 553.5,
+      "var14": 494,
+      "var15": 112,
+      "var16": 30.3,
+      "var17": 175,
+      "var18": null,
+      "var19": 15,
+      "var20": 76,
+      "var21": 5.4,
+      "var22": 28,
+      "var23": 147,
+      "var24": null,
+      "var25": null,
+      "var26": 2,
+      "var27": 1004.8
+    }
+  ]
+}

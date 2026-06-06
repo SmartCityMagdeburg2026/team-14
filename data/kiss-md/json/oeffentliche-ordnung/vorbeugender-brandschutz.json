@@ -1,0 +1,160 @@
+{
+  "id": "oeffentliche-ordnung/vorbeugender-brandschutz",
+  "title": "Vorbeugender Brandschutz",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Feuerwehr",
+  "tableId": "K11_T16",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/vorbeugender-brandschutz.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Vorbeugender Brandschutz.xlsx"
+  },
+  "description": "Vorbeugender Brandschutz — Tätigkeiten der Feuerwehr Magdeburg.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2019,
+        2020,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Vorfälle gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1135,
+        1117,
+        1111
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Brandfälle",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        442,
+        95,
+        87
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Maßnahmen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        659,
+        431,
+        381
+      ]
+    },
+    {
+      "key": "var5",
+      "label": "Schulungen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        108,
+        12,
+        6
+      ]
+    },
+    {
+      "key": "var6",
+      "label": "Kontrollen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        948,
+        343,
+        358
+      ]
+    },
+    {
+      "key": "var7",
+      "label": "Beratungen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        716,
+        290,
+        280
+      ]
+    }
+  ],
+  "rowCount": 6,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": 1135,
+      "var3": 442,
+      "var4": 659,
+      "var5": 108,
+      "var6": 948,
+      "var7": 716
+    },
+    {
+      "var1": 2020,
+      "var2": 1117,
+      "var3": 95,
+      "var4": 431,
+      "var5": 12,
+      "var6": 343,
+      "var7": 290
+    },
+    {
+      "var1": 2021,
+      "var2": 1111,
+      "var3": 87,
+      "var4": 381,
+      "var5": 6,
+      "var6": 358,
+      "var7": 280
+    },
+    {
+      "var1": 2022,
+      "var2": 1351,
+      "var3": 41,
+      "var4": 426,
+      "var5": 8,
+      "var6": 798,
+      "var7": 628
+    },
+    {
+      "var1": 2023,
+      "var2": 1405,
+      "var3": 52,
+      "var4": 384,
+      "var5": 13,
+      "var6": 716,
+      "var7": 432
+    },
+    {
+      "var1": 2024,
+      "var2": null,
+      "var3": null,
+      "var4": null,
+      "var5": null,
+      "var6": 576,
+      "var7": 513
+    }
+  ]
+}

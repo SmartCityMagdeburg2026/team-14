@@ -1,0 +1,232 @@
+{
+  "id": "oeffentliche-ordnung/verkehrsueberwachung-verkehrsordnungswidrigkeiten-im-ruhenden-verkehr",
+  "title": "Verkehrsüberwachung - Verkehrsordnungswidrigkeiten im ruhenden Verkehr",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Ordnungswidrigkeiten",
+  "tableId": "K11_T14",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/verkehrsueberwachung-verkehrsordnungswidrigkeiten-im-ruhenden-verkehr.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Verkehrsüberwachung - Verkehrsordnungswidrigkeiten im ruhenden Verkehr.xlsx"
+  },
+  "description": "Verkehrsüberwachung — Verkehrsordnungswidrigkeiten im ruhenden Verkehr. var3..var11 enthalten Aufteilungen nach Verstoßart (Parken, Halten, Gehweg, Bushaltestelle etc.); die LLM-Labels wirken plausibel, aber die Summe entspricht nicht var2 — Überschneidungen oder Doppelzählungen möglich.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2019,
+        2020,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Ordnungswidrigkeiten gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        39739,
+        30296,
+        36051
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5904,
+        4556,
+        5575
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        10280,
+        8542,
+        9073
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        164,
+        159,
+        116
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        9180,
+        6085,
+        5591
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        14995,
+        6893,
+        8461
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2089,
+        1350,
+        1561
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1957,
+        410,
+        471
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1925,
+        1644,
+        4591
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        376,
+        376,
+        255
+      ]
+    }
+  ],
+  "rowCount": 6,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": 39739,
+      "var3": 5904,
+      "var4": 10280,
+      "var5": 164,
+      "var6": 9180,
+      "var7": 14995,
+      "var8": 2089,
+      "var9": 1957,
+      "var10": 1925,
+      "var11": 376
+    },
+    {
+      "var1": 2020,
+      "var2": 30296,
+      "var3": 4556,
+      "var4": 8542,
+      "var5": 159,
+      "var6": 6085,
+      "var7": 6893,
+      "var8": 1350,
+      "var9": 410,
+      "var10": 1644,
+      "var11": 376
+    },
+    {
+      "var1": 2021,
+      "var2": 36051,
+      "var3": 5575,
+      "var4": 9073,
+      "var5": 116,
+      "var6": 5591,
+      "var7": 8461,
+      "var8": 1561,
+      "var9": 471,
+      "var10": 4591,
+      "var11": 255
+    },
+    {
+      "var1": 2022,
+      "var2": 29599,
+      "var3": 5711,
+      "var4": 6181,
+      "var5": 91,
+      "var6": 5717,
+      "var7": 7229,
+      "var8": 1479,
+      "var9": 439,
+      "var10": 2984,
+      "var11": 232
+    },
+    {
+      "var1": 2023,
+      "var2": 27760,
+      "var3": 6058,
+      "var4": 5074,
+      "var5": 195,
+      "var6": 6491,
+      "var7": 7894,
+      "var8": 1949,
+      "var9": 484,
+      "var10": 3154,
+      "var11": 479
+    },
+    {
+      "var1": 2024,
+      "var2": 27728,
+      "var3": 7826,
+      "var4": 5848,
+      "var5": 72,
+      "var6": 9117,
+      "var7": 10875,
+      "var8": 2308,
+      "var9": 488,
+      "var10": 3419,
+      "var11": 590
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "arbeitsmarkt/sozialversicherungspflichtig-beschaeftigte-am-arbeitsort-nach-dem-hoechsten-berufsabschluss",
+  "title": "Sozialversicherungspflichtig Beschäftigte am Arbeitsort nach dem höchsten Berufsabschluss",
+  "category": "Arbeitsmarkt",
+  "subcategory": "Sozialversicherungspflichtig Beschäftigte am Arbeitsort",
+  "tableId": "K7_T48b",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/arbeitsmarkt/sozialversicherungspflichtig-beschaeftigte-am-arbeitsort-nach-dem-hoechsten-berufsabschluss.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Sozialversicherungspflichtig Beschäftigte am Arbeitsort nach dem höchsten Berufsabschluss.xlsx"
+  },
+  "description": "Sozialversicherungspflichtig Beschäftigte am Arbeitsort nach dem höchsten Berufsabschluss. var3..var6 sind 4 Berufsabschluss-Kategorien (Summe = var2 verifiziert), die genauen Stufen (z.B. ohne Abschluss / Berufsausbildung / akademisch) waren nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Beschäftigte gesamt am Arbeitsort",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        108512,
+        109293,
+        109297
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        8488,
+        8759,
+        8891
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        70915,
+        71062,
+        70776
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        20023,
+        20589,
+        21110
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        9086,
+        8883,
+        8520
+      ]
+    }
+  ],
+  "rowCount": 8,
+  "rows": [
+    {
+      "var1": 2016,
+      "var2": 108512,
+      "var3": 8488,
+      "var4": 70915,
+      "var5": 20023,
+      "var6": 9086
+    },
+    {
+      "var1": 2017,
+      "var2": 109293,
+      "var3": 8759,
+      "var4": 71062,
+      "var5": 20589,
+      "var6": 8883
+    },
+    {
+      "var1": 2018,
+      "var2": 109297,
+      "var3": 8891,
+      "var4": 70776,
+      "var5": 21110,
+      "var6": 8520
+    },
+    {
+      "var1": 2019,
+      "var2": 109472,
+      "var3": 9277,
+      "var4": 70653,
+      "var5": 21421,
+      "var6": 8121
+    },
+    {
+      "var1": 2020,
+      "var2": 109287,
+      "var3": 9320,
+      "var4": 70649,
+      "var5": 21897,
+      "var6": 7421
+    },
+    {
+      "var1": 2021,
+      "var2": 110503,
+      "var3": 9876,
+      "var4": 70860,
+      "var5": 22549,
+      "var6": 7218
+    },
+    {
+      "var1": 2022,
+      "var2": 111824,
+      "var3": 10513,
+      "var4": 71040,
+      "var5": 22815,
+      "var6": 7456
+    },
+    {
+      "var1": 2023,
+      "var2": 112404,
+      "var3": 11012,
+      "var4": 70381,
+      "var5": 23428,
+      "var6": 7583
+    }
+  ]
+}

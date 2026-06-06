@@ -1,0 +1,502 @@
+{
+  "id": "bautaetigkeit-und-wohnen/baufertigstellungen-nach-gebaeudeart",
+  "title": "Baufertigstellungen nach Gebäudeart",
+  "category": "Bautätigkeit und Wohnen",
+  "subcategory": "Baufertigstellungen",
+  "tableId": "K6_T20",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bautaetigkeit-und-wohnen/baufertigstellungen-nach-gebaeudeart.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Baufertigstellungen nach Gebäudeart.xlsx"
+  },
+  "description": "Baufertigstellungen nach Gebäudeart. Aufgliederung nach Bauwerksart (Wohn-/Nichtwohn-/Misch-Gebäude in verschiedenen Detailkategorien) in var2..var12 nicht zuverlässig zuzuordnen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        408,
+        428,
+        499
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        490,
+        474,
+        683
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        394,
+        421,
+        486
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        407,
+        436,
+        503
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        46,
+        36,
+        34
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        26,
+        0,
+        3
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        516,
+        474,
+        686
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        55800,
+        55733,
+        71906
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        130,
+        180,
+        205
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        14,
+        9,
+        16
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        131,
+        101,
+        -182
+      ]
+    }
+  ],
+  "rowCount": 24,
+  "rows": [
+    {
+      "var1": 2001,
+      "var2": 408,
+      "var3": 490,
+      "var4": 394,
+      "var5": 407,
+      "var6": 46,
+      "var7": 26,
+      "var8": 516,
+      "var9": 55800,
+      "var10": 130,
+      "var11": 14,
+      "var12": 131
+    },
+    {
+      "var1": 2002,
+      "var2": 428,
+      "var3": 474,
+      "var4": 421,
+      "var5": 436,
+      "var6": 36,
+      "var7": 0,
+      "var8": 474,
+      "var9": 55733,
+      "var10": 180,
+      "var11": 9,
+      "var12": 101
+    },
+    {
+      "var1": 2003,
+      "var2": 499,
+      "var3": 683,
+      "var4": 486,
+      "var5": 503,
+      "var6": 34,
+      "var7": 3,
+      "var8": 686,
+      "var9": 71906,
+      "var10": 205,
+      "var11": 16,
+      "var12": -182
+    },
+    {
+      "var1": 2004,
+      "var2": 575,
+      "var3": 645,
+      "var4": 566,
+      "var5": 594,
+      "var6": 33,
+      "var7": 27,
+      "var8": 672,
+      "var9": 76551,
+      "var10": 179,
+      "var11": 24,
+      "var12": -67
+    },
+    {
+      "var1": 2005,
+      "var2": 406,
+      "var3": 491,
+      "var4": 396,
+      "var5": 416,
+      "var6": 28,
+      "var7": 9,
+      "var8": 500,
+      "var9": 57044,
+      "var10": 231,
+      "var11": 25,
+      "var12": 6
+    },
+    {
+      "var1": 2006,
+      "var2": 411,
+      "var3": 513,
+      "var4": 394,
+      "var5": 409,
+      "var6": 42,
+      "var7": 1,
+      "var8": 514,
+      "var9": 60413,
+      "var10": 197,
+      "var11": 43,
+      "var12": 69
+    },
+    {
+      "var1": 2007,
+      "var2": 278,
+      "var3": 299,
+      "var4": 273,
+      "var5": 285,
+      "var6": 34,
+      "var7": 0,
+      "var8": 299,
+      "var9": 36536,
+      "var10": 170,
+      "var11": 38,
+      "var12": -92
+    },
+    {
+      "var1": 2008,
+      "var2": 215,
+      "var3": 234,
+      "var4": 212,
+      "var5": 218,
+      "var6": 39,
+      "var7": 4,
+      "var8": 238,
+      "var9": 29871,
+      "var10": 183,
+      "var11": 22,
+      "var12": 128
+    },
+    {
+      "var1": 2009,
+      "var2": 233,
+      "var3": 318,
+      "var4": 218,
+      "var5": 221,
+      "var6": 47,
+      "var7": 0,
+      "var8": 318,
+      "var9": 35681,
+      "var10": 172,
+      "var11": 44,
+      "var12": 441
+    },
+    {
+      "var1": 2010,
+      "var2": 226,
+      "var3": 287,
+      "var4": 214,
+      "var5": 219,
+      "var6": 26,
+      "var7": 2,
+      "var8": 289,
+      "var9": 37070,
+      "var10": 139,
+      "var11": 35,
+      "var12": 65
+    },
+    {
+      "var1": 2011,
+      "var2": 222,
+      "var3": 304,
+      "var4": 211,
+      "var5": 220,
+      "var6": 28,
+      "var7": 3,
+      "var8": 307,
+      "var9": 39355,
+      "var10": 142,
+      "var11": 19,
+      "var12": -18
+    },
+    {
+      "var1": 2012,
+      "var2": 241,
+      "var3": 313,
+      "var4": 223,
+      "var5": 225,
+      "var6": 18,
+      "var7": 0,
+      "var8": 313,
+      "var9": 40062,
+      "var10": 144,
+      "var11": 21,
+      "var12": 7
+    },
+    {
+      "var1": 2013,
+      "var2": 300,
+      "var3": 448,
+      "var4": 277,
+      "var5": 284,
+      "var6": 40,
+      "var7": 2,
+      "var8": 450,
+      "var9": 53263,
+      "var10": 190,
+      "var11": 29,
+      "var12": 311
+    },
+    {
+      "var1": 2014,
+      "var2": 266,
+      "var3": 368,
+      "var4": 253,
+      "var5": 258,
+      "var6": 29,
+      "var7": 4,
+      "var8": 372,
+      "var9": 46379,
+      "var10": 89,
+      "var11": 16,
+      "var12": 128
+    },
+    {
+      "var1": 2015,
+      "var2": 271,
+      "var3": 345,
+      "var4": 259,
+      "var5": 266,
+      "var6": 20,
+      "var7": 1,
+      "var8": 346,
+      "var9": 47657,
+      "var10": 101,
+      "var11": 13,
+      "var12": 77
+    },
+    {
+      "var1": 2016,
+      "var2": 264,
+      "var3": 362,
+      "var4": 258,
+      "var5": 265,
+      "var6": 30,
+      "var7": 4,
+      "var8": 366,
+      "var9": 46515,
+      "var10": 91,
+      "var11": 16,
+      "var12": 163
+    },
+    {
+      "var1": 2017,
+      "var2": 249,
+      "var3": 491,
+      "var4": 223,
+      "var5": 230,
+      "var6": 32,
+      "var7": 10,
+      "var8": 501,
+      "var9": 55565,
+      "var10": 85,
+      "var11": 15,
+      "var12": 142
+    },
+    {
+      "var1": 2018,
+      "var2": 253,
+      "var3": 337,
+      "var4": 240,
+      "var5": 244,
+      "var6": 28,
+      "var7": 0,
+      "var8": 337,
+      "var9": 44128,
+      "var10": 77,
+      "var11": 14,
+      "var12": 322
+    },
+    {
+      "var1": 2019,
+      "var2": 314,
+      "var3": 673,
+      "var4": 280,
+      "var5": 289,
+      "var6": 29,
+      "var7": 19,
+      "var8": 692,
+      "var9": 83022,
+      "var10": 123,
+      "var11": 20,
+      "var12": 95
+    },
+    {
+      "var1": 2020,
+      "var2": 205,
+      "var3": 353,
+      "var4": 193,
+      "var5": 199,
+      "var6": 29,
+      "var7": 8,
+      "var8": 361,
+      "var9": 39942,
+      "var10": 111,
+      "var11": 24,
+      "var12": 145
+    },
+    {
+      "var1": 2021,
+      "var2": 172,
+      "var3": 753,
+      "var4": 131,
+      "var5": 137,
+      "var6": 38,
+      "var7": 2,
+      "var8": 755,
+      "var9": 67054,
+      "var10": 191,
+      "var11": 26,
+      "var12": 341
+    },
+    {
+      "var1": 2022,
+      "var2": 314,
+      "var3": 980,
+      "var4": 275,
+      "var5": 278,
+      "var6": 45,
+      "var7": 52,
+      "var8": 1032,
+      "var9": 84070,
+      "var10": 131,
+      "var11": 26,
+      "var12": 70
+    },
+    {
+      "var1": 2023,
+      "var2": 224,
+      "var3": 679,
+      "var4": 202,
+      "var5": 203,
+      "var6": 32,
+      "var7": 51,
+      "var8": 730,
+      "var9": 56111,
+      "var10": 90,
+      "var11": 18,
+      "var12": 217
+    },
+    {
+      "var1": 2024,
+      "var2": 142,
+      "var3": 549,
+      "var4": 122,
+      "var5": 126,
+      "var6": 26,
+      "var7": 231,
+      "var8": 780,
+      "var9": 46917,
+      "var10": 85,
+      "var11": 11,
+      "var12": 10
+    }
+  ]
+}

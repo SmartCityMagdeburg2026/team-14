@@ -1,0 +1,610 @@
+{
+  "id": "wirtschaft/messen-in-magdeburg",
+  "title": "Messen in Magdeburg",
+  "category": "Wirtschaft",
+  "subcategory": "Messen und Märkte",
+  "tableId": "K7_T109",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/messen-in-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Messen in Magdeburg.xlsx"
+  },
+  "description": "Messen in Magdeburg. var4..var7 enthalten Aussteller-, Besucher- und Umsatzzahlen, die LLM-Labels waren mit den Wertgrößen nicht konsistent.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2013,
+        2013,
+        2013
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Name der Messe",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "MAGDEBOOT",
+        "Tierwelt",
+        "Magdeburger Gesundheitstage"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Datum",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "08. - 10.03.2013",
+        "05. - 07.04.2013",
+        "21. - 22.09.2013"
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        116,
+        137,
+        45
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        79,
+        88,
+        33
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        45,
+        77,
+        32
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5900,
+        14365,
+        14592
+      ]
+    }
+  ],
+  "rowCount": 56,
+  "rows": [
+    {
+      "var1": 2013,
+      "var2": "MAGDEBOOT",
+      "var3": "08. - 10.03.2013",
+      "var4": 116,
+      "var5": 79,
+      "var6": 45,
+      "var7": 5900
+    },
+    {
+      "var1": 2013,
+      "var2": "Tierwelt",
+      "var3": "05. - 07.04.2013",
+      "var4": 137,
+      "var5": 88,
+      "var6": 77,
+      "var7": 14365
+    },
+    {
+      "var1": 2013,
+      "var2": "Magdeburger Gesundheitstage",
+      "var3": "21. - 22.09.2013",
+      "var4": 45,
+      "var5": 33,
+      "var6": 32,
+      "var7": 14592
+    },
+    {
+      "var1": 2013,
+      "var2": "Herbstgeflüster",
+      "var3": "21. - 22.09.2013",
+      "var4": 64,
+      "var5": 37,
+      "var6": 27,
+      "var7": 14592
+    },
+    {
+      "var1": 2013,
+      "var2": "Perspektiven",
+      "var3": "11. - 12.10.2013",
+      "var4": 156,
+      "var5": 144,
+      "var6": 134,
+      "var7": 9200
+    },
+    {
+      "var1": 2013,
+      "var2": "Magdeburger Meeres- und Raubfischangeltage",
+      "var3": "09. - 10.11.2013",
+      "var4": 97,
+      "var5": 32,
+      "var6": 9,
+      "var7": 5700
+    },
+    {
+      "var1": 2014,
+      "var2": "MAGDEBOOT",
+      "var3": "14. - 16.03.2014",
+      "var4": 121,
+      "var5": 87,
+      "var6": 36,
+      "var7": 6700
+    },
+    {
+      "var1": 2014,
+      "var2": "Tierwelt",
+      "var3": "11. - 13.04.2014",
+      "var4": 126,
+      "var5": 85,
+      "var6": 69,
+      "var7": 13293
+    },
+    {
+      "var1": 2014,
+      "var2": "Kinderwelt",
+      "var3": "17. - 18.05.2014",
+      "var4": 46,
+      "var5": 41,
+      "var6": 32,
+      "var7": 2808
+    },
+    {
+      "var1": 2014,
+      "var2": "Magdeburger Gesundheitstage",
+      "var3": "20. - 21.09.2014",
+      "var4": 47,
+      "var5": 37,
+      "var6": 32,
+      "var7": 13123
+    },
+    {
+      "var1": 2014,
+      "var2": "Herbstgeflüster",
+      "var3": "20. - 21.09.2014",
+      "var4": 54,
+      "var5": 33,
+      "var6": 23,
+      "var7": 13123
+    },
+    {
+      "var1": 2014,
+      "var2": "Perspektiven",
+      "var3": "10. - 11.10.2014",
+      "var4": 93,
+      "var5": 79,
+      "var6": 70,
+      "var7": 9250
+    },
+    {
+      "var1": 2014,
+      "var2": "Magdeburger Meeres- und Raubfischangeltage",
+      "var3": "08. - 09.11.2014",
+      "var4": 108,
+      "var5": 24,
+      "var6": 7,
+      "var7": 7000
+    },
+    {
+      "var1": 2015,
+      "var2": "MAGDEBOOT",
+      "var3": "13. - 15.03.2015",
+      "var4": 128,
+      "var5": 85,
+      "var6": 56,
+      "var7": 7051
+    },
+    {
+      "var1": 2015,
+      "var2": "Tierwelt",
+      "var3": "10. - 12.04.2015",
+      "var4": 138,
+      "var5": 85,
+      "var6": 68,
+      "var7": 14639
+    },
+    {
+      "var1": 2015,
+      "var2": "Herbstgeflüster",
+      "var3": "19. - 20.09.2015",
+      "var4": 56,
+      "var5": 29,
+      "var6": 24,
+      "var7": 13929
+    },
+    {
+      "var1": 2015,
+      "var2": "Perspektiven",
+      "var3": "09. - 10.10.2015",
+      "var4": 172,
+      "var5": 145,
+      "var6": 129,
+      "var7": 8828
+    },
+    {
+      "var1": 2015,
+      "var2": "Magdeburger Gesundheitstage",
+      "var3": "24. - 25.10.2015",
+      "var4": 71,
+      "var5": 60,
+      "var6": 56,
+      "var7": 3300
+    },
+    {
+      "var1": 2015,
+      "var2": "Kinderwelt",
+      "var3": "24. - 25.10.2015",
+      "var4": 41,
+      "var5": 30,
+      "var6": 26,
+      "var7": 3300
+    },
+    {
+      "var1": 2015,
+      "var2": "Magdeburger Meeres- und Raubfischangeltage",
+      "var3": "07. - 08.11.2015",
+      "var4": 119,
+      "var5": 37,
+      "var6": 9,
+      "var7": 7046
+    },
+    {
+      "var1": 2016,
+      "var2": "MAGDEBOOT",
+      "var3": "11. - 13.03.2016",
+      "var4": 114,
+      "var5": 77,
+      "var6": 36,
+      "var7": 5459
+    },
+    {
+      "var1": 2016,
+      "var2": "Tierwelt",
+      "var3": "01. - 03.04.2016",
+      "var4": 124,
+      "var5": 74,
+      "var6": 59,
+      "var7": 14094
+    },
+    {
+      "var1": 2016,
+      "var2": "Magdeburger Gesundheitstage",
+      "var3": "17. - 18.09.2016",
+      "var4": 57,
+      "var5": 49,
+      "var6": 46,
+      "var7": 10835
+    },
+    {
+      "var1": 2016,
+      "var2": "Herbstgeflüster",
+      "var3": "17. - 18.09.2016",
+      "var4": 47,
+      "var5": 27,
+      "var6": 22,
+      "var7": 10835
+    },
+    {
+      "var1": 2016,
+      "var2": "Perspektiven",
+      "var3": "23. - 24.09.2016",
+      "var4": 146,
+      "var5": 135,
+      "var6": 120,
+      "var7": 8800
+    },
+    {
+      "var1": 2016,
+      "var2": "Magdeburger Meeres- und Raubfischangeltage",
+      "var3": "05. - 06.11.2016",
+      "var4": 108,
+      "var5": 27,
+      "var6": 8,
+      "var7": 7400
+    },
+    {
+      "var1": 2017,
+      "var2": "MAGDEBOOT",
+      "var3": "10. - 12.03.2017",
+      "var4": 89,
+      "var5": 51,
+      "var6": 25,
+      "var7": 5219
+    },
+    {
+      "var1": 2017,
+      "var2": "Tierwelt",
+      "var3": "07. - 09.04.2017",
+      "var4": 112,
+      "var5": 59,
+      "var6": 46,
+      "var7": 11923
+    },
+    {
+      "var1": 2017,
+      "var2": "Magdeburger Gesundheitstage",
+      "var3": "16. - 17.09.2017",
+      "var4": 52,
+      "var5": 39,
+      "var6": 30,
+      "var7": 10732
+    },
+    {
+      "var1": 2017,
+      "var2": "Herbstgeflüster",
+      "var3": "16. - 17.09.2017",
+      "var4": 41,
+      "var5": 18,
+      "var6": 17,
+      "var7": 10732
+    },
+    {
+      "var1": 2017,
+      "var2": "Perspektiven",
+      "var3": "22. - 23.09.2017",
+      "var4": 92,
+      "var5": 77,
+      "var6": 62,
+      "var7": 9616
+    },
+    {
+      "var1": 2017,
+      "var2": "Magdeburger Meeres- und Raubfischangeltage",
+      "var3": "11. - 12.11.2017",
+      "var4": 98,
+      "var5": 32,
+      "var6": 8,
+      "var7": 7265
+    },
+    {
+      "var1": 2018,
+      "var2": "MAGDEBOOT",
+      "var3": "09. - 11.03.2018",
+      "var4": 101,
+      "var5": 63,
+      "var6": 33,
+      "var7": 5866
+    },
+    {
+      "var1": 2018,
+      "var2": "Tierwelt",
+      "var3": "06. - 08.04.2018",
+      "var4": 126,
+      "var5": 68,
+      "var6": 51,
+      "var7": 11879
+    },
+    {
+      "var1": 2018,
+      "var2": "Magdeburger Gesundheitstage",
+      "var3": "15. - 16.09.2018",
+      "var4": 48,
+      "var5": 39,
+      "var6": 28,
+      "var7": 11652
+    },
+    {
+      "var1": 2018,
+      "var2": "Herbstgeflüster",
+      "var3": "15. - 16.09.2018",
+      "var4": 56,
+      "var5": 36,
+      "var6": 16,
+      "var7": 11652
+    },
+    {
+      "var1": 2018,
+      "var2": "Perspektiven",
+      "var3": "21. - 22.09.2018",
+      "var4": 105,
+      "var5": 89,
+      "var6": 73,
+      "var7": 9248
+    },
+    {
+      "var1": 2018,
+      "var2": "Magdeburger Meeres- und Raubfischangeltage",
+      "var3": "10. - 11.11.2018",
+      "var4": 114,
+      "var5": 43,
+      "var6": 7,
+      "var7": 7200
+    },
+    {
+      "var1": 2019,
+      "var2": "MAGDEBOOT",
+      "var3": "15. - 17.03.2019",
+      "var4": 97,
+      "var5": 62,
+      "var6": 33,
+      "var7": 6415
+    },
+    {
+      "var1": 2019,
+      "var2": "Tierwelt",
+      "var3": "06. - 07.04.2019",
+      "var4": 103,
+      "var5": 52,
+      "var6": 38,
+      "var7": 10721
+    },
+    {
+      "var1": 2019,
+      "var2": "Aktiv & Gesund",
+      "var3": "14. - 15.09.2019",
+      "var4": 48,
+      "var5": 38,
+      "var6": 29,
+      "var7": 9986
+    },
+    {
+      "var1": 2019,
+      "var2": "Herbstgeflüster",
+      "var3": "14. - 15.09.2019",
+      "var4": 41,
+      "var5": 22,
+      "var6": 8,
+      "var7": 9986
+    },
+    {
+      "var1": 2019,
+      "var2": "Perspektiven",
+      "var3": "20. - 21.09.2019",
+      "var4": 116,
+      "var5": 101,
+      "var6": 89,
+      "var7": 7788
+    },
+    {
+      "var1": 2019,
+      "var2": "Magdeburger Meeres- und Raubfischangeltage",
+      "var3": "09. - 10.11.2019",
+      "var4": 102,
+      "var5": 26,
+      "var6": 10,
+      "var7": 7706
+    },
+    {
+      "var1": 2020,
+      "var2": "MAGDEBOOT",
+      "var3": "13. - 15.03.2020",
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Tierwelt",
+      "var3": "18. - 19.04.2020",
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Aktiv & Gesund",
+      "var3": "19. - 20.09.2020",
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Herbstgeflüster",
+      "var3": "19. - 20.09.2020",
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Perspektiven",
+      "var3": "09. - 10.10.2020",
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2020,
+      "var2": "Magdeburger Meeres- und Raubfischangeltage",
+      "var3": "07. - 08.11.2020",
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Tierwelt",
+      "var3": "09. - 11.04.2021",
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Aktiv & Gesund",
+      "var3": "18. - 19.09.2021",
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Herbstgeflüster",
+      "var3": "18. - 19.09.2021",
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Perspektiven",
+      "var3": "24. - 25.09.2021",
+      "var4": 107,
+      "var5": 103,
+      "var6": 100,
+      "var7": 4603
+    },
+    {
+      "var1": 2021,
+      "var2": "MAGDEBOOT",
+      "var3": "15. - 17.10.2021",
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2021,
+      "var2": "Magdeburger Angeltage",
+      "var3": "06. - 07.11.2021",
+      "var4": 88,
+      "var5": 23,
+      "var6": 9,
+      "var7": 4416
+    }
+  ]
+}

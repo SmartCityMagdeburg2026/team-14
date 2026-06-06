@@ -1,0 +1,232 @@
+{
+  "id": "wirtschaft/betriebe-taetige-personen-entgelte-und-umsatz-im-bauhauptgewerbe-gemaess-ergaenzungshaupterhebung",
+  "title": "Betriebe, tätige Personen, Entgelte und Umsatz im Bauhauptgewerbe gemäß Ergänzungshaupterhebung",
+  "category": "Wirtschaft",
+  "subcategory": "Baugewerbe",
+  "tableId": "K7_T25",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/betriebe-taetige-personen-entgelte-und-umsatz-im-bauhauptgewerbe-gemaess-ergaenzungshaupterhebung.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Betriebe, tätige Personen, Entgelte und Umsatz im Bauhauptgewerbe gemäß Ergänzungshaupterhebung.xlsx"
+  },
+  "description": "Betriebe, tätige Personen, Entgelte und Umsatz im Bauhauptgewerbe gemäß Ergänzungshaupterhebung. var4/var5 enthalten weitere Aufschlüsselungen, die nicht zuverlässig zuzuordnen waren.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2009,
+        2010,
+        2011
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Betriebe",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        206,
+        209,
+        202
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Tätige Personen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        3316,
+        3363,
+        3300
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        379,
+        410,
+        372
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        6963,
+        7044,
+        6902
+      ]
+    },
+    {
+      "key": "var6",
+      "label": "Entgelte gesamt",
+      "unit": "1.000 EUR",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        38559,
+        40164,
+        40665
+      ]
+    },
+    {
+      "key": "var7",
+      "label": "Umsatz gesamt",
+      "unit": "1.000 EUR",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        39042,
+        40848,
+        43319
+      ]
+    }
+  ],
+  "rowCount": 14,
+  "rows": [
+    {
+      "var1": 2009,
+      "var2": 206,
+      "var3": 3316,
+      "var4": 379,
+      "var5": 6963,
+      "var6": 38559,
+      "var7": null
+    },
+    {
+      "var1": 2010,
+      "var2": 209,
+      "var3": 3363,
+      "var4": 410,
+      "var5": 7044,
+      "var6": 40164,
+      "var7": null
+    },
+    {
+      "var1": 2011,
+      "var2": 202,
+      "var3": 3300,
+      "var4": 372,
+      "var5": 6902,
+      "var6": 40665,
+      "var7": null
+    },
+    {
+      "var1": 2012,
+      "var2": 204,
+      "var3": 3821,
+      "var4": 458,
+      "var5": 8853,
+      "var6": 38111,
+      "var7": null
+    },
+    {
+      "var1": 2013,
+      "var2": 200,
+      "var3": 3383,
+      "var4": 401,
+      "var5": 7904,
+      "var6": 31122,
+      "var7": null
+    },
+    {
+      "var1": 2014,
+      "var2": 203,
+      "var3": 2759,
+      "var4": 303,
+      "var5": 6363,
+      "var6": 28736,
+      "var7": null
+    },
+    {
+      "var1": 2015,
+      "var2": 202,
+      "var3": 2733,
+      "var4": 315,
+      "var5": 6446,
+      "var6": 28582,
+      "var7": null
+    },
+    {
+      "var1": 2016,
+      "var2": 207,
+      "var3": 2657,
+      "var4": 305,
+      "var5": 6336,
+      "var6": 28330,
+      "var7": null
+    },
+    {
+      "var1": 2017,
+      "var2": 195,
+      "var3": 2802,
+      "var4": 303,
+      "var5": 7270,
+      "var6": 32586,
+      "var7": null
+    },
+    {
+      "var1": 2018,
+      "var2": 187,
+      "var3": 2940,
+      "var4": 339,
+      "var5": 8054,
+      "var6": 35320,
+      "var7": null
+    },
+    {
+      "var1": 2019,
+      "var2": 191,
+      "var3": 2950,
+      "var4": 316,
+      "var5": 8265,
+      "var6": null,
+      "var7": 39042
+    },
+    {
+      "var1": 2020,
+      "var2": 200,
+      "var3": 3092,
+      "var4": 343,
+      "var5": 9329,
+      "var6": null,
+      "var7": 40848
+    },
+    {
+      "var1": 2021,
+      "var2": 208,
+      "var3": 3156,
+      "var4": 359,
+      "var5": 9533,
+      "var6": null,
+      "var7": 43319
+    },
+    {
+      "var1": 2022,
+      "var2": 211,
+      "var3": 3177,
+      "var4": 343,
+      "var5": 10565,
+      "var6": null,
+      "var7": 46547
+    }
+  ]
+}

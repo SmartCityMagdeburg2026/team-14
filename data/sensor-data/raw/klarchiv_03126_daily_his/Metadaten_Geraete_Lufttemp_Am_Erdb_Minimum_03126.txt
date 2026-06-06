@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3126;Magdeburg;11.63;52.13;56;.05;19360101;19381130;Minimumthermometer;Temperaturmessung, konv.;eor;
+3126;Magdeburg;11.72;52.13;45;.05;19381201;19450131;Minimumthermometer;Temperaturmessung, konv.;eor;
+3126;Magdeburg;11.58;52.1;79;.05;19461101;19880405;Minimumthermometer;Temperaturmessung, konv.;eor;
+3126;Magdeburg;11.58;52.1;79;.05;19880406;20060405;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+3126;Magdeburg;11.58;52.1;79;.05;20060406;20250506;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 15.05.2025 --  Deutscher Wetterdienst  --

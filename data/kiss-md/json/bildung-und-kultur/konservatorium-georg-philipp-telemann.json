@@ -1,0 +1,222 @@
+{
+  "id": "bildung-und-kultur/konservatorium-georg-philipp-telemann",
+  "title": "Konservatorium Georg-Philipp-Telemann",
+  "category": "Bildung und Kultur",
+  "subcategory": "Konservatorium Georg-Philipp-Telemann",
+  "tableId": "K5_T23",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bildung-und-kultur/konservatorium-georg-philipp-telemann.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Konservatorium Georg-Philipp-Telemann.xlsx"
+  },
+  "description": "Konservatorium Georg-Philipp-Telemann — Kennzahlen zu Schülern, Lehrkräften, Kursen, Veranstaltungen. Die 11 Detail-Spalten waren mit den LLM-Labels nicht konsistent (unplausibel hohe Studierenden-/Lehrkräftezahlen).",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2022,
+        2023,
+        2024
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2650,
+        2561,
+        2453
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1161,
+        1136,
+        1058
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1482,
+        1417,
+        1382
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        7,
+        8,
+        13
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        360,
+        382,
+        401
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        682,
+        631,
+        528
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1623,
+        1636,
+        1577
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        817,
+        802,
+        756
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        325,
+        316,
+        291
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        104,
+        103,
+        101
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1588.3,
+        1564.3,
+        1485.3
+      ]
+    }
+  ],
+  "rowCount": 4,
+  "rows": [
+    {
+      "var1": 2022,
+      "var2": 2650,
+      "var3": 1161,
+      "var4": 1482,
+      "var5": 7,
+      "var6": 360,
+      "var7": 682,
+      "var8": 1623,
+      "var9": 817,
+      "var10": 325,
+      "var11": 104,
+      "var12": 1588.3
+    },
+    {
+      "var1": 2023,
+      "var2": 2561,
+      "var3": 1136,
+      "var4": 1417,
+      "var5": 8,
+      "var6": 382,
+      "var7": 631,
+      "var8": 1636,
+      "var9": 802,
+      "var10": 316,
+      "var11": 103,
+      "var12": 1564.3
+    },
+    {
+      "var1": 2024,
+      "var2": 2453,
+      "var3": 1058,
+      "var4": 1382,
+      "var5": 13,
+      "var6": 401,
+      "var7": 528,
+      "var8": 1577,
+      "var9": 756,
+      "var10": 291,
+      "var11": 101,
+      "var12": 1485.3
+    },
+    {
+      "var1": 2025,
+      "var2": 2452,
+      "var3": 1067,
+      "var4": 1383,
+      "var5": 2,
+      "var6": 393,
+      "var7": 528,
+      "var8": 1642,
+      "var9": 799,
+      "var10": 304,
+      "var11": 99,
+      "var12": 1558
+    }
+  ]
+}

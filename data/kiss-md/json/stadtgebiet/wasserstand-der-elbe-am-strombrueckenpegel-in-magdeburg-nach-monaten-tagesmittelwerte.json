@@ -1,0 +1,718 @@
+{
+  "id": "stadtgebiet/wasserstand-der-elbe-am-strombrueckenpegel-in-magdeburg-nach-monaten-tagesmittelwerte",
+  "title": "Wasserstand der Elbe am Strombrückenpegel in Magdeburg nach Monaten (Tagesmittelwerte)",
+  "category": "Stadtgebiet",
+  "subcategory": "Die Elbe im Stadtgebiet Magdeburg",
+  "tableId": "K2_T5_1",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/stadtgebiet/wasserstand-der-elbe-am-strombrueckenpegel-in-magdeburg-nach-monaten-tagesmittelwerte.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Wasserstand der Elbe am Strombrückenpegel in Magdeburg  nach Monaten (Tagesmittelwerte).xlsx"
+  },
+  "description": "Wasserstand der Elbe am Strombrückenpegel Magdeburg, monatliche Statistiken (Tagesmittelwerte in cm). var3..var6 enthalten Mittelwert/Min/Max/extreme Werte, deren konkrete Zuordnung nicht eindeutig war.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2019,
+        2019,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Monat",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Januar",
+        "Februar",
+        "März"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        206,
+        202,
+        255
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        124,
+        167,
+        196
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        296,
+        244,
+        331
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        298,
+        246,
+        333
+      ]
+    }
+  ],
+  "rowCount": 78,
+  "rows": [
+    {
+      "var1": 2019,
+      "var2": "Januar",
+      "var3": 206,
+      "var4": 124,
+      "var5": 296,
+      "var6": 298
+    },
+    {
+      "var1": 2019,
+      "var2": "Februar",
+      "var3": 202,
+      "var4": 167,
+      "var5": 244,
+      "var6": 246
+    },
+    {
+      "var1": 2019,
+      "var2": "März",
+      "var3": 255,
+      "var4": 196,
+      "var5": 331,
+      "var6": 333
+    },
+    {
+      "var1": 2019,
+      "var2": "April",
+      "var3": 157,
+      "var4": 111,
+      "var5": 222,
+      "var6": 226
+    },
+    {
+      "var1": 2019,
+      "var2": "Mai",
+      "var3": 117,
+      "var4": 100,
+      "var5": 150,
+      "var6": 154
+    },
+    {
+      "var1": 2019,
+      "var2": "Juni",
+      "var3": 99,
+      "var4": 65,
+      "var5": 153,
+      "var6": 154
+    },
+    {
+      "var1": 2019,
+      "var2": "Juli",
+      "var3": 53,
+      "var4": 45,
+      "var5": 63,
+      "var6": 67
+    },
+    {
+      "var1": 2019,
+      "var2": "August",
+      "var3": 52,
+      "var4": 45,
+      "var5": 61,
+      "var6": 63
+    },
+    {
+      "var1": 2019,
+      "var2": "September",
+      "var3": 55,
+      "var4": 48,
+      "var5": 78,
+      "var6": 80
+    },
+    {
+      "var1": 2019,
+      "var2": "Oktober",
+      "var3": 87,
+      "var4": 56,
+      "var5": 103,
+      "var6": 104
+    },
+    {
+      "var1": 2019,
+      "var2": "November",
+      "var3": 80,
+      "var4": 75,
+      "var5": 95,
+      "var6": 96
+    },
+    {
+      "var1": 2019,
+      "var2": "Dezember",
+      "var3": 86,
+      "var4": 73,
+      "var5": 104,
+      "var6": 106
+    },
+    {
+      "var1": 2019,
+      "var2": "Jahrergebnis",
+      "var3": 120,
+      "var4": 45,
+      "var5": 331,
+      "var6": 333
+    },
+    {
+      "var1": 2020,
+      "var2": "Januar",
+      "var3": 92.4516129032258,
+      "var4": 78,
+      "var5": 104,
+      "var6": 106
+    },
+    {
+      "var1": 2020,
+      "var2": "Februar",
+      "var3": 173.586206896552,
+      "var4": 83,
+      "var5": 243,
+      "var6": 246
+    },
+    {
+      "var1": 2020,
+      "var2": "März",
+      "var3": 224.903225806452,
+      "var4": 149,
+      "var5": 300,
+      "var6": 302
+    },
+    {
+      "var1": 2020,
+      "var2": "April",
+      "var3": 104.8,
+      "var4": 77,
+      "var5": 145,
+      "var6": 148
+    },
+    {
+      "var1": 2020,
+      "var2": "Mai",
+      "var3": 75.3870967741936,
+      "var4": 66,
+      "var5": 85,
+      "var6": 87
+    },
+    {
+      "var1": 2020,
+      "var2": "Juni",
+      "var3": 116.866666666667,
+      "var4": 63,
+      "var5": 221,
+      "var6": 224
+    },
+    {
+      "var1": 2020,
+      "var2": "Juli",
+      "var3": 113.516129032258,
+      "var4": 74,
+      "var5": 204,
+      "var6": 208
+    },
+    {
+      "var1": 2020,
+      "var2": "August",
+      "var3": 85.5161290322581,
+      "var4": 64,
+      "var5": 112,
+      "var6": 114
+    },
+    {
+      "var1": 2020,
+      "var2": "September",
+      "var3": 85.7666666666667,
+      "var4": 61,
+      "var5": 114,
+      "var6": 115
+    },
+    {
+      "var1": 2020,
+      "var2": "Oktober",
+      "var3": 149.096774193548,
+      "var4": 104,
+      "var5": 237,
+      "var6": 238
+    },
+    {
+      "var1": 2020,
+      "var2": "November",
+      "var3": 164.8,
+      "var4": 102,
+      "var5": 218,
+      "var6": 220
+    },
+    {
+      "var1": 2020,
+      "var2": "Dezember",
+      "var3": 97.258064516129,
+      "var4": 86,
+      "var5": 116,
+      "var6": 118
+    },
+    {
+      "var1": 2020,
+      "var2": "Jahrergebnis",
+      "var3": 123,
+      "var4": 61,
+      "var5": 300,
+      "var6": 302
+    },
+    {
+      "var1": 2021,
+      "var2": "Januar",
+      "var3": 126,
+      "var4": 98,
+      "var5": 190,
+      "var6": 203
+    },
+    {
+      "var1": 2021,
+      "var2": "Februar",
+      "var3": 313,
+      "var4": 225,
+      "var5": 387,
+      "var6": 389
+    },
+    {
+      "var1": 2021,
+      "var2": "März",
+      "var3": 225,
+      "var4": 183,
+      "var5": 305,
+      "var6": 310
+    },
+    {
+      "var1": 2021,
+      "var2": "April",
+      "var3": 162,
+      "var4": 129,
+      "var5": 187,
+      "var6": 189
+    },
+    {
+      "var1": 2021,
+      "var2": "Mai",
+      "var3": 199,
+      "var4": 128,
+      "var5": 289,
+      "var6": 292
+    },
+    {
+      "var1": 2021,
+      "var2": "Juni",
+      "var3": 135,
+      "var4": 93,
+      "var5": 191,
+      "var6": 194
+    },
+    {
+      "var1": 2021,
+      "var2": "Juli",
+      "var3": 215,
+      "var4": 149,
+      "var5": 305,
+      "var6": 307
+    },
+    {
+      "var1": 2021,
+      "var2": "August",
+      "var3": 145,
+      "var4": 105,
+      "var5": 216,
+      "var6": 217
+    },
+    {
+      "var1": 2021,
+      "var2": "September",
+      "var3": 143,
+      "var4": 97,
+      "var5": 226,
+      "var6": 228
+    },
+    {
+      "var1": 2021,
+      "var2": "Oktober",
+      "var3": 110,
+      "var4": 101,
+      "var5": 127,
+      "var6": 128
+    },
+    {
+      "var1": 2021,
+      "var2": "November",
+      "var3": 127,
+      "var4": 99,
+      "var5": 178,
+      "var6": 183
+    },
+    {
+      "var1": 2021,
+      "var2": "Dezember",
+      "var3": 128,
+      "var4": 98,
+      "var5": 154,
+      "var6": 156
+    },
+    {
+      "var1": 2021,
+      "var2": "Jahrergebnis",
+      "var3": 168,
+      "var4": 93,
+      "var5": 387,
+      "var6": 388
+    },
+    {
+      "var1": 2022,
+      "var2": "Januar",
+      "var3": 220,
+      "var4": 159,
+      "var5": 301,
+      "var6": 302
+    },
+    {
+      "var1": 2022,
+      "var2": "Februar",
+      "var3": 269,
+      "var4": 199,
+      "var5": 339,
+      "var6": 342
+    },
+    {
+      "var1": 2022,
+      "var2": "März",
+      "var3": 186,
+      "var4": 139,
+      "var5": 280,
+      "var6": 290
+    },
+    {
+      "var1": 2022,
+      "var2": "April",
+      "var3": 156,
+      "var4": 141,
+      "var5": 180,
+      "var6": 182
+    },
+    {
+      "var1": 2022,
+      "var2": "Mai",
+      "var3": 115,
+      "var4": 91,
+      "var5": 154,
+      "var6": 157
+    },
+    {
+      "var1": 2022,
+      "var2": "Juni",
+      "var3": 76,
+      "var4": 61,
+      "var5": 90,
+      "var6": 92
+    },
+    {
+      "var1": 2022,
+      "var2": "Juli",
+      "var3": 92,
+      "var4": 53,
+      "var5": 151,
+      "var6": 153
+    },
+    {
+      "var1": 2022,
+      "var2": "August",
+      "var3": 86,
+      "var4": 53,
+      "var5": 130,
+      "var6": 131
+    },
+    {
+      "var1": 2022,
+      "var2": "September",
+      "var3": 107,
+      "var4": 69,
+      "var5": 152,
+      "var6": 152
+    },
+    {
+      "var1": 2022,
+      "var2": "Oktober",
+      "var3": 110,
+      "var4": 90,
+      "var5": 142,
+      "var6": 144
+    },
+    {
+      "var1": 2022,
+      "var2": "November",
+      "var3": 88,
+      "var4": 81,
+      "var5": 97,
+      "var6": 100
+    },
+    {
+      "var1": 2022,
+      "var2": "Dezember",
+      "var3": 122,
+      "var4": 90,
+      "var5": 214,
+      "var6": 215
+    },
+    {
+      "var1": 2022,
+      "var2": "Jahrergebnis",
+      "var3": 136,
+      "var4": 53,
+      "var5": 339,
+      "var6": 342
+    },
+    {
+      "var1": 2023,
+      "var2": "Januar",
+      "var3": 189,
+      "var4": 150,
+      "var5": 222,
+      "var6": 224
+    },
+    {
+      "var1": 2023,
+      "var2": "Februar",
+      "var3": 209,
+      "var4": 147,
+      "var5": 268,
+      "var6": 269
+    },
+    {
+      "var1": 2023,
+      "var2": "März",
+      "var3": 253,
+      "var4": 196,
+      "var5": 341,
+      "var6": 343
+    },
+    {
+      "var1": 2023,
+      "var2": "April",
+      "var3": 268,
+      "var4": 200,
+      "var5": 345,
+      "var6": 348
+    },
+    {
+      "var1": 2023,
+      "var2": "Mai",
+      "var3": 163,
+      "var4": 100,
+      "var5": 238,
+      "var6": 244
+    },
+    {
+      "var1": 2023,
+      "var2": "Juni",
+      "var3": 89,
+      "var4": 77,
+      "var5": 103,
+      "var6": 105
+    },
+    {
+      "var1": 2023,
+      "var2": "Juli",
+      "var3": 65,
+      "var4": 56,
+      "var5": 81,
+      "var6": 83
+    },
+    {
+      "var1": 2023,
+      "var2": "August",
+      "var3": 93,
+      "var4": 71,
+      "var5": 122,
+      "var6": 123
+    },
+    {
+      "var1": 2023,
+      "var2": "September",
+      "var3": 74,
+      "var4": 58,
+      "var5": 103,
+      "var6": 105
+    },
+    {
+      "var1": 2023,
+      "var2": "Oktober",
+      "var3": 84,
+      "var4": 57,
+      "var5": 109,
+      "var6": 110
+    },
+    {
+      "var1": 2023,
+      "var2": "November",
+      "var3": 143,
+      "var4": 97,
+      "var5": 194,
+      "var6": 195
+    },
+    {
+      "var1": 2023,
+      "var2": "Dezember",
+      "var3": 274,
+      "var4": 162,
+      "var5": 511,
+      "var6": 514
+    },
+    {
+      "var1": 2023,
+      "var2": "Jahrergebnis",
+      "var3": 159,
+      "var4": 56,
+      "var5": 511,
+      "var6": 514
+    },
+    {
+      "var1": 2024,
+      "var2": "Januar",
+      "var3": 385,
+      "var4": 279,
+      "var5": 510,
+      "var6": 513
+    },
+    {
+      "var1": 2024,
+      "var2": "Februar",
+      "var3": 382,
+      "var4": 278,
+      "var5": 466,
+      "var6": 466
+    },
+    {
+      "var1": 2024,
+      "var2": "März",
+      "var3": 230,
+      "var4": 172,
+      "var5": 340,
+      "var6": 351
+    },
+    {
+      "var1": 2024,
+      "var2": "April",
+      "var3": 146,
+      "var4": 131,
+      "var5": 138,
+      "var6": 170
+    },
+    {
+      "var1": 2024,
+      "var2": "Mai",
+      "var3": 121,
+      "var4": 98,
+      "var5": 166,
+      "var6": 169
+    },
+    {
+      "var1": 2024,
+      "var2": "Juni",
+      "var3": 160,
+      "var4": 99,
+      "var5": 253,
+      "var6": 254
+    },
+    {
+      "var1": 2024,
+      "var2": "Juli",
+      "var3": 99,
+      "var4": 85,
+      "var5": 115,
+      "var6": 118
+    },
+    {
+      "var1": 2024,
+      "var2": "August",
+      "var3": 94,
+      "var4": 77,
+      "var5": 117,
+      "var6": 118
+    },
+    {
+      "var1": 2024,
+      "var2": "September",
+      "var3": 194,
+      "var4": 71,
+      "var5": 406,
+      "var6": 408
+    },
+    {
+      "var1": 2024,
+      "var2": "Oktober",
+      "var3": 196,
+      "var4": 148,
+      "var5": 231,
+      "var6": 232
+    },
+    {
+      "var1": 2024,
+      "var2": "November",
+      "var3": 133,
+      "var4": 115,
+      "var5": 147,
+      "var6": 148
+    },
+    {
+      "var1": 2024,
+      "var2": "Dezember",
+      "var3": 198,
+      "var4": 146,
+      "var5": 231,
+      "var6": 232
+    },
+    {
+      "var1": 2024,
+      "var2": "Jahrergebnis",
+      "var3": 195,
+      "var4": 71,
+      "var5": 510,
+      "var6": 513
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "id": "wirtschaft/bruttowertschoepfung-nach-zusammengefassten-wirtschaftsabschnitten-der-klassifikation-der-wirtschaftszweige-2008-in-mill-euro",
+  "title": "Bruttowertschöpfung nach zusammengefassten Wirtschaftsabschnitten der Klassifikation der Wirtschaftszweige 2008 (in Mill. Euro)",
+  "category": "Wirtschaft",
+  "subcategory": "Bruttoinlandsprodukt und Bruttowertschöpfung",
+  "tableId": "K7_T99",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/bruttowertschoepfung-nach-zusammengefassten-wirtschaftsabschnitten-der-klassifikation-der-wirtschaftszweige-2008-in-mill-euro.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Bruttowertschöpfung nach zusammengefassten Wirtschaftsabschnitten der Klassifikation der Wirtschaftszweige 2008 (in Mill. Euro).xlsx"
+  },
+  "description": "Bruttowertschöpfung nach Wirtschaftsabschnitten der WZ 2008 (Mill. Euro). var3..var10 enthalten BWS-Anteile je Wirtschaftsabschnitt, die LLM-Labels waren mit den Wertgrößen teilweise nicht konsistent.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Bruttowertschöpfung gesamt",
+      "unit": "Mill. Euro",
+      "type": "number",
+      "role": null,
+      "sample": [
+        6467.102,
+        6561.236,
+        6917.549
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        9.321,
+        9.37,
+        9.472
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1131.258,
+        1106.812,
+        1198.201
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        466.07,
+        487.977,
+        533.692
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        398.363,
+        373.407,
+        416.875
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        5326.523,
+        5445.054,
+        5709.876
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1287.41,
+        1271.586,
+        1324.011
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1682.397,
+        1758.902,
+        1842.042
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        2356.716,
+        2414.566,
+        2543.823
+      ]
+    }
+  ],
+  "rowCount": 11,
+  "rows": [
+    {
+      "var1": 2012,
+      "var2": 6467.102,
+      "var3": 9.321,
+      "var4": 1131.258,
+      "var5": 466.07,
+      "var6": 398.363,
+      "var7": 5326.523,
+      "var8": 1287.41,
+      "var9": 1682.397,
+      "var10": 2356.716
+    },
+    {
+      "var1": 2013,
+      "var2": 6561.236,
+      "var3": 9.37,
+      "var4": 1106.812,
+      "var5": 487.977,
+      "var6": 373.407,
+      "var7": 5445.054,
+      "var8": 1271.586,
+      "var9": 1758.902,
+      "var10": 2414.566
+    },
+    {
+      "var1": 2014,
+      "var2": 6917.549,
+      "var3": 9.472,
+      "var4": 1198.201,
+      "var5": 533.692,
+      "var6": 416.875,
+      "var7": 5709.876,
+      "var8": 1324.011,
+      "var9": 1842.042,
+      "var10": 2543.823
+    },
+    {
+      "var1": 2015,
+      "var2": 6928.612,
+      "var3": 6.572,
+      "var4": 1143.782,
+      "var5": 520.559,
+      "var6": 369.144,
+      "var7": 5778.258,
+      "var8": 1287.667,
+      "var9": 1862.5,
+      "var10": 2628.091
+    },
+    {
+      "var1": 2016,
+      "var2": 7056.547,
+      "var3": 6.436,
+      "var4": 1103.294,
+      "var5": 444.857,
+      "var6": 401.133,
+      "var7": 5946.817,
+      "var8": 1330.897,
+      "var9": 1879.345,
+      "var10": 2736.575
+    },
+    {
+      "var1": 2017,
+      "var2": 7324.318,
+      "var3": 8.214,
+      "var4": 1201.327,
+      "var5": 499.398,
+      "var6": 412.991,
+      "var7": 6114.777,
+      "var8": 1331.806,
+      "var9": 1915.974,
+      "var10": 2866.997
+    },
+    {
+      "var1": 2018,
+      "var2": 7502.1,
+      "var3": 7.058,
+      "var4": 1235.735,
+      "var5": 481.547,
+      "var6": 459.574,
+      "var7": 6259.307,
+      "var8": 1357.422,
+      "var9": 1952.921,
+      "var10": 2948.964
+    },
+    {
+      "var1": 2019,
+      "var2": 7794.279,
+      "var3": 7.369,
+      "var4": 1295.489,
+      "var5": 485.734,
+      "var6": 480.133,
+      "var7": 6491.421,
+      "var8": 1482.805,
+      "var9": 1970.912,
+      "var10": 3037.704
+    },
+    {
+      "var1": 2020,
+      "var2": 7790.119,
+      "var3": 6.579,
+      "var4": 1336.587,
+      "var5": 480.63,
+      "var6": 526.665,
+      "var7": 6446.953,
+      "var8": 1441.687,
+      "var9": 1907.457,
+      "var10": 3097.809
+    },
+    {
+      "var1": 2021,
+      "var2": 8055.214,
+      "var3": 7.705,
+      "var4": 1324.719,
+      "var5": 444.444,
+      "var6": 519.886,
+      "var7": 6722.79,
+      "var8": 1515.919,
+      "var9": 1996.382,
+      "var10": 3210.489
+    },
+    {
+      "var1": 2022,
+      "var2": 8684.854,
+      "var3": 9.925,
+      "var4": 1383.037,
+      "var5": 422.636,
+      "var6": 588.555,
+      "var7": 7291.892,
+      "var8": 1808.86,
+      "var9": 2089.587,
+      "var10": 3393.445
+    }
+  ]
+}

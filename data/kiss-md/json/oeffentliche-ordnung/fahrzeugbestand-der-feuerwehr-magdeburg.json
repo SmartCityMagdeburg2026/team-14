@@ -1,0 +1,318 @@
+{
+  "id": "oeffentliche-ordnung/fahrzeugbestand-der-feuerwehr-magdeburg",
+  "title": "Fahrzeugbestand der Feuerwehr Magdeburg",
+  "category": "Öffentliche Ordnung",
+  "subcategory": "Feuerwehr",
+  "tableId": "K11_T18",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/oeffentliche-ordnung/fahrzeugbestand-der-feuerwehr-magdeburg.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Fahrzeugbestand der Feuerwehr Magdeburg.xlsx"
+  },
+  "description": "Fahrzeugbestand der Feuerwehr Magdeburg. var3..var6 sind Bestände nach Standort/Berufs- vs. Freiwillige Feuerwehr, Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2021,
+        2021,
+        2021
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Fahrzeugtyp",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Löschfahrzeuge",
+        "Hubrettungsfahrzeuge",
+        "Rüst- und Gerätewagen"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        6,
+        4,
+        20
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        17,
+        0,
+        2
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        2
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "rowCount": 28,
+  "rows": [
+    {
+      "var1": 2021,
+      "var2": "Löschfahrzeuge",
+      "var3": 6,
+      "var4": 17,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2021,
+      "var2": "Hubrettungsfahrzeuge",
+      "var3": 4,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Rüst- und Gerätewagen",
+      "var3": 20,
+      "var4": 2,
+      "var5": 2,
+      "var6": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Sanitätsfahrzeuge",
+      "var3": 5,
+      "var4": 0,
+      "var5": 16,
+      "var6": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Geräte",
+      "var3": 5,
+      "var4": 4,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2021,
+      "var2": "Betreuungsfahrzeuge",
+      "var3": 0,
+      "var4": 0,
+      "var5": 13,
+      "var6": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Sonstige Fahrzeuge",
+      "var3": 25,
+      "var4": 16,
+      "var5": 9,
+      "var6": 2
+    },
+    {
+      "var1": 2021,
+      "var2": "Löschfahrzeuge",
+      "var3": 6,
+      "var4": 17,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2021,
+      "var2": "Hubrettungsfahrzeuge",
+      "var3": 4,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Rüst- und Gerätewagen",
+      "var3": 20,
+      "var4": 2,
+      "var5": 2,
+      "var6": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Sanitätsfahrzeuge",
+      "var3": 5,
+      "var4": 0,
+      "var5": 16,
+      "var6": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Geräte",
+      "var3": 5,
+      "var4": 4,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2021,
+      "var2": "Betreuungsfahrzeuge",
+      "var3": 0,
+      "var4": 0,
+      "var5": 13,
+      "var6": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Sonstige Fahrzeuge",
+      "var3": 25,
+      "var4": 16,
+      "var5": 9,
+      "var6": 2
+    },
+    {
+      "var1": 2022,
+      "var2": "Löschfahrzeuge",
+      "var3": 7,
+      "var4": 17,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2022,
+      "var2": "Hubrettungsfahrzeuge",
+      "var3": 4,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Rüst- und Gerätewagen",
+      "var3": 21,
+      "var4": 2,
+      "var5": 2,
+      "var6": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Sanitätsfahrzeuge",
+      "var3": 5,
+      "var4": 0,
+      "var5": 16,
+      "var6": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Geräte",
+      "var3": 5,
+      "var4": 4,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2022,
+      "var2": "Betreuungsfahrzeuge",
+      "var3": 0,
+      "var4": 0,
+      "var5": 13,
+      "var6": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Sonstige Fahrzeuge",
+      "var3": 25,
+      "var4": 22,
+      "var5": 9,
+      "var6": 2
+    },
+    {
+      "var1": 2023,
+      "var2": "Löschfahrzeuge",
+      "var3": 7,
+      "var4": 18,
+      "var5": 1,
+      "var6": 1
+    },
+    {
+      "var1": 2023,
+      "var2": "Hubrettungsfahrzeuge",
+      "var3": 4,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Rüst- und Gerätewagen",
+      "var3": 21,
+      "var4": 2,
+      "var5": 2,
+      "var6": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Sanitätsfahrzeuge",
+      "var3": 5,
+      "var4": 0,
+      "var5": 16,
+      "var6": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Geräte",
+      "var3": 5,
+      "var4": 4,
+      "var5": 0,
+      "var6": 1
+    },
+    {
+      "var1": 2023,
+      "var2": "Betreuungsfahrzeuge",
+      "var3": 0,
+      "var4": 0,
+      "var5": 13,
+      "var6": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Sonstige Fahrzeuge",
+      "var3": 25,
+      "var4": 26,
+      "var5": 9,
+      "var6": 2
+    }
+  ]
+}

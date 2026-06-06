@@ -1,0 +1,232 @@
+{
+  "id": "wirtschaft/unternehmen-der-ihk-nach-wirtschaftsabschnitten",
+  "title": "Unternehmen der IHK nach Wirtschaftsabschnitten",
+  "category": "Wirtschaft",
+  "subcategory": "Unternehmen der IHK Magdeburg",
+  "tableId": "K7_T5a",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/unternehmen-der-ihk-nach-wirtschaftsabschnitten.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Unternehmen der IHK nach Wirtschaftsabschnitten.xlsx"
+  },
+  "description": "Unternehmen der IHK nach Wirtschaftsabschnitten. var2..var11 entsprechen Wirtschaftsabschnitten (Bergbau/Verarbeitung/Energie/Bau/Handel/Verkehr/Gastgewerbe/Information/Finanzen/Dienstleistungen), Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2018,
+        2019,
+        2020
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        13625,
+        13426,
+        13372
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        17,
+        16,
+        17
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1484,
+        1445,
+        1465
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2914,
+        2877,
+        2867
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        393,
+        392,
+        371
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        794,
+        806,
+        793
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        601,
+        585,
+        609
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5137,
+        5048,
+        4998
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        788,
+        801,
+        835
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1497,
+        1456,
+        1417
+      ]
+    }
+  ],
+  "rowCount": 6,
+  "rows": [
+    {
+      "var1": 2018,
+      "var2": 13625,
+      "var3": 17,
+      "var4": 1484,
+      "var5": 2914,
+      "var6": 393,
+      "var7": 794,
+      "var8": 601,
+      "var9": 5137,
+      "var10": 788,
+      "var11": 1497
+    },
+    {
+      "var1": 2019,
+      "var2": 13426,
+      "var3": 16,
+      "var4": 1445,
+      "var5": 2877,
+      "var6": 392,
+      "var7": 806,
+      "var8": 585,
+      "var9": 5048,
+      "var10": 801,
+      "var11": 1456
+    },
+    {
+      "var1": 2020,
+      "var2": 13372,
+      "var3": 17,
+      "var4": 1465,
+      "var5": 2867,
+      "var6": 371,
+      "var7": 793,
+      "var8": 609,
+      "var9": 4998,
+      "var10": 835,
+      "var11": 1417
+    },
+    {
+      "var1": 2021,
+      "var2": 13405,
+      "var3": 19,
+      "var4": 1334,
+      "var5": 2907,
+      "var6": 430,
+      "var7": 817,
+      "var8": 695,
+      "var9": 5021,
+      "var10": 876,
+      "var11": 1306
+    },
+    {
+      "var1": 2022,
+      "var2": 12826,
+      "var3": 21,
+      "var4": 1314,
+      "var5": 2772,
+      "var6": 384,
+      "var7": 761,
+      "var8": 699,
+      "var9": 4831,
+      "var10": 852,
+      "var11": 1192
+    },
+    {
+      "var1": 2023,
+      "var2": 12745,
+      "var3": 20,
+      "var4": 1309,
+      "var5": 2726,
+      "var6": 369,
+      "var7": 757,
+      "var8": 706,
+      "var9": 4784,
+      "var10": 889,
+      "var11": 1185
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": "bevoelkerung/altersdurchschnitt",
+  "title": "Altersdurchschnitt",
+  "category": "Bevölkerung",
+  "subcategory": "Bevölkerungsentwicklung",
+  "tableId": "K3_T9",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bevoelkerung/altersdurchschnitt.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Altersdurchschnitt .xlsx"
+  },
+  "description": "Diese Tabelle zeigt die Entwicklung des Altersdurchschnitts der Bevölkerung in Magdeburg über die Jahre.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Bevölkerung gesamt",
+      "unit": "Einwohner",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        265379,
+        257656,
+        251031
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Altersdurchschnitt",
+      "unit": "Jahre",
+      "type": "number",
+      "role": null,
+      "sample": [
+        40.45,
+        41.08,
+        41.67
+      ]
+    }
+  ],
+  "rowCount": 31,
+  "rows": [
+    {
+      "var1": 1994,
+      "var2": 265379,
+      "var3": 40.45
+    },
+    {
+      "var1": 1995,
+      "var2": 257656,
+      "var3": 41.08
+    },
+    {
+      "var1": 1996,
+      "var2": 251031,
+      "var3": 41.67
+    },
+    {
+      "var1": 1997,
+      "var2": 245509,
+      "var3": 42.22
+    },
+    {
+      "var1": 1998,
+      "var2": 239462,
+      "var3": 42.73
+    },
+    {
+      "var1": 1999,
+      "var2": 235072,
+      "var3": 43.2
+    },
+    {
+      "var1": 2000,
+      "var2": 231373,
+      "var3": 43.7
+    },
+    {
+      "var1": 2001,
+      "var2": 229714,
+      "var3": 44.1
+    },
+    {
+      "var1": 2002,
+      "var2": 227990,
+      "var3": 44.5
+    },
+    {
+      "var1": 2003,
+      "var2": 227129,
+      "var3": 44.7
+    },
+    {
+      "var1": 2004,
+      "var2": 226610,
+      "var3": 44.7
+    },
+    {
+      "var1": 2005,
+      "var2": 228775,
+      "var3": 44.9
+    },
+    {
+      "var1": 2006,
+      "var2": 229691,
+      "var3": 45.13
+    },
+    {
+      "var1": 2007,
+      "var2": 229631,
+      "var3": 45.3
+    },
+    {
+      "var1": 2008,
+      "var2": 229233,
+      "var3": 45.5
+    },
+    {
+      "var1": 2009,
+      "var2": 229794,
+      "var3": 45.6
+    },
+    {
+      "var1": 2010,
+      "var2": 230979,
+      "var3": 45.7
+    },
+    {
+      "var1": 2011,
+      "var2": 231620,
+      "var3": 45.8
+    },
+    {
+      "var1": 2012,
+      "var2": 232660,
+      "var3": 45.9
+    },
+    {
+      "var1": 2013,
+      "var2": 233669,
+      "var3": 45.4176784254651
+    },
+    {
+      "var1": 2014,
+      "var2": 234858,
+      "var3": 45.4227277759327
+    },
+    {
+      "var1": 2015,
+      "var2": 238212,
+      "var3": 45.2406301949524
+    },
+    {
+      "var1": 2016,
+      "var2": 241134,
+      "var3": 45.0473844418456
+    },
+    {
+      "var1": 2017,
+      "var2": 241769,
+      "var3": 45.0588392225637
+    },
+    {
+      "var1": 2018,
+      "var2": 242170,
+      "var3": 45.0569352108023
+    },
+    {
+      "var1": 2019,
+      "var2": 240947,
+      "var3": 45.2316297775029
+    },
+    {
+      "var1": 2020,
+      "var2": 239408,
+      "var3": 45.4034326338301
+    },
+    {
+      "var1": 2021,
+      "var2": 239970,
+      "var3": 45.3704463057882
+    },
+    {
+      "var1": 2022,
+      "var2": 242753,
+      "var3": 45.2170910349203
+    },
+    {
+      "var1": 2023,
+      "var2": 243419,
+      "var3": 45.1939228244303
+    },
+    {
+      "var1": 2024,
+      "var2": 245521,
+      "var3": 45.1799051812269
+    }
+  ]
+}

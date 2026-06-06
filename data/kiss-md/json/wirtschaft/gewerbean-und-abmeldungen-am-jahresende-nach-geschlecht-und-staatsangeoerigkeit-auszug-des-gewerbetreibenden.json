@@ -1,0 +1,4108 @@
+{
+  "id": "wirtschaft/gewerbean-und-abmeldungen-am-jahresende-nach-geschlecht-und-staatsangeoerigkeit-auszug-des-gewerbetreibenden",
+  "title": "Gewerbean- und abmeldungen am Jahresende nach Geschlecht und Staatsangeörigkeit (Auszug) des Gewerbetreibenden",
+  "category": "Wirtschaft",
+  "subcategory": "Gewerbean- und abmeldungen",
+  "tableId": "K7_T2",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/gewerbean-und-abmeldungen-am-jahresende-nach-geschlecht-und-staatsangeoerigkeit-auszug-des-gewerbetreibenden.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Gewerbean- und abmeldungen am Jahresende nach Geschlecht und Staatsangeörigkeit (Auszug) des Gewerbetreibenden.xlsx"
+  },
+  "description": "Gewerbean- und abmeldungen nach Geschlecht und Staatsangehörigkeit. var3..var8 enthalten Aufteilungen (M/F × An-/Abmeldung), die LLM-Labels waren nicht konsistent.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2005,
+        2005,
+        2005
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Staatsangehörigkeit",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Afghanistan",
+        "Bulgarien",
+        "China"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1,
+        4,
+        6
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1,
+        2,
+        6
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        2,
+        8
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        2,
+        7
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "rowCount": 399,
+  "rows": [
+    {
+      "var1": 2005,
+      "var2": "Afghanistan",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2005,
+      "var2": "Bulgarien",
+      "var3": 4,
+      "var4": 2,
+      "var5": 2,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2005,
+      "var2": "China",
+      "var3": 6,
+      "var4": 6,
+      "var5": 0,
+      "var6": 8,
+      "var7": 7,
+      "var8": 1
+    },
+    {
+      "var1": 2005,
+      "var2": "Griechenland",
+      "var3": 4,
+      "var4": 3,
+      "var5": 1,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2005,
+      "var2": "Indien",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 2,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2005,
+      "var2": "Irak",
+      "var3": 19,
+      "var4": 19,
+      "var5": 0,
+      "var6": 5,
+      "var7": 5,
+      "var8": 0
+    },
+    {
+      "var1": 2005,
+      "var2": "Italien",
+      "var3": 8,
+      "var4": 7,
+      "var5": 1,
+      "var6": 4,
+      "var7": 3,
+      "var8": 1
+    },
+    {
+      "var1": 2005,
+      "var2": "Litauen",
+      "var3": 1,
+      "var4": 0,
+      "var5": 1,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2005,
+      "var2": "Niederlande",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2005,
+      "var2": "Pakistan",
+      "var3": 8,
+      "var4": 6,
+      "var5": 1,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2005,
+      "var2": "Polen",
+      "var3": 64,
+      "var4": 58,
+      "var5": 6,
+      "var6": 33,
+      "var7": 33,
+      "var8": 0
+    },
+    {
+      "var1": 2005,
+      "var2": "Rumänien",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2005,
+      "var2": "Russland",
+      "var3": 5,
+      "var4": 4,
+      "var5": 1,
+      "var6": 3,
+      "var7": 2,
+      "var8": 1
+    },
+    {
+      "var1": 2005,
+      "var2": "Serbien",
+      "var3": 4,
+      "var4": 4,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2005,
+      "var2": "Syrien",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2005,
+      "var2": "Türkei",
+      "var3": 28,
+      "var4": 26,
+      "var5": 2,
+      "var6": 13,
+      "var7": 12,
+      "var8": 1
+    },
+    {
+      "var1": 2005,
+      "var2": "Ukraine",
+      "var3": 10,
+      "var4": 4,
+      "var5": 6,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2005,
+      "var2": "Ungarn",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2005,
+      "var2": "Vietnam",
+      "var3": 41,
+      "var4": 25,
+      "var5": 14,
+      "var6": 15,
+      "var7": 8,
+      "var8": 6
+    },
+    {
+      "var1": 2005,
+      "var2": "Ausland gesamt",
+      "var3": 237,
+      "var4": 195,
+      "var5": 39,
+      "var6": 111,
+      "var7": 95,
+      "var8": 15
+    },
+    {
+      "var1": 2005,
+      "var2": "insgesamt",
+      "var3": 2490,
+      "var4": 1767,
+      "var5": 714,
+      "var6": 2171,
+      "var7": 1574,
+      "var8": 580
+    },
+    {
+      "var1": 2006,
+      "var2": "Afghanistan",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2006,
+      "var2": "Bulgarien",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2006,
+      "var2": "China",
+      "var3": 2,
+      "var4": 1,
+      "var5": 1,
+      "var6": 1,
+      "var7": 0,
+      "var8": 1
+    },
+    {
+      "var1": 2006,
+      "var2": "Griechenland",
+      "var3": 15,
+      "var4": 11,
+      "var5": 4,
+      "var6": 7,
+      "var7": 7,
+      "var8": 0
+    },
+    {
+      "var1": 2006,
+      "var2": "Indien",
+      "var3": 4,
+      "var4": 4,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2006,
+      "var2": "Irak",
+      "var3": 16,
+      "var4": 15,
+      "var5": 1,
+      "var6": 9,
+      "var7": 8,
+      "var8": 1
+    },
+    {
+      "var1": 2006,
+      "var2": "Italien",
+      "var3": 4,
+      "var4": 3,
+      "var5": 1,
+      "var6": 5,
+      "var7": 5,
+      "var8": 0
+    },
+    {
+      "var1": 2006,
+      "var2": "Litauen",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2006,
+      "var2": "Niederlande",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2006,
+      "var2": "Pakistan",
+      "var3": 7,
+      "var4": 7,
+      "var5": 0,
+      "var6": 6,
+      "var7": 5,
+      "var8": 1
+    },
+    {
+      "var1": 2006,
+      "var2": "Polen",
+      "var3": 27,
+      "var4": 22,
+      "var5": 5,
+      "var6": 33,
+      "var7": 31,
+      "var8": 2
+    },
+    {
+      "var1": 2006,
+      "var2": "Rumänien",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2006,
+      "var2": "Russland",
+      "var3": 12,
+      "var4": 9,
+      "var5": 3,
+      "var6": 2,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2006,
+      "var2": "Serbien",
+      "var3": 10,
+      "var4": 9,
+      "var5": 1,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2006,
+      "var2": "Syrien",
+      "var3": 8,
+      "var4": 7,
+      "var5": 1,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2006,
+      "var2": "Türkei",
+      "var3": 26,
+      "var4": 26,
+      "var5": 0,
+      "var6": 16,
+      "var7": 16,
+      "var8": 0
+    },
+    {
+      "var1": 2006,
+      "var2": "Ukraine",
+      "var3": 14,
+      "var4": 6,
+      "var5": 8,
+      "var6": 6,
+      "var7": 3,
+      "var8": 3
+    },
+    {
+      "var1": 2006,
+      "var2": "Ungarn",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2006,
+      "var2": "Vietnam",
+      "var3": 33,
+      "var4": 21,
+      "var5": 12,
+      "var6": 21,
+      "var7": 12,
+      "var8": 8
+    },
+    {
+      "var1": 2006,
+      "var2": "Ausland gesamt",
+      "var3": 235,
+      "var4": 183,
+      "var5": 52,
+      "var6": 137,
+      "var7": 114,
+      "var8": 22
+    },
+    {
+      "var1": 2006,
+      "var2": "insgesamt",
+      "var3": 2571,
+      "var4": 1820,
+      "var5": 746,
+      "var6": 2057,
+      "var7": 1486,
+      "var8": 555
+    },
+    {
+      "var1": 2007,
+      "var2": "Afghanistan",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2007,
+      "var2": "Bulgarien",
+      "var3": 10,
+      "var4": 9,
+      "var5": 1,
+      "var6": 5,
+      "var7": 2,
+      "var8": 3
+    },
+    {
+      "var1": 2007,
+      "var2": "China",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2007,
+      "var2": "Griechenland",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2007,
+      "var2": "Indien",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2007,
+      "var2": "Irak",
+      "var3": 12,
+      "var4": 12,
+      "var5": 0,
+      "var6": 11,
+      "var7": 11,
+      "var8": 0
+    },
+    {
+      "var1": 2007,
+      "var2": "Italien",
+      "var3": 4,
+      "var4": 4,
+      "var5": 0,
+      "var6": 2,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2007,
+      "var2": "Litauen",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2007,
+      "var2": "Niederlande",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2007,
+      "var2": "Pakistan",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 5,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2007,
+      "var2": "Polen",
+      "var3": 19,
+      "var4": 17,
+      "var5": 2,
+      "var6": 3,
+      "var7": 2,
+      "var8": 1
+    },
+    {
+      "var1": 2007,
+      "var2": "Rumänien",
+      "var3": 4,
+      "var4": 2,
+      "var5": 2,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2007,
+      "var2": "Russland",
+      "var3": 8,
+      "var4": 5,
+      "var5": 3,
+      "var6": 4,
+      "var7": 4,
+      "var8": 0
+    },
+    {
+      "var1": 2007,
+      "var2": "Serbien",
+      "var3": 5,
+      "var4": 4,
+      "var5": 1,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2007,
+      "var2": "Syrien",
+      "var3": 5,
+      "var4": 5,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2007,
+      "var2": "Türkei",
+      "var3": 20,
+      "var4": 19,
+      "var5": 1,
+      "var6": 8,
+      "var7": 8,
+      "var8": 0
+    },
+    {
+      "var1": 2007,
+      "var2": "Ukraine",
+      "var3": 8,
+      "var4": 5,
+      "var5": 3,
+      "var6": 3,
+      "var7": 1,
+      "var8": 2
+    },
+    {
+      "var1": 2007,
+      "var2": "Ungarn",
+      "var3": 6,
+      "var4": 6,
+      "var5": 0,
+      "var6": 3,
+      "var7": 2,
+      "var8": 1
+    },
+    {
+      "var1": 2007,
+      "var2": "Vietnam",
+      "var3": 32,
+      "var4": 17,
+      "var5": 14,
+      "var6": 22,
+      "var7": 11,
+      "var8": 8
+    },
+    {
+      "var1": 2007,
+      "var2": "Ausland gesamt",
+      "var3": 184,
+      "var4": 150,
+      "var5": 33,
+      "var6": 95,
+      "var7": 71,
+      "var8": 18
+    },
+    {
+      "var1": 2007,
+      "var2": "insgesamt",
+      "var3": 2181,
+      "var4": 1554,
+      "var5": 617,
+      "var6": 1934,
+      "var7": 1402,
+      "var8": 504
+    },
+    {
+      "var1": 2008,
+      "var2": "Afghanistan",
+      "var3": 1,
+      "var4": 0,
+      "var5": 1,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2008,
+      "var2": "Bulgarien",
+      "var3": 9,
+      "var4": 6,
+      "var5": 3,
+      "var6": 5,
+      "var7": 4,
+      "var8": 1
+    },
+    {
+      "var1": 2008,
+      "var2": "China",
+      "var3": 2,
+      "var4": 1,
+      "var5": 1,
+      "var6": 6,
+      "var7": 5,
+      "var8": 1
+    },
+    {
+      "var1": 2008,
+      "var2": "Griechenland",
+      "var3": 8,
+      "var4": 4,
+      "var5": 4,
+      "var6": 5,
+      "var7": 4,
+      "var8": 1
+    },
+    {
+      "var1": 2008,
+      "var2": "Indien",
+      "var3": 10,
+      "var4": 9,
+      "var5": 1,
+      "var6": 6,
+      "var7": 5,
+      "var8": 0
+    },
+    {
+      "var1": 2008,
+      "var2": "Irak",
+      "var3": 6,
+      "var4": 5,
+      "var5": 1,
+      "var6": 11,
+      "var7": 10,
+      "var8": 1
+    },
+    {
+      "var1": 2008,
+      "var2": "Italien",
+      "var3": 7,
+      "var4": 5,
+      "var5": 2,
+      "var6": 4,
+      "var7": 4,
+      "var8": 0
+    },
+    {
+      "var1": 2008,
+      "var2": "Litauen",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2008,
+      "var2": "Niederlande",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2008,
+      "var2": "Pakistan",
+      "var3": 5,
+      "var4": 5,
+      "var5": 0,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2008,
+      "var2": "Polen",
+      "var3": 22,
+      "var4": 18,
+      "var5": 4,
+      "var6": 20,
+      "var7": 17,
+      "var8": 3
+    },
+    {
+      "var1": 2008,
+      "var2": "Rumänien",
+      "var3": 10,
+      "var4": 8,
+      "var5": 2,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2008,
+      "var2": "Russland",
+      "var3": 8,
+      "var4": 5,
+      "var5": 3,
+      "var6": 5,
+      "var7": 4,
+      "var8": 1
+    },
+    {
+      "var1": 2008,
+      "var2": "Serbien",
+      "var3": 10,
+      "var4": 9,
+      "var5": 1,
+      "var6": 2,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2008,
+      "var2": "Syrien",
+      "var3": 7,
+      "var4": 6,
+      "var5": 1,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2008,
+      "var2": "Türkei",
+      "var3": 26,
+      "var4": 23,
+      "var5": 3,
+      "var6": 18,
+      "var7": 17,
+      "var8": 1
+    },
+    {
+      "var1": 2008,
+      "var2": "Ukraine",
+      "var3": 16,
+      "var4": 13,
+      "var5": 3,
+      "var6": 7,
+      "var7": 3,
+      "var8": 4
+    },
+    {
+      "var1": 2008,
+      "var2": "Ungarn",
+      "var3": 2,
+      "var4": 1,
+      "var5": 1,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2008,
+      "var2": "Vietnam",
+      "var3": 33,
+      "var4": 19,
+      "var5": 14,
+      "var6": 16,
+      "var7": 10,
+      "var8": 6
+    },
+    {
+      "var1": 2008,
+      "var2": "Ausland gesamt",
+      "var3": 233,
+      "var4": 178,
+      "var5": 55,
+      "var6": 131,
+      "var7": 108,
+      "var8": 22
+    },
+    {
+      "var1": 2008,
+      "var2": "insgesamt",
+      "var3": 2328,
+      "var4": 1600,
+      "var5": 722,
+      "var6": 2026,
+      "var7": 1441,
+      "var8": 565
+    },
+    {
+      "var1": 2009,
+      "var2": "Afghanistan",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2009,
+      "var2": "Bulgarien",
+      "var3": 10,
+      "var4": 5,
+      "var5": 5,
+      "var6": 5,
+      "var7": 3,
+      "var8": 2
+    },
+    {
+      "var1": 2009,
+      "var2": "China",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 4,
+      "var7": 2,
+      "var8": 2
+    },
+    {
+      "var1": 2009,
+      "var2": "Griechenland",
+      "var3": 10,
+      "var4": 9,
+      "var5": 1,
+      "var6": 10,
+      "var7": 9,
+      "var8": 1
+    },
+    {
+      "var1": 2009,
+      "var2": "Indien",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 6,
+      "var7": 5,
+      "var8": 1
+    },
+    {
+      "var1": 2009,
+      "var2": "Irak",
+      "var3": 5,
+      "var4": 5,
+      "var5": 0,
+      "var6": 6,
+      "var7": 5,
+      "var8": 1
+    },
+    {
+      "var1": 2009,
+      "var2": "Italien",
+      "var3": 7,
+      "var4": 7,
+      "var5": 0,
+      "var6": 8,
+      "var7": 8,
+      "var8": 0
+    },
+    {
+      "var1": 2009,
+      "var2": "Litauen",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 3,
+      "var7": 1,
+      "var8": 2
+    },
+    {
+      "var1": 2009,
+      "var2": "Niederlande",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2009,
+      "var2": "Pakistan",
+      "var3": 7,
+      "var4": 7,
+      "var5": 0,
+      "var6": 4,
+      "var7": 4,
+      "var8": 0
+    },
+    {
+      "var1": 2009,
+      "var2": "Polen",
+      "var3": 16,
+      "var4": 14,
+      "var5": 2,
+      "var6": 17,
+      "var7": 11,
+      "var8": 6
+    },
+    {
+      "var1": 2009,
+      "var2": "Rumänien",
+      "var3": 1,
+      "var4": 0,
+      "var5": 1,
+      "var6": 3,
+      "var7": 1,
+      "var8": 2
+    },
+    {
+      "var1": 2009,
+      "var2": "Russland",
+      "var3": 9,
+      "var4": 7,
+      "var5": 2,
+      "var6": 7,
+      "var7": 3,
+      "var8": 4
+    },
+    {
+      "var1": 2009,
+      "var2": "Serbien",
+      "var3": 2,
+      "var4": 1,
+      "var5": 1,
+      "var6": 4,
+      "var7": 4,
+      "var8": 0
+    },
+    {
+      "var1": 2009,
+      "var2": "Syrien",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 3,
+      "var7": 2,
+      "var8": 1
+    },
+    {
+      "var1": 2009,
+      "var2": "Türkei",
+      "var3": 22,
+      "var4": 22,
+      "var5": 0,
+      "var6": 17,
+      "var7": 16,
+      "var8": 1
+    },
+    {
+      "var1": 2009,
+      "var2": "Ukraine",
+      "var3": 14,
+      "var4": 9,
+      "var5": 5,
+      "var6": 8,
+      "var7": 5,
+      "var8": 3
+    },
+    {
+      "var1": 2009,
+      "var2": "Ungarn",
+      "var3": 1,
+      "var4": 0,
+      "var5": 1,
+      "var6": 3,
+      "var7": 2,
+      "var8": 1
+    },
+    {
+      "var1": 2009,
+      "var2": "Vietnam",
+      "var3": 51,
+      "var4": 29,
+      "var5": 21,
+      "var6": 38,
+      "var7": 19,
+      "var8": 17
+    },
+    {
+      "var1": 2009,
+      "var2": "Ausland gesamt",
+      "var3": 206,
+      "var4": 153,
+      "var5": 52,
+      "var6": 182,
+      "var7": 125,
+      "var8": 55
+    },
+    {
+      "var1": 2009,
+      "var2": "insgesamt",
+      "var3": 2328,
+      "var4": 1599,
+      "var5": 724,
+      "var6": 2070,
+      "var7": 1444,
+      "var8": 617
+    },
+    {
+      "var1": 2010,
+      "var2": "Afghanistan",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Bulgarien",
+      "var3": 16,
+      "var4": 11,
+      "var5": 5,
+      "var6": 5,
+      "var7": 4,
+      "var8": 1
+    },
+    {
+      "var1": 2010,
+      "var2": "China",
+      "var3": 1,
+      "var4": 0,
+      "var5": 1,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Griechenland",
+      "var3": 10,
+      "var4": 10,
+      "var5": 0,
+      "var6": 9,
+      "var7": 7,
+      "var8": 2
+    },
+    {
+      "var1": 2010,
+      "var2": "Indien",
+      "var3": 4,
+      "var4": 3,
+      "var5": 1,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Irak",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 5,
+      "var7": 5,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Italien",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Litauen",
+      "var3": 2,
+      "var4": 0,
+      "var5": 2,
+      "var6": 4,
+      "var7": 4,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Niederlande",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 4,
+      "var7": 4,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Pakistan",
+      "var3": 7,
+      "var4": 6,
+      "var5": 1,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Polen",
+      "var3": 29,
+      "var4": 23,
+      "var5": 6,
+      "var6": 16,
+      "var7": 11,
+      "var8": 5
+    },
+    {
+      "var1": 2010,
+      "var2": "Rumänien",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 4,
+      "var7": 3,
+      "var8": 1
+    },
+    {
+      "var1": 2010,
+      "var2": "Russland",
+      "var3": 9,
+      "var4": 6,
+      "var5": 3,
+      "var6": 9,
+      "var7": 6,
+      "var8": 3
+    },
+    {
+      "var1": 2010,
+      "var2": "Serbien",
+      "var3": 3,
+      "var4": 2,
+      "var5": 1,
+      "var6": 4,
+      "var7": 3,
+      "var8": 1
+    },
+    {
+      "var1": 2010,
+      "var2": "Syrien",
+      "var3": 6,
+      "var4": 5,
+      "var5": 1,
+      "var6": 6,
+      "var7": 6,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Türkei",
+      "var3": 24,
+      "var4": 22,
+      "var5": 2,
+      "var6": 23,
+      "var7": 19,
+      "var8": 4
+    },
+    {
+      "var1": 2010,
+      "var2": "Ukraine",
+      "var3": 15,
+      "var4": 6,
+      "var5": 9,
+      "var6": 4,
+      "var7": 3,
+      "var8": 1
+    },
+    {
+      "var1": 2010,
+      "var2": "Ungarn",
+      "var3": 1,
+      "var4": 0,
+      "var5": 1,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2010,
+      "var2": "Vietnam",
+      "var3": 37,
+      "var4": 19,
+      "var5": 16,
+      "var6": 47,
+      "var7": 30,
+      "var8": 15
+    },
+    {
+      "var1": 2010,
+      "var2": "Ausland gesamt",
+      "var3": 220,
+      "var4": 158,
+      "var5": 60,
+      "var6": 188,
+      "var7": 142,
+      "var8": 44
+    },
+    {
+      "var1": 2010,
+      "var2": "insgesamt",
+      "var3": 2255,
+      "var4": 1589,
+      "var5": 654,
+      "var6": 1954,
+      "var7": 1375,
+      "var8": 566
+    },
+    {
+      "var1": 2011,
+      "var2": "Afghanistan",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Bulgarien",
+      "var3": 32,
+      "var4": 31,
+      "var5": 1,
+      "var6": 9,
+      "var7": 6,
+      "var8": 3
+    },
+    {
+      "var1": 2011,
+      "var2": "China",
+      "var3": 3,
+      "var4": 2,
+      "var5": 1,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Griechenland",
+      "var3": 10,
+      "var4": 7,
+      "var5": 3,
+      "var6": 8,
+      "var7": 6,
+      "var8": 2
+    },
+    {
+      "var1": 2011,
+      "var2": "Indien",
+      "var3": 6,
+      "var4": 5,
+      "var5": 1,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Irak",
+      "var3": 4,
+      "var4": 4,
+      "var5": 0,
+      "var6": 5,
+      "var7": 4,
+      "var8": 1
+    },
+    {
+      "var1": 2011,
+      "var2": "Italien",
+      "var3": 7,
+      "var4": 7,
+      "var5": 0,
+      "var6": 6,
+      "var7": 6,
+      "var8": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Litauen",
+      "var3": 5,
+      "var4": 2,
+      "var5": 3,
+      "var6": 2,
+      "var7": 0,
+      "var8": 2
+    },
+    {
+      "var1": 2011,
+      "var2": "Niederlande",
+      "var3": 5,
+      "var4": 3,
+      "var5": 2,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Pakistan",
+      "var3": 7,
+      "var4": 7,
+      "var5": 0,
+      "var6": 8,
+      "var7": 8,
+      "var8": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Polen",
+      "var3": 27,
+      "var4": 21,
+      "var5": 6,
+      "var6": 18,
+      "var7": 15,
+      "var8": 3
+    },
+    {
+      "var1": 2011,
+      "var2": "Rumänien",
+      "var3": 17,
+      "var4": 16,
+      "var5": 1,
+      "var6": 3,
+      "var7": 2,
+      "var8": 1
+    },
+    {
+      "var1": 2011,
+      "var2": "Russland",
+      "var3": 9,
+      "var4": 2,
+      "var5": 7,
+      "var6": 11,
+      "var7": 10,
+      "var8": 1
+    },
+    {
+      "var1": 2011,
+      "var2": "Serbien",
+      "var3": 6,
+      "var4": 6,
+      "var5": 0,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Syrien",
+      "var3": 4,
+      "var4": 4,
+      "var5": 0,
+      "var6": 4,
+      "var7": 4,
+      "var8": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Türkei",
+      "var3": 16,
+      "var4": 16,
+      "var5": 0,
+      "var6": 14,
+      "var7": 13,
+      "var8": 1
+    },
+    {
+      "var1": 2011,
+      "var2": "Ukraine",
+      "var3": 14,
+      "var4": 9,
+      "var5": 5,
+      "var6": 8,
+      "var7": 4,
+      "var8": 4
+    },
+    {
+      "var1": 2011,
+      "var2": "Ungarn",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2011,
+      "var2": "Vietnam",
+      "var3": 28,
+      "var4": 17,
+      "var5": 11,
+      "var6": 32,
+      "var7": 19,
+      "var8": 11
+    },
+    {
+      "var1": 2011,
+      "var2": "Ausland gesamt",
+      "var3": 249,
+      "var4": 193,
+      "var5": 56,
+      "var6": 181,
+      "var7": 138,
+      "var8": 41
+    },
+    {
+      "var1": 2011,
+      "var2": "insgesamt",
+      "var3": 2111,
+      "var4": 1486,
+      "var5": 619,
+      "var6": 1957,
+      "var7": 1410,
+      "var8": 536
+    },
+    {
+      "var1": 2012,
+      "var2": "Afghanistan",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Bulgarien",
+      "var3": 43,
+      "var4": 40,
+      "var5": 3,
+      "var6": 12,
+      "var7": 12,
+      "var8": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "China",
+      "var3": 1,
+      "var4": 0,
+      "var5": 1,
+      "var6": 2,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2012,
+      "var2": "Griechenland",
+      "var3": 11,
+      "var4": 10,
+      "var5": 1,
+      "var6": 17,
+      "var7": 12,
+      "var8": 5
+    },
+    {
+      "var1": 2012,
+      "var2": "Indien",
+      "var3": 5,
+      "var4": 5,
+      "var5": 0,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Irak",
+      "var3": 7,
+      "var4": 7,
+      "var5": 0,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Italien",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Litauen",
+      "var3": 9,
+      "var4": 6,
+      "var5": 3,
+      "var6": 1,
+      "var7": 0,
+      "var8": 1
+    },
+    {
+      "var1": 2012,
+      "var2": "Niederlande",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 2,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2012,
+      "var2": "Pakistan",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Polen",
+      "var3": 30,
+      "var4": 28,
+      "var5": 2,
+      "var6": 16,
+      "var7": 11,
+      "var8": 5
+    },
+    {
+      "var1": 2012,
+      "var2": "Rumänien",
+      "var3": 26,
+      "var4": 25,
+      "var5": 1,
+      "var6": 14,
+      "var7": 13,
+      "var8": 1
+    },
+    {
+      "var1": 2012,
+      "var2": "Russland",
+      "var3": 5,
+      "var4": 1,
+      "var5": 4,
+      "var6": 6,
+      "var7": 3,
+      "var8": 3
+    },
+    {
+      "var1": 2012,
+      "var2": "Serbien",
+      "var3": 4,
+      "var4": 4,
+      "var5": 0,
+      "var6": 7,
+      "var7": 7,
+      "var8": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Syrien",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2012,
+      "var2": "Türkei",
+      "var3": 22,
+      "var4": 17,
+      "var5": 5,
+      "var6": 25,
+      "var7": 24,
+      "var8": 1
+    },
+    {
+      "var1": 2012,
+      "var2": "Ukraine",
+      "var3": 11,
+      "var4": 8,
+      "var5": 3,
+      "var6": 7,
+      "var7": 3,
+      "var8": 4
+    },
+    {
+      "var1": 2012,
+      "var2": "Ungarn",
+      "var3": 3,
+      "var4": 2,
+      "var5": 1,
+      "var6": 2,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2012,
+      "var2": "Vietnam",
+      "var3": 36,
+      "var4": 24,
+      "var5": 12,
+      "var6": 29,
+      "var7": 20,
+      "var8": 9
+    },
+    {
+      "var1": 2012,
+      "var2": "Ausland gesamt",
+      "var3": 269,
+      "var4": 220,
+      "var5": 49,
+      "var6": 181,
+      "var7": 143,
+      "var8": 38
+    },
+    {
+      "var1": 2012,
+      "var2": "insgesamt",
+      "var3": 1912,
+      "var4": 1349,
+      "var5": 551,
+      "var6": 1989,
+      "var7": 1428,
+      "var8": 555
+    },
+    {
+      "var1": 2013,
+      "var2": "Afghanistan",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Bulgarien",
+      "var3": 30,
+      "var4": 27,
+      "var5": 3,
+      "var6": 47,
+      "var7": 43,
+      "var8": 4
+    },
+    {
+      "var1": 2013,
+      "var2": "China",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 1,
+      "var7": 0,
+      "var8": 1
+    },
+    {
+      "var1": 2013,
+      "var2": "Griechenland",
+      "var3": 20,
+      "var4": 20,
+      "var5": 0,
+      "var6": 8,
+      "var7": 7,
+      "var8": 1
+    },
+    {
+      "var1": 2013,
+      "var2": "Indien",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Irak",
+      "var3": 7,
+      "var4": 6,
+      "var5": 1,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Italien",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 4,
+      "var7": 4,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Litauen",
+      "var3": 4,
+      "var4": 1,
+      "var5": 3,
+      "var6": 10,
+      "var7": 8,
+      "var8": 2
+    },
+    {
+      "var1": 2013,
+      "var2": "Niederlande",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Pakistan",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Polen",
+      "var3": 29,
+      "var4": 24,
+      "var5": 5,
+      "var6": 16,
+      "var7": 11,
+      "var8": 5
+    },
+    {
+      "var1": 2013,
+      "var2": "Rumänien",
+      "var3": 21,
+      "var4": 19,
+      "var5": 2,
+      "var6": 12,
+      "var7": 12,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Russland",
+      "var3": 8,
+      "var4": 5,
+      "var5": 3,
+      "var6": 10,
+      "var7": 3,
+      "var8": 7
+    },
+    {
+      "var1": 2013,
+      "var2": "Serbien",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Syrien",
+      "var3": 8,
+      "var4": 7,
+      "var5": 1,
+      "var6": 4,
+      "var7": 4,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Türkei",
+      "var3": 17,
+      "var4": 15,
+      "var5": 2,
+      "var6": 16,
+      "var7": 16,
+      "var8": 0
+    },
+    {
+      "var1": 2013,
+      "var2": "Ukraine",
+      "var3": 10,
+      "var4": 6,
+      "var5": 4,
+      "var6": 13,
+      "var7": 7,
+      "var8": 6
+    },
+    {
+      "var1": 2013,
+      "var2": "Ungarn",
+      "var3": 7,
+      "var4": 6,
+      "var5": 1,
+      "var6": 5,
+      "var7": 3,
+      "var8": 2
+    },
+    {
+      "var1": 2013,
+      "var2": "Vietnam",
+      "var3": 36,
+      "var4": 20,
+      "var5": 16,
+      "var6": 37,
+      "var7": 25,
+      "var8": 12
+    },
+    {
+      "var1": 2013,
+      "var2": "Ausland gesamt",
+      "var3": 274,
+      "var4": 221,
+      "var5": 53,
+      "var6": 237,
+      "var7": 191,
+      "var8": 46
+    },
+    {
+      "var1": 2013,
+      "var2": "insgesamt",
+      "var3": 1918,
+      "var4": 1311,
+      "var5": 605,
+      "var6": 1929,
+      "var7": 1377,
+      "var8": 548
+    },
+    {
+      "var1": 2014,
+      "var2": "Afghanistan",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Bulgarien",
+      "var3": 41,
+      "var4": 38,
+      "var5": 3,
+      "var6": 22,
+      "var7": 19,
+      "var8": 3
+    },
+    {
+      "var1": 2014,
+      "var2": "China",
+      "var3": 4,
+      "var4": 1,
+      "var5": 3,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Griechenland",
+      "var3": 16,
+      "var4": 11,
+      "var5": 5,
+      "var6": 9,
+      "var7": 6,
+      "var8": 3
+    },
+    {
+      "var1": 2014,
+      "var2": "Indien",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Irak",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Italien",
+      "var3": 4,
+      "var4": 4,
+      "var5": 0,
+      "var6": 5,
+      "var7": 5,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Litauen",
+      "var3": 7,
+      "var4": 7,
+      "var5": 0,
+      "var6": 5,
+      "var7": 3,
+      "var8": 2
+    },
+    {
+      "var1": 2014,
+      "var2": "Niederlande",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Pakistan",
+      "var3": 4,
+      "var4": 4,
+      "var5": 0,
+      "var6": 6,
+      "var7": 5,
+      "var8": 1
+    },
+    {
+      "var1": 2014,
+      "var2": "Polen",
+      "var3": 37,
+      "var4": 29,
+      "var5": 8,
+      "var6": 19,
+      "var7": 16,
+      "var8": 3
+    },
+    {
+      "var1": 2014,
+      "var2": "Rumänien",
+      "var3": 51,
+      "var4": 47,
+      "var5": 4,
+      "var6": 26,
+      "var7": 24,
+      "var8": 2
+    },
+    {
+      "var1": 2014,
+      "var2": "Russland",
+      "var3": 7,
+      "var4": 2,
+      "var5": 5,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Serbien",
+      "var3": 7,
+      "var4": 6,
+      "var5": 1,
+      "var6": 4,
+      "var7": 4,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Syrien",
+      "var3": 9,
+      "var4": 8,
+      "var5": 1,
+      "var6": 8,
+      "var7": 8,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Türkei",
+      "var3": 15,
+      "var4": 12,
+      "var5": 3,
+      "var6": 13,
+      "var7": 11,
+      "var8": 2
+    },
+    {
+      "var1": 2014,
+      "var2": "Ukraine",
+      "var3": 7,
+      "var4": 5,
+      "var5": 2,
+      "var6": 7,
+      "var7": 7,
+      "var8": 0
+    },
+    {
+      "var1": 2014,
+      "var2": "Ungarn",
+      "var3": 7,
+      "var4": 5,
+      "var5": 2,
+      "var6": 7,
+      "var7": 6,
+      "var8": 1
+    },
+    {
+      "var1": 2014,
+      "var2": "Vietnam",
+      "var3": 25,
+      "var4": 11,
+      "var5": 14,
+      "var6": 29,
+      "var7": 18,
+      "var8": 11
+    },
+    {
+      "var1": 2014,
+      "var2": "Ausland gesamt",
+      "var3": 287,
+      "var4": 222,
+      "var5": 65,
+      "var6": 203,
+      "var7": 164,
+      "var8": 39
+    },
+    {
+      "var1": 2014,
+      "var2": "insgesamt",
+      "var3": 1901,
+      "var4": 1299,
+      "var5": 595,
+      "var6": 1653,
+      "var7": 1150,
+      "var8": 498
+    },
+    {
+      "var1": 2015,
+      "var2": "Afghanistan",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Bulgarien",
+      "var3": 47,
+      "var4": 43,
+      "var5": 4,
+      "var6": 44,
+      "var7": 40,
+      "var8": 4
+    },
+    {
+      "var1": 2015,
+      "var2": "China",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Griechenland",
+      "var3": 18,
+      "var4": 17,
+      "var5": 1,
+      "var6": 16,
+      "var7": 14,
+      "var8": 2
+    },
+    {
+      "var1": 2015,
+      "var2": "Indien",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 1,
+      "var7": 0,
+      "var8": 1
+    },
+    {
+      "var1": 2015,
+      "var2": "Irak",
+      "var3": 4,
+      "var4": 3,
+      "var5": 1,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Italien",
+      "var3": 3,
+      "var4": 2,
+      "var5": 1,
+      "var6": 2,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2015,
+      "var2": "Litauen",
+      "var3": 3,
+      "var4": 1,
+      "var5": 2,
+      "var6": 6,
+      "var7": 4,
+      "var8": 2
+    },
+    {
+      "var1": 2015,
+      "var2": "Niederlande",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Pakistan",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 3,
+      "var7": 2,
+      "var8": 1
+    },
+    {
+      "var1": 2015,
+      "var2": "Polen",
+      "var3": 22,
+      "var4": 18,
+      "var5": 4,
+      "var6": 22,
+      "var7": 19,
+      "var8": 3
+    },
+    {
+      "var1": 2015,
+      "var2": "Rumänien",
+      "var3": 69,
+      "var4": 65,
+      "var5": 4,
+      "var6": 39,
+      "var7": 36,
+      "var8": 3
+    },
+    {
+      "var1": 2015,
+      "var2": "Russland",
+      "var3": 7,
+      "var4": 3,
+      "var5": 4,
+      "var6": 9,
+      "var7": 5,
+      "var8": 4
+    },
+    {
+      "var1": 2015,
+      "var2": "Serbien",
+      "var3": 2,
+      "var4": 1,
+      "var5": 1,
+      "var6": 3,
+      "var7": 2,
+      "var8": 1
+    },
+    {
+      "var1": 2015,
+      "var2": "Syrien",
+      "var3": 15,
+      "var4": 14,
+      "var5": 1,
+      "var6": 4,
+      "var7": 3,
+      "var8": 1
+    },
+    {
+      "var1": 2015,
+      "var2": "Türkei",
+      "var3": 24,
+      "var4": 22,
+      "var5": 2,
+      "var6": 20,
+      "var7": 18,
+      "var8": 2
+    },
+    {
+      "var1": 2015,
+      "var2": "Ukraine",
+      "var3": 14,
+      "var4": 5,
+      "var5": 9,
+      "var6": 5,
+      "var7": 2,
+      "var8": 3
+    },
+    {
+      "var1": 2015,
+      "var2": "Ungarn",
+      "var3": 6,
+      "var4": 5,
+      "var5": 1,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2015,
+      "var2": "Vietnam",
+      "var3": 35,
+      "var4": 19,
+      "var5": 16,
+      "var6": 29,
+      "var7": 15,
+      "var8": 14
+    },
+    {
+      "var1": 2015,
+      "var2": "Ausland gesamt",
+      "var3": 330,
+      "var4": 261,
+      "var5": 69,
+      "var6": 248,
+      "var7": 192,
+      "var8": 56
+    },
+    {
+      "var1": 2015,
+      "var2": "insgesamt",
+      "var3": 1885,
+      "var4": 1319,
+      "var5": 559,
+      "var6": 1766,
+      "var7": 1243,
+      "var8": 517
+    },
+    {
+      "var1": 2016,
+      "var2": "Afghanistan",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Bulgarien",
+      "var3": 52,
+      "var4": 48,
+      "var5": 4,
+      "var6": 52,
+      "var7": 48,
+      "var8": 4
+    },
+    {
+      "var1": 2016,
+      "var2": "China",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Griechenland",
+      "var3": 15,
+      "var4": 12,
+      "var5": 3,
+      "var6": 15,
+      "var7": 12,
+      "var8": 3
+    },
+    {
+      "var1": 2016,
+      "var2": "Indien",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Irak",
+      "var3": 3,
+      "var4": 2,
+      "var5": 1,
+      "var6": 3,
+      "var7": 2,
+      "var8": 1
+    },
+    {
+      "var1": 2016,
+      "var2": "Italien",
+      "var3": 9,
+      "var4": 9,
+      "var5": 0,
+      "var6": 9,
+      "var7": 9,
+      "var8": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Litauen",
+      "var3": 3,
+      "var4": 2,
+      "var5": 1,
+      "var6": 3,
+      "var7": 2,
+      "var8": 1
+    },
+    {
+      "var1": 2016,
+      "var2": "Niederlande",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Pakistan",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Polen",
+      "var3": 16,
+      "var4": 13,
+      "var5": 3,
+      "var6": 16,
+      "var7": 13,
+      "var8": 3
+    },
+    {
+      "var1": 2016,
+      "var2": "Rumänien",
+      "var3": 56,
+      "var4": 55,
+      "var5": 1,
+      "var6": 56,
+      "var7": 55,
+      "var8": 1
+    },
+    {
+      "var1": 2016,
+      "var2": "Russland",
+      "var3": 7,
+      "var4": 3,
+      "var5": 4,
+      "var6": 7,
+      "var7": 3,
+      "var8": 4
+    },
+    {
+      "var1": 2016,
+      "var2": "Serbien",
+      "var3": 4,
+      "var4": 2,
+      "var5": 2,
+      "var6": 4,
+      "var7": 2,
+      "var8": 2
+    },
+    {
+      "var1": 2016,
+      "var2": "Syrien",
+      "var3": 12,
+      "var4": 11,
+      "var5": 1,
+      "var6": 12,
+      "var7": 11,
+      "var8": 1
+    },
+    {
+      "var1": 2016,
+      "var2": "Türkei",
+      "var3": 29,
+      "var4": 29,
+      "var5": 0,
+      "var6": 29,
+      "var7": 29,
+      "var8": 0
+    },
+    {
+      "var1": 2016,
+      "var2": "Ukraine",
+      "var3": 7,
+      "var4": 4,
+      "var5": 3,
+      "var6": 7,
+      "var7": 4,
+      "var8": 3
+    },
+    {
+      "var1": 2016,
+      "var2": "Ungarn",
+      "var3": 3,
+      "var4": 2,
+      "var5": 1,
+      "var6": 3,
+      "var7": 2,
+      "var8": 1
+    },
+    {
+      "var1": 2016,
+      "var2": "Vietnam",
+      "var3": 41,
+      "var4": 23,
+      "var5": 18,
+      "var6": 41,
+      "var7": 23,
+      "var8": 18
+    },
+    {
+      "var1": 2016,
+      "var2": "Ausland gesamt",
+      "var3": 300,
+      "var4": 250,
+      "var5": 50,
+      "var6": 300,
+      "var7": 250,
+      "var8": 50
+    },
+    {
+      "var1": 2016,
+      "var2": "insgesamt",
+      "var3": 1888,
+      "var4": 1356,
+      "var5": 517,
+      "var6": 1888,
+      "var7": 1356,
+      "var8": 517
+    },
+    {
+      "var1": 2017,
+      "var2": "Afghanistan",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Bulgarien",
+      "var3": 8,
+      "var4": 4,
+      "var5": 4,
+      "var6": 14,
+      "var7": 14,
+      "var8": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "China",
+      "var3": 4,
+      "var4": 3,
+      "var5": 1,
+      "var6": 3,
+      "var7": 1,
+      "var8": 2
+    },
+    {
+      "var1": 2017,
+      "var2": "Griechenland",
+      "var3": 11,
+      "var4": 10,
+      "var5": 1,
+      "var6": 13,
+      "var7": 11,
+      "var8": 2
+    },
+    {
+      "var1": 2017,
+      "var2": "Indien",
+      "var3": 6,
+      "var4": 5,
+      "var5": 1,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Irak",
+      "var3": 5,
+      "var4": 5,
+      "var5": 0,
+      "var6": 7,
+      "var7": 5,
+      "var8": 2
+    },
+    {
+      "var1": 2017,
+      "var2": "Italien",
+      "var3": 3,
+      "var4": 2,
+      "var5": 1,
+      "var6": 6,
+      "var7": 5,
+      "var8": 1
+    },
+    {
+      "var1": 2017,
+      "var2": "Litauen",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 3,
+      "var7": 2,
+      "var8": 1
+    },
+    {
+      "var1": 2017,
+      "var2": "Niederlande",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Pakistan",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Polen",
+      "var3": 18,
+      "var4": 15,
+      "var5": 3,
+      "var6": 25,
+      "var7": 20,
+      "var8": 5
+    },
+    {
+      "var1": 2017,
+      "var2": "Rumänien",
+      "var3": 49,
+      "var4": 47,
+      "var5": 2,
+      "var6": 78,
+      "var7": 72,
+      "var8": 6
+    },
+    {
+      "var1": 2017,
+      "var2": "Russland",
+      "var3": 9,
+      "var4": 5,
+      "var5": 4,
+      "var6": 3,
+      "var7": 0,
+      "var8": 3
+    },
+    {
+      "var1": 2017,
+      "var2": "Serbien",
+      "var3": 4,
+      "var4": 4,
+      "var5": 0,
+      "var6": 6,
+      "var7": 5,
+      "var8": 1
+    },
+    {
+      "var1": 2017,
+      "var2": "Syrien",
+      "var3": 35,
+      "var4": 34,
+      "var5": 1,
+      "var6": 15,
+      "var7": 15,
+      "var8": 0
+    },
+    {
+      "var1": 2017,
+      "var2": "Türkei",
+      "var3": 22,
+      "var4": 18,
+      "var5": 4,
+      "var6": 24,
+      "var7": 18,
+      "var8": 6
+    },
+    {
+      "var1": 2017,
+      "var2": "Ukraine",
+      "var3": 10,
+      "var4": 5,
+      "var5": 5,
+      "var6": 10,
+      "var7": 7,
+      "var8": 3
+    },
+    {
+      "var1": 2017,
+      "var2": "Ungarn",
+      "var3": 8,
+      "var4": 6,
+      "var5": 2,
+      "var6": 6,
+      "var7": 4,
+      "var8": 2
+    },
+    {
+      "var1": 2017,
+      "var2": "Vietnam",
+      "var3": 20,
+      "var4": 8,
+      "var5": 12,
+      "var6": 26,
+      "var7": 12,
+      "var8": 14
+    },
+    {
+      "var1": 2017,
+      "var2": "Ausland gesamt",
+      "var3": 267,
+      "var4": 217,
+      "var5": 49,
+      "var6": 280,
+      "var7": 219,
+      "var8": 61
+    },
+    {
+      "var1": 2017,
+      "var2": "insgesamt",
+      "var3": 1625,
+      "var4": 1154,
+      "var5": 468,
+      "var6": 1736,
+      "var7": 1230,
+      "var8": 504
+    },
+    {
+      "var1": 2018,
+      "var2": "Afghanistan",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Bulgarien",
+      "var3": 6,
+      "var4": 2,
+      "var5": 4,
+      "var6": 8,
+      "var7": 4,
+      "var8": 4
+    },
+    {
+      "var1": 2018,
+      "var2": "China",
+      "var3": 7,
+      "var4": 3,
+      "var5": 4,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Griechenland",
+      "var3": 19,
+      "var4": 14,
+      "var5": 5,
+      "var6": 17,
+      "var7": 16,
+      "var8": 1
+    },
+    {
+      "var1": 2018,
+      "var2": "Indien",
+      "var3": 2,
+      "var4": 1,
+      "var5": 1,
+      "var6": 6,
+      "var7": 6,
+      "var8": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Irak",
+      "var3": 9,
+      "var4": 7,
+      "var5": 2,
+      "var6": 6,
+      "var7": 6,
+      "var8": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Italien",
+      "var3": 2,
+      "var4": 0,
+      "var5": 2,
+      "var6": 4,
+      "var7": 2,
+      "var8": 2
+    },
+    {
+      "var1": 2018,
+      "var2": "Litauen",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Niederlande",
+      "var3": 3,
+      "var4": 2,
+      "var5": 1,
+      "var6": 5,
+      "var7": 4,
+      "var8": 1
+    },
+    {
+      "var1": 2018,
+      "var2": "Pakistan",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Polen",
+      "var3": 12,
+      "var4": 6,
+      "var5": 6,
+      "var6": 15,
+      "var7": 13,
+      "var8": 2
+    },
+    {
+      "var1": 2018,
+      "var2": "Rumänien",
+      "var3": 6,
+      "var4": 4,
+      "var5": 2,
+      "var6": 74,
+      "var7": 70,
+      "var8": 4
+    },
+    {
+      "var1": 2018,
+      "var2": "Russland",
+      "var3": 7,
+      "var4": 3,
+      "var5": 4,
+      "var6": 5,
+      "var7": 3,
+      "var8": 2
+    },
+    {
+      "var1": 2018,
+      "var2": "Serbien",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2018,
+      "var2": "Syrien",
+      "var3": 47,
+      "var4": 43,
+      "var5": 4,
+      "var6": 32,
+      "var7": 28,
+      "var8": 4
+    },
+    {
+      "var1": 2018,
+      "var2": "Türkei",
+      "var3": 25,
+      "var4": 21,
+      "var5": 4,
+      "var6": 24,
+      "var7": 20,
+      "var8": 4
+    },
+    {
+      "var1": 2018,
+      "var2": "Ukraine",
+      "var3": 15,
+      "var4": 8,
+      "var5": 7,
+      "var6": 10,
+      "var7": 2,
+      "var8": 8
+    },
+    {
+      "var1": 2018,
+      "var2": "Ungarn",
+      "var3": 3,
+      "var4": 1,
+      "var5": 2,
+      "var6": 5,
+      "var7": 1,
+      "var8": 4
+    },
+    {
+      "var1": 2018,
+      "var2": "Vietnam",
+      "var3": 15,
+      "var4": 3,
+      "var5": 12,
+      "var6": 24,
+      "var7": 16,
+      "var8": 8
+    },
+    {
+      "var1": 2018,
+      "var2": "Ausland gesamt",
+      "var3": 223,
+      "var4": 149,
+      "var5": 74,
+      "var6": 273,
+      "var7": 220,
+      "var8": 53
+    },
+    {
+      "var1": 2018,
+      "var2": "insgesamt",
+      "var3": 1434,
+      "var4": 954,
+      "var5": 478,
+      "var6": 1787,
+      "var7": 1254,
+      "var8": 524
+    },
+    {
+      "var1": 2019,
+      "var2": "Afghanistan",
+      "var3": 8,
+      "var4": 8,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Bulgarien",
+      "var3": 11,
+      "var4": 6,
+      "var5": 5,
+      "var6": 12,
+      "var7": 6,
+      "var8": 6
+    },
+    {
+      "var1": 2019,
+      "var2": "China",
+      "var3": 5,
+      "var4": 0,
+      "var5": 5,
+      "var6": 2,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2019,
+      "var2": "Griechenland",
+      "var3": 8,
+      "var4": 6,
+      "var5": 2,
+      "var6": 15,
+      "var7": 14,
+      "var8": 1
+    },
+    {
+      "var1": 2019,
+      "var2": "Indien",
+      "var3": 5,
+      "var4": 2,
+      "var5": 3,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Irak",
+      "var3": 5,
+      "var4": 5,
+      "var5": 0,
+      "var6": 8,
+      "var7": 6,
+      "var8": 2
+    },
+    {
+      "var1": 2019,
+      "var2": "Italien",
+      "var3": 2,
+      "var4": 0,
+      "var5": 2,
+      "var6": 5,
+      "var7": 5,
+      "var8": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Litauen",
+      "var3": 2,
+      "var4": 0,
+      "var5": 2,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Niederlande",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Pakistan",
+      "var3": 3,
+      "var4": 2,
+      "var5": 1,
+      "var6": 3,
+      "var7": 2,
+      "var8": 1
+    },
+    {
+      "var1": 2019,
+      "var2": "Polen",
+      "var3": 16,
+      "var4": 12,
+      "var5": 4,
+      "var6": 17,
+      "var7": 14,
+      "var8": 3
+    },
+    {
+      "var1": 2019,
+      "var2": "Rumänien",
+      "var3": 13,
+      "var4": 11,
+      "var5": 2,
+      "var6": 4,
+      "var7": 2,
+      "var8": 2
+    },
+    {
+      "var1": 2019,
+      "var2": "Russland",
+      "var3": 6,
+      "var4": 4,
+      "var5": 2,
+      "var6": 8,
+      "var7": 2,
+      "var8": 6
+    },
+    {
+      "var1": 2019,
+      "var2": "Serbien",
+      "var3": 3,
+      "var4": 2,
+      "var5": 1,
+      "var6": 2,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2019,
+      "var2": "Syrien",
+      "var3": 72,
+      "var4": 70,
+      "var5": 2,
+      "var6": 45,
+      "var7": 43,
+      "var8": 2
+    },
+    {
+      "var1": 2019,
+      "var2": "Türkei",
+      "var3": 29,
+      "var4": 22,
+      "var5": 7,
+      "var6": 24,
+      "var7": 24,
+      "var8": 0
+    },
+    {
+      "var1": 2019,
+      "var2": "Ukraine",
+      "var3": 4,
+      "var4": 0,
+      "var5": 4,
+      "var6": 13,
+      "var7": 7,
+      "var8": 6
+    },
+    {
+      "var1": 2019,
+      "var2": "Ungarn",
+      "var3": 2,
+      "var4": 1,
+      "var5": 1,
+      "var6": 6,
+      "var7": 4,
+      "var8": 2
+    },
+    {
+      "var1": 2019,
+      "var2": "Vietnam",
+      "var3": 21,
+      "var4": 10,
+      "var5": 11,
+      "var6": 14,
+      "var7": 9,
+      "var8": 5
+    },
+    {
+      "var1": 2019,
+      "var2": "Ausland gesamt",
+      "var3": 267,
+      "var4": 204,
+      "var5": 63,
+      "var6": 217,
+      "var7": 169,
+      "var8": 48
+    },
+    {
+      "var1": 2019,
+      "var2": "insgesamt",
+      "var3": 1456,
+      "var4": 1035,
+      "var5": 411,
+      "var6": 1620,
+      "var7": 1129,
+      "var8": 485
+    },
+    {
+      "var1": 2020,
+      "var2": "Afghanistan",
+      "var3": 4,
+      "var4": 4,
+      "var5": 0,
+      "var6": 7,
+      "var7": 6,
+      "var8": 1
+    },
+    {
+      "var1": 2020,
+      "var2": "Bulgarien",
+      "var3": 5,
+      "var4": 4,
+      "var5": 1,
+      "var6": 9,
+      "var7": 8,
+      "var8": 1
+    },
+    {
+      "var1": 2020,
+      "var2": "China",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 1,
+      "var7": 0,
+      "var8": 1
+    },
+    {
+      "var1": 2020,
+      "var2": "Griechenland",
+      "var3": 9,
+      "var4": 8,
+      "var5": 1,
+      "var6": 8,
+      "var7": 5,
+      "var8": 3
+    },
+    {
+      "var1": 2020,
+      "var2": "Indien",
+      "var3": 3,
+      "var4": 3,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Irak",
+      "var3": 4,
+      "var4": 4,
+      "var5": 0,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Italien",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 4,
+      "var7": 3,
+      "var8": 1
+    },
+    {
+      "var1": 2020,
+      "var2": "Litauen",
+      "var3": 1,
+      "var4": 0,
+      "var5": 1,
+      "var6": 2,
+      "var7": 0,
+      "var8": 2
+    },
+    {
+      "var1": 2020,
+      "var2": "Niederlande",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 7,
+      "var7": 7,
+      "var8": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Pakistan",
+      "var3": 6,
+      "var4": 6,
+      "var5": 0,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Polen",
+      "var3": 11,
+      "var4": 7,
+      "var5": 4,
+      "var6": 10,
+      "var7": 9,
+      "var8": 1
+    },
+    {
+      "var1": 2020,
+      "var2": "Rumänien",
+      "var3": 10,
+      "var4": 10,
+      "var5": 0,
+      "var6": 6,
+      "var7": 6,
+      "var8": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Russland",
+      "var3": 7,
+      "var4": 3,
+      "var5": 4,
+      "var6": 5,
+      "var7": 3,
+      "var8": 2
+    },
+    {
+      "var1": 2020,
+      "var2": "Serbien",
+      "var3": 5,
+      "var4": 5,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2020,
+      "var2": "Syrien",
+      "var3": 76,
+      "var4": 72,
+      "var5": 4,
+      "var6": 35,
+      "var7": 33,
+      "var8": 2
+    },
+    {
+      "var1": 2020,
+      "var2": "Türkei",
+      "var3": 36,
+      "var4": 30,
+      "var5": 6,
+      "var6": 22,
+      "var7": 18,
+      "var8": 4
+    },
+    {
+      "var1": 2020,
+      "var2": "Ukraine",
+      "var3": 6,
+      "var4": 3,
+      "var5": 3,
+      "var6": 3,
+      "var7": 0,
+      "var8": 3
+    },
+    {
+      "var1": 2020,
+      "var2": "Ungarn",
+      "var3": 4,
+      "var4": 2,
+      "var5": 2,
+      "var6": 4,
+      "var7": 2,
+      "var8": 2
+    },
+    {
+      "var1": 2020,
+      "var2": "Vietnam",
+      "var3": 17,
+      "var4": 9,
+      "var5": 8,
+      "var6": 16,
+      "var7": 7,
+      "var8": 8
+    },
+    {
+      "var1": 2020,
+      "var2": "Ausland gesamt",
+      "var3": 258,
+      "var4": 208,
+      "var5": 50,
+      "var6": 184,
+      "var7": 144,
+      "var8": 39
+    },
+    {
+      "var1": 2020,
+      "var2": "insgesamt",
+      "var3": 1411,
+      "var4": 982,
+      "var5": 425,
+      "var6": 1530,
+      "var7": 1041,
+      "var8": 475
+    },
+    {
+      "var1": 2021,
+      "var2": "Afghanistan",
+      "var3": 5,
+      "var4": 4,
+      "var5": 1,
+      "var6": 4,
+      "var7": 4,
+      "var8": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Bulgarien",
+      "var3": 7,
+      "var4": 4,
+      "var5": 3,
+      "var6": 2,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2021,
+      "var2": "China",
+      "var3": 8,
+      "var4": 4,
+      "var5": 4,
+      "var6": 1,
+      "var7": 0,
+      "var8": 1
+    },
+    {
+      "var1": 2021,
+      "var2": "Griechenland",
+      "var3": 9,
+      "var4": 4,
+      "var5": 4,
+      "var6": 4,
+      "var7": 3,
+      "var8": 1
+    },
+    {
+      "var1": 2021,
+      "var2": "Indien",
+      "var3": 6,
+      "var4": 4,
+      "var5": 2,
+      "var6": 4,
+      "var7": 2,
+      "var8": 2
+    },
+    {
+      "var1": 2021,
+      "var2": "Irak",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Italien",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 4,
+      "var7": 4,
+      "var8": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Litauen",
+      "var3": 4,
+      "var4": 1,
+      "var5": 3,
+      "var6": 2,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2021,
+      "var2": "Niederlande",
+      "var3": 5,
+      "var4": 5,
+      "var5": 0,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Pakistan",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Polen",
+      "var3": 15,
+      "var4": 9,
+      "var5": 6,
+      "var6": 12,
+      "var7": 9,
+      "var8": 3
+    },
+    {
+      "var1": 2021,
+      "var2": "Rumänien",
+      "var3": 16,
+      "var4": 15,
+      "var5": 1,
+      "var6": 7,
+      "var7": 7,
+      "var8": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Russland",
+      "var3": 5,
+      "var4": 2,
+      "var5": 3,
+      "var6": 3,
+      "var7": 1,
+      "var8": 2
+    },
+    {
+      "var1": 2021,
+      "var2": "Serbien",
+      "var3": 0,
+      "var4": 0,
+      "var5": 0,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2021,
+      "var2": "Syrien",
+      "var3": 95,
+      "var4": 89,
+      "var5": 6,
+      "var6": 54,
+      "var7": 50,
+      "var8": 4
+    },
+    {
+      "var1": 2021,
+      "var2": "Türkei",
+      "var3": 19,
+      "var4": 18,
+      "var5": 1,
+      "var6": 15,
+      "var7": 12,
+      "var8": 3
+    },
+    {
+      "var1": 2021,
+      "var2": "Ukraine",
+      "var3": 5,
+      "var4": 2,
+      "var5": 3,
+      "var6": 6,
+      "var7": 1,
+      "var8": 5
+    },
+    {
+      "var1": 2021,
+      "var2": "Ungarn",
+      "var3": 5,
+      "var4": 3,
+      "var5": 2,
+      "var6": 5,
+      "var7": 1,
+      "var8": 4
+    },
+    {
+      "var1": 2021,
+      "var2": "Vietnam",
+      "var3": 31,
+      "var4": 12,
+      "var5": 19,
+      "var6": 25,
+      "var7": 16,
+      "var8": 9
+    },
+    {
+      "var1": 2021,
+      "var2": "Ausland gesamt",
+      "var3": 307,
+      "var4": 239,
+      "var5": 66,
+      "var6": 187,
+      "var7": 144,
+      "var8": 43
+    },
+    {
+      "var1": 2021,
+      "var2": "insgesamt",
+      "var3": 1483,
+      "var4": 1055,
+      "var5": 422,
+      "var6": 1431,
+      "var7": 990,
+      "var8": 434
+    },
+    {
+      "var1": 2022,
+      "var2": "Afghanistan",
+      "var3": 11,
+      "var4": 9,
+      "var5": 2,
+      "var6": 5,
+      "var7": 3,
+      "var8": 2
+    },
+    {
+      "var1": 2022,
+      "var2": "Bulgarien",
+      "var3": 5,
+      "var4": 3,
+      "var5": 2,
+      "var6": 8,
+      "var7": 7,
+      "var8": 1
+    },
+    {
+      "var1": 2022,
+      "var2": "China",
+      "var3": 5,
+      "var4": 4,
+      "var5": 1,
+      "var6": 4,
+      "var7": 2,
+      "var8": 2
+    },
+    {
+      "var1": 2022,
+      "var2": "Griechenland",
+      "var3": 12,
+      "var4": 8,
+      "var5": 4,
+      "var6": 5,
+      "var7": 4,
+      "var8": 1
+    },
+    {
+      "var1": 2022,
+      "var2": "Indien",
+      "var3": 4,
+      "var4": 3,
+      "var5": 1,
+      "var6": 2,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2022,
+      "var2": "Irak",
+      "var3": 8,
+      "var4": 8,
+      "var5": 0,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Italien",
+      "var3": 2,
+      "var4": 2,
+      "var5": 0,
+      "var6": 2,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2022,
+      "var2": "Litauen",
+      "var3": 6,
+      "var4": 4,
+      "var5": 2,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Niederlande",
+      "var3": 2,
+      "var4": 1,
+      "var5": 1,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Pakistan",
+      "var3": 4,
+      "var4": 4,
+      "var5": 0,
+      "var6": 4,
+      "var7": 4,
+      "var8": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Polen",
+      "var3": 14,
+      "var4": 8,
+      "var5": 6,
+      "var6": 18,
+      "var7": 15,
+      "var8": 3
+    },
+    {
+      "var1": 2022,
+      "var2": "Rumänien",
+      "var3": 14,
+      "var4": 12,
+      "var5": 2,
+      "var6": 11,
+      "var7": 10,
+      "var8": 1
+    },
+    {
+      "var1": 2022,
+      "var2": "Russland",
+      "var3": 4,
+      "var4": 1,
+      "var5": 3,
+      "var6": 8,
+      "var7": 3,
+      "var8": 5
+    },
+    {
+      "var1": 2022,
+      "var2": "Serbien",
+      "var3": 7,
+      "var4": 5,
+      "var5": 2,
+      "var6": 7,
+      "var7": 7,
+      "var8": 0
+    },
+    {
+      "var1": 2022,
+      "var2": "Syrien",
+      "var3": 78,
+      "var4": 75,
+      "var5": 3,
+      "var6": 92,
+      "var7": 88,
+      "var8": 4
+    },
+    {
+      "var1": 2022,
+      "var2": "Türkei",
+      "var3": 31,
+      "var4": 25,
+      "var5": 5,
+      "var6": 29,
+      "var7": 23,
+      "var8": 6
+    },
+    {
+      "var1": 2022,
+      "var2": "Ukraine",
+      "var3": 8,
+      "var4": 2,
+      "var5": 6,
+      "var6": 9,
+      "var7": 7,
+      "var8": 2
+    },
+    {
+      "var1": 2022,
+      "var2": "Ungarn",
+      "var3": 2,
+      "var4": 1,
+      "var5": 1,
+      "var6": 2,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2022,
+      "var2": "Vietnam",
+      "var3": 21,
+      "var4": 12,
+      "var5": 9,
+      "var6": 19,
+      "var7": 10,
+      "var8": 9
+    },
+    {
+      "var1": 2022,
+      "var2": "Ausland gesamt",
+      "var3": 313,
+      "var4": 241,
+      "var5": 71,
+      "var6": 289,
+      "var7": 236,
+      "var8": 53
+    },
+    {
+      "var1": 2022,
+      "var2": "insgesamt",
+      "var3": 1550,
+      "var4": 1060,
+      "var5": 484,
+      "var6": 1530,
+      "var7": 1084,
+      "var8": 432
+    },
+    {
+      "var1": 2023,
+      "var2": "Afghanistan",
+      "var3": 13,
+      "var4": 12,
+      "var5": 1,
+      "var6": 9,
+      "var7": 8,
+      "var8": 1
+    },
+    {
+      "var1": 2023,
+      "var2": "Bulgarien",
+      "var3": 8,
+      "var4": 7,
+      "var5": 1,
+      "var6": 9,
+      "var7": 5,
+      "var8": 4
+    },
+    {
+      "var1": 2023,
+      "var2": "China",
+      "var3": 2,
+      "var4": 1,
+      "var5": 1,
+      "var6": 1,
+      "var7": 0,
+      "var8": 1
+    },
+    {
+      "var1": 2023,
+      "var2": "Griechenland",
+      "var3": 14,
+      "var4": 13,
+      "var5": 1,
+      "var6": 10,
+      "var7": 8,
+      "var8": 2
+    },
+    {
+      "var1": 2023,
+      "var2": "Indien",
+      "var3": 6,
+      "var4": 4,
+      "var5": 2,
+      "var6": 2,
+      "var7": 1,
+      "var8": 1
+    },
+    {
+      "var1": 2023,
+      "var2": "Irak",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 3,
+      "var7": 3,
+      "var8": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Italien",
+      "var3": 10,
+      "var4": 9,
+      "var5": 1,
+      "var6": 1,
+      "var7": 1,
+      "var8": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Litauen",
+      "var3": 2,
+      "var4": 1,
+      "var5": 1,
+      "var6": 1,
+      "var7": 0,
+      "var8": 1
+    },
+    {
+      "var1": 2023,
+      "var2": "Niederlande",
+      "var3": 1,
+      "var4": 1,
+      "var5": 0,
+      "var6": 0,
+      "var7": 0,
+      "var8": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Pakistan",
+      "var3": 4,
+      "var4": 3,
+      "var5": 1,
+      "var6": 2,
+      "var7": 2,
+      "var8": 0
+    },
+    {
+      "var1": 2023,
+      "var2": "Polen",
+      "var3": 16,
+      "var4": 11,
+      "var5": 5,
+      "var6": 12,
+      "var7": 5,
+      "var8": 7
+    },
+    {
+      "var1": 2023,
+      "var2": "Rumänien",
+      "var3": 25,
+      "var4": 20,
+      "var5": 5,
+      "var6": 12,
+      "var7": 10,
+      "var8": 2
+    },
+    {
+      "var1": 2023,
+      "var2": "Russland",
+      "var3": 5,
+      "var4": 3,
+      "var5": 2,
+      "var6": 7,
+      "var7": 4,
+      "var8": 3
+    },
+    {
+      "var1": 2023,
+      "var2": "Serbien",
+      "var3": 6,
+      "var4": 4,
+      "var5": 2,
+      "var6": 4,
+      "var7": 3,
+      "var8": 1
+    },
+    {
+      "var1": 2023,
+      "var2": "Syrien",
+      "var3": 68,
+      "var4": 65,
+      "var5": 3,
+      "var6": 44,
+      "var7": 43,
+      "var8": 1
+    },
+    {
+      "var1": 2023,
+      "var2": "Türkei",
+      "var3": 23,
+      "var4": 18,
+      "var5": 5,
+      "var6": 19,
+      "var7": 14,
+      "var8": 5
+    },
+    {
+      "var1": 2023,
+      "var2": "Ukraine",
+      "var3": 23,
+      "var4": 9,
+      "var5": 14,
+      "var6": 13,
+      "var7": 2,
+      "var8": 11
+    },
+    {
+      "var1": 2023,
+      "var2": "Ungarn",
+      "var3": 7,
+      "var4": 4,
+      "var5": 3,
+      "var6": 3,
+      "var7": 2,
+      "var8": 1
+    },
+    {
+      "var1": 2023,
+      "var2": "Vietnam",
+      "var3": 19,
+      "var4": 7,
+      "var5": 12,
+      "var6": 21,
+      "var7": 7,
+      "var8": 14
+    },
+    {
+      "var1": 2023,
+      "var2": "Ausland gesamt",
+      "var3": 317,
+      "var4": 239,
+      "var5": 78,
+      "var6": 226,
+      "var7": 155,
+      "var8": 71
+    },
+    {
+      "var1": 2023,
+      "var2": "insgesamt",
+      "var3": 1469,
+      "var4": 1020,
+      "var5": 446,
+      "var6": 1398,
+      "var7": 905,
+      "var8": 487
+    }
+  ]
+}

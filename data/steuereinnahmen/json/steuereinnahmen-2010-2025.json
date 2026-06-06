@@ -1,0 +1,332 @@
+{
+  "title": "Steuereinnahmen der Landeshauptstadt Magdeburg 2010–2025",
+  "source": {
+    "system": "Landeshauptstadt Magdeburg — Steuerstatistik",
+    "holder": "Stadt Magdeburg"
+  },
+  "unit": "EUR",
+  "note": "Beträge in Euro. Leere Felder (z. B. erst ab 2025 erhobene Grundsteuer-Varianten) sind null.",
+  "columns": [
+    {
+      "key": "jahr",
+      "label": "Haushaltsjahr",
+      "unit": null,
+      "type": "integer"
+    },
+    {
+      "key": "vergnuegungssteuer",
+      "label": "Vergnügungssteuer",
+      "unit": "EUR",
+      "type": "number"
+    },
+    {
+      "key": "zweitwohnungssteuer",
+      "label": "Zweitwohnungssteuer",
+      "unit": "EUR",
+      "type": "number"
+    },
+    {
+      "key": "beherbegrungssteuer",
+      "label": "Beherbegrungssteuer",
+      "unit": "EUR",
+      "type": "number"
+    },
+    {
+      "key": "hundesteuer",
+      "label": "Hundesteuer",
+      "unit": "EUR",
+      "type": "number"
+    },
+    {
+      "key": "grundsteuer-a",
+      "label": "Grundsteuer A",
+      "unit": "EUR",
+      "type": "number"
+    },
+    {
+      "key": "grundsteuer-b-bis-2024",
+      "label": "Grundsteuer B bis 2024",
+      "unit": "EUR",
+      "type": "number"
+    },
+    {
+      "key": "grundsteuer-b-ab-2025-wohngrundstuecke",
+      "label": "Grundsteuer B ab 2025 Wohngrundstücke",
+      "unit": "EUR",
+      "type": "number"
+    },
+    {
+      "key": "grundsteuer-b-ab-2025-nichtwohngrundstuecke",
+      "label": "Grundsteuer B ab 2025 Nichtwohngrundstücke",
+      "unit": "EUR",
+      "type": "number"
+    },
+    {
+      "key": "gewerbesteuer",
+      "label": "Gewerbesteuer",
+      "unit": "EUR",
+      "type": "number"
+    },
+    {
+      "key": "gemeindeanteil-an-der-einkommensteuer",
+      "label": "Gemeindeanteil an der Einkommensteuer",
+      "unit": "EUR",
+      "type": "number"
+    },
+    {
+      "key": "gemeindeanteil-an-der-umsatzsteuer",
+      "label": "Gemeindeanteil an der Umsatzsteuer",
+      "unit": "EUR",
+      "type": "number"
+    },
+    {
+      "key": "gemeindeanteil-an-der-spielbankabgabe",
+      "label": "Gemeindeanteil an der Spielbankabgabe",
+      "unit": "EUR",
+      "type": "number"
+    }
+  ],
+  "rowCount": 16,
+  "rows": [
+    {
+      "jahr": 2025,
+      "vergnuegungssteuer": 1670167.05,
+      "zweitwohnungssteuer": 315926.6,
+      "beherbegrungssteuer": 1632360.06,
+      "hundesteuer": 1469008.55,
+      "grundsteuer-a": 145533.42,
+      "grundsteuer-b-bis-2024": 602051.52,
+      "grundsteuer-b-ab-2025-wohngrundstuecke": 19387120.76,
+      "grundsteuer-b-ab-2025-nichtwohngrundstuecke": 16162897.97,
+      "gewerbesteuer": 177681865.94,
+      "gemeindeanteil-an-der-einkommensteuer": 98036949.53,
+      "gemeindeanteil-an-der-umsatzsteuer": 24266768.44,
+      "gemeindeanteil-an-der-spielbankabgabe": 1270626.56
+    },
+    {
+      "jahr": 2024,
+      "vergnuegungssteuer": 1860478.2,
+      "zweitwohnungssteuer": 355346.11,
+      "beherbegrungssteuer": null,
+      "hundesteuer": 1372412.19,
+      "grundsteuer-a": 148036.48,
+      "grundsteuer-b-bis-2024": 38771300.84,
+      "grundsteuer-b-ab-2025-wohngrundstuecke": null,
+      "grundsteuer-b-ab-2025-nichtwohngrundstuecke": null,
+      "gewerbesteuer": 144332630.15,
+      "gemeindeanteil-an-der-einkommensteuer": 91439086.76,
+      "gemeindeanteil-an-der-umsatzsteuer": 22952147.0,
+      "gemeindeanteil-an-der-spielbankabgabe": 1128394.26
+    },
+    {
+      "jahr": 2023,
+      "vergnuegungssteuer": 1682332.71,
+      "zweitwohnungssteuer": 438253.81,
+      "beherbegrungssteuer": null,
+      "hundesteuer": 1306357.73,
+      "grundsteuer-a": 159062.15,
+      "grundsteuer-b-bis-2024": 32103838.26,
+      "grundsteuer-b-ab-2025-wohngrundstuecke": null,
+      "grundsteuer-b-ab-2025-nichtwohngrundstuecke": null,
+      "gewerbesteuer": 151566538.9,
+      "gemeindeanteil-an-der-einkommensteuer": 89141891.26,
+      "gemeindeanteil-an-der-umsatzsteuer": 24026901.73,
+      "gemeindeanteil-an-der-spielbankabgabe": 1109795.68
+    },
+    {
+      "jahr": 2022,
+      "vergnuegungssteuer": 1730242.42,
+      "zweitwohnungssteuer": 455311.81,
+      "beherbegrungssteuer": null,
+      "hundesteuer": 1270097.31,
+      "grundsteuer-a": 159480.16,
+      "grundsteuer-b-bis-2024": 32164603.34,
+      "grundsteuer-b-ab-2025-wohngrundstuecke": null,
+      "grundsteuer-b-ab-2025-nichtwohngrundstuecke": null,
+      "gewerbesteuer": 127121882.98,
+      "gemeindeanteil-an-der-einkommensteuer": 79644474.24,
+      "gemeindeanteil-an-der-umsatzsteuer": 23884689.17,
+      "gemeindeanteil-an-der-spielbankabgabe": 1102628.22
+    },
+    {
+      "jahr": 2021,
+      "vergnuegungssteuer": 769615.64,
+      "zweitwohnungssteuer": 369132.36,
+      "beherbegrungssteuer": null,
+      "hundesteuer": 1251123.41,
+      "grundsteuer-a": 159679.35,
+      "grundsteuer-b-bis-2024": 31910413.47,
+      "grundsteuer-b-ab-2025-wohngrundstuecke": null,
+      "grundsteuer-b-ab-2025-nichtwohngrundstuecke": null,
+      "gewerbesteuer": 112549649.82,
+      "gemeindeanteil-an-der-einkommensteuer": 78616584.07,
+      "gemeindeanteil-an-der-umsatzsteuer": 25959391.35,
+      "gemeindeanteil-an-der-spielbankabgabe": 219989.56
+    },
+    {
+      "jahr": 2020,
+      "vergnuegungssteuer": 1473474.7,
+      "zweitwohnungssteuer": 389780.59,
+      "beherbegrungssteuer": null,
+      "hundesteuer": 1155402.87,
+      "grundsteuer-a": 162855.47,
+      "grundsteuer-b-bis-2024": 31896995.14,
+      "grundsteuer-b-ab-2025-wohngrundstuecke": null,
+      "grundsteuer-b-ab-2025-nichtwohngrundstuecke": null,
+      "gewerbesteuer": 91378173.19,
+      "gemeindeanteil-an-der-einkommensteuer": 75378595.5,
+      "gemeindeanteil-an-der-umsatzsteuer": 27780359.86,
+      "gemeindeanteil-an-der-spielbankabgabe": 580987.5
+    },
+    {
+      "jahr": 2019,
+      "vergnuegungssteuer": 2088080.39,
+      "zweitwohnungssteuer": 390695.87,
+      "beherbegrungssteuer": null,
+      "hundesteuer": 1118821.31,
+      "grundsteuer-a": 157870.19,
+      "grundsteuer-b-bis-2024": 31909742.93,
+      "grundsteuer-b-ab-2025-wohngrundstuecke": null,
+      "grundsteuer-b-ab-2025-nichtwohngrundstuecke": null,
+      "gewerbesteuer": 112469692.8,
+      "gemeindeanteil-an-der-einkommensteuer": 76395119.02,
+      "gemeindeanteil-an-der-umsatzsteuer": 24875333.73,
+      "gemeindeanteil-an-der-spielbankabgabe": 544515.36
+    },
+    {
+      "jahr": 2018,
+      "vergnuegungssteuer": 2102698.88,
+      "zweitwohnungssteuer": 308206.29,
+      "beherbegrungssteuer": null,
+      "hundesteuer": 1085171.29,
+      "grundsteuer-a": 161413.69,
+      "grundsteuer-b-bis-2024": 31085069.79,
+      "grundsteuer-b-ab-2025-wohngrundstuecke": null,
+      "grundsteuer-b-ab-2025-nichtwohngrundstuecke": null,
+      "gewerbesteuer": 109936178.6,
+      "gemeindeanteil-an-der-einkommensteuer": 72970361.23,
+      "gemeindeanteil-an-der-umsatzsteuer": 22374533.5,
+      "gemeindeanteil-an-der-spielbankabgabe": 301618.66
+    },
+    {
+      "jahr": 2017,
+      "vergnuegungssteuer": 2157907.07,
+      "zweitwohnungssteuer": 366477.01,
+      "beherbegrungssteuer": null,
+      "hundesteuer": 1085005.65,
+      "grundsteuer-a": 169088.73,
+      "grundsteuer-b-bis-2024": 30977287.13,
+      "grundsteuer-b-ab-2025-wohngrundstuecke": null,
+      "grundsteuer-b-ab-2025-nichtwohngrundstuecke": null,
+      "gewerbesteuer": 103485691.24,
+      "gemeindeanteil-an-der-einkommensteuer": 66972654.92,
+      "gemeindeanteil-an-der-umsatzsteuer": 20190206.67,
+      "gemeindeanteil-an-der-spielbankabgabe": 120969.09
+    },
+    {
+      "jahr": 2016,
+      "vergnuegungssteuer": 1965549.31,
+      "zweitwohnungssteuer": 348475.02,
+      "beherbegrungssteuer": null,
+      "hundesteuer": 1060149.66,
+      "grundsteuer-a": 163498.59,
+      "grundsteuer-b-bis-2024": 31127209.97,
+      "grundsteuer-b-ab-2025-wohngrundstuecke": null,
+      "grundsteuer-b-ab-2025-nichtwohngrundstuecke": null,
+      "gewerbesteuer": 97584799.53,
+      "gemeindeanteil-an-der-einkommensteuer": 62734807.93,
+      "gemeindeanteil-an-der-umsatzsteuer": 15702076.95,
+      "gemeindeanteil-an-der-spielbankabgabe": 27830.99
+    },
+    {
+      "jahr": 2015,
+      "vergnuegungssteuer": 2082616.13,
+      "zweitwohnungssteuer": 296873.5,
+      "beherbegrungssteuer": null,
+      "hundesteuer": 1046301.81,
+      "grundsteuer-a": 159691.2,
+      "grundsteuer-b-bis-2024": 30819788.83,
+      "grundsteuer-b-ab-2025-wohngrundstuecke": null,
+      "grundsteuer-b-ab-2025-nichtwohngrundstuecke": null,
+      "gewerbesteuer": 82005554.15,
+      "gemeindeanteil-an-der-einkommensteuer": 61197858.52,
+      "gemeindeanteil-an-der-umsatzsteuer": 16294989.71,
+      "gemeindeanteil-an-der-spielbankabgabe": 0.0
+    },
+    {
+      "jahr": 2014,
+      "vergnuegungssteuer": 1765677.17,
+      "zweitwohnungssteuer": 256907.19,
+      "beherbegrungssteuer": null,
+      "hundesteuer": 1055977.87,
+      "grundsteuer-a": 175585.04,
+      "grundsteuer-b-bis-2024": 30825879.36,
+      "grundsteuer-b-ab-2025-wohngrundstuecke": null,
+      "grundsteuer-b-ab-2025-nichtwohngrundstuecke": null,
+      "gewerbesteuer": 90637768.28,
+      "gemeindeanteil-an-der-einkommensteuer": 55630668.12,
+      "gemeindeanteil-an-der-umsatzsteuer": 14626801.37,
+      "gemeindeanteil-an-der-spielbankabgabe": 0.0
+    },
+    {
+      "jahr": 2013,
+      "vergnuegungssteuer": 1727920.9,
+      "zweitwohnungssteuer": 320786.94,
+      "beherbegrungssteuer": null,
+      "hundesteuer": 1029038.42,
+      "grundsteuer-a": 161290.34,
+      "grundsteuer-b-bis-2024": 30509043.36,
+      "grundsteuer-b-ab-2025-wohngrundstuecke": null,
+      "grundsteuer-b-ab-2025-nichtwohngrundstuecke": null,
+      "gewerbesteuer": 101949809.34,
+      "gemeindeanteil-an-der-einkommensteuer": 51984885.48,
+      "gemeindeanteil-an-der-umsatzsteuer": 14335184.95,
+      "gemeindeanteil-an-der-spielbankabgabe": 0.0
+    },
+    {
+      "jahr": 2012,
+      "vergnuegungssteuer": 1166274.36,
+      "zweitwohnungssteuer": 323811.25,
+      "beherbegrungssteuer": null,
+      "hundesteuer": 1016623.56,
+      "grundsteuer-a": 172532.16,
+      "grundsteuer-b-bis-2024": 29498179.03,
+      "grundsteuer-b-ab-2025-wohngrundstuecke": null,
+      "grundsteuer-b-ab-2025-nichtwohngrundstuecke": null,
+      "gewerbesteuer": 89467440.31,
+      "gemeindeanteil-an-der-einkommensteuer": 46773567.64,
+      "gemeindeanteil-an-der-umsatzsteuer": 13855741.61,
+      "gemeindeanteil-an-der-spielbankabgabe": 0.0
+    },
+    {
+      "jahr": 2011,
+      "vergnuegungssteuer": 967010.11,
+      "zweitwohnungssteuer": 273484.43,
+      "beherbegrungssteuer": null,
+      "hundesteuer": 1036303.45,
+      "grundsteuer-a": 174950.93,
+      "grundsteuer-b-bis-2024": 26899008.19,
+      "grundsteuer-b-ab-2025-wohngrundstuecke": null,
+      "grundsteuer-b-ab-2025-nichtwohngrundstuecke": null,
+      "gewerbesteuer": 85012696.16,
+      "gemeindeanteil-an-der-einkommensteuer": 42322666.3,
+      "gemeindeanteil-an-der-umsatzsteuer": 14601119.8,
+      "gemeindeanteil-an-der-spielbankabgabe": 23455.93
+    },
+    {
+      "jahr": 2010,
+      "vergnuegungssteuer": 725044.48,
+      "zweitwohnungssteuer": 292874.43,
+      "beherbegrungssteuer": null,
+      "hundesteuer": 1009728.71,
+      "grundsteuer-a": 183183.21,
+      "grundsteuer-b-bis-2024": 26570707.79,
+      "grundsteuer-b-ab-2025-wohngrundstuecke": null,
+      "grundsteuer-b-ab-2025-nichtwohngrundstuecke": null,
+      "gewerbesteuer": 82086180.14,
+      "gemeindeanteil-an-der-einkommensteuer": 38452692.53,
+      "gemeindeanteil-an-der-umsatzsteuer": 13191915.33,
+      "gemeindeanteil-an-der-spielbankabgabe": 93975.88
+    }
+  ]
+}

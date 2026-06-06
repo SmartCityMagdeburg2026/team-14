@@ -1,0 +1,412 @@
+{
+  "id": "energie-und-umwelt/stadtwirtschaftliche-leistungen",
+  "title": "Stadtwirtschaftliche Leistungen",
+  "category": "Energie und Umwelt",
+  "subcategory": "Abfallentsorgung",
+  "tableId": "K9_T22",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/stadtwirtschaftliche-leistungen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Stadtwirtschaftliche Leistungen.xlsx"
+  },
+  "description": "Stadtwirtschaftliche Leistungen (Abfallmengen, Gebühren, betreute Einwohner). var2..var7 nicht zuverlässig zuzuordnen — LLM-Labels lieferten widersprüchliche Größenordnungen.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        60075.22334,
+        54208.34228,
+        38716.8
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        2862.25,
+        2446,
+        4081.25
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        1788,
+        1821.9,
+        915.5
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        99291.4,
+        96773,
+        66680.5
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "number",
+      "role": null,
+      "sample": [
+        8398.4,
+        13676.5,
+        13237
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        56856,
+        44112,
+        50100
+      ]
+    }
+  ],
+  "rowCount": 34,
+  "rows": [
+    {
+      "var1": 1991,
+      "var2": 60075.22334,
+      "var3": null,
+      "var4": 1788,
+      "var5": 99291.4,
+      "var6": 8398.4,
+      "var7": 56856
+    },
+    {
+      "var1": 1992,
+      "var2": 54208.34228,
+      "var3": null,
+      "var4": 1821.9,
+      "var5": 96773,
+      "var6": 13676.5,
+      "var7": 44112
+    },
+    {
+      "var1": 1993,
+      "var2": 38716.8,
+      "var3": null,
+      "var4": 915.5,
+      "var5": 66680.5,
+      "var6": 13237,
+      "var7": 50100
+    },
+    {
+      "var1": 1994,
+      "var2": 29785.9,
+      "var3": null,
+      "var4": 1901.4,
+      "var5": 16074,
+      "var6": 2653,
+      "var7": 47017
+    },
+    {
+      "var1": 1995,
+      "var2": 47813.7,
+      "var3": null,
+      "var4": 4583,
+      "var5": 68127,
+      "var6": 26405,
+      "var7": 76904
+    },
+    {
+      "var1": 1996,
+      "var2": 33420.225,
+      "var3": null,
+      "var4": 3132,
+      "var5": 64723.5,
+      "var6": 7011.5,
+      "var7": 81297
+    },
+    {
+      "var1": 1997,
+      "var2": 48614.634,
+      "var3": null,
+      "var4": 308,
+      "var5": 56619.5,
+      "var6": 7890.95,
+      "var7": 94668
+    },
+    {
+      "var1": 1998,
+      "var2": 49239.35,
+      "var3": null,
+      "var4": 420,
+      "var5": 59559.3,
+      "var6": 9268.5,
+      "var7": 109909
+    },
+    {
+      "var1": 1999,
+      "var2": 57986.9,
+      "var3": null,
+      "var4": 1492,
+      "var5": 61639.5,
+      "var6": 9145.25,
+      "var7": 125017
+    },
+    {
+      "var1": 2000,
+      "var2": 60160.94,
+      "var3": null,
+      "var4": 1057.211,
+      "var5": 62013.75,
+      "var6": 9446.45,
+      "var7": 127937
+    },
+    {
+      "var1": 2001,
+      "var2": 52120.89,
+      "var3": null,
+      "var4": 296.9,
+      "var5": 61056,
+      "var6": 8685,
+      "var7": 131478
+    },
+    {
+      "var1": 2002,
+      "var2": 51911.5,
+      "var3": null,
+      "var4": 262.268,
+      "var5": 64857.3,
+      "var6": 8972.995,
+      "var7": 144939
+    },
+    {
+      "var1": 2003,
+      "var2": 48586.6,
+      "var3": null,
+      "var4": 67.5,
+      "var5": 72056.95,
+      "var6": 9191.75,
+      "var7": 147195
+    },
+    {
+      "var1": 2004,
+      "var2": 46469.8,
+      "var3": 2862.25,
+      "var4": 0,
+      "var5": 61273.25,
+      "var6": 9421,
+      "var7": 144219
+    },
+    {
+      "var1": 2005,
+      "var2": 44802,
+      "var3": 2446,
+      "var4": 0,
+      "var5": 56784.75,
+      "var6": 8901.25,
+      "var7": 147906
+    },
+    {
+      "var1": 2006,
+      "var2": 40802.4,
+      "var3": 4081.25,
+      "var4": 0,
+      "var5": 56414.55,
+      "var6": 8205.85,
+      "var7": 143247
+    },
+    {
+      "var1": 2007,
+      "var2": 45815.8,
+      "var3": 1788.75,
+      "var4": 0,
+      "var5": 59485,
+      "var6": 9251,
+      "var7": 147647
+    },
+    {
+      "var1": 2008,
+      "var2": 46210.483,
+      "var3": 1139.75,
+      "var4": 1599.39,
+      "var5": 65774.75,
+      "var6": 9405,
+      "var7": 150888
+    },
+    {
+      "var1": 2009,
+      "var2": 40552.447,
+      "var3": 239.5,
+      "var4": 17734.164,
+      "var5": 58494.25,
+      "var6": 8900.17,
+      "var7": 148587
+    },
+    {
+      "var1": 2010,
+      "var2": 30303.53,
+      "var3": 66314.182,
+      "var4": 0,
+      "var5": 37371.75,
+      "var6": 7486.65,
+      "var7": 138736
+    },
+    {
+      "var1": 2011,
+      "var2": 37891.171,
+      "var3": 13860.146999999999,
+      "var4": 0,
+      "var5": 47450.75,
+      "var6": 9345.7,
+      "var7": 152282
+    },
+    {
+      "var1": 2012,
+      "var2": 36486.602,
+      "var3": 17742.919,
+      "var4": 0,
+      "var5": 51128.5,
+      "var6": 9131.15,
+      "var7": 153823
+    },
+    {
+      "var1": 2013,
+      "var2": 31776.264,
+      "var3": 32704.969999999998,
+      "var4": 0,
+      "var5": 37379.45,
+      "var6": 7746.8,
+      "var7": 150243
+    },
+    {
+      "var1": 2014,
+      "var2": 38581.87,
+      "var3": 15211.64,
+      "var4": 0,
+      "var5": 39516,
+      "var6": 9281.24,
+      "var7": 151466
+    },
+    {
+      "var1": 2015,
+      "var2": 40767.438,
+      "var3": 10121.4,
+      "var4": 0,
+      "var5": 44977.25,
+      "var6": 9520.65,
+      "var7": 147854
+    },
+    {
+      "var1": 2016,
+      "var2": 39018.657,
+      "var3": 19012.763,
+      "var4": 0,
+      "var5": 43848.5,
+      "var6": 9895.5,
+      "var7": 146313
+    },
+    {
+      "var1": 2017,
+      "var2": 37619.274,
+      "var3": 15936.869,
+      "var4": 0,
+      "var5": 51029.5,
+      "var6": 9903.5,
+      "var7": 147297
+    },
+    {
+      "var1": 2018,
+      "var2": 39395.832,
+      "var3": 15962.881,
+      "var4": 0,
+      "var5": 51347,
+      "var6": 9760.5,
+      "var7": 147527
+    },
+    {
+      "var1": 2019,
+      "var2": 41528.151,
+      "var3": 9966.853,
+      "var4": 0,
+      "var5": 49802.75,
+      "var6": 10263,
+      "var7": 143030
+    },
+    {
+      "var1": 2020,
+      "var2": 41681.729,
+      "var3": 3377.8900000000003,
+      "var4": 0,
+      "var5": 44355,
+      "var6": 10545.8,
+      "var7": 136562
+    },
+    {
+      "var1": 2021,
+      "var2": 37455.09,
+      "var3": 16675.32,
+      "var4": 0,
+      "var5": 40942.5,
+      "var6": 9826.7,
+      "var7": 154206
+    },
+    {
+      "var1": 2022,
+      "var2": 38061.425,
+      "var3": 6250.519,
+      "var4": 0,
+      "var5": 41941.75,
+      "var6": 9294.5,
+      "var7": 164216
+    },
+    {
+      "var1": 2023,
+      "var2": 36599.245,
+      "var3": 6259.95,
+      "var4": 0,
+      "var5": 43888.25,
+      "var6": 8837.6,
+      "var7": 167126
+    },
+    {
+      "var1": 2024,
+      "var2": 37396.256,
+      "var3": 4936.642,
+      "var4": 0,
+      "var5": 43553.27,
+      "var6": 9749.1,
+      "var7": 179898
+    }
+  ]
+}

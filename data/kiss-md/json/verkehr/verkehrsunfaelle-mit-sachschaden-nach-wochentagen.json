@@ -1,0 +1,268 @@
+{
+  "id": "verkehr/verkehrsunfaelle-mit-sachschaden-nach-wochentagen",
+  "title": "Verkehrsunfälle mit Sachschaden nach Wochentagen",
+  "category": "Verkehr",
+  "subcategory": "Unfallgeschehen in der Stadt Magdeburg",
+  "tableId": "K8_T10",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/verkehr/verkehrsunfaelle-mit-sachschaden-nach-wochentagen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Verkehrsunfälle mit Sachschaden nach Wochentagen.xlsx"
+  },
+  "description": "Verkehrsunfälle mit Sachschaden, aufgeschlüsselt nach Wochentag.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Montag",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1328,
+        1445,
+        1574
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Dienstag",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1298,
+        1412,
+        1431
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Mittwoch",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1318,
+        1255,
+        1436
+      ]
+    },
+    {
+      "key": "var5",
+      "label": "Donnerstag",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1352,
+        1538,
+        1374
+      ]
+    },
+    {
+      "key": "var6",
+      "label": "Freitag",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1358,
+        1409,
+        1379
+      ]
+    },
+    {
+      "key": "var7",
+      "label": "Samstag",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        822,
+        853,
+        889
+      ]
+    },
+    {
+      "key": "var8",
+      "label": "Sonntag",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        473,
+        428,
+        493
+      ]
+    }
+  ],
+  "rowCount": 15,
+  "rows": [
+    {
+      "var1": 2017,
+      "var2": 1328,
+      "var3": 1298,
+      "var4": 1318,
+      "var5": 1352,
+      "var6": 1358,
+      "var7": 822,
+      "var8": 473
+    },
+    {
+      "var1": 2018,
+      "var2": 1445,
+      "var3": 1412,
+      "var4": 1255,
+      "var5": 1538,
+      "var6": 1409,
+      "var7": 853,
+      "var8": 428
+    },
+    {
+      "var1": 2019,
+      "var2": 1574,
+      "var3": 1431,
+      "var4": 1436,
+      "var5": 1374,
+      "var6": 1379,
+      "var7": 889,
+      "var8": 493
+    },
+    {
+      "var1": 2020,
+      "var2": 1296,
+      "var3": 1291,
+      "var4": 1204,
+      "var5": 1246,
+      "var6": 1248,
+      "var7": 679,
+      "var8": 396
+    },
+    {
+      "var1": 2021,
+      "var2": 1162,
+      "var3": 1129,
+      "var4": 1126,
+      "var5": 1141,
+      "var6": 1129,
+      "var7": 648,
+      "var8": 353
+    },
+    {
+      "var1": 2022,
+      "var2": 1296,
+      "var3": 1296,
+      "var4": 1271,
+      "var5": 1310,
+      "var6": 1327,
+      "var7": 749,
+      "var8": 469
+    },
+    {
+      "var1": 2010,
+      "var2": 1587,
+      "var3": 1555,
+      "var4": 1470,
+      "var5": 1547,
+      "var6": 1663,
+      "var7": 1042,
+      "var8": 591
+    },
+    {
+      "var1": 2011,
+      "var2": 1499,
+      "var3": 1459,
+      "var4": 1434,
+      "var5": 1478,
+      "var6": 1527,
+      "var7": 1051,
+      "var8": 510
+    },
+    {
+      "var1": 2012,
+      "var2": 1445,
+      "var3": 1427,
+      "var4": 1398,
+      "var5": 1558,
+      "var6": 1582,
+      "var7": 1012,
+      "var8": 579
+    },
+    {
+      "var1": 2013,
+      "var2": 1612,
+      "var3": 1420,
+      "var4": 1415,
+      "var5": 1384,
+      "var6": 1518,
+      "var7": 933,
+      "var8": 572
+    },
+    {
+      "var1": 2014,
+      "var2": 1429,
+      "var3": 1371,
+      "var4": 1338,
+      "var5": 1393,
+      "var6": 1351,
+      "var7": 843,
+      "var8": 496
+    },
+    {
+      "var1": 2015,
+      "var2": 1344,
+      "var3": 1370,
+      "var4": 1322,
+      "var5": 1229,
+      "var6": 1338,
+      "var7": 812,
+      "var8": 467
+    },
+    {
+      "var1": 2016,
+      "var2": 1282,
+      "var3": 1374,
+      "var4": 1322,
+      "var5": 1363,
+      "var6": 1318,
+      "var7": 851,
+      "var8": 487
+    },
+    {
+      "var1": 2023,
+      "var2": 1270,
+      "var3": 1300,
+      "var4": 1237,
+      "var5": 1357,
+      "var6": 1319,
+      "var7": 848,
+      "var8": 506
+    },
+    {
+      "var1": 2024,
+      "var2": 1313,
+      "var3": 1382,
+      "var4": 1273,
+      "var5": 1387,
+      "var6": 1345,
+      "var7": 865,
+      "var8": 503
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "id": "bevoelkerung/wanderungsbewegungen-nach-geschlecht",
+  "title": "Wanderungsbewegungen nach Geschlecht",
+  "category": "Bevölkerung",
+  "subcategory": "Bevölkerungsbewegung",
+  "tableId": "K3_T22",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bevoelkerung/wanderungsbewegungen-nach-geschlecht.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Wanderungsbewegungen nach Geschlecht.xlsx"
+  },
+  "description": "Wanderungsbewegungen nach Geschlecht. Die LLM-Vermutungen für die Geschlechts- und Richtungs-Zuordnung waren mit den Größenordnungen nicht konsistent.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5892,
+        6153,
+        7263
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        3357,
+        3486,
+        3880
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2535,
+        2667,
+        3383
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        10234,
+        12366,
+        12556
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5347,
+        6478,
+        6876
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        4887,
+        5888,
+        5680
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        -4342,
+        -6213,
+        -5293
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        -1990,
+        -2992,
+        -2996
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        -2352,
+        -3221,
+        -2297
+      ]
+    }
+  ],
+  "rowCount": 31,
+  "rows": [
+    {
+      "var1": 1994,
+      "var2": 5892,
+      "var3": 3357,
+      "var4": 2535,
+      "var5": 10234,
+      "var6": 5347,
+      "var7": 4887,
+      "var8": -4342,
+      "var9": -1990,
+      "var10": -2352
+    },
+    {
+      "var1": 1995,
+      "var2": 6153,
+      "var3": 3486,
+      "var4": 2667,
+      "var5": 12366,
+      "var6": 6478,
+      "var7": 5888,
+      "var8": -6213,
+      "var9": -2992,
+      "var10": -3221
+    },
+    {
+      "var1": 1996,
+      "var2": 7263,
+      "var3": 3880,
+      "var4": 3383,
+      "var5": 12556,
+      "var6": 6876,
+      "var7": 5680,
+      "var8": -5293,
+      "var9": -2996,
+      "var10": -2297
+    },
+    {
+      "var1": 1997,
+      "var2": 7182,
+      "var3": 3856,
+      "var4": 3326,
+      "var5": 11617,
+      "var6": 5936,
+      "var7": 5681,
+      "var8": -4435,
+      "var9": -2080,
+      "var10": -2355
+    },
+    {
+      "var1": 1998,
+      "var2": 7560,
+      "var3": 4142,
+      "var4": 3418,
+      "var5": 12508,
+      "var6": 6876,
+      "var7": 5632,
+      "var8": -4948,
+      "var9": -2734,
+      "var10": -2214
+    },
+    {
+      "var1": 1999,
+      "var2": 7783,
+      "var3": 4114,
+      "var4": 3669,
+      "var5": 11154,
+      "var6": 5933,
+      "var7": 5221,
+      "var8": -3371,
+      "var9": -1819,
+      "var10": -1552
+    },
+    {
+      "var1": 2000,
+      "var2": 7624,
+      "var3": 3993,
+      "var4": 3631,
+      "var5": 10262,
+      "var6": 5492,
+      "var7": 4770,
+      "var8": -2638,
+      "var9": -1499,
+      "var10": -1139
+    },
+    {
+      "var1": 2001,
+      "var2": 7955,
+      "var3": 4168,
+      "var4": 3787,
+      "var5": 9916,
+      "var6": 5135,
+      "var7": 4781,
+      "var8": -1961,
+      "var9": -967,
+      "var10": -994
+    },
+    {
+      "var1": 2002,
+      "var2": 8589,
+      "var3": 4516,
+      "var4": 4073,
+      "var5": 9154,
+      "var6": 4727,
+      "var7": 4427,
+      "var8": -565,
+      "var9": -211,
+      "var10": -354
+    },
+    {
+      "var1": 2003,
+      "var2": 8739,
+      "var3": 4494,
+      "var4": 4245,
+      "var5": 8408,
+      "var6": 4311,
+      "var7": 4097,
+      "var8": 331,
+      "var9": 183,
+      "var10": 148
+    },
+    {
+      "var1": 2004,
+      "var2": 9454,
+      "var3": 4990,
+      "var4": 4464,
+      "var5": 9431,
+      "var6": 5081,
+      "var7": 4350,
+      "var8": 23,
+      "var9": -91,
+      "var10": 114
+    },
+    {
+      "var1": 2005,
+      "var2": 12120,
+      "var3": 6267,
+      "var4": 5853,
+      "var5": 8930,
+      "var6": 4728,
+      "var7": 4202,
+      "var8": 3190,
+      "var9": 1539,
+      "var10": 1651
+    },
+    {
+      "var1": 2006,
+      "var2": 10093,
+      "var3": 5189,
+      "var4": 4904,
+      "var5": 8746,
+      "var6": 4474,
+      "var7": 4272,
+      "var8": 1347,
+      "var9": 715,
+      "var10": 632
+    },
+    {
+      "var1": 2007,
+      "var2": 10243,
+      "var3": 5283,
+      "var4": 4960,
+      "var5": 9143,
+      "var6": 4725,
+      "var7": 4418,
+      "var8": 1100,
+      "var9": 558,
+      "var10": 542
+    },
+    {
+      "var1": 2008,
+      "var2": 10429,
+      "var3": 5423,
+      "var4": 5006,
+      "var5": 9971,
+      "var6": 5147,
+      "var7": 4824,
+      "var8": 458,
+      "var9": 276,
+      "var10": 182
+    },
+    {
+      "var1": 2009,
+      "var2": 10877,
+      "var3": 5757,
+      "var4": 5120,
+      "var5": 9702,
+      "var6": 4819,
+      "var7": 4883,
+      "var8": 1175,
+      "var9": 938,
+      "var10": 237
+    },
+    {
+      "var1": 2010,
+      "var2": 11049,
+      "var3": 5744,
+      "var4": 5305,
+      "var5": 9307,
+      "var6": 4780,
+      "var7": 4527,
+      "var8": 1742,
+      "var9": 964,
+      "var10": 778
+    },
+    {
+      "var1": 2011,
+      "var2": 11380,
+      "var3": 5992,
+      "var4": 5388,
+      "var5": 9978,
+      "var6": 5217,
+      "var7": 4761,
+      "var8": 1402,
+      "var9": 775,
+      "var10": 627
+    },
+    {
+      "var1": 2012,
+      "var2": 11230,
+      "var3": 5906,
+      "var4": 5324,
+      "var5": 9760,
+      "var6": 5031,
+      "var7": 4729,
+      "var8": 1470,
+      "var9": 875,
+      "var10": 595
+    },
+    {
+      "var1": 2013,
+      "var2": 11716,
+      "var3": 6281,
+      "var4": 5435,
+      "var5": 10006,
+      "var6": 5285,
+      "var7": 4721,
+      "var8": 1710,
+      "var9": 996,
+      "var10": 714
+    },
+    {
+      "var1": 2014,
+      "var2": 12679,
+      "var3": 7021,
+      "var4": 5658,
+      "var5": 10796,
+      "var6": 5831,
+      "var7": 4965,
+      "var8": 1883,
+      "var9": 1190,
+      "var10": 693
+    },
+    {
+      "var1": 2015,
+      "var2": 14531,
+      "var3": 8214,
+      "var4": 6317,
+      "var5": 10509,
+      "var6": 5770,
+      "var7": 4739,
+      "var8": 4022,
+      "var9": 2444,
+      "var10": 1578
+    },
+    {
+      "var1": 2016,
+      "var2": 16155,
+      "var3": 9423,
+      "var4": 6732,
+      "var5": 13126,
+      "var6": 7419,
+      "var7": 5707,
+      "var8": 3029,
+      "var9": 2004,
+      "var10": 1025
+    },
+    {
+      "var1": 2017,
+      "var2": 14835,
+      "var3": 8717,
+      "var4": 6118,
+      "var5": 13845,
+      "var6": 8316,
+      "var7": 5529,
+      "var8": 990,
+      "var9": 401,
+      "var10": 589
+    },
+    {
+      "var1": 2018,
+      "var2": 13990,
+      "var3": 8154,
+      "var4": 5836,
+      "var5": 12871,
+      "var6": 7585,
+      "var7": 5286,
+      "var8": 1119,
+      "var9": 569,
+      "var10": 550
+    },
+    {
+      "var1": 2019,
+      "var2": 13192,
+      "var3": 7774,
+      "var4": 5418,
+      "var5": 13510,
+      "var6": 7842,
+      "var7": 5668,
+      "var8": -318,
+      "var9": -68,
+      "var10": -250
+    },
+    {
+      "var1": 2020,
+      "var2": 12694,
+      "var3": 7314,
+      "var4": 5380,
+      "var5": 13413,
+      "var6": 7853,
+      "var7": 5560,
+      "var8": -719,
+      "var9": -539,
+      "var10": -180
+    },
+    {
+      "var1": 2021,
+      "var2": 15474,
+      "var3": 8903,
+      "var4": 6571,
+      "var5": 13893,
+      "var6": 7996,
+      "var7": 5897,
+      "var8": 1581,
+      "var9": 907,
+      "var10": 674
+    },
+    {
+      "var1": 2022,
+      "var2": 23914,
+      "var3": 13902,
+      "var4": 10012,
+      "var5": 19112,
+      "var6": 12006,
+      "var7": 7106,
+      "var8": 4802,
+      "var9": 1896,
+      "var10": 2906
+    },
+    {
+      "var1": 2023,
+      "var2": 17935,
+      "var3": 11217,
+      "var4": 6718,
+      "var5": 15473,
+      "var6": 9445,
+      "var7": 6028,
+      "var8": 2462,
+      "var9": 1772,
+      "var10": 690
+    },
+    {
+      "var1": 2024,
+      "var2": 16427,
+      "var3": 9974,
+      "var4": 6453,
+      "var5": 12877,
+      "var6": 7808,
+      "var7": 5069,
+      "var8": 3550,
+      "var9": 2166,
+      "var10": 1384
+    }
+  ]
+}

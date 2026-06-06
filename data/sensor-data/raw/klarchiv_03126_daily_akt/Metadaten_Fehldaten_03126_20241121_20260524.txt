@@ -1,0 +1,11 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+3126;Magdeburg;TGK;21.11.2024;24.05.2026;14;Gesamt_Messzeitraum;eor;                                                                                                                                    
+3126;Magdeburg;FM;21.11.2024;24.05.2026;1;Gesamt_Messzeitraum;eor;                                                                                                                                      
+3126;Magdeburg;FX;21.11.2024;24.05.2026;1;Gesamt_Messzeitraum;eor;                                                                                                                                      
+3126;Magdeburg;RSK;21.11.2024;24.05.2026;3;Gesamt_Messzeitraum;eor;                                                                                                                                     
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+3126;Magdeburg;TGK;22.12.2025;04.01.2026;14;;eor;                                                                                                                                                       
+3126;Magdeburg;FM;29.07.2025;29.07.2025;1;;eor;                                                                                                                                                         
+3126;Magdeburg;FX;29.07.2025;29.07.2025;1;;eor;                                                                                                                                                         
+3126;Magdeburg;RSK;04.05.2026;06.05.2026;3;;eor;                                                                                                                                                        
+generiert: 25.05.2026 --  Deutscher Wetterdienst  --                                                                                                                                                    

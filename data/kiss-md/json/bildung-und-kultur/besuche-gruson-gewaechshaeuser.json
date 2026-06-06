@@ -1,0 +1,225 @@
+{
+  "id": "bildung-und-kultur/besuche-gruson-gewaechshaeuser",
+  "title": "Besuche Gruson Gewächshäuser",
+  "category": "Bildung und Kultur",
+  "subcategory": "Gruson-Gewächshäuser",
+  "tableId": "K5_T29",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bildung-und-kultur/besuche-gruson-gewaechshaeuser.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Besuche Gruson Gewächshäuser.xlsx"
+  },
+  "description": "Besuche der Gruson-Gewächshäuser, monatlich. var4 enthält weitere Werte (vermutl. Jahressumme), Zuordnung unsicher.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2024,
+        2024,
+        2024
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Monat",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Januar",
+        "Februar",
+        "März"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Besucher gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        5581,
+        6350,
+        5513
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        15900,
+        15803
+      ]
+    }
+  ],
+  "rowCount": 26,
+  "rows": [
+    {
+      "var1": 2024,
+      "var2": "Januar",
+      "var3": 5581,
+      "var4": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Februar",
+      "var3": 6350,
+      "var4": null
+    },
+    {
+      "var1": 2024,
+      "var2": "März",
+      "var3": 5513,
+      "var4": null
+    },
+    {
+      "var1": 2024,
+      "var2": "April",
+      "var3": 4026,
+      "var4": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Mai",
+      "var3": 3700,
+      "var4": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Juni",
+      "var3": 3603,
+      "var4": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Juli",
+      "var3": 2663,
+      "var4": null
+    },
+    {
+      "var1": 2024,
+      "var2": "August",
+      "var3": 2361,
+      "var4": null
+    },
+    {
+      "var1": 2024,
+      "var2": "September",
+      "var3": 2319,
+      "var4": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Oktober",
+      "var3": 4526,
+      "var4": null
+    },
+    {
+      "var1": 2024,
+      "var2": "November",
+      "var3": 3447,
+      "var4": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Dezember",
+      "var3": 2805,
+      "var4": null
+    },
+    {
+      "var1": 2024,
+      "var2": "Gesamt",
+      "var3": 46894,
+      "var4": 15900
+    },
+    {
+      "var1": 2025,
+      "var2": "Januar",
+      "var3": 5693,
+      "var4": null
+    },
+    {
+      "var1": 2025,
+      "var2": "Februar",
+      "var3": 4956,
+      "var4": null
+    },
+    {
+      "var1": 2025,
+      "var2": "März",
+      "var3": 4203,
+      "var4": null
+    },
+    {
+      "var1": 2025,
+      "var2": "April",
+      "var3": 4363,
+      "var4": null
+    },
+    {
+      "var1": 2025,
+      "var2": "Mai",
+      "var3": 4981,
+      "var4": null
+    },
+    {
+      "var1": 2025,
+      "var2": "Juni",
+      "var3": 3290,
+      "var4": null
+    },
+    {
+      "var1": 2025,
+      "var2": "Juli",
+      "var3": 3915,
+      "var4": null
+    },
+    {
+      "var1": 2025,
+      "var2": "August",
+      "var3": 3651,
+      "var4": null
+    },
+    {
+      "var1": 2025,
+      "var2": "September",
+      "var3": 2539,
+      "var4": null
+    },
+    {
+      "var1": 2025,
+      "var2": "Oktober",
+      "var3": 4697,
+      "var4": null
+    },
+    {
+      "var1": 2025,
+      "var2": "November",
+      "var3": 3926,
+      "var4": null
+    },
+    {
+      "var1": 2025,
+      "var2": "Dezember",
+      "var3": 3426,
+      "var4": null
+    },
+    {
+      "var1": 2025,
+      "var2": "Gesamt",
+      "var3": 49640,
+      "var4": 15803
+    }
+  ]
+}

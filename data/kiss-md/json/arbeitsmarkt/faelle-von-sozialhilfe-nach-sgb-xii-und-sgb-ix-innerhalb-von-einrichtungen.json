@@ -1,0 +1,131 @@
+{
+  "id": "arbeitsmarkt/faelle-von-sozialhilfe-nach-sgb-xii-und-sgb-ix-innerhalb-von-einrichtungen",
+  "title": "Fälle von Sozialhilfe nach SGB XII und SGB IX innerhalb von Einrichtungen",
+  "category": "Arbeitsmarkt",
+  "subcategory": "Sozialhilfe, sozialer Dienst, Betreuung von Schuldnern",
+  "tableId": "K4_T19b",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/arbeitsmarkt/faelle-von-sozialhilfe-nach-sgb-xii-und-sgb-ix-innerhalb-von-einrichtungen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Fälle von Sozialhilfe nach SGB XII und SGB IX innerhalb von Einrichtungen.xlsx"
+  },
+  "description": "Fälle von Sozialhilfe nach SGB XII und SGB IX innerhalb von Einrichtungen. var4/var5 enthielten zusätzliche Aufschlüsselungen, die nicht zuzuordnen waren.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2018,
+        2019,
+        2020
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Fälle nach SGB XII",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        798,
+        901,
+        754
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Fälle nach SGB IX",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        2319,
+        2311,
+        1328
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        544,
+        529,
+        490
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        316,
+        325,
+        283
+      ]
+    }
+  ],
+  "rowCount": 7,
+  "rows": [
+    {
+      "var1": 2018,
+      "var2": 798,
+      "var3": 2319,
+      "var4": 544,
+      "var5": 316
+    },
+    {
+      "var1": 2019,
+      "var2": 901,
+      "var3": 2311,
+      "var4": 529,
+      "var5": 325
+    },
+    {
+      "var1": 2020,
+      "var2": 754,
+      "var3": 1328,
+      "var4": 490,
+      "var5": 283
+    },
+    {
+      "var1": 2021,
+      "var2": 770,
+      "var3": 1328,
+      "var4": 777,
+      "var5": 280
+    },
+    {
+      "var1": 2022,
+      "var2": 764,
+      "var3": 1309,
+      "var4": 759,
+      "var5": 247
+    },
+    {
+      "var1": 2023,
+      "var2": 817,
+      "var3": 1296,
+      "var4": 747,
+      "var5": 242
+    },
+    {
+      "var1": 2024,
+      "var2": 1004,
+      "var3": 1593,
+      "var4": 766,
+      "var5": 250
+    }
+  ]
+}

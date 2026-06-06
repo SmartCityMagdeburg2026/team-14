@@ -1,0 +1,232 @@
+{
+  "id": "wirtschaft/handwerksbetriebe-im-holz-und-kunststoffhandwerk-nach-berufen",
+  "title": "Handwerksbetriebe im Holz- und Kunststoffhandwerk nach Berufen",
+  "category": "Wirtschaft",
+  "subcategory": "Handwerksbetriebe der Handwerkskammer Magdeburg",
+  "tableId": "K7_T9c",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/handwerksbetriebe-im-holz-und-kunststoffhandwerk-nach-berufen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Handwerksbetriebe im Holz- und Kunststoffhandwerk nach Berufen.xlsx"
+  },
+  "description": "Handwerksbetriebe im Holz- und Kunststoffhandwerk nach Berufen. var2..var7 entsprechen Berufen (Tischler, Drechsler, Korbmacher, Kunststoffverarbeiter etc.), Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        277,
+        286,
+        272
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        188,
+        199,
+        188
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        29,
+        29,
+        24
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        9,
+        9,
+        8
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        43,
+        42,
+        45
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        8,
+        7,
+        7
+      ]
+    }
+  ],
+  "rowCount": 14,
+  "rows": [
+    {
+      "var1": 2010,
+      "var2": 277,
+      "var3": 188,
+      "var4": 29,
+      "var5": 9,
+      "var6": 43,
+      "var7": 8
+    },
+    {
+      "var1": 2011,
+      "var2": 286,
+      "var3": 199,
+      "var4": 29,
+      "var5": 9,
+      "var6": 42,
+      "var7": 7
+    },
+    {
+      "var1": 2012,
+      "var2": 272,
+      "var3": 188,
+      "var4": 24,
+      "var5": 8,
+      "var6": 45,
+      "var7": 7
+    },
+    {
+      "var1": 2013,
+      "var2": 255,
+      "var3": 175,
+      "var4": 21,
+      "var5": 9,
+      "var6": 43,
+      "var7": 7
+    },
+    {
+      "var1": 2014,
+      "var2": 250,
+      "var3": 165,
+      "var4": 23,
+      "var5": 10,
+      "var6": 43,
+      "var7": 9
+    },
+    {
+      "var1": 2015,
+      "var2": 225,
+      "var3": 146,
+      "var4": 21,
+      "var5": 10,
+      "var6": 42,
+      "var7": 6
+    },
+    {
+      "var1": 2016,
+      "var2": 205,
+      "var3": 129,
+      "var4": 20,
+      "var5": 11,
+      "var6": 40,
+      "var7": 5
+    },
+    {
+      "var1": 2017,
+      "var2": 195,
+      "var3": 120,
+      "var4": 17,
+      "var5": 13,
+      "var6": 40,
+      "var7": 5
+    },
+    {
+      "var1": 2018,
+      "var2": 184,
+      "var3": 110,
+      "var4": 17,
+      "var5": 14,
+      "var6": 38,
+      "var7": 5
+    },
+    {
+      "var1": 2019,
+      "var2": 180,
+      "var3": 100,
+      "var4": 19,
+      "var5": 15,
+      "var6": 40,
+      "var7": 6
+    },
+    {
+      "var1": 2020,
+      "var2": 175,
+      "var3": 97,
+      "var4": 18,
+      "var5": 16,
+      "var6": 38,
+      "var7": 6
+    },
+    {
+      "var1": 2021,
+      "var2": 164,
+      "var3": 91,
+      "var4": 18,
+      "var5": 14,
+      "var6": 38,
+      "var7": 3
+    },
+    {
+      "var1": 2022,
+      "var2": 154,
+      "var3": 84,
+      "var4": 15,
+      "var5": 14,
+      "var6": 38,
+      "var7": 3
+    },
+    {
+      "var1": 2023,
+      "var2": 146,
+      "var3": 80,
+      "var4": 13,
+      "var5": 13,
+      "var6": 38,
+      "var7": 2
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "id": "wirtschaft/betriebe-taetige-personen-entgelte-und-umsatz-im-ausbaugewerbe-gemaess-jaehrlicher-zusatzerhebung",
+  "title": "Betriebe, tätige Personen, Entgelte und Umsatz im Ausbaugewerbe gemäß jährlicher Zusatzerhebung",
+  "category": "Wirtschaft",
+  "subcategory": "Baugewerbe",
+  "tableId": "K7_T26_1",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/betriebe-taetige-personen-entgelte-und-umsatz-im-ausbaugewerbe-gemaess-jaehrlicher-zusatzerhebung.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Betriebe, tätige Personen, Entgelte und Umsatz im Ausbaugewerbe gemäß jährlicher Zusatzerhebung.xlsx"
+  },
+  "description": "Betriebe, tätige Personen, Entgelte und Umsatz im Ausbaugewerbe gemäß jährlicher Zusatzerhebung. Entgelte/Umsatz-Spalten (var4..var6) waren mit den LLM-Labels nicht konsistent.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2009,
+        2010,
+        2011
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Betriebe",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        72,
+        72,
+        71
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Tätige Personen",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        1698,
+        1705,
+        1626
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        555,
+        542,
+        549
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        9636,
+        10073,
+        10024
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        47746,
+        47524,
+        49627
+      ]
+    }
+  ],
+  "rowCount": 14,
+  "rows": [
+    {
+      "var1": 2009,
+      "var2": 72,
+      "var3": 1698,
+      "var4": 555,
+      "var5": 9636,
+      "var6": 47746
+    },
+    {
+      "var1": 2010,
+      "var2": 72,
+      "var3": 1705,
+      "var4": 542,
+      "var5": 10073,
+      "var6": 47524
+    },
+    {
+      "var1": 2011,
+      "var2": 71,
+      "var3": 1626,
+      "var4": 549,
+      "var5": 10024,
+      "var6": 49627
+    },
+    {
+      "var1": 2012,
+      "var2": 74,
+      "var3": 1781,
+      "var4": 621,
+      "var5": 11246,
+      "var6": 52663
+    },
+    {
+      "var1": 2013,
+      "var2": 73,
+      "var3": 1863,
+      "var4": 646,
+      "var5": 12133,
+      "var6": 51010
+    },
+    {
+      "var1": 2014,
+      "var2": 73,
+      "var3": 1910,
+      "var4": 624,
+      "var5": 12658,
+      "var6": 56337
+    },
+    {
+      "var1": 2015,
+      "var2": 72,
+      "var3": 1913,
+      "var4": 664,
+      "var5": 14000,
+      "var6": 58805
+    },
+    {
+      "var1": 2016,
+      "var2": 78,
+      "var3": 2030,
+      "var4": 687,
+      "var5": 14736,
+      "var6": 61224
+    },
+    {
+      "var1": 2017,
+      "var2": 81,
+      "var3": 2052,
+      "var4": 712,
+      "var5": 15650,
+      "var6": 61218
+    },
+    {
+      "var1": 2018,
+      "var2": 91,
+      "var3": 2219,
+      "var4": 741,
+      "var5": 16334,
+      "var6": 64842
+    },
+    {
+      "var1": 2019,
+      "var2": 102,
+      "var3": 2469,
+      "var4": 823,
+      "var5": 19026,
+      "var6": 78107
+    },
+    {
+      "var1": 2020,
+      "var2": 104,
+      "var3": 2538,
+      "var4": 836,
+      "var5": 20442,
+      "var6": 86553
+    },
+    {
+      "var1": 2021,
+      "var2": 107,
+      "var3": 2653,
+      "var4": 857,
+      "var5": 23320,
+      "var6": 90979
+    },
+    {
+      "var1": 2022,
+      "var2": 102,
+      "var3": 2732,
+      "var4": 883,
+      "var5": 24213,
+      "var6": 91120
+    }
+  ]
+}

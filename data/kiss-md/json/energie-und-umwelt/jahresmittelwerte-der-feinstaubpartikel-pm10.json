@@ -1,0 +1,313 @@
+{
+  "id": "energie-und-umwelt/jahresmittelwerte-der-feinstaubpartikel-pm10",
+  "title": "Jahresmittelwerte der Feinstaubpartikel PM10",
+  "category": "Energie und Umwelt",
+  "subcategory": "Luftverunreinigungen im Raum Magdeburg",
+  "tableId": "K9_T28",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/energie-und-umwelt/jahresmittelwerte-der-feinstaubpartikel-pm10.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Jahresmittelwerte der Feinstaubpartikel PM10.xlsx"
+  },
+  "description": "Jahresmittelwerte der Feinstaubpartikel PM10 an verschiedenen Messstationen in µg/m³. Zuordnung der Stationen (var2..var7) nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    {
+      "key": "var2",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": "day",
+      "sample": [
+        27,
+        30,
+        30
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        23,
+        25,
+        25
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        30,
+        32,
+        26
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        31,
+        33,
+        37
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        36,
+        29,
+        29
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        21,
+        21,
+        24
+      ]
+    }
+  ],
+  "rowCount": 23,
+  "rows": [
+    {
+      "var1": 2001,
+      "var2": 27,
+      "var3": null,
+      "var4": null,
+      "var5": 31,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2002,
+      "var2": 30,
+      "var3": null,
+      "var4": null,
+      "var5": 33,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2003,
+      "var2": 30,
+      "var3": null,
+      "var4": null,
+      "var5": 37,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2004,
+      "var2": 28,
+      "var3": null,
+      "var4": null,
+      "var5": 26,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2005,
+      "var2": 27,
+      "var3": null,
+      "var4": null,
+      "var5": 28,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2006,
+      "var2": 26,
+      "var3": null,
+      "var4": null,
+      "var5": 32,
+      "var6": 36,
+      "var7": null
+    },
+    {
+      "var1": 2007,
+      "var2": 21,
+      "var3": null,
+      "var4": null,
+      "var5": 26,
+      "var6": 29,
+      "var7": null
+    },
+    {
+      "var1": 2008,
+      "var2": 19,
+      "var3": null,
+      "var4": null,
+      "var5": 26,
+      "var6": 29,
+      "var7": null
+    },
+    {
+      "var1": 2009,
+      "var2": 19,
+      "var3": 23,
+      "var4": null,
+      "var5": 27,
+      "var6": 29,
+      "var7": null
+    },
+    {
+      "var1": 2010,
+      "var2": null,
+      "var3": 25,
+      "var4": 30,
+      "var5": 29,
+      "var6": 33,
+      "var7": null
+    },
+    {
+      "var1": 2011,
+      "var2": null,
+      "var3": 25,
+      "var4": 32,
+      "var5": 27,
+      "var6": 32,
+      "var7": null
+    },
+    {
+      "var1": 2012,
+      "var2": null,
+      "var3": 19,
+      "var4": 26,
+      "var5": 24,
+      "var6": 25,
+      "var7": null
+    },
+    {
+      "var1": 2013,
+      "var2": null,
+      "var3": 19,
+      "var4": 26,
+      "var5": 23,
+      "var6": 25,
+      "var7": null
+    },
+    {
+      "var1": 2014,
+      "var2": null,
+      "var3": 21,
+      "var4": 28,
+      "var5": 28,
+      "var6": 28,
+      "var7": null
+    },
+    {
+      "var1": 2015,
+      "var2": null,
+      "var3": 18,
+      "var4": 23,
+      "var5": null,
+      "var6": null,
+      "var7": null
+    },
+    {
+      "var1": 2016,
+      "var2": null,
+      "var3": 18,
+      "var4": 22,
+      "var5": null,
+      "var6": null,
+      "var7": 21
+    },
+    {
+      "var1": 2017,
+      "var2": null,
+      "var3": 17,
+      "var4": 22,
+      "var5": null,
+      "var6": null,
+      "var7": 21
+    },
+    {
+      "var1": 2018,
+      "var2": null,
+      "var3": 19,
+      "var4": 23,
+      "var5": null,
+      "var6": null,
+      "var7": 24
+    },
+    {
+      "var1": 2019,
+      "var2": null,
+      "var3": 15,
+      "var4": 20,
+      "var5": null,
+      "var6": null,
+      "var7": 20
+    },
+    {
+      "var1": 2020,
+      "var2": null,
+      "var3": 14,
+      "var4": 19,
+      "var5": null,
+      "var6": null,
+      "var7": 18
+    },
+    {
+      "var1": 2021,
+      "var2": null,
+      "var3": 15,
+      "var4": 18,
+      "var5": null,
+      "var6": null,
+      "var7": 19
+    },
+    {
+      "var1": 2022,
+      "var2": null,
+      "var3": 14,
+      "var4": 18,
+      "var5": null,
+      "var6": null,
+      "var7": 19
+    },
+    {
+      "var1": 2023,
+      "var2": null,
+      "var3": 13,
+      "var4": 16,
+      "var5": null,
+      "var6": null,
+      "var7": 15
+    }
+  ]
+}

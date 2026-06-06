@@ -1,0 +1,943 @@
+{
+  "id": "bildung-und-kultur/anzahl-der-absolventen-nach-studiumsart",
+  "title": "Anzahl der Absolventen nach Studiumsart",
+  "category": "Bildung und Kultur",
+  "subcategory": "Hochschulen",
+  "tableId": "K5_T18",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/bildung-und-kultur/anzahl-der-absolventen-nach-studiumsart.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Anzahl der Absolventen nach Studiumsart.xlsx"
+  },
+  "description": "Anzahl der Absolventen nach Hochschule/Standort und Studiumsart. var3+var4 ergeben in den Stichproben var7 (verifiziert). var5/var6 enthalten weitere Aufschlüsselungen (vermutl. Bachelor/Master/etc.).",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        1994,
+        1994,
+        1994
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Hochschule/Standort",
+      "unit": null,
+      "type": "string",
+      "role": null,
+      "sample": [
+        "Otto-von-Guericke-Universität Magdeburg",
+        "Hochschule - Standort Magdeburg",
+        "Hochschule - Standort Stendal"
+      ]
+    },
+    {
+      "key": "var3",
+      "label": "Absolventen Universität",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        803,
+        143,
+        0
+      ]
+    },
+    {
+      "key": "var4",
+      "label": "Absolventen Hochschule (FH)",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        92,
+        0,
+        0
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        26,
+        0,
+        17
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        0,
+        4,
+        113
+      ]
+    },
+    {
+      "key": "var7",
+      "label": "Absolventen gesamt",
+      "unit": "Anzahl",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        921,
+        143,
+        17
+      ]
+    }
+  ],
+  "rowCount": 93,
+  "rows": [
+    {
+      "var1": 1994,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 803,
+      "var4": 92,
+      "var5": 26,
+      "var6": 0,
+      "var7": 921
+    },
+    {
+      "var1": 1994,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 143,
+      "var4": 0,
+      "var5": 0,
+      "var6": null,
+      "var7": 143
+    },
+    {
+      "var1": 1994,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 0,
+      "var4": 0,
+      "var5": 17,
+      "var6": null,
+      "var7": 17
+    },
+    {
+      "var1": 1995,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 798,
+      "var4": 178,
+      "var5": null,
+      "var6": null,
+      "var7": 990
+    },
+    {
+      "var1": 1995,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 135,
+      "var4": 10,
+      "var5": 0,
+      "var6": null,
+      "var7": 145
+    },
+    {
+      "var1": 1995,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 0,
+      "var4": 0,
+      "var5": 17,
+      "var6": null,
+      "var7": 17
+    },
+    {
+      "var1": 1996,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 409,
+      "var4": 116,
+      "var5": 4,
+      "var6": 4,
+      "var7": 533
+    },
+    {
+      "var1": 1996,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 165,
+      "var4": null,
+      "var5": null,
+      "var6": null,
+      "var7": 185
+    },
+    {
+      "var1": 1996,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 0,
+      "var4": 0,
+      "var5": 26,
+      "var6": null,
+      "var7": 26
+    },
+    {
+      "var1": 1997,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 384,
+      "var4": 83,
+      "var5": 4,
+      "var6": 113,
+      "var7": 584
+    },
+    {
+      "var1": 1997,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 236,
+      "var4": 36,
+      "var5": 36,
+      "var6": null,
+      "var7": 308
+    },
+    {
+      "var1": 1997,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 0,
+      "var4": 0,
+      "var5": 17,
+      "var6": null,
+      "var7": 17
+    },
+    {
+      "var1": 1998,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 347,
+      "var4": null,
+      "var5": null,
+      "var6": 145,
+      "var7": 628
+    },
+    {
+      "var1": 1998,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 221,
+      "var4": 34,
+      "var5": 74,
+      "var6": null,
+      "var7": 329
+    },
+    {
+      "var1": 1998,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 17,
+      "var4": 0,
+      "var5": 11,
+      "var6": null,
+      "var7": 28
+    },
+    {
+      "var1": 1999,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 323,
+      "var4": 114,
+      "var5": 6,
+      "var6": 146,
+      "var7": 589
+    },
+    {
+      "var1": 1999,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 296,
+      "var4": 31,
+      "var5": 104,
+      "var6": null,
+      "var7": 431
+    },
+    {
+      "var1": 1999,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 30,
+      "var4": 0,
+      "var5": 29,
+      "var6": null,
+      "var7": 59
+    },
+    {
+      "var1": 2000,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 409,
+      "var4": 161,
+      "var5": 6,
+      "var6": 175,
+      "var7": 751
+    },
+    {
+      "var1": 2000,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 410,
+      "var4": 35,
+      "var5": 94,
+      "var6": null,
+      "var7": 539
+    },
+    {
+      "var1": 2000,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 31,
+      "var4": 0,
+      "var5": 13,
+      "var6": null,
+      "var7": 44
+    },
+    {
+      "var1": 2001,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 465,
+      "var4": 181,
+      "var5": 0,
+      "var6": 177,
+      "var7": 823
+    },
+    {
+      "var1": 2001,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 461,
+      "var4": 31,
+      "var5": 89,
+      "var6": null,
+      "var7": 581
+    },
+    {
+      "var1": 2001,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 23,
+      "var4": 0,
+      "var5": 6,
+      "var6": null,
+      "var7": 29
+    },
+    {
+      "var1": 2002,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 560,
+      "var4": 183,
+      "var5": 6,
+      "var6": 154,
+      "var7": 903
+    },
+    {
+      "var1": 2002,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 425,
+      "var4": 0,
+      "var5": 64,
+      "var6": null,
+      "var7": 489
+    },
+    {
+      "var1": 2002,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 39,
+      "var4": 0,
+      "var5": 0,
+      "var6": null,
+      "var7": 39
+    },
+    {
+      "var1": 2003,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 731,
+      "var4": 177,
+      "var5": 3,
+      "var6": 155,
+      "var7": 1066
+    },
+    {
+      "var1": 2003,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 559,
+      "var4": 0,
+      "var5": 42,
+      "var6": null,
+      "var7": 601
+    },
+    {
+      "var1": 2003,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 40,
+      "var4": 0,
+      "var5": 14,
+      "var6": null,
+      "var7": 54
+    },
+    {
+      "var1": 2004,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 959,
+      "var4": 166,
+      "var5": 4,
+      "var6": 203,
+      "var7": 1332
+    },
+    {
+      "var1": 2004,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 647,
+      "var4": 0,
+      "var5": 61,
+      "var6": null,
+      "var7": 708
+    },
+    {
+      "var1": 2004,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 84,
+      "var4": 0,
+      "var5": 4,
+      "var6": null,
+      "var7": 88
+    },
+    {
+      "var1": 2005,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 1115,
+      "var4": 136,
+      "var5": 4,
+      "var6": 200,
+      "var7": 1455
+    },
+    {
+      "var1": 2005,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 627,
+      "var4": 0,
+      "var5": 44,
+      "var6": null,
+      "var7": 671
+    },
+    {
+      "var1": 2005,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 102,
+      "var4": 0,
+      "var5": 25,
+      "var6": null,
+      "var7": 127
+    },
+    {
+      "var1": 2006,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 1255,
+      "var4": 62,
+      "var5": 7,
+      "var6": 215,
+      "var7": 1539
+    },
+    {
+      "var1": 2006,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 752,
+      "var4": 0,
+      "var5": 88,
+      "var6": null,
+      "var7": 840
+    },
+    {
+      "var1": 2006,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 164,
+      "var4": 0,
+      "var5": 24,
+      "var6": null,
+      "var7": 188
+    },
+    {
+      "var1": 2007,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 1367,
+      "var4": 50,
+      "var5": 5,
+      "var6": 196,
+      "var7": 1618
+    },
+    {
+      "var1": 2007,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 838,
+      "var4": 0,
+      "var5": 9,
+      "var6": null,
+      "var7": 847
+    },
+    {
+      "var1": 2007,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 223,
+      "var4": 0,
+      "var5": 70,
+      "var6": null,
+      "var7": 293
+    },
+    {
+      "var1": 2008,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 1709,
+      "var4": 57,
+      "var5": 10,
+      "var6": 184,
+      "var7": 1960
+    },
+    {
+      "var1": 2008,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 930,
+      "var4": 0,
+      "var5": 25,
+      "var6": null,
+      "var7": 955
+    },
+    {
+      "var1": 2008,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 226,
+      "var4": 0,
+      "var5": 32,
+      "var6": null,
+      "var7": 258
+    },
+    {
+      "var1": 2009,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 1976,
+      "var4": 63,
+      "var5": 14,
+      "var6": 226,
+      "var7": 2279
+    },
+    {
+      "var1": 2009,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 804,
+      "var4": 0,
+      "var5": 8,
+      "var6": null,
+      "var7": 812
+    },
+    {
+      "var1": 2009,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 234,
+      "var4": 0,
+      "var5": 63,
+      "var6": null,
+      "var7": 297
+    },
+    {
+      "var1": 2010,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 2179,
+      "var4": null,
+      "var5": null,
+      "var6": 215,
+      "var7": 2443
+    },
+    {
+      "var1": 2010,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 717,
+      "var4": 0,
+      "var5": 47,
+      "var6": null,
+      "var7": 764
+    },
+    {
+      "var1": 2010,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 216,
+      "var4": 0,
+      "var5": 61,
+      "var6": null,
+      "var7": 277
+    },
+    {
+      "var1": 2011,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 2346,
+      "var4": null,
+      "var5": null,
+      "var6": 224,
+      "var7": 2644
+    },
+    {
+      "var1": 2011,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 754,
+      "var4": 0,
+      "var5": 5,
+      "var6": null,
+      "var7": 759
+    },
+    {
+      "var1": 2011,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 252,
+      "var4": 0,
+      "var5": 121,
+      "var6": null,
+      "var7": 373
+    },
+    {
+      "var1": 2012,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 2579,
+      "var4": 58,
+      "var5": 0,
+      "var6": 246,
+      "var7": 2883
+    },
+    {
+      "var1": 2012,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 839,
+      "var4": 0,
+      "var5": 13,
+      "var6": null,
+      "var7": 852
+    },
+    {
+      "var1": 2012,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 301,
+      "var4": 0,
+      "var5": 169,
+      "var6": null,
+      "var7": 470
+    },
+    {
+      "var1": 2013,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 2590,
+      "var4": 66,
+      "var5": 0,
+      "var6": 227,
+      "var7": 2883
+    },
+    {
+      "var1": 2013,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 804,
+      "var4": 0,
+      "var5": 20,
+      "var6": null,
+      "var7": 824
+    },
+    {
+      "var1": 2013,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 258,
+      "var4": 0,
+      "var5": 174,
+      "var6": null,
+      "var7": 432
+    },
+    {
+      "var1": 2014,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 2552,
+      "var4": 91,
+      "var5": 0,
+      "var6": 245,
+      "var7": 2888
+    },
+    {
+      "var1": 2014,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 804,
+      "var4": 0,
+      "var5": 50,
+      "var6": null,
+      "var7": 854
+    },
+    {
+      "var1": 2014,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 260,
+      "var4": 0,
+      "var5": 173,
+      "var6": null,
+      "var7": 433
+    },
+    {
+      "var1": 2015,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 2643,
+      "var4": 97,
+      "var5": 0,
+      "var6": 245,
+      "var7": 2985
+    },
+    {
+      "var1": 2015,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 742,
+      "var4": 198,
+      "var5": 79,
+      "var6": null,
+      "var7": 1019
+    },
+    {
+      "var1": 2015,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 742,
+      "var4": null,
+      "var5": 79,
+      "var6": null,
+      "var7": 821
+    },
+    {
+      "var1": 2016,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 2511,
+      "var4": 50,
+      "var5": 0,
+      "var6": 284,
+      "var7": 2845
+    },
+    {
+      "var1": 2016,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 762,
+      "var4": null,
+      "var5": 81,
+      "var6": null,
+      "var7": 843
+    },
+    {
+      "var1": 2016,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 288,
+      "var4": null,
+      "var5": 93,
+      "var6": null,
+      "var7": 381
+    },
+    {
+      "var1": 2017,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 2364,
+      "var4": 63,
+      "var5": 0,
+      "var6": 249,
+      "var7": 2676
+    },
+    {
+      "var1": 2017,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 673,
+      "var4": null,
+      "var5": 54,
+      "var6": null,
+      "var7": 727
+    },
+    {
+      "var1": 2017,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 280,
+      "var4": null,
+      "var5": 120,
+      "var6": null,
+      "var7": 400
+    },
+    {
+      "var1": 2018,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 2261,
+      "var4": 86,
+      "var5": 0,
+      "var6": 259,
+      "var7": 2606
+    },
+    {
+      "var1": 2018,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 694,
+      "var4": null,
+      "var5": 58,
+      "var6": null,
+      "var7": 752
+    },
+    {
+      "var1": 2018,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 268,
+      "var4": null,
+      "var5": 107,
+      "var6": null,
+      "var7": 375
+    },
+    {
+      "var1": 2019,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 694,
+      "var4": null,
+      "var5": 58,
+      "var6": null,
+      "var7": 752
+    },
+    {
+      "var1": 2019,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 268,
+      "var4": null,
+      "var5": 107,
+      "var6": null,
+      "var7": 375
+    },
+    {
+      "var1": 2019,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 2261,
+      "var4": 86,
+      "var5": 0,
+      "var6": 259,
+      "var7": 2606
+    },
+    {
+      "var1": 2020,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 582,
+      "var4": null,
+      "var5": 45,
+      "var6": null,
+      "var7": 627
+    },
+    {
+      "var1": 2020,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 229,
+      "var4": null,
+      "var5": 66,
+      "var6": null,
+      "var7": 295
+    },
+    {
+      "var1": 2020,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 2157,
+      "var4": 69,
+      "var5": 0,
+      "var6": 240,
+      "var7": 2466
+    },
+    {
+      "var1": 2021,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 588,
+      "var4": null,
+      "var5": 60,
+      "var6": null,
+      "var7": 648
+    },
+    {
+      "var1": 2021,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 274,
+      "var4": null,
+      "var5": 67,
+      "var6": null,
+      "var7": 341
+    },
+    {
+      "var1": 2021,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 2085,
+      "var4": 107,
+      "var5": null,
+      "var6": 268,
+      "var7": 2460
+    },
+    {
+      "var1": 2022,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 285,
+      "var4": null,
+      "var5": 36,
+      "var6": null,
+      "var7": 321
+    },
+    {
+      "var1": 2022,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 139,
+      "var4": null,
+      "var5": 10,
+      "var6": null,
+      "var7": 149
+    },
+    {
+      "var1": 2022,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 2251,
+      "var4": 75,
+      "var5": null,
+      "var6": 264,
+      "var7": 2590
+    },
+    {
+      "var1": 2023,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 270,
+      "var4": null,
+      "var5": 21,
+      "var6": null,
+      "var7": 291
+    },
+    {
+      "var1": 2023,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 165,
+      "var4": null,
+      "var5": 10,
+      "var6": null,
+      "var7": 175
+    },
+    {
+      "var1": 2023,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 2046,
+      "var4": 85,
+      "var5": null,
+      "var6": 238,
+      "var7": 2369
+    },
+    {
+      "var1": 2024,
+      "var2": "Hochschule - Standort Magdeburg",
+      "var3": 309,
+      "var4": null,
+      "var5": 24,
+      "var6": null,
+      "var7": 333
+    },
+    {
+      "var1": 2024,
+      "var2": "Hochschule - Standort Stendal",
+      "var3": 161,
+      "var4": null,
+      "var5": 20,
+      "var6": null,
+      "var7": 181
+    },
+    {
+      "var1": 2024,
+      "var2": "Otto-von-Guericke-Universität Magdeburg",
+      "var3": 1920,
+      "var4": 41,
+      "var5": null,
+      "var6": 257,
+      "var7": 2218
+    }
+  ]
+}

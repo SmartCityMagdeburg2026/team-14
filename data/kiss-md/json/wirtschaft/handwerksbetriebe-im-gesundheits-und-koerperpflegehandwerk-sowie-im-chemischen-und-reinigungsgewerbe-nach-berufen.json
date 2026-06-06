@@ -1,0 +1,388 @@
+{
+  "id": "wirtschaft/handwerksbetriebe-im-gesundheits-und-koerperpflegehandwerk-sowie-im-chemischen-und-reinigungsgewerbe-nach-berufen",
+  "title": "Handwerksbetriebe im Gesundheits- und Körperpflegehandwerk sowie im chemischen und Reinigungsgewerbe nach Berufen",
+  "category": "Wirtschaft",
+  "subcategory": "Handwerksbetriebe der Handwerkskammer Magdeburg",
+  "tableId": "K7_T9f",
+  "labelSource": "human-reviewed",
+  "labelNotice": "Spalten-Labels und Einheiten wurden manuell aus den Rohdaten verifiziert.",
+  "source": {
+    "system": "KISS-MD",
+    "url": "https://statistik.magdeburg.de/KISS-MD/",
+    "originalFile": "data/kiss-md/xlsx/wirtschaft/handwerksbetriebe-im-gesundheits-und-koerperpflegehandwerk-sowie-im-chemischen-und-reinigungsgewerbe-nach-berufen.xlsx",
+    "retrievedFromCity": "2026",
+    "originalName": "Handwerksbetriebe im Gesundheits- und Körperpflegehandwerk sowie im chemischen und Reinigungsgewerbe nach Berufen.xlsx"
+  },
+  "description": "Handwerksbetriebe im Gesundheits- und Körperpflegehandwerk sowie im chemischen und Reinigungsgewerbe nach Berufen. var3..var13 entsprechen einzelnen Berufen (Friseur, Augenoptiker, Hörakustiker, chem. Reiniger etc.), Zuordnung nicht eindeutig.",
+  "columns": [
+    {
+      "key": "var1",
+      "label": "Jahr",
+      "unit": null,
+      "type": "integer",
+      "role": "year",
+      "sample": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    {
+      "key": "var2",
+      "label": "Handwerksbetriebe Gesundheit/Reinigung gesamt",
+      "unit": "Betriebe",
+      "type": "integer",
+      "role": null,
+      "sample": [
+        621,
+        623,
+        619
+      ]
+    },
+    {
+      "key": "var3",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        22,
+        26,
+        28
+      ]
+    },
+    {
+      "key": "var4",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        180,
+        187,
+        181
+      ]
+    },
+    {
+      "key": "var5",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        165,
+        159,
+        157
+      ]
+    },
+    {
+      "key": "var6",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "key": "var7",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        138,
+        143,
+        143
+      ]
+    },
+    {
+      "key": "var8",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        10,
+        9,
+        10
+      ]
+    },
+    {
+      "key": "var9",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        9,
+        8,
+        9
+      ]
+    },
+    {
+      "key": "var10",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        51,
+        44,
+        42
+      ]
+    },
+    {
+      "key": "var11",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        9,
+        10,
+        10
+      ]
+    },
+    {
+      "key": "var12",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        25,
+        25,
+        25
+      ]
+    },
+    {
+      "key": "var13",
+      "label": null,
+      "unit": null,
+      "type": "integer",
+      "role": null,
+      "sample": [
+        8,
+        7,
+        8
+      ]
+    }
+  ],
+  "rowCount": 14,
+  "rows": [
+    {
+      "var1": 2010,
+      "var2": 621,
+      "var3": 22,
+      "var4": 180,
+      "var5": 165,
+      "var6": 4,
+      "var7": 138,
+      "var8": 10,
+      "var9": 9,
+      "var10": 51,
+      "var11": 9,
+      "var12": 25,
+      "var13": 8
+    },
+    {
+      "var1": 2011,
+      "var2": 623,
+      "var3": 26,
+      "var4": 187,
+      "var5": 159,
+      "var6": 5,
+      "var7": 143,
+      "var8": 9,
+      "var9": 8,
+      "var10": 44,
+      "var11": 10,
+      "var12": 25,
+      "var13": 7
+    },
+    {
+      "var1": 2012,
+      "var2": 619,
+      "var3": 28,
+      "var4": 181,
+      "var5": 157,
+      "var6": 6,
+      "var7": 143,
+      "var8": 10,
+      "var9": 9,
+      "var10": 42,
+      "var11": 10,
+      "var12": 25,
+      "var13": 8
+    },
+    {
+      "var1": 2013,
+      "var2": 601,
+      "var3": 28,
+      "var4": 185,
+      "var5": 146,
+      "var6": 8,
+      "var7": 139,
+      "var8": 9,
+      "var9": 8,
+      "var10": 41,
+      "var11": 7,
+      "var12": 24,
+      "var13": 6
+    },
+    {
+      "var1": 2014,
+      "var2": 592,
+      "var3": 28,
+      "var4": 183,
+      "var5": 148,
+      "var6": 9,
+      "var7": 131,
+      "var8": 9,
+      "var9": 7,
+      "var10": 40,
+      "var11": 8,
+      "var12": 24,
+      "var13": 5
+    },
+    {
+      "var1": 2015,
+      "var2": 580,
+      "var3": 26,
+      "var4": 188,
+      "var5": 141,
+      "var6": 8,
+      "var7": 132,
+      "var8": 8,
+      "var9": 7,
+      "var10": 37,
+      "var11": 6,
+      "var12": 22,
+      "var13": 5
+    },
+    {
+      "var1": 2016,
+      "var2": 586,
+      "var3": 25,
+      "var4": 193,
+      "var5": 142,
+      "var6": 9,
+      "var7": 135,
+      "var8": 8,
+      "var9": 7,
+      "var10": 34,
+      "var11": 7,
+      "var12": 21,
+      "var13": 5
+    },
+    {
+      "var1": 2017,
+      "var2": 587,
+      "var3": 24,
+      "var4": 200,
+      "var5": 143,
+      "var6": 8,
+      "var7": 129,
+      "var8": 9,
+      "var9": 6,
+      "var10": 34,
+      "var11": 7,
+      "var12": 21,
+      "var13": 6
+    },
+    {
+      "var1": 2018,
+      "var2": 575,
+      "var3": 25,
+      "var4": 202,
+      "var5": 138,
+      "var6": 5,
+      "var7": 129,
+      "var8": 9,
+      "var9": 5,
+      "var10": 32,
+      "var11": 5,
+      "var12": 19,
+      "var13": 6
+    },
+    {
+      "var1": 2019,
+      "var2": 587,
+      "var3": 25,
+      "var4": 210,
+      "var5": 140,
+      "var6": 5,
+      "var7": 136,
+      "var8": 9,
+      "var9": 5,
+      "var10": 28,
+      "var11": 5,
+      "var12": 19,
+      "var13": 5
+    },
+    {
+      "var1": 2020,
+      "var2": 586,
+      "var3": 29,
+      "var4": 209,
+      "var5": 138,
+      "var6": 5,
+      "var7": 138,
+      "var8": 9,
+      "var9": 6,
+      "var10": 25,
+      "var11": 5,
+      "var12": 17,
+      "var13": 5
+    },
+    {
+      "var1": 2021,
+      "var2": 605,
+      "var3": 29,
+      "var4": 223,
+      "var5": 143,
+      "var6": 6,
+      "var7": 138,
+      "var8": 9,
+      "var9": 6,
+      "var10": 23,
+      "var11": 6,
+      "var12": 18,
+      "var13": 4
+    },
+    {
+      "var1": 2022,
+      "var2": 586,
+      "var3": 29,
+      "var4": 217,
+      "var5": 137,
+      "var6": 6,
+      "var7": 140,
+      "var8": 8,
+      "var9": 6,
+      "var10": 19,
+      "var11": 4,
+      "var12": 15,
+      "var13": 5
+    },
+    {
+      "var1": 2023,
+      "var2": 570,
+      "var3": 28,
+      "var4": 215,
+      "var5": 131,
+      "var6": 6,
+      "var7": 132,
+      "var8": 8,
+      "var9": 6,
+      "var10": 19,
+      "var11": 4,
+      "var12": 16,
+      "var13": 5
+    }
+  ]
+}
