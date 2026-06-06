@@ -5,18 +5,27 @@ import streamlit as st
 
 # Magdeburg bounding box: south, west, north, east
 _BBOX = "52.05,11.55,52.20,11.75"
-_URL  = "https://overpass-api.de/api/interpreter"
 _TIMEOUT = 20
+_HEADERS = {
+    "User-Agent": "SmartCityMagdeburgDashboard/1.0 (+https://zukunft.regensburg.de/)",
+    "Accept": "application/json",
+}
+_URLS = [
+    "https://overpass-api.de/api/interpreter",
+    "https://overpass.kumi.systems/api/interpreter",
+]
 
 
 def _query(ql: str) -> list:
     """POST an Overpass QL query, return parsed elements list."""
-    try:
-        r = requests.post(_URL, data={"data": ql}, timeout=_TIMEOUT)
-        r.raise_for_status()
-        return r.json().get("elements", [])
-    except Exception:
-        return []
+    for url in _URLS:
+        try:
+            r = requests.post(url, data={"data": ql}, headers=_HEADERS, timeout=_TIMEOUT)
+            r.raise_for_status()
+            return r.json().get("elements", [])
+        except Exception:
+            continue
+    return []
 
 
 @st.cache_data(ttl=86400, show_spinner=False)

@@ -7,7 +7,13 @@ import streamlit as st
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 from collections import defaultdict
-from dotenv import load_dotenv
+
+try:
+    from dotenv import load_dotenv
+except ImportError:
+    def load_dotenv() -> None:  # type: ignore[no-redef]
+        return None
+
 from utils.constants import LAT, LON
 
 load_dotenv()
